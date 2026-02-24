@@ -3,7 +3,7 @@
 ## What This Project Is
 A Premier League analytics web app built on **Expected Results (xR)** — rolling form, matchup-aware xG modelling, and Poisson scoreline probabilities for the 2025-26 EPL season.
 
-**Live URL:** https://xr-football.vercel.app (rename project in Vercel settings to get xrphilosophy.vercel.app)
+**Live URL:** https://xrphilosophy.vercel.app (also works: xr-football.vercel.app)
 
 ## Tech Stack
 - **Frontend:** Next.js 15+ App Router, TypeScript, inline styles (no Tailwind in page logic)

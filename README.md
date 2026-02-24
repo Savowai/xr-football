@@ -2,7 +2,7 @@
 
 **Premier League analytics built on Expected Results — not the scoreline.**
 
-Season: 2025-26 · Data via ESPN API · **Live at [xr-football.vercel.app](https://xr-football.vercel.app)**
+Season: 2025-26 · Data via ESPN API · **Live at [xrphilosophy.vercel.app](https://xrphilosophy.vercel.app)**
 
 ---
 
