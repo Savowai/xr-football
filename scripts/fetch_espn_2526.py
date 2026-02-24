@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Fetch real 2025-26 EPL data from ESPN API and build processed JSON files.
+Fetch real 2025-26 EPL data from ESPN API + Understat, build processed JSON files.
 
 Usage:
   python3 scripts/fetch_espn_2526.py
@@ -9,6 +9,7 @@ Output:
   data/processed/epl_matches.json
   data/processed/epl_predictions.json
   data/processed/season_metadata.json
+  data/processed/understat_table.json
 """
 
 import json
@@ -20,6 +21,14 @@ import requests
 
 sys.path.insert(0, os.path.dirname(__file__))
 from xr_model import compute_rolling_form, compute_matchup_xg, compute_match_probabilities
+
+# Graceful degradation: Understat is optional
+try:
+    from fetch_understat_2526 import fetch_all_understat
+    _UNDERSTAT_AVAILABLE = True
+except ImportError:
+    _UNDERSTAT_AVAILABLE = False
+    print("  Warning: fetch_understat_2526 not importable — running ESPN-only")
 
 OUTPUT_DIR = "data/processed"
 SEASON = "2025-26"
@@ -182,6 +191,76 @@ def parse_events(events: list) -> list:
     return matches
 
 
+def merge_understat_into_matches(
+    espn_matches: list,
+    understat_matches: list,
+    ppda_lookup: dict,
+) -> list:
+    """
+    Left-join Understat xG + PPDA into ESPN fixture records.
+    Key: (home_canonical, away_canonical, date_str).
+    All ESPN fixtures survive; xG fields are populated where a match is found.
+    """
+    # Build lookup keyed by (home, away, date)
+    us_index: dict = {}
+    for m in understat_matches:
+        key = (m["home"], m["away"], m["date"])
+        us_index[key] = m
+
+    merged = 0
+    for m in espn_matches:
+        key = (m["home"], m["away"], m["date"])
+        us = us_index.get(key)
+        if us:
+            m["home_xg"] = us.get("home_xg")
+            m["away_xg"] = us.get("away_xg")
+            if us.get("home_shots") is not None:
+                m["home_shots"] = us["home_shots"]
+            if us.get("away_shots") is not None:
+                m["away_shots"] = us["away_shots"]
+            # Attach per-match PPDA (used by rolling form model)
+            m["home_ppda"] = ppda_lookup.get((m["home"], m["date"]))
+            m["away_ppda"] = ppda_lookup.get((m["away"], m["date"]))
+            merged += 1
+
+    print(f"  Merged Understat xG into {merged}/{len(espn_matches)} matches")
+    return espn_matches
+
+
+def _compute_verdict(
+    home_goals: int | None,
+    away_goals: int | None,
+    xg_h: float,
+    xg_a: float,
+) -> str | None:
+    """
+    Compute post-match xResult verdict.
+    Returns 'justified' | 'lucky_home' | 'lucky_away' | None.
+    """
+    if home_goals is None or away_goals is None:
+        return None
+    xg_margin = xg_h - xg_a
+    if home_goals > away_goals:
+        actual_winner = "home"
+    elif away_goals > home_goals:
+        actual_winner = "away"
+    else:
+        actual_winner = "draw"
+
+    if abs(xg_margin) < 0.4:
+        return "justified"  # too close to call — result within noise
+
+    xg_winner = "home" if xg_margin > 0 else "away"
+
+    if actual_winner == "draw":
+        return "justified"  # draws are never "lucky" in this model
+    if actual_winner == xg_winner:
+        return "justified"
+    if actual_winner == "home":
+        return "lucky_home"
+    return "lucky_away"
+
+
 def assign_rounds(matches: list) -> list:
     """
     Assign matchweek numbers by sorting all matches chronologically and
@@ -224,7 +303,7 @@ def build_predictions(matches: list) -> list:
         probs = compute_match_probabilities(pred_xg_home, pred_xg_away)
         hours_until = (kickoff - now).total_seconds() / 3600
 
-        predictions.append({
+        pred_record = {
             "date": match["date"],
             "kickoff_datetime": kickoff.isoformat(),
             "home": match["home"],
@@ -237,6 +316,7 @@ def build_predictions(matches: list) -> list:
                 "goals": round(home_form.goals, 1),
                 "possession_pct": round(home_form.possession_pct, 1),
                 "pass_completion_pct": round(home_form.pass_completion_pct, 1),
+                "ppda": round(home_form.ppda, 1),
             },
             "away_form": {
                 "matches": away_form.matches_count,
@@ -245,6 +325,7 @@ def build_predictions(matches: list) -> list:
                 "goals": round(away_form.goals, 1),
                 "possession_pct": round(away_form.possession_pct, 1),
                 "pass_completion_pct": round(away_form.pass_completion_pct, 1),
+                "ppda": round(away_form.ppda, 1),
             },
             "pred_xg_home": round(pred_xg_home, 2),
             "pred_xg_away": round(pred_xg_away, 2),
@@ -261,7 +342,35 @@ def build_predictions(matches: list) -> list:
             "home_goals": match.get("home_goals"),
             "away_goals": match.get("away_goals"),
             "season": SEASON,
-        })
+        }
+
+        # Post-match xResult: use real Understat xG to compute what should have happened
+        actual_xg_home = match.get("home_xg")
+        actual_xg_away = match.get("away_xg")
+        if (
+            match.get("home_goals") is not None
+            and actual_xg_home is not None
+            and actual_xg_away is not None
+            and actual_xg_home > 0
+        ):
+            xresult_probs = compute_match_probabilities(actual_xg_home, actual_xg_away)
+            pred_record.update({
+                "actual_xg_home": actual_xg_home,
+                "actual_xg_away": actual_xg_away,
+                "xresult_win_home_pct": xresult_probs["win_home_pct"],
+                "xresult_draw_pct": xresult_probs["draw_pct"],
+                "xresult_win_away_pct": xresult_probs["win_away_pct"],
+                "xresult_xpts_home": xresult_probs["xpts_home"],
+                "xresult_xpts_away": xresult_probs["xpts_away"],
+                "xresult_most_likely_scoreline": xresult_probs["most_likely_scoreline"],
+                "xresult_top_5_scorelines": xresult_probs["top_5_scorelines"],
+                "xresult_verdict": _compute_verdict(
+                    match.get("home_goals"), match.get("away_goals"),
+                    actual_xg_home, actual_xg_away,
+                ),
+            })
+
+        predictions.append(pred_record)
 
     print(f"  Done. {len(predictions)} predictions built.")
     return predictions
@@ -272,6 +381,16 @@ def main():
 
     events = fetch_espn()
     matches = parse_events(events)
+
+    # Fetch Understat xG + PPDA and merge into ESPN fixtures
+    understat_table = []
+    if _UNDERSTAT_AVAILABLE:
+        try:
+            us_matches, understat_table, ppda_lookup = fetch_all_understat(2025)
+            matches = merge_understat_into_matches(matches, us_matches, ppda_lookup)
+        except Exception as e:
+            print(f"  Warning: Understat fetch failed ({e}) — continuing ESPN-only")
+
     matches = assign_rounds(matches)
 
     completed = sum(1 for m in matches if m["home_goals"] is not None)
@@ -291,6 +410,10 @@ def main():
         json.dump(predictions, f, indent=2)
     print(f"  Saved → {OUTPUT_DIR}/epl_predictions.json")
 
+    with open(f"{OUTPUT_DIR}/understat_table.json", "w") as f:
+        json.dump(understat_table, f, indent=2)
+    print(f"  Saved → {OUTPUT_DIR}/understat_table.json ({len(understat_table)} teams)")
+
     meta = {
         "season": SEASON,
         "league": LEAGUE,
@@ -299,7 +422,7 @@ def main():
         "prediction_count": len(predictions),
         "teams": teams,
         "team_count": len(teams),
-        "source": "ESPN API",
+        "source": "ESPN API + Understat",
     }
     with open(f"{OUTPUT_DIR}/season_metadata.json", "w") as f:
         json.dump(meta, f, indent=2)

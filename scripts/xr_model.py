@@ -47,7 +47,15 @@ class TeamFormStats:
     # Set pieces / Crossing
     crosses: float
     corners: float
-    
+
+    # Pressing intensity (from Understat teamsData PPDA)
+    # PPDA = passes_allowed / defensive_actions. Lower = more aggressive press.
+    # Default 10.0 = league average. Range: ~5 (intense) to 15+ (passive/low block).
+    ppda: float = 10.0
+
+    # Set piece reliance: fraction of xG from set pieces (reserved for future data)
+    set_piece_reliance: float = 0.0
+
     @property
     def xg_per_shot(self) -> float:
         """xG efficiency."""
@@ -150,6 +158,7 @@ def compute_rolling_form(
             progressive_passes=0, progressive_carries=0,
             pressures=0, tackles_final_third=0, interceptions=0,
             crosses=0, corners=0,
+            ppda=10.0, set_piece_reliance=0.0,
         ), []
     
     # Compute weights
@@ -174,7 +183,8 @@ def compute_rolling_form(
     interceptions = 0.0
     crosses = 0.0
     corners = 0.0
-    
+    ppda = 0.0
+
     for w, (match, is_home) in zip(weights, recent_matches):
         if is_home:
             xg_for += w * (match.get("home_xg") or 0)
@@ -195,6 +205,7 @@ def compute_rolling_form(
             interceptions += w * (match.get("home_interceptions") or 0)
             crosses += w * (match.get("home_crosses") or 0)
             corners += w * (match.get("home_corners") or 0)
+            ppda += w * (match.get("home_ppda") or 10.0)
         else:
             xg_for += w * (match.get("away_xg") or 0)
             shots += w * (match.get("away_shots") or 0)
@@ -214,6 +225,7 @@ def compute_rolling_form(
             interceptions += w * (match.get("away_interceptions") or 0)
             crosses += w * (match.get("away_crosses") or 0)
             corners += w * (match.get("away_corners") or 0)
+            ppda += w * (match.get("away_ppda") or 10.0)
     
     form = TeamFormStats(
         matches_count=len(recent_matches),
@@ -235,6 +247,8 @@ def compute_rolling_form(
         interceptions=interceptions,
         crosses=crosses,
         corners=corners,
+        ppda=ppda,
+        set_piece_reliance=0.0,
     )
     
     return form, [m for m, _ in recent_matches]
@@ -273,34 +287,35 @@ def compute_matchup_xg(
     home_xg = base_home_xg
     away_xg = base_away_xg
     
-    # Matchup adjustment 1: Pressing intensity vs pass completion
-    # High pressing team vs low pass completion opponent = higher xG
-    home_pressing_intensity = home_form.pressures + home_form.tackles_final_third
-    away_press_intensity = away_form.pressures + away_form.tackles_final_third
-    
-    away_pass_comp_pct = away_form.pass_completion_pct
-    home_pass_comp_pct = home_form.pass_completion_pct
-    
-    if home_pressing_intensity > 20 and away_pass_comp_pct < 75:
-        # Home team presses hard, away team struggles to keep ball
-        adjustment = min(0.3, (80 - away_pass_comp_pct) * 0.02)
-        home_xg += adjustment
-        adjustments.append({
-            "name": "Home pressing vs Away pass completion",
-            "magnitude": adjustment,
-            "home_pressure": home_pressing_intensity,
-            "away_pass_pct": away_pass_comp_pct,
-        })
-    
-    if away_press_intensity > 20 and home_pass_comp_pct < 75:
-        adjustment = min(0.3, (80 - home_pass_comp_pct) * 0.02)
-        away_xg += adjustment
-        adjustments.append({
-            "name": "Away pressing vs Home pass completion",
-            "magnitude": adjustment,
-            "away_pressure": away_press_intensity,
-            "home_pass_pct": home_pass_comp_pct,
-        })
+    # Matchup adjustment 1: PPDA-based pressing intensity
+    # Real PPDA from Understat teamsData. Lower PPDA = more aggressive press.
+    # A pressing team vs a possession-dominant team = more turnovers = more xG.
+    # League average PPDA ≈ 10. Elite press: <8. Passive/low-block: >12.
+    PPDA_LEAGUE_AVG = 10.0
+
+    if home_form.ppda < PPDA_LEAGUE_AVG:
+        press_strength = (PPDA_LEAGUE_AVG - home_form.ppda) / PPDA_LEAGUE_AVG
+        possession_exposure = max(0.0, away_form.possession_pct - 45.0) / 55.0
+        adjustment = round(min(0.2, press_strength * possession_exposure * 0.35), 3)
+        if adjustment > 0.01:
+            home_xg += adjustment
+            adjustments.append({
+                "name": "Pressing advantage (home)",
+                "magnitude": adjustment,
+                "home_ppda": home_form.ppda,
+            })
+
+    if away_form.ppda < PPDA_LEAGUE_AVG:
+        press_strength = (PPDA_LEAGUE_AVG - away_form.ppda) / PPDA_LEAGUE_AVG
+        possession_exposure = max(0.0, home_form.possession_pct - 45.0) / 55.0
+        adjustment = round(min(0.2, press_strength * possession_exposure * 0.35), 3)
+        if adjustment > 0.01:
+            away_xg += adjustment
+            adjustments.append({
+                "name": "Pressing advantage (away)",
+                "magnitude": adjustment,
+                "away_ppda": away_form.ppda,
+            })
     
     # Matchup adjustment 2: Crossing threat vs aerial/box defense
     # High crosses + progressive passes vs low defensive presence = higher xG

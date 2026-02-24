@@ -103,7 +103,7 @@ export default function AboutPage() {
             `This model is a starting point, not an oracle. There are real limits to what it can capture:`,
           ]}
           bullets={[
-            "xG data is not provided by ESPN, so our xG model is approximated from form-based rolling stats rather than actual shot-by-shot data",
+            "xG data is sourced from Understat's shot-level model — more accurate than goal-based approximations, but still subject to modelling assumptions",
             "Poisson assumes independence between goals — in reality, teams change tactics after going ahead or behind",
             "Squad depth, injuries, and rotation are not explicitly modelled",
             "Home advantage is partially captured through form data but not explicitly weighted",
@@ -114,11 +114,54 @@ export default function AboutPage() {
 
         <Section
           number="06"
-          title="Data Source"
+          title="Set Pieces: The xR Breakers"
           body={[
-            `All match data is sourced from the ESPN API, which provides real-time fixture results,
-             scores, and basic match statistics for the 2025-26 Premier League season. The pipeline
-             runs Python scripts to fetch, process, and generate predictions for all 380 fixtures.`,
+            `Set piece specialists — Brentford under Thomas Frank, Dyche-era teams, Sheffield United under Wilder
+             — routinely generate 30–40% of their xG from dead balls, compared to the league average of around
+             20%. Standard xG assigns modest values to individual deliveries (~0.05–0.12 per chance), reflecting
+             the average conversion rate across all teams. But elite aerial duellers and precision routines
+             convert consistently above this baseline.`,
+            `xR tracks set_piece_reliance per team and adjusts pre-match xG predictions accordingly. However,
+             systematic over-conversion of set piece xG appears in the post-match xResult as a "justified"
+             verdict even when the team outperformed their shot quality — because the real conversion rate
+             for that team isn't random variation, it's a regime effect. The verdict badges are a starting
+             point, not the final word: context matters.`,
+          ]}
+        />
+
+        <Section
+          number="07"
+          title="Post-Match xResult"
+          body={[
+            `The xR model operates in two modes. Before a match, it uses each team's rolling form xG
+             (last 10 games, exponentially weighted) fed through a matchup adjustment and Poisson
+             distribution to produce pre-match win/draw/loss probabilities and predicted scorelines.`,
+            `After a match, xR switches to post-match mode: the same Poisson model runs again, but
+             this time fed with the actual Understat xG from that specific game — the shot-by-shot
+             expected goals accumulated over 90 minutes. This tells you what should have happened
+             given the chances that were actually created.`,
+            `The verdict badge summarises the gap between actual outcome and xResult:`,
+          ]}
+          bullets={[
+            "JUSTIFIED — result consistent with xG (margin < 0.4, or xG winner = actual winner)",
+            "LUCKY H — home team won despite xG favouring the away side",
+            "LUCKY A — away team won despite xG favouring the home side",
+          ]}
+          footer={`Example: Arsenal lose 0-1 to a team with 0.3 xG while Arsenal created 2.4 xG.
+                   The xResult gives Arsenal a ~72% win probability based on their chances. The badge
+                   reads "lucky A" — not because the away team cheated, but because they likely won't
+                   repeat that over 38 games.`}
+        />
+
+        <Section
+          number="08"
+          title="Data Sources"
+          body={[
+            `Match fixtures, scores, and basic statistics are sourced from the ESPN API for the
+             2025-26 Premier League season. Shot-level xG data and per-team PPDA (Passes per
+             Defensive Action) are scraped from Understat, which maintains shot coordinates and
+             xG values for every Premier League match. The pipeline runs daily via GitHub Actions
+             and automatically generates all 380 fixture predictions.`,
           ]}
         />
 

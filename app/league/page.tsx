@@ -1,10 +1,11 @@
-import { loadMatches, loadPredictions, loadSeasonMetadata } from "../lib/xr_data";
+import { loadMatches, loadPredictions, loadSeasonMetadata, loadUnderstatTable } from "../lib/xr_data";
 import StandingsTable from "./components/StandingsTable";
 
 export default async function LeaguePage() {
   const matches = loadMatches();
   const predictions = loadPredictions();
   const metadata = loadSeasonMetadata();
+  const understatTable = loadUnderstatTable();
 
   if (!matches || matches.length === 0) {
     return (
@@ -23,7 +24,24 @@ export default async function LeaguePage() {
   }
 
   const actualTable = computeTable(matches, "actual");
-  const expectedTable = computeTable(predictions, "expected");
+
+  // Use Understat shot-level xPts when available; fall back to Poisson-computed xPts
+  const useUnderstat = understatTable.length > 0;
+  const expectedTable = useUnderstat
+    ? understatTable.map(row => ({
+        team: row.team,
+        played: row.played,
+        points: row.xpts,
+        gf: row.xg_for,
+        ga: row.xg_against,
+        gd: Math.round((row.xg_for - row.xg_against) * 10) / 10,
+      })).sort((a, b) => b.points - a.points || b.gd - a.gd)
+    : computeTable(predictions, "expected");
+
+  const xptsLabel = useUnderstat ? "Expected Table (xPts*)" : "Expected Table (xPts)";
+  const xptsDesc = useUnderstat
+    ? "Shot-level xPts from Understat. Computed from every shot's probability of scoring — not just goals. (* Understat model)"
+    : "Projected table using xPoints: 3×P(Win) + 1×P(Draw) per match. Tells you if a team is getting lucky.";
 
   return (
     <div style={{ maxWidth: 1280, margin: "0 auto", padding: "32px 24px" }}>
@@ -34,6 +52,11 @@ export default async function LeaguePage() {
         </h1>
         <p style={{ margin: 0, color: "var(--muted)", fontSize: 13 }}>
           {metadata.season} · Actual vs Expected Points
+          {useUnderstat && (
+            <span style={{ marginLeft: 8, color: "var(--accent)", fontSize: 11, fontWeight: 600 }}>
+              · xPts via Understat
+            </span>
+          )}
         </p>
       </div>
 
@@ -47,7 +70,7 @@ export default async function LeaguePage() {
         </div>
         <div>
           <div style={{ fontSize: 13, fontWeight: 700, color: "var(--muted)", marginBottom: 10 }}>
-            Expected Table (xPts)
+            {xptsLabel}
           </div>
           <StandingsTable teams={expectedTable} type="expected" />
         </div>
@@ -65,8 +88,8 @@ export default async function LeaguePage() {
             desc: "Current PL standings based on match results. 3 pts for a win, 1 for a draw.",
           },
           {
-            title: "Expected Table (xPts)",
-            desc: "Projected table using xPoints: 3×P(Win) + 1×P(Draw) per match. Tells you if a team is getting lucky.",
+            title: xptsLabel,
+            desc: xptsDesc,
           },
           {
             title: "Divergence",

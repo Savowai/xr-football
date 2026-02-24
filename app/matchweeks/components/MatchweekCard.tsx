@@ -65,6 +65,26 @@ export default function MatchweekCard({ match, prediction }: Props) {
             }}>
               {isPlayed ? "FT" : "Upcoming"}
             </span>
+            {isPlayed && prediction?.xresult_verdict && (
+              <span style={{
+                fontSize: 10, fontWeight: 700, padding: "2px 8px", borderRadius: 20,
+                background: prediction.xresult_verdict === "justified"
+                  ? "rgba(255,255,255,0.04)"
+                  : "rgba(255,149,0,0.12)",
+                color: prediction.xresult_verdict === "justified"
+                  ? "var(--dim)"
+                  : "#ff9500",
+                border: `1px solid ${prediction.xresult_verdict === "justified"
+                  ? "var(--border)"
+                  : "rgba(255,149,0,0.3)"}`,
+              }}>
+                {prediction.xresult_verdict === "justified"
+                  ? "justified"
+                  : prediction.xresult_verdict === "lucky_home"
+                  ? "lucky H"
+                  : "lucky A"}
+              </span>
+            )}
             {hasDetails && (
               <span style={{
                 fontSize: 14, color: "var(--dim)", lineHeight: 1,
@@ -199,32 +219,90 @@ export default function MatchweekCard({ match, prediction }: Props) {
           padding: "14px 16px",
           background: "var(--surface-2)",
         }}>
-          {/* Top scorelines */}
-          {prediction.top_5_scorelines && prediction.top_5_scorelines.length > 0 && (
+          {/* Post-match xResult panel (played + real Understat xG) */}
+          {isPlayed && prediction.actual_xg_home != null ? (
             <div style={{ marginBottom: 14 }}>
               <div style={{
                 fontSize: 10, fontWeight: 700, color: "var(--dim)",
-                textTransform: "uppercase", letterSpacing: 1, marginBottom: 8,
+                textTransform: "uppercase", letterSpacing: 1, marginBottom: 4,
               }}>
-                Most Likely Scorelines
+                xResult — What Should Have Happened
               </div>
-              <div style={{ display: "flex", gap: 6, flexWrap: "wrap" }}>
-                {prediction.top_5_scorelines.slice(0, 5).map((sl, i) => (
-                  <span key={i} style={{
-                    fontSize: 12, fontWeight: 700,
-                    padding: "4px 10px", borderRadius: 6,
-                    background: i === 0 ? "var(--red-dim)" : "var(--surface)",
-                    color: i === 0 ? "var(--red)" : "var(--muted)",
-                    border: `1px solid ${i === 0 ? "var(--red-border)" : "var(--border)"}`,
-                  }}>
-                    {sl[0]}-{sl[1]}
-                    <span style={{ opacity: 0.6, fontWeight: 500, marginLeft: 4, fontSize: 10 }}>
-                      {sl[2].toFixed(1)}%
+              <div style={{ fontSize: 11, color: "var(--dim)", marginBottom: 8 }}>
+                xG: {prediction.actual_xg_home?.toFixed(1)} – {prediction.actual_xg_away?.toFixed(1)}
+              </div>
+              {/* xResult probability bar */}
+              <div style={{ display: "flex", height: 5, borderRadius: 3, overflow: "hidden", gap: 1, marginBottom: 4 }}>
+                <div style={{
+                  flex: prediction.xresult_win_home_pct ?? 33,
+                  background: "var(--red)", opacity: 0.85,
+                  minWidth: 4, borderRadius: "3px 0 0 3px",
+                }} />
+                <div style={{ flex: prediction.xresult_draw_pct ?? 33, background: "var(--surface-3)", minWidth: 4 }} />
+                <div style={{
+                  flex: prediction.xresult_win_away_pct ?? 33,
+                  background: "var(--border-2)", minWidth: 4, borderRadius: "0 3px 3px 0",
+                }} />
+              </div>
+              <div style={{ display: "flex", justifyContent: "space-between", fontSize: 10, marginBottom: 8 }}>
+                <span style={{ color: "var(--red)", fontWeight: 700 }}>
+                  {(prediction.xresult_win_home_pct ?? 0).toFixed(0)}% H
+                </span>
+                <span style={{ color: "var(--muted)" }}>
+                  {(prediction.xresult_draw_pct ?? 0).toFixed(0)}% D
+                </span>
+                <span style={{ color: "var(--muted)" }}>
+                  {(prediction.xresult_win_away_pct ?? 0).toFixed(0)}% A
+                </span>
+              </div>
+              {/* Top 3 xResult scorelines */}
+              {prediction.xresult_top_5_scorelines && (
+                <div style={{ display: "flex", gap: 6, flexWrap: "wrap" }}>
+                  {prediction.xresult_top_5_scorelines.slice(0, 3).map((sl, i) => (
+                    <span key={i} style={{
+                      fontSize: 12, fontWeight: 700,
+                      padding: "4px 10px", borderRadius: 6,
+                      background: i === 0 ? "var(--red-dim)" : "var(--surface)",
+                      color: i === 0 ? "var(--red)" : "var(--muted)",
+                      border: `1px solid ${i === 0 ? "var(--red-border)" : "var(--border)"}`,
+                    }}>
+                      {sl[0]}-{sl[1]}
+                      <span style={{ opacity: 0.6, fontWeight: 500, marginLeft: 4, fontSize: 10 }}>
+                        {sl[2].toFixed(1)}%
+                      </span>
                     </span>
-                  </span>
-                ))}
-              </div>
+                  ))}
+                </div>
+              )}
             </div>
+          ) : (
+            /* Pre-match scorelines */
+            prediction.top_5_scorelines && prediction.top_5_scorelines.length > 0 && (
+              <div style={{ marginBottom: 14 }}>
+                <div style={{
+                  fontSize: 10, fontWeight: 700, color: "var(--dim)",
+                  textTransform: "uppercase", letterSpacing: 1, marginBottom: 8,
+                }}>
+                  Most Likely Scorelines
+                </div>
+                <div style={{ display: "flex", gap: 6, flexWrap: "wrap" }}>
+                  {prediction.top_5_scorelines.slice(0, 5).map((sl, i) => (
+                    <span key={i} style={{
+                      fontSize: 12, fontWeight: 700,
+                      padding: "4px 10px", borderRadius: 6,
+                      background: i === 0 ? "var(--red-dim)" : "var(--surface)",
+                      color: i === 0 ? "var(--red)" : "var(--muted)",
+                      border: `1px solid ${i === 0 ? "var(--red-border)" : "var(--border)"}`,
+                    }}>
+                      {sl[0]}-{sl[1]}
+                      <span style={{ opacity: 0.6, fontWeight: 500, marginLeft: 4, fontSize: 10 }}>
+                        {sl[2].toFixed(1)}%
+                      </span>
+                    </span>
+                  ))}
+                </div>
+              </div>
+            )
           )}
 
           {/* Form context */}

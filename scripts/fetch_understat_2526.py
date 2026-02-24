@@ -3,9 +3,10 @@
 Fetch real 2025-26 EPL data from understat.com and build processed JSON files.
 
 Usage:
-  python3 scripts/fetch_understat_2526.py
+  python3 scripts/fetch_understat_2526.py          # standalone
+  from fetch_understat_2526 import fetch_all_understat  # imported by fetch_espn_2526.py
 
-Output:
+Output (standalone):
   data/processed/epl_matches.json
   data/processed/epl_predictions.json
   data/processed/season_metadata.json
@@ -13,12 +14,10 @@ Output:
 
 import json
 import os
-import re
 import sys
 from datetime import datetime, timezone
 
 import requests
-from bs4 import BeautifulSoup
 
 sys.path.insert(0, os.path.dirname(__file__))
 from xr_model import compute_rolling_form, compute_matchup_xg, compute_match_probabilities
@@ -49,32 +48,134 @@ TEAM_NAME_MAP = {
     "Southampton":             "Southampton",
     "Nottingham Forest":       "Nottingham Forest",
     "Sunderland":              "Sunderland",
+    "Leeds":                   "Leeds United",
 }
 
 
-def fetch_understat(season_year: int = 2025) -> list:
-    url = f"https://understat.com/league/EPL/{season_year}"
-    print(f"Fetching {url} ...")
-    resp = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=30)
+# ---------------------------------------------------------------------------
+# Internal helpers
+# ---------------------------------------------------------------------------
+
+def _fetch_api_data(season_year: int) -> dict:
+    """
+    Fetch league data from the Understat JSON API.
+    Returns dict with keys: 'dates', 'teams', 'players'.
+    Understat now loads data via AJAX from /main/getLeagueData/{league}/{season}.
+    """
+    url = f"https://understat.com/main/getLeagueData/EPL/{season_year}"
+    print(f"  Fetching Understat API EPL/{season_year} ...")
+    session = requests.Session()
+    session.headers.update({
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36",
+        "Accept": "application/json, text/javascript, */*; q=0.01",
+        "X-Requested-With": "XMLHttpRequest",
+        "Referer": f"https://understat.com/league/EPL/{season_year}",
+    })
+    # Hit the page first to set cookies, then call API
+    session.get(f"https://understat.com/league/EPL/{season_year}", timeout=20)
+    resp = session.get(url, timeout=30)
     resp.raise_for_status()
+    return resp.json()
 
-    soup = BeautifulSoup(resp.text, "html.parser")
-    scripts = soup.find_all("script")
 
-    for script in scripts:
-        text = script.string or ""
-        if "datesData" in text:
-            # Extract JSON from: var datesData = JSON.parse('...')
-            match = re.search(r"datesData\s*=\s*JSON\.parse\('(.+?)'\)", text, re.DOTALL)
-            if match:
-                raw_json = match.group(1)
-                # Unescape unicode sequences
-                raw_json = raw_json.encode("utf-8").decode("unicode_escape")
-                data = json.loads(raw_json)
-                print(f"  Found {len(data)} fixtures")
-                return data
+def _parse_date(raw: str) -> str:
+    """Parse Understat date strings to YYYY-MM-DD. Handles multiple formats."""
+    raw = (raw or "").strip()
+    for fmt in ("%Y-%m-%d %H:%M:%S", "%Y-%m-%d", "%b %d %Y", "%B %d %Y", "%m/%d/%Y"):
+        try:
+            return datetime.strptime(raw, fmt).strftime("%Y-%m-%d")
+        except Exception:
+            continue
+    return ""
 
-    raise RuntimeError("Could not find datesData in understat page")
+
+# ---------------------------------------------------------------------------
+# Public export functions (imported by fetch_espn_2526.py)
+# ---------------------------------------------------------------------------
+
+def fetch_all_understat(season_year: int = 2025) -> tuple:
+    """
+    Fetch from Understat JSON API. Returns:
+      (matches_list, understat_table, ppda_lookup)
+
+    - matches_list: match dicts with real home_xg, away_xg
+    - understat_table: [{team, played, xpts, xg_for, xg_against}, ...] sorted by xpts
+    - ppda_lookup: {(canonical_team, 'YYYY-MM-DD'): ppda_float}
+    """
+    api_data = _fetch_api_data(season_year)
+
+    dates_data = api_data.get("dates", [])
+    # API returns teams keyed by numeric ID; convert to {title: team_info} for compatibility
+    raw_teams = api_data.get("teams", {})
+    teams_data = {v["title"]: v for v in raw_teams.values() if "title" in v}
+
+    print(f"  dates: {len(dates_data)} fixtures | teams: {len(teams_data)} teams")
+
+    matches = normalise_matches(dates_data)
+    table = _build_team_table(teams_data)
+    ppda_lookup = _build_ppda_lookup(teams_data)
+
+    return matches, table, ppda_lookup
+
+
+def _build_team_table(teams_data: dict) -> list:
+    """Build understat_table rows from teamsData history. Sorted by xpts desc."""
+    rows = []
+    for understat_name, team_info in teams_data.items():
+        canonical = TEAM_NAME_MAP.get(understat_name, understat_name)
+        history = team_info.get("history", [])
+        if not history:
+            continue
+
+        played = len(history)
+        total_xpts = sum(float(e.get("xpts") or 0) for e in history)
+        total_xg_for = sum(float(e.get("xG") or 0) for e in history)
+        total_xg_against = sum(float(e.get("xGA") or 0) for e in history)
+
+        rows.append({
+            "team": canonical,
+            "played": played,
+            "xpts": round(total_xpts, 1),
+            "xg_for": round(total_xg_for, 1),
+            "xg_against": round(total_xg_against, 1),
+        })
+
+    rows.sort(key=lambda r: r["xpts"], reverse=True)
+    return rows
+
+
+def _build_ppda_lookup(teams_data: dict) -> dict:
+    """
+    Build {(canonical_team, 'YYYY-MM-DD'): ppda_float} from teamsData history.
+    PPDA = att / def (passes allowed per defensive action).
+    Lower = more aggressive press. Typical range: 5 (intense press) to 15+ (passive).
+    """
+    lookup = {}
+    for understat_name, team_info in teams_data.items():
+        canonical = TEAM_NAME_MAP.get(understat_name, understat_name)
+        for entry in team_info.get("history", []):
+            date_str = _parse_date(entry.get("date", ""))
+            if not date_str:
+                continue
+            ppda_dict = entry.get("ppda") or {}
+            ppda_att = float(ppda_dict.get("att") or 0)
+            ppda_def = float(ppda_dict.get("def") or 0)
+            if ppda_def > 0:
+                lookup[(canonical, date_str)] = round(ppda_att / ppda_def, 2)
+
+    return lookup
+
+
+# ---------------------------------------------------------------------------
+# Match normalisation
+# ---------------------------------------------------------------------------
+
+def fetch_understat(season_year: int = 2025) -> list:
+    """Standalone fetch of dates data only (used by main())."""
+    api_data = _fetch_api_data(season_year)
+    data = api_data.get("dates", [])
+    print(f"  Found {len(data)} fixtures")
+    return data
 
 
 def normalise_matches(raw: list) -> list:
@@ -92,7 +193,6 @@ def normalise_matches(raw: list) -> list:
             date_str = kickoff[:10] if kickoff else ""
             kickoff_iso = kickoff
 
-        # Goals: understat uses "" for unplayed matches
         h_goals = r.get("goals", {}).get("h")
         a_goals = r.get("goals", {}).get("a")
         home_goals = int(h_goals) if h_goals not in (None, "") else None
@@ -101,7 +201,6 @@ def normalise_matches(raw: list) -> list:
         home_xg = float(r.get("xG", {}).get("h") or 0)
         away_xg = float(r.get("xG", {}).get("a") or 0)
 
-        # Only include if both teams resolved
         if not home or not away:
             continue
 
@@ -150,7 +249,6 @@ def build_predictions(matches: list) -> list:
     print(f"Building xR predictions for {len(matches)} matches...")
     predictions = []
     now = datetime.now(timezone.utc)
-
     naive_matches = [{**m, "date": m["date"] + "T12:00:00"} for m in matches]
 
     for match in matches:
@@ -188,6 +286,7 @@ def build_predictions(matches: list) -> list:
                 "goals": round(home_form.goals, 1),
                 "possession_pct": round(home_form.possession_pct, 1),
                 "pass_completion_pct": round(home_form.pass_completion_pct, 1),
+                "ppda": round(home_form.ppda, 1),
             },
             "away_form": {
                 "matches": away_form.matches_count,
@@ -196,6 +295,7 @@ def build_predictions(matches: list) -> list:
                 "goals": round(away_form.goals, 1),
                 "possession_pct": round(away_form.possession_pct, 1),
                 "pass_completion_pct": round(away_form.pass_completion_pct, 1),
+                "ppda": round(away_form.ppda, 1),
             },
             "pred_xg_home": round(pred_xg_home, 2),
             "pred_xg_away": round(pred_xg_away, 2),
@@ -253,8 +353,7 @@ def main():
     print(f"  Saved → {OUTPUT_DIR}/season_metadata.json")
 
     rounds = sorted(set(m["round"] for m in matches), key=lambda x: int(x))
-    print(f"\nSummary:")
-    print(f"  Season: {SEASON}  |  Matchweeks: {len(rounds)}  |  Teams: {len(teams)}")
+    print(f"\nSummary: {SEASON} | Matchweeks: {len(rounds)} | Teams: {len(teams)}")
     print(f"  Teams: {', '.join(teams)}")
 
 

@@ -9,7 +9,7 @@ import path from "path";
 
 export interface XRMatch {
   date: string;
-  round?: string | null;
+  round?: string;
   home: string;
   away: string;
   home_goals?: number | null;
@@ -20,7 +20,6 @@ export interface XRMatch {
   away_shots: number;
   home_sot: number;
   away_sot: number;
-  home_possession?: number | null;
   season: string;
 }
 
@@ -36,7 +35,7 @@ export interface XRPrediction {
   home: string;
   away: string;
   round?: string;
-  
+
   // Form stats
   home_form: {
     matches: number;
@@ -45,6 +44,7 @@ export interface XRPrediction {
     goals: number;
     possession_pct: number;
     pass_completion_pct: number;
+    ppda?: number;
   };
   away_form: {
     matches: number;
@@ -53,17 +53,18 @@ export interface XRPrediction {
     goals: number;
     possession_pct: number;
     pass_completion_pct: number;
+    ppda?: number;
   };
-  
+
   // xG
-  base_xg_home: number;
-  base_xg_away: number;
+  base_xg_home?: number;
+  base_xg_away?: number;
   pred_xg_home: number;
   pred_xg_away: number;
-  
+
   // Matchup adjustments
   matchup_adjustments: MatchupAdjustment[];
-  
+
   // Probabilities
   win_home_pct: number;
   draw_pct: number;
@@ -72,16 +73,36 @@ export interface XRPrediction {
   xpts_away: number;
   most_likely_scoreline: [number, number];
   top_5_scorelines: Array<[number, number, number]>;
-  
+
   // 72-hour unlock
   hours_until_kickoff: number;
   show_prediction: boolean;
-  
+
   // Result
   home_goals?: number | null;
   away_goals?: number | null;
-  
+
+  // Post-match xResult (real Understat xG → Poisson)
+  actual_xg_home?: number | null;
+  actual_xg_away?: number | null;
+  xresult_win_home_pct?: number;
+  xresult_draw_pct?: number;
+  xresult_win_away_pct?: number;
+  xresult_xpts_home?: number;
+  xresult_xpts_away?: number;
+  xresult_most_likely_scoreline?: [number, number];
+  xresult_top_5_scorelines?: Array<[number, number, number]>;
+  xresult_verdict?: "justified" | "lucky_home" | "lucky_away";
+
   season: string;
+}
+
+export interface UnderstatTableEntry {
+  team: string;
+  played: number;
+  xpts: number;
+  xg_for: number;
+  xg_against: number;
 }
 
 export interface SeasonMetadata {
@@ -178,6 +199,22 @@ export function loadSeasonMetadata(): SeasonMetadata {
       teams: [],
       team_count: 0,
     };
+  }
+}
+
+/**
+ * Load Understat xPts table.
+ * Returns empty array if file not found (graceful degradation).
+ */
+export function loadUnderstatTable(): UnderstatTableEntry[] {
+  try {
+    const dataDir = getDataDir();
+    const tablePath = path.join(dataDir, "understat_table.json");
+    if (!fs.existsSync(tablePath)) return [];
+    const data = fs.readFileSync(tablePath, "utf-8");
+    return JSON.parse(data);
+  } catch {
+    return [];
   }
 }
 
