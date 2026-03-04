@@ -14,18 +14,18 @@
     "xg_against": 33.3
   },
   {
+    "team": "Liverpool",
+    "played": 29,
+    "xpts": 51.2,
+    "xg_for": 54.0,
+    "xg_against": 37.0
+  },
+  {
     "team": "Manchester United",
     "played": 28,
     "xpts": 48.9,
     "xg_for": 53.6,
     "xg_against": 35.0
-  },
-  {
-    "team": "Liverpool",
-    "played": 28,
-    "xpts": 48.7,
-    "xg_for": 51.8,
-    "xg_against": 36.4
   },
   {
     "team": "Chelsea",
@@ -35,18 +35,18 @@
     "xg_against": 41.8
   },
   {
-    "team": "Brentford",
-    "played": 28,
-    "xpts": 44.4,
-    "xg_for": 50.6,
-    "xg_against": 40.4
+    "team": "Bournemouth",
+    "played": 29,
+    "xpts": 46.1,
+    "xg_for": 49.7,
+    "xg_against": 42.1
   },
   {
-    "team": "Bournemouth",
-    "played": 28,
-    "xpts": 43.6,
-    "xg_for": 47.4,
-    "xg_against": 41.4
+    "team": "Brentford",
+    "played": 29,
+    "xpts": 44.7,
+    "xg_for": 51.3,
+    "xg_against": 42.7
   },
   {
     "team": "Newcastle United",
@@ -56,18 +56,18 @@
     "xg_against": 37.9
   },
   {
+    "team": "Leeds United",
+    "played": 29,
+    "xpts": 41.3,
+    "xg_for": 43.8,
+    "xg_against": 44.8
+  },
+  {
     "team": "Crystal Palace",
     "played": 28,
     "xpts": 41.0,
     "xg_for": 46.7,
     "xg_against": 42.5
-  },
-  {
-    "team": "Leeds United",
-    "played": 28,
-    "xpts": 40.1,
-    "xg_for": 42.9,
-    "xg_against": 43.9
   },
   {
     "team": "Brighton",
@@ -77,18 +77,18 @@
     "xg_against": 42.2
   },
   {
+    "team": "Everton",
+    "played": 29,
+    "xpts": 36.7,
+    "xg_for": 37.7,
+    "xg_against": 43.9
+  },
+  {
     "team": "Aston Villa",
     "played": 28,
     "xpts": 35.3,
     "xg_for": 37.9,
     "xg_against": 41.4
-  },
-  {
-    "team": "Everton",
-    "played": 28,
-    "xpts": 35.1,
-    "xg_for": 36.5,
-    "xg_against": 43.1
   },
   {
     "team": "Tottenham Hotspur",
@@ -112,6 +112,13 @@
     "xg_against": 52.8
   },
   {
+    "team": "Sunderland",
+    "played": 29,
+    "xpts": 29.7,
+    "xg_for": 30.1,
+    "xg_against": 46.7
+  },
+  {
     "team": "Nottingham Forest",
     "played": 28,
     "xpts": 29.3,
@@ -119,24 +126,17 @@
     "xg_against": 47.4
   },
   {
-    "team": "Sunderland",
-    "played": 28,
-    "xpts": 28.3,
-    "xg_for": 29.2,
-    "xg_against": 45.9
-  },
-  {
     "team": "Wolves",
-    "played": 29,
-    "xpts": 26.9,
-    "xg_for": 27.3,
-    "xg_against": 50.3
+    "played": 30,
+    "xpts": 27.2,
+    "xg_for": 27.9,
+    "xg_against": 52.4
   },
   {
     "team": "Burnley",
-    "played": 28,
-    "xpts": 17.4,
-    "xg_for": 26.6,
-    "xg_against": 61.7
+    "played": 29,
+    "xpts": 18.4,
+    "xg_for": 27.3,
+    "xg_against": 62.9
   }
 ]
