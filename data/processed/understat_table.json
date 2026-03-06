@@ -56,18 +56,18 @@
     "xg_against": 42.7
   },
   {
+    "team": "Crystal Palace",
+    "played": 29,
+    "xpts": 42.9,
+    "xg_for": 48.6,
+    "xg_against": 43.8
+  },
+  {
     "team": "Leeds United",
     "played": 29,
     "xpts": 41.3,
     "xg_for": 43.8,
     "xg_against": 44.8
-  },
-  {
-    "team": "Crystal Palace",
-    "played": 28,
-    "xpts": 41.0,
-    "xg_for": 46.7,
-    "xg_against": 42.5
   },
   {
     "team": "Brighton",
@@ -92,10 +92,10 @@
   },
   {
     "team": "Tottenham Hotspur",
-    "played": 28,
-    "xpts": 34.0,
-    "xg_for": 32.9,
-    "xg_against": 43.3
+    "played": 29,
+    "xpts": 34.9,
+    "xg_for": 34.2,
+    "xg_against": 45.2
   },
   {
     "team": "West Ham United",
