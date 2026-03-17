@@ -42,18 +42,18 @@
     "xg_against": 43.8
   },
   {
+    "team": "Brentford",
+    "played": 30,
+    "xpts": 46.8,
+    "xg_for": 54.1,
+    "xg_against": 44.5
+  },
+  {
     "team": "Newcastle United",
     "played": 30,
     "xpts": 45.9,
     "xg_for": 48.4,
     "xg_against": 41.5
-  },
-  {
-    "team": "Brentford",
-    "played": 29,
-    "xpts": 44.7,
-    "xg_for": 51.3,
-    "xg_against": 42.7
   },
   {
     "team": "Crystal Palace",
@@ -127,10 +127,10 @@
   },
   {
     "team": "Wolves",
-    "played": 30,
-    "xpts": 27.2,
-    "xg_for": 27.9,
-    "xg_against": 52.4
+    "played": 31,
+    "xpts": 28.0,
+    "xg_for": 29.7,
+    "xg_against": 55.2
   },
   {
     "team": "Burnley",
