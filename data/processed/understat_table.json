@@ -50,10 +50,10 @@
   },
   {
     "team": "Newcastle United",
-    "played": 30,
-    "xpts": 45.9,
-    "xg_for": 48.4,
-    "xg_against": 41.5
+    "played": 31,
+    "xpts": 46.4,
+    "xg_for": 49.7,
+    "xg_against": 44.1
   },
   {
     "team": "Leeds United",
@@ -77,11 +77,25 @@
     "xg_against": 44.9
   },
   {
+    "team": "Aston Villa",
+    "played": 31,
+    "xpts": 39.1,
+    "xg_for": 42.7,
+    "xg_against": 47.3
+  },
+  {
     "team": "Everton",
     "played": 31,
     "xpts": 39.0,
     "xg_for": 40.3,
     "xg_against": 47.1
+  },
+  {
+    "team": "Tottenham Hotspur",
+    "played": 31,
+    "xpts": 37.5,
+    "xg_for": 37.0,
+    "xg_against": 48.1
   },
   {
     "team": "Fulham",
@@ -91,39 +105,25 @@
     "xg_against": 48.8
   },
   {
-    "team": "Aston Villa",
-    "played": 30,
-    "xpts": 36.5,
-    "xg_for": 40.2,
-    "xg_against": 46.5
-  },
-  {
-    "team": "Tottenham Hotspur",
-    "played": 30,
-    "xpts": 36.1,
-    "xg_for": 35.4,
-    "xg_against": 46.5
-  },
-  {
     "team": "West Ham United",
-    "played": 30,
-    "xpts": 33.3,
-    "xg_for": 38.1,
-    "xg_against": 55.4
-  },
-  {
-    "team": "Nottingham Forest",
-    "played": 30,
-    "xpts": 30.9,
-    "xg_for": 35.9,
-    "xg_against": 51.1
+    "played": 31,
+    "xpts": 33.6,
+    "xg_for": 38.9,
+    "xg_against": 57.9
   },
   {
     "team": "Sunderland",
-    "played": 30,
-    "xpts": 30.6,
-    "xg_for": 30.7,
-    "xg_against": 47.9
+    "played": 31,
+    "xpts": 32.9,
+    "xg_for": 33.4,
+    "xg_against": 49.1
+  },
+  {
+    "team": "Nottingham Forest",
+    "played": 31,
+    "xpts": 32.2,
+    "xg_for": 37.4,
+    "xg_against": 52.7
   },
   {
     "team": "Wolves",
