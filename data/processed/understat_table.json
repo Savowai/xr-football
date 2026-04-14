@@ -21,18 +21,18 @@
     "xg_against": 43.1
   },
   {
+    "team": "Manchester United",
+    "played": 32,
+    "xpts": 53.6,
+    "xg_for": 60.2,
+    "xg_against": 42.9
+  },
+  {
     "team": "Chelsea",
     "played": 32,
     "xpts": 53.2,
     "xg_for": 65.9,
     "xg_against": 47.7
-  },
-  {
-    "team": "Manchester United",
-    "played": 31,
-    "xpts": 53.2,
-    "xg_for": 58.8,
-    "xg_against": 39.9
   },
   {
     "team": "Brentford",
@@ -47,6 +47,13 @@
     "xpts": 49.6,
     "xg_for": 55.2,
     "xg_against": 48.7
+  },
+  {
+    "team": "Leeds United",
+    "played": 32,
+    "xpts": 47.1,
+    "xg_for": 48.3,
+    "xg_against": 47.0
   },
   {
     "team": "Newcastle United",
@@ -68,13 +75,6 @@
     "xpts": 45.6,
     "xg_for": 47.7,
     "xg_against": 45.2
-  },
-  {
-    "team": "Leeds United",
-    "played": 31,
-    "xpts": 44.7,
-    "xg_for": 45.4,
-    "xg_against": 45.6
   },
   {
     "team": "Aston Villa",
