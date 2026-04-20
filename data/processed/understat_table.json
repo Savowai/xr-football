@@ -1,17 +1,24 @@
 [
   {
     "team": "Arsenal",
-    "played": 32,
-    "xpts": 68.2,
-    "xg_for": 63.9,
-    "xg_against": 26.4
+    "played": 33,
+    "xpts": 69.3,
+    "xg_for": 66.2,
+    "xg_against": 29.0
   },
   {
     "team": "Manchester City",
-    "played": 31,
-    "xpts": 61.3,
-    "xg_for": 62.9,
-    "xg_against": 36.3
+    "played": 32,
+    "xpts": 62.9,
+    "xg_for": 65.6,
+    "xg_against": 38.6
+  },
+  {
+    "team": "Liverpool",
+    "played": 33,
+    "xpts": 55.9,
+    "xg_for": 59.6,
+    "xg_against": 44.5
   },
   {
     "team": "Chelsea",
@@ -19,13 +26,6 @@
     "xpts": 55.2,
     "xg_for": 67.1,
     "xg_against": 48.2
-  },
-  {
-    "team": "Liverpool",
-    "played": 32,
-    "xpts": 54.6,
-    "xg_for": 58.2,
-    "xg_against": 43.1
   },
   {
     "team": "Manchester United",
@@ -78,10 +78,17 @@
   },
   {
     "team": "Aston Villa",
-    "played": 32,
-    "xpts": 40.9,
-    "xg_for": 44.1,
-    "xg_against": 48.1
+    "played": 33,
+    "xpts": 43.6,
+    "xg_for": 48.0,
+    "xg_against": 49.7
+  },
+  {
+    "team": "Everton",
+    "played": 33,
+    "xpts": 41.3,
+    "xg_for": 43.4,
+    "xg_against": 50.8
   },
   {
     "team": "Tottenham Hotspur",
@@ -89,13 +96,6 @@
     "xpts": 40.0,
     "xg_for": 39.6,
     "xg_against": 51.0
-  },
-  {
-    "team": "Everton",
-    "played": 32,
-    "xpts": 39.9,
-    "xg_for": 41.9,
-    "xg_against": 49.4
   },
   {
     "team": "Fulham",
@@ -112,17 +112,17 @@
     "xg_against": 58.5
   },
   {
-    "team": "Sunderland",
-    "played": 32,
-    "xpts": 34.9,
-    "xg_for": 35.2,
-    "xg_against": 50.2
+    "team": "Nottingham Forest",
+    "played": 33,
+    "xpts": 35.2,
+    "xg_for": 39.7,
+    "xg_against": 54.7
   },
   {
-    "team": "Nottingham Forest",
-    "played": 32,
-    "xpts": 33.1,
-    "xg_for": 38.3,
+    "team": "Sunderland",
+    "played": 33,
+    "xpts": 35.1,
+    "xg_for": 36.7,
     "xg_against": 54.1
   },
   {
@@ -134,9 +134,9 @@
   },
   {
     "team": "Burnley",
-    "played": 32,
-    "xpts": 21.0,
-    "xg_for": 31.7,
-    "xg_against": 69.8
+    "played": 33,
+    "xpts": 21.7,
+    "xg_for": 32.3,
+    "xg_against": 71.3
   }
 ]
