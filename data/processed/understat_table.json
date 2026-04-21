@@ -56,6 +56,13 @@
     "xg_against": 47.5
   },
   {
+    "team": "Crystal Palace",
+    "played": 32,
+    "xpts": 47.6,
+    "xg_for": 53.0,
+    "xg_against": 46.8
+  },
+  {
     "team": "Newcastle United",
     "played": 33,
     "xpts": 47.0,
@@ -68,13 +75,6 @@
     "xpts": 46.6,
     "xg_for": 48.9,
     "xg_against": 46.7
-  },
-  {
-    "team": "Crystal Palace",
-    "played": 31,
-    "xpts": 46.1,
-    "xg_for": 52.3,
-    "xg_against": 46.2
   },
   {
     "team": "Aston Villa",
@@ -106,10 +106,10 @@
   },
   {
     "team": "West Ham United",
-    "played": 32,
-    "xpts": 36.3,
-    "xg_for": 41.4,
-    "xg_against": 58.5
+    "played": 33,
+    "xpts": 37.4,
+    "xg_for": 42.0,
+    "xg_against": 59.2
   },
   {
     "team": "Nottingham Forest",
