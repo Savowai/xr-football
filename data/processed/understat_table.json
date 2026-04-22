@@ -22,10 +22,10 @@
   },
   {
     "team": "Chelsea",
-    "played": 33,
-    "xpts": 55.2,
-    "xg_for": 67.1,
-    "xg_against": 48.2
+    "played": 34,
+    "xpts": 55.4,
+    "xg_for": 67.4,
+    "xg_against": 50.7
   },
   {
     "team": "Manchester United",
@@ -56,6 +56,13 @@
     "xg_against": 47.5
   },
   {
+    "team": "Brighton",
+    "played": 34,
+    "xpts": 49.4,
+    "xg_for": 51.4,
+    "xg_against": 47.0
+  },
+  {
     "team": "Crystal Palace",
     "played": 32,
     "xpts": 47.6,
@@ -68,13 +75,6 @@
     "xpts": 47.0,
     "xg_for": 52.6,
     "xg_against": 50.7
-  },
-  {
-    "team": "Brighton",
-    "played": 33,
-    "xpts": 46.6,
-    "xg_for": 48.9,
-    "xg_against": 46.7
   },
   {
     "team": "Aston Villa",
