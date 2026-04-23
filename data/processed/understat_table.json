@@ -8,10 +8,10 @@
   },
   {
     "team": "Manchester City",
-    "played": 32,
-    "xpts": 62.9,
-    "xg_for": 65.6,
-    "xg_against": 38.6
+    "played": 33,
+    "xpts": 65.6,
+    "xg_for": 69.0,
+    "xg_against": 39.6
   },
   {
     "team": "Liverpool",
@@ -36,10 +36,10 @@
   },
   {
     "team": "Bournemouth",
-    "played": 33,
-    "xpts": 52.2,
-    "xg_for": 58.6,
-    "xg_against": 50.3
+    "played": 34,
+    "xpts": 54.1,
+    "xg_for": 60.5,
+    "xg_against": 51.5
   },
   {
     "team": "Brentford",
@@ -50,10 +50,10 @@
   },
   {
     "team": "Leeds United",
-    "played": 33,
-    "xpts": 50.1,
-    "xg_for": 51.9,
-    "xg_against": 47.5
+    "played": 34,
+    "xpts": 50.9,
+    "xg_for": 53.1,
+    "xg_against": 49.4
   },
   {
     "team": "Brighton",
@@ -134,9 +134,9 @@
   },
   {
     "team": "Burnley",
-    "played": 33,
-    "xpts": 21.7,
-    "xg_for": 32.3,
-    "xg_against": 71.3
+    "played": 34,
+    "xpts": 21.9,
+    "xg_for": 33.3,
+    "xg_against": 74.7
   }
 ]
