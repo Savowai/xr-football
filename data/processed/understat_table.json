@@ -42,18 +42,18 @@
     "xg_against": 51.5
   },
   {
+    "team": "Leeds United",
+    "played": 35,
+    "xpts": 53.5,
+    "xg_for": 55.2,
+    "xg_against": 49.9
+  },
+  {
     "team": "Brentford",
     "played": 34,
     "xpts": 53.1,
     "xg_for": 60.3,
     "xg_against": 49.2
-  },
-  {
-    "team": "Leeds United",
-    "played": 34,
-    "xpts": 50.9,
-    "xg_for": 53.1,
-    "xg_against": 49.4
   },
   {
     "team": "Crystal Palace",
@@ -134,9 +134,9 @@
   },
   {
     "team": "Burnley",
-    "played": 34,
-    "xpts": 21.9,
-    "xg_for": 33.3,
-    "xg_against": 74.7
+    "played": 35,
+    "xpts": 22.1,
+    "xg_for": 33.7,
+    "xg_against": 76.8
   }
 ]
