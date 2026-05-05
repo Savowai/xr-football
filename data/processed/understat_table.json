@@ -8,10 +8,10 @@
   },
   {
     "team": "Manchester City",
-    "played": 33,
-    "xpts": 65.6,
-    "xg_for": 69.0,
-    "xg_against": 39.6
+    "played": 34,
+    "xpts": 66.7,
+    "xg_for": 70.4,
+    "xg_against": 41.2
   },
   {
     "team": "Manchester United",
@@ -35,18 +35,18 @@
     "xg_against": 52.2
   },
   {
+    "team": "Chelsea",
+    "played": 35,
+    "xpts": 56.6,
+    "xg_for": 69.6,
+    "xg_against": 53.0
+  },
+  {
     "team": "Brentford",
     "played": 35,
     "xpts": 55.6,
     "xg_for": 62.6,
     "xg_against": 49.9
-  },
-  {
-    "team": "Chelsea",
-    "played": 34,
-    "xpts": 55.4,
-    "xg_for": 67.4,
-    "xg_against": 50.7
   },
   {
     "team": "Leeds United",
@@ -84,18 +84,18 @@
     "xg_against": 52.0
   },
   {
+    "team": "Everton",
+    "played": 35,
+    "xpts": 43.7,
+    "xg_for": 46.2,
+    "xg_against": 54.0
+  },
+  {
     "team": "Tottenham Hotspur",
     "played": 35,
     "xpts": 43.5,
     "xg_for": 41.7,
     "xg_against": 52.4
-  },
-  {
-    "team": "Everton",
-    "played": 34,
-    "xpts": 42.1,
-    "xg_for": 44.5,
-    "xg_against": 52.6
   },
   {
     "team": "West Ham United",
@@ -113,10 +113,10 @@
   },
   {
     "team": "Nottingham Forest",
-    "played": 34,
-    "xpts": 37.3,
-    "xg_for": 41.3,
-    "xg_against": 55.3
+    "played": 35,
+    "xpts": 38.8,
+    "xg_for": 43.6,
+    "xg_against": 57.5
   },
   {
     "team": "Sunderland",
