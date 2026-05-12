@@ -50,10 +50,10 @@
   },
   {
     "team": "Leeds United",
-    "played": 35,
-    "xpts": 53.5,
-    "xg_for": 55.2,
-    "xg_against": 49.9
+    "played": 36,
+    "xpts": 55.2,
+    "xg_for": 57.1,
+    "xg_against": 51.4
   },
   {
     "team": "Brighton",
@@ -84,18 +84,18 @@
     "xg_against": 53.8
   },
   {
+    "team": "Tottenham Hotspur",
+    "played": 36,
+    "xpts": 44.6,
+    "xg_for": 43.2,
+    "xg_against": 54.2
+  },
+  {
     "team": "Everton",
     "played": 36,
     "xpts": 44.5,
     "xg_for": 48.3,
     "xg_against": 57.3
-  },
-  {
-    "team": "Tottenham Hotspur",
-    "played": 35,
-    "xpts": 43.5,
-    "xg_for": 41.7,
-    "xg_against": 52.4
   },
   {
     "team": "Fulham",
