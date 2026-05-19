@@ -1,10 +1,10 @@
 [
   {
     "team": "Arsenal",
-    "played": 36,
-    "xpts": 74.7,
-    "xg_for": 72.4,
-    "xg_against": 31.9
+    "played": 37,
+    "xpts": 77.0,
+    "xg_for": 73.6,
+    "xg_against": 32.1
   },
   {
     "team": "Manchester City",
@@ -134,9 +134,9 @@
   },
   {
     "team": "Burnley",
-    "played": 36,
-    "xpts": 23.5,
-    "xg_for": 35.5,
-    "xg_against": 78.5
+    "played": 37,
+    "xpts": 23.9,
+    "xg_for": 35.7,
+    "xg_against": 79.7
   }
 ]
