@@ -1,9 +1,9 @@
 {
   "season": "2025-26",
   "league": "Premier League",
-  "built_at": "2026-08-20T08:20:08.458198",
-  "match_count": 380,
-  "prediction_count": 380,
+  "built_at": "2026-08-21T08:21:50.813288",
+  "match_count": 381,
+  "prediction_count": 381,
   "teams": [
     "Arsenal",
     "Aston Villa",
@@ -12,6 +12,7 @@
     "Brighton",
     "Burnley",
     "Chelsea",
+    "Coventry City",
     "Crystal Palace",
     "Everton",
     "Fulham",
@@ -26,6 +27,6 @@
     "West Ham United",
     "Wolves"
   ],
-  "team_count": 20,
+  "team_count": 21,
   "source": "ESPN API + Understat"
 }

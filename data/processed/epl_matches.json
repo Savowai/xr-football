@@ -7218,5 +7218,22 @@
     "season": "2025-26",
     "home_ppda": 16.47,
     "away_ppda": 5.13
+  },
+  {
+    "date": "2026-08-21",
+    "kickoff_iso": "2026-08-21T19:00Z",
+    "round": "39",
+    "home": "Arsenal",
+    "away": "Coventry City",
+    "home_goals": null,
+    "away_goals": null,
+    "home_xg": null,
+    "away_xg": null,
+    "home_shots": null,
+    "away_shots": null,
+    "home_sot": null,
+    "away_sot": null,
+    "home_possession": null,
+    "season": "2025-26"
   }
 ]
