@@ -1,25 +1,64 @@
 @import "tailwindcss";
 
+/* ---------------------------------------------------------------------------
+   Design tokens
+   ---------------------------------------------------------------------------
+   Light, neutral and dense -- the SofaScore/FotMob register. Two rules keep it
+   from drifting back into generated-looking territory:
+
+   1. Colour carries meaning or it isn't used. Greys do the structural work;
+      the accent marks interaction, and win/draw/loss mark results. A panel is
+      never tinted just to look designed.
+   2. Data is denser than prose. Table rows are 34px, not 56px, because a
+      league table is meant to be scanned as a block, not read line by line.
+--------------------------------------------------------------------------- */
+
 :root {
-  /* Backgrounds */
-  --bg:        #0a0a0a;
-  --surface:   #111111;
-  --surface-2: #191919;
-  --surface-3: #222222;
+  /* Surfaces, lightest to most recessed */
+  --bg:         #ffffff;
+  --bg-subtle:  #f7f8fa;
+  --surface-2:  #f1f3f6;
+  --surface-3:  #e8ebef;
 
-  /* Borders */
-  --border:    #1f1f1f;
-  --border-2:  #2e2e2e;
+  /* Hairlines. --border is the default; --border-2 separates sections. */
+  --border:     #e6e8ec;
+  --border-2:   #d6dae1;
 
-  /* Accent — scarlet red */
-  --red:       #EF4444;
-  --red-dim:   rgba(239,68,68,0.12);
-  --red-border:rgba(239,68,68,0.25);
+  /* Text, by descending emphasis */
+  --text:       #12141a;
+  --text-2:     #5a6272;
+  --text-3:     #8b93a1;
 
-  /* Text */
-  --text:      #ffffff;
-  --muted:     #888888;
-  --dim:       #444444;
+  /* Accent: a deep, unsaturated blue. Interaction and selection only. */
+  --accent:      #1c4ed8;
+  --accent-hover:#1740b0;
+  --accent-soft: #eef2fd;
+  --accent-line: #c6d4f7;
+
+  /* Result semantics */
+  --win:        #16794a;
+  --win-soft:   #e6f4ec;
+  --draw:       #8b93a1;
+  --draw-soft:  #f0f1f4;
+  --loss:       #c02b33;
+  --loss-soft:  #fdecec;
+
+  /* Signed deltas: outperforming vs underperforming expectation. */
+  --pos:        #16794a;
+  --neg:        #c02b33;
+
+  /* Qualification bands in the league table, as left edge markers. */
+  --band-ucl:   #1c4ed8;
+  --band-uel:   #2f9e6e;
+  --band-conf:  #6ea8d8;
+  --band-rel:   #d9534f;
+
+  --radius:     8px;
+  --radius-sm:  6px;
+
+  --shadow-sm:  0 1px 2px rgba(16, 22, 38, 0.04);
+  --shadow:     0 1px 3px rgba(16, 22, 38, 0.06),
+                0 4px 12px rgba(16, 22, 38, 0.04);
 
   --background: var(--bg);
   --foreground: var(--text);
@@ -28,23 +67,401 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-inter);
+  --font-mono: var(--font-jetbrains);
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
-html { scroll-behavior: smooth; }
+
+html {
+  scroll-behavior: smooth;
+  /* Anchored sections shouldn't land under the sticky header. */
+  scroll-padding-top: 72px;
+}
 
 body {
   background: var(--bg);
   color: var(--text);
-  font-family: var(--font-sans), system-ui, sans-serif;
+  font-family: var(--font-inter), -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* Tabular figures on by default: every numeric column in the app should
+     align without each call site remembering to ask. */
+  font-feature-settings: "cv02", "cv03", "cv04", "tnum";
+  font-size: 14px;
   line-height: 1.5;
 }
 
 a { color: inherit; text-decoration: none; }
+button { font: inherit; color: inherit; background: none; border: none; cursor: pointer; }
 
-::-webkit-scrollbar { width: 5px; }
-::-webkit-scrollbar-track { background: var(--surface); }
-::-webkit-scrollbar-thumb { background: var(--border-2); border-radius: 3px; }
+.tnum { font-variant-numeric: tabular-nums; }
+
+/* ---------------------------------------------------------------------------
+   Layout
+--------------------------------------------------------------------------- */
+
+.wrap {
+  width: 100%;
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.wrap-narrow {
+  width: 100%;
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.stack   { display: flex; flex-direction: column; gap: 16px; }
+.stack-s { display: flex; flex-direction: column; gap: 8px; }
+.stack-l { display: flex; flex-direction: column; gap: 28px; }
+.row     { display: flex; align-items: center; gap: 8px; }
+.row-between { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.spacer  { flex: 1; }
+
+.grid-2 { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+.grid-3 { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+.grid-4 { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+
+@media (max-width: 860px) {
+  .grid-2, .grid-3 { grid-template-columns: minmax(0, 1fr); }
+  .grid-4 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+/* ---------------------------------------------------------------------------
+   Typography
+--------------------------------------------------------------------------- */
+
+.page-title {
+  font-size: 22px;
+  font-weight: 650;
+  letter-spacing: -0.02em;
+  color: var(--text);
+}
+
+.section-title {
+  font-size: 15px;
+  font-weight: 620;
+  letter-spacing: -0.01em;
+  color: var(--text);
+}
+
+/* Small-caps column and group labels. */
+.eyebrow {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text-3);
+}
+
+.sub    { font-size: 13px; color: var(--text-2); }
+.muted  { color: var(--text-2); }
+.dim    { color: var(--text-3); }
+.small  { font-size: 12px; }
+.mono {
+  font-family: var(--font-jetbrains), ui-monospace, SFMono-Regular,
+               "SF Mono", Menlo, monospace;
+  font-variant-numeric: tabular-nums;
+}
+
+.pos { color: var(--pos); }
+.neg { color: var(--neg); }
+
+/* ---------------------------------------------------------------------------
+   Card
+--------------------------------------------------------------------------- */
+
+.card {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.card-pad { padding: 16px; }
+
+.card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg-subtle);
+}
+
+/* ---------------------------------------------------------------------------
+   Table
+   Dense by default. 34px rows, hairline separators, no zebra striping --
+   striping fights with the qualification bands and the luck colouring.
+--------------------------------------------------------------------------- */
+
+.table-scroll { overflow-x: auto; }
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.table thead th {
+  padding: 8px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--text-3);
+  text-align: right;
+  white-space: nowrap;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg-subtle);
+}
+
+.table thead th:first-child,
+.table thead th.left { text-align: left; }
+
+.table tbody td {
+  padding: 0 8px;
+  height: 34px;
+  text-align: right;
+  white-space: nowrap;
+  border-bottom: 1px solid var(--border);
+  font-variant-numeric: tabular-nums;
+}
+
+.table tbody td:first-child,
+.table tbody td.left { text-align: left; }
+
+.table tbody tr:last-child td { border-bottom: none; }
+.table tbody tr { transition: background 90ms ease; }
+.table tbody tr:hover { background: var(--bg-subtle); }
+
+.table .num-strong { font-weight: 650; color: var(--text); }
+.table .num-weak   { color: var(--text-2); }
+
+/* Position cell carries the qualification band as a left edge marker. */
+.pos-cell {
+  position: relative;
+  width: 34px;
+  color: var(--text-2);
+  font-size: 12px;
+}
+.pos-cell::before {
+  content: "";
+  position: absolute;
+  left: 0; top: 6px; bottom: 6px;
+  width: 3px;
+  border-radius: 2px;
+  background: transparent;
+}
+.band-ucl  .pos-cell::before { background: var(--band-ucl); }
+.band-uel  .pos-cell::before { background: var(--band-uel); }
+.band-conf .pos-cell::before { background: var(--band-conf); }
+.band-rel  .pos-cell::before { background: var(--band-rel); }
+
+/* ---------------------------------------------------------------------------
+   Team identity
+--------------------------------------------------------------------------- */
+
+.team {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 0;
+  font-weight: 500;
+}
+
+.team-name {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+a.team:hover .team-name { color: var(--accent); }
+
+/* Monogram stand-in for a crest. Neutral so it never competes with data. */
+.crest {
+  flex: none;
+  width: 20px; height: 20px;
+  border-radius: 4px;
+  background: var(--surface-2);
+  color: var(--text-2);
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ---------------------------------------------------------------------------
+   Form guide -- W/D/L pips
+--------------------------------------------------------------------------- */
+
+.form { display: inline-flex; gap: 3px; }
+
+.pip {
+  width: 16px; height: 16px;
+  border-radius: 3px;
+  font-size: 10px;
+  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.pip-w { background: var(--win-soft);  color: var(--win); }
+.pip-d { background: var(--draw-soft); color: var(--draw); }
+.pip-l { background: var(--loss-soft); color: var(--loss); }
+
+/* ---------------------------------------------------------------------------
+   Badges and chips
+--------------------------------------------------------------------------- */
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 2px 7px;
+  border-radius: 5px;
+  font-size: 11px;
+  font-weight: 600;
+  background: var(--surface-2);
+  color: var(--text-2);
+  white-space: nowrap;
+}
+.badge-accent { background: var(--accent-soft); color: var(--accent); }
+.badge-win    { background: var(--win-soft);    color: var(--win); }
+.badge-loss   { background: var(--loss-soft);   color: var(--loss); }
+
+/* Live indicator, with a pulse so it reads as "now" without shouting. */
+.badge-live { background: var(--loss-soft); color: var(--loss); }
+.live-dot {
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: var(--loss);
+  animation: pulse 1.8s ease-in-out infinite;
+}
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50%      { opacity: 0.35; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .live-dot { animation: none; }
+  * { scroll-behavior: auto !important; }
+}
+
+/* ---------------------------------------------------------------------------
+   Controls -- tabs, segmented switcher, buttons
+--------------------------------------------------------------------------- */
+
+.tabs {
+  display: flex;
+  gap: 2px;
+  border-bottom: 1px solid var(--border);
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.tabs::-webkit-scrollbar { display: none; }
+
+.tab {
+  padding: 9px 12px;
+  font-size: 13px;
+  font-weight: 550;
+  color: var(--text-2);
+  border-bottom: 2px solid transparent;
+  white-space: nowrap;
+  transition: color 90ms ease, border-color 90ms ease;
+}
+.tab:hover { color: var(--text); }
+.tab-active { color: var(--accent); border-bottom-color: var(--accent); }
+
+.seg {
+  display: inline-flex;
+  padding: 2px;
+  gap: 2px;
+  background: var(--surface-2);
+  border-radius: var(--radius-sm);
+}
+.seg-item {
+  padding: 5px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 550;
+  color: var(--text-2);
+  transition: background 90ms ease, color 90ms ease;
+}
+.seg-item:hover { color: var(--text); }
+.seg-active {
+  background: var(--bg);
+  color: var(--text);
+  box-shadow: var(--shadow-sm);
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 12px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border-2);
+  background: var(--bg);
+  font-size: 13px;
+  font-weight: 550;
+  color: var(--text);
+  transition: background 90ms ease, border-color 90ms ease;
+}
+.btn:hover { background: var(--bg-subtle); border-color: var(--text-3); }
+.btn:disabled { opacity: 0.4; cursor: default; }
+.btn:disabled:hover { background: var(--bg); border-color: var(--border-2); }
+
+/* ---------------------------------------------------------------------------
+   Probability bar -- home / draw / away as one 100% stack
+--------------------------------------------------------------------------- */
+
+.prob {
+  display: flex;
+  height: 6px;
+  border-radius: 3px;
+  overflow: hidden;
+  background: var(--surface-2);
+}
+.prob-h { background: var(--accent); }
+.prob-d { background: var(--text-3); }
+.prob-a { background: #6b8fd8; }
+
+/* Horizontal meter for a single 0-100 value. */
+.meter {
+  height: 5px;
+  border-radius: 3px;
+  background: var(--surface-2);
+  overflow: hidden;
+}
+.meter-fill { height: 100%; background: var(--accent); border-radius: 3px; }
+
+/* ---------------------------------------------------------------------------
+   Focus -- one visible ring everywhere, never removed
+--------------------------------------------------------------------------- */
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 3px;
+}
+
+/* ---------------------------------------------------------------------------
+   Scrollbar
+--------------------------------------------------------------------------- */
+
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+  background: var(--surface-3);
+  border-radius: 5px;
+  border: 3px solid var(--bg);
+}
+::-webkit-scrollbar-thumb:hover { background: var(--border-2); }

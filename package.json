@@ -7,11 +7,12 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "build:data": "python3 scripts/build_fbref_epl_2025_26.py",
-    "build:demo": "python3 scripts/generate_2526_data.py"
+    "build:data": "python3 scripts/build.py",
+    "build:archive": "python3 scripts/build_archive.py",
+    "backtest": "python3 scripts/backtest.py",
+    "backtest:publish": "python3 scripts/backtest.py --json"
   },
   "dependencies": {
-    "cheerio": "^1.1.2",
     "next": "16.1.0",
     "react": "19.2.3",
     "react-dom": "19.2.3"
