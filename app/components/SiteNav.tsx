@@ -56,11 +56,17 @@ export default function SiteNav({ leagues }: { leagues: LeagueSummary[] }) {
   // Route changes should dismiss the menu.
   useEffect(() => setOpen(false), [pathname]);
 
+  // The philosophy page is the only route not scoped to a league, so it sits
+  // outside the segmented control rather than inside it -- but it still needs to
+  // be in the header. It spent a season reachable only from a footer link, which
+  // is why nobody knew the methodology existed.
+  const onPhilosophy = pathname.startsWith("/philosophy");
+
   if (!active) {
     return (
       <nav className="row" style={{ gap: 14 }}>
-        <Link href="/about" className="sub">
-          How xR works
+        <Link href="/philosophy" className="sub">
+          The philosophy
         </Link>
       </nav>
     );
@@ -71,7 +77,7 @@ export default function SiteNav({ leagues }: { leagues: LeagueSummary[] }) {
       <div className="row" style={{ gap: 2 }}>
         {SECTIONS.map(({ seg, label }) => {
           const href = seg ? `/${active.key}/${seg}` : `/${active.key}`;
-          const isActive = section === seg;
+          const isActive = section === seg && !onPhilosophy;
           return (
             <Link
               key={seg || "overview"}
@@ -87,6 +93,18 @@ export default function SiteNav({ leagues }: { leagues: LeagueSummary[] }) {
             </Link>
           );
         })}
+
+        <Link
+          href="/philosophy"
+          className="seg-item"
+          style={
+            onPhilosophy
+              ? { background: "var(--accent-soft)", color: "var(--accent)" }
+              : undefined
+          }
+        >
+          Philosophy
+        </Link>
       </div>
 
       <div ref={boxRef} style={{ position: "relative" }}>

@@ -18,10 +18,16 @@ const jetbrains = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "xR — Expected Result",
+  // Templated so every page reads "... — The xR philosophy" without each route
+  // repeating the site name. Pages that set their own absolute title (the
+  // philosophy page itself) opt out by matching the default exactly.
+  title: {
+    default: "The xR philosophy",
+    template: "%s — The xR philosophy",
+  },
   description:
-    "Expected Result modelling for Europe's top five leagues: xG-based ratings, " +
-    "scoreline probabilities and the reasoning behind every prediction.",
+    "Europe's top five leagues analysed on Expected Results, not the scoreline: " +
+    "xG-based ratings, scoreline probabilities and the reasoning behind every prediction.",
 };
 
 export default function RootLayout({
@@ -66,7 +72,7 @@ export default function RootLayout({
                   xR
                 </span>
                 <span style={{ fontSize: 15, fontWeight: 640, letterSpacing: "-0.02em" }}>
-                  Expected Result
+                  The xR philosophy
                 </span>
                 {season && (
                   <span className="badge" style={{ marginLeft: 2 }}>
@@ -94,11 +100,11 @@ export default function RootLayout({
               Data via FotMob · rebuilt hourly · {season}
             </span>
             <span className="row small" style={{ gap: 14 }}>
-              <Link href="/about" className="muted">
-                How xR works
+              <Link href="/philosophy" className="muted">
+                The philosophy
               </Link>
               <a
-                href="https://github.com/adamsebhat/xr-football"
+                href="https://github.com/Savowai/xr-football"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="muted"
