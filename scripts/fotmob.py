@@ -27,6 +27,7 @@ On politeness -- this matters, so it is enforced rather than documented:
 
 from __future__ import annotations
 
+import gzip
 import json
 import os
 import re
@@ -63,7 +64,16 @@ class FotmobError(RuntimeError):
 # Fetching
 # ---------------------------------------------------------------------------
 
-def _get(url: str, timeout: int = 30) -> str:
+def _raw_get(url: str, timeout: int = 30,
+             accept: str = "text/html,application/xhtml+xml") -> bytes:
+    """
+    One throttled request, gzip handled.
+
+    Everything goes through here so the delay above stays shared across every
+    caller. The stats host (data.fotmob.com) serves pre-gzipped objects and
+    sends them regardless of request headers, so decompression is decided by
+    what came back rather than by what we asked for.
+    """
     global _last_request
     elapsed = time.time() - _last_request
     if elapsed < REQUEST_DELAY:
@@ -73,18 +83,36 @@ def _get(url: str, timeout: int = 30) -> str:
         url,
         headers={
             "User-Agent": USER_AGENT,
-            "Accept": "text/html,application/xhtml+xml",
+            "Accept": accept,
+            "Accept-Encoding": "gzip",
             "Accept-Language": "en-GB,en;q=0.9",
         },
     )
     try:
         with urllib.request.urlopen(req, timeout=timeout) as resp:
-            body = resp.read().decode("utf-8", errors="replace")
-    except (urllib.error.URLError, OSError) as exc:
+            raw = resp.read()
+            gzipped = (resp.headers.get("Content-Encoding") == "gzip"
+                       or raw[:2] == b"\x1f\x8b")
+        if gzipped:
+            raw = gzip.decompress(raw)
+    except (urllib.error.URLError, OSError, ValueError) as exc:
         raise FotmobError(f"fetch failed for {url}: {exc}") from exc
     finally:
         _last_request = time.time()
-    return body
+    return raw
+
+
+def _get(url: str, timeout: int = 30) -> str:
+    return _raw_get(url, timeout).decode("utf-8", errors="replace")
+
+
+def fetch_json(url: str, timeout: int = 30) -> Any:
+    """A JSON document from FotMob's stats host."""
+    raw = _raw_get(url, timeout, accept="application/json")
+    try:
+        return json.loads(raw.decode("utf-8", errors="replace"))
+    except ValueError as exc:
+        raise FotmobError(f"unparseable JSON at {url}: {exc}") from exc
 
 
 def page_data(url: str) -> Dict[str, Any]:
@@ -482,5 +510,8 @@ def load_league(league: "C.League", fetch_details: bool = True,
         "season": season,
         "matches": matches,
         "table": table,
+        # Handed back so callers that want another slice of the same page --
+        # player leaderboards, say -- do not have to fetch it a second time.
+        "props": props,
         "fetched_at": datetime.now(timezone.utc).isoformat(),
     }

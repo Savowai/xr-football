@@ -282,6 +282,62 @@ export const loadPowerRankings = (league: string = DEFAULT_LEAGUE): PowerRanking
 export const loadSeasonMetadata = (league: string = DEFAULT_LEAGUE): SeasonMetadata =>
   read<SeasonMetadata>(`${league}/metadata.json`, EMPTY_METADATA);
 
+/** One row of a stat leaderboard. */
+export interface LeaderboardPlayer {
+  player_id: string | null;
+  name: string;
+  team: string;
+  team_id: string | null;
+  country: string | null;
+  value: number;
+  sub_value: number | null;
+  matches: number | null;
+  minutes: number | null;
+  rank: number;
+}
+
+export interface Leaderboard {
+  key: string;
+  title: string;
+  subtitle: string | null;
+  category: string | null;
+  /** "number" | "fraction" | ... — decides how `value` is rendered. */
+  format: string | null;
+  decimals: number;
+  players: LeaderboardPlayer[];
+}
+
+export interface SquadPlayer {
+  player_id: string | null;
+  name: string;
+  shirt: number | null;
+  /** keepers | defenders | midfielders | attackers */
+  group: string;
+  position: string | null;
+  country: string | null;
+  age: number | null;
+  height: number | null;
+  rating: number | null;
+  goals: number | null;
+  assists: number | null;
+  penalties: number | null;
+  yellow_cards: number | null;
+  red_cards: number | null;
+  market_value: number | null;
+  injured: boolean;
+  /** Free text from the source: "Mid October 2026", "Doubtful", "Unknown". */
+  expected_return: string | null;
+}
+
+/** Squads keyed by canonical team name. */
+export type Squads = Record<string, SquadPlayer[]>;
+
+export const loadPlayers = (league: string = DEFAULT_LEAGUE): Leaderboard[] =>
+  read<Leaderboard[]>(`${league}/players.json`, []);
+
+export const loadSquads = (league: string = DEFAULT_LEAGUE): Squads =>
+  read<Squads>(`${league}/squads.json`, {});
+
 /**
  * Walk-forward backtest results, written by `scripts/backtest.py --json`.
  *

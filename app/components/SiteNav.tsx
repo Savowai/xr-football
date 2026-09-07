@@ -10,6 +10,7 @@ const SECTIONS = [
   { seg: "matches", label: "Matches" },
   { seg: "table", label: "Table" },
   { seg: "clubs", label: "Clubs" },
+  { seg: "players", label: "Players" },
 ];
 
 /** Two-letter country tag, standing in for a flag. */

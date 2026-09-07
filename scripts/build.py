@@ -25,6 +25,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 import config as C
 import fotmob
+import players
 import reasoning
 import xr_model as M
 from build_archive import load_archive
@@ -366,6 +367,23 @@ def build_league(league: C.League) -> Optional[Dict[str, Any]]:
     write(league.key, "metadata.json", metadata)
     write(league.key, "standings.json", table)
     write(league.key, "power_rankings.json", power_rankings(current, teams))
+
+    # Player data is presentational for now and must never be able to break a
+    # build: if FotMob changes shape or a squad page 404s, the league still
+    # ships its table and predictions with whatever player data was last good.
+    try:
+        boards = players.leaderboards(league, payload.get("props"))
+        if boards:
+            write(league.key, "players.json", boards)
+        rosters = players.squads(league, published_table)
+        if rosters:
+            write(league.key, "squads.json", rosters)
+            hurt = sum(1 for v in rosters.values() for p in v if p["injured"])
+            print(f"  Players: {sum(len(v) for v in rosters.values())} in "
+                  f"{len(rosters)} squads, {hurt} unavailable")
+    except Exception as exc:  # noqa: BLE001 - never fail a build over this
+        print(f"  Player data skipped: {exc}")
+
     if published_table:
         # FotMob's own table is the authority on points deductions, which no
         # amount of adding up results will ever reveal.

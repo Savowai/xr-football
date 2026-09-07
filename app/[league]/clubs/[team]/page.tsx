@@ -1,3 +1,4 @@
+import { Fragment } from "react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import {
@@ -7,6 +8,7 @@ import {
   loadMatches,
   loadPredictions,
   loadPowerRankings,
+  loadSquads,
 } from "../../../lib/xr_data";
 import {
   TeamCell,
@@ -81,6 +83,18 @@ export default async function ClubPage({
       return gf > ga ? "W" : gf === ga ? "D" : "L";
     })
     .join("");
+
+  const squad = loadSquads(league)[name] ?? [];
+  // Keepers first, then out from the back. The source already groups them; this
+  // just fixes the order so a squad list reads like a team sheet.
+  const GROUP_ORDER = ["keepers", "defenders", "midfielders", "attackers"];
+  const byGroup = GROUP_ORDER.map((g) => ({
+    group: g,
+    players: squad
+      .filter((p) => p.group === g)
+      .sort((a, b) => (a.shirt ?? 99) - (b.shirt ?? 99)),
+  })).filter((g) => g.players.length > 0);
+  const sidelined = squad.filter((p) => p.injured);
 
   const next = predictions
     .filter((p) => (p.home === name || p.away === name) && p.status === "scheduled")
@@ -173,6 +187,88 @@ export default async function ClubPage({
               </div>
             );
           })}
+        </div>
+      )}
+
+      {byGroup.length > 0 && (
+        <div className="card">
+          <div className="card-header">
+            <span className="section-title">Squad</span>
+            <span className="small dim">
+              {squad.length} players
+              {sidelined.length > 0 && ` · ${sidelined.length} unavailable`}
+            </span>
+          </div>
+          <div className="table-scroll">
+            <table className="table">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th className="left">Player</th>
+                  <th>Pos</th>
+                  <th>Age</th>
+                  <th title="FotMob season rating">Rating</th>
+                  <th title="Goals">G</th>
+                  <th title="Assists">A</th>
+                  <th title="Yellow / red cards">Cards</th>
+                </tr>
+              </thead>
+              <tbody>
+                {byGroup.map(({ group, players }) => (
+                  <Fragment key={group}>
+                    <tr>
+                      <td colSpan={8} className="left">
+                        <span className="eyebrow">{group}</span>
+                      </td>
+                    </tr>
+                    {players.map((p) => (
+                      <tr key={p.player_id ?? p.name}>
+                        <td className="num-weak">{p.shirt ?? "—"}</td>
+                        <td className="left">
+                          <span className="row" style={{ gap: 6 }}>
+                            <span
+                              style={{
+                                color: p.injured ? "var(--text-3)" : "var(--text)",
+                              }}
+                            >
+                              {p.name}
+                            </span>
+                            {/* An injury is the one thing here that changes how
+                                a fixture should be read, so it is the only
+                                thing allowed to carry colour. */}
+                            {p.injured && (
+                              <span
+                                className="badge badge-loss"
+                                title={p.expected_return ?? "Unavailable"}
+                              >
+                                {p.expected_return ?? "Out"}
+                              </span>
+                            )}
+                          </span>
+                        </td>
+                        <td className="num-weak">{p.position ?? "—"}</td>
+                        <td className="num-weak">{p.age ?? "—"}</td>
+                        <td className="num-strong tnum">
+                          {p.rating ? p.rating.toFixed(2) : "—"}
+                        </td>
+                        <td className="num-weak">{p.goals ?? 0}</td>
+                        <td className="num-weak">{p.assists ?? 0}</td>
+                        <td className="num-weak tnum">
+                          {p.yellow_cards ?? 0}
+                          {(p.red_cards ?? 0) > 0 && (
+                            <span style={{ color: "var(--loss)" }}>
+                              {" "}
+                              / {p.red_cards}
+                            </span>
+                          )}
+                        </td>
+                      </tr>
+                    ))}
+                  </Fragment>
+                ))}
+              </tbody>
+            </table>
+          </div>
         </div>
       )}
 
