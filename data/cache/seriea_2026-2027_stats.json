@@ -395,6 +395,24 @@
   "home_xg_set_play": 0.39,
   "home_xgot": 1.83
  },
+ "5749662": {
+  "away_big_chances": 0,
+  "away_corners": 5,
+  "away_possession": 58,
+  "away_shots": 10,
+  "away_sot": 3,
+  "away_xg": 0.41,
+  "away_xg_set_play": 0.2,
+  "away_xgot": 0.89,
+  "home_big_chances": 3,
+  "home_corners": 7,
+  "home_possession": 42,
+  "home_shots": 20,
+  "home_sot": 9,
+  "home_xg": 1.36,
+  "home_xg_set_play": 0.58,
+  "home_xgot": 1.81
+ },
  "5749663": {
   "away_big_chances": 1,
   "away_corners": 5,
@@ -502,5 +520,23 @@
   "home_xg": 0.73,
   "home_xg_set_play": 0.38,
   "home_xgot": 0.81
+ },
+ "5749669": {
+  "away_big_chances": 2,
+  "away_corners": 8,
+  "away_possession": 60,
+  "away_shots": 19,
+  "away_sot": 6,
+  "away_xg": 1.89,
+  "away_xg_set_play": 0.16,
+  "away_xgot": 2.41,
+  "home_big_chances": 2,
+  "home_corners": 2,
+  "home_possession": 40,
+  "home_shots": 10,
+  "home_sot": 6,
+  "home_xg": 0.76,
+  "home_xg_set_play": 0.0,
+  "home_xgot": 1.08
  }
 }
