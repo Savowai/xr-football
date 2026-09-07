@@ -21,6 +21,7 @@ from __future__ import annotations
 from datetime import date
 from typing import Any, Dict, List, Optional, Sequence
 
+import availability as A
 import config as C
 import xr_model as M
 
@@ -58,7 +59,29 @@ def _defence_word(rating: float) -> str:
 # Factor decomposition
 # ---------------------------------------------------------------------------
 
-def decompose(ratings: M.Ratings, home: str, away: str) -> List[Dict[str, Any]]:
+def _missing_detail(adj) -> str:
+    """Name who is out, up to three, then count the rest."""
+    names = [C.short_player(n) for n in adj.missing]
+    if len(names) <= 3:
+        listed = ", ".join(names)
+    else:
+        listed = ", ".join(names[:3]) + f" and {len(names) - 3} others"
+    return listed
+
+
+def decompose(ratings: M.Ratings, home: str, away: str,
+              home_adj=None, away_adj=None) -> List[Dict[str, Any]]:
+    """
+    Break the predicted goal rate into terms that sum back to it exactly.
+
+    Availability enters here as two more multiplicative terms, in the same
+    running product as everything else, so a squad penalty has to declare
+    itself in goals like every other factor rather than quietly shifting the
+    number.
+    """
+    home_adj = home_adj or A.NEUTRAL
+    away_adj = away_adj or A.NEUTRAL
+
     base = ratings.base
     ha, hd = ratings.attack_of(home), ratings.defence_of(home)
     aa, ad = ratings.attack_of(away), ratings.defence_of(away)
@@ -74,19 +97,41 @@ def decompose(ratings: M.Ratings, home: str, away: str) -> List[Dict[str, Any]]:
         "detail": f"{_strength_word(ha)} ({ha:.2f}x league average)",
         "delta_goals": round(after_atk - step, 3),
     })
-    after_def = after_atk * ad
+    running = after_atk
+    if home_adj.active:
+        after_avail = running * home_adj.attack
+        factors.append({
+            "side": "home",
+            "label": f"{C.short(home)} unavailable",
+            "detail": f"{_missing_detail(home_adj)} out "
+                      f"({home_adj.attack:.2f}x attack)",
+            "delta_goals": round(after_avail - running, 3),
+        })
+        running = after_avail
+    after_def = running * ad
     factors.append({
         "side": "home",
         "label": f"{C.short(away)} defence",
         "detail": f"{_defence_word(ad)} ({ad:.2f}x league average conceded)",
-        "delta_goals": round(after_def - after_atk, 3),
+        "delta_goals": round(after_def - running, 3),
     })
-    after_ha = after_def * ratings.home_adv
+    running = after_def
+    if away_adj.active:
+        after_avail = running * away_adj.defence
+        factors.append({
+            "side": "home",
+            "label": f"{C.short(away)} defence weakened",
+            "detail": f"{_missing_detail(away_adj)} out "
+                      f"({away_adj.defence:.2f}x conceded)",
+            "delta_goals": round(after_avail - running, 3),
+        })
+        running = after_avail
+    after_ha = running * ratings.home_adv
     factors.append({
         "side": "home",
         "label": "Home advantage",
         "detail": f"{ratings.home_adv:.2f}x, fitted league-wide and carried across seasons",
-        "delta_goals": round(after_ha - after_def, 3),
+        "delta_goals": round(after_ha - running, 3),
     })
 
     step = base
@@ -97,13 +142,33 @@ def decompose(ratings: M.Ratings, home: str, away: str) -> List[Dict[str, Any]]:
         "detail": f"{_strength_word(aa)} ({aa:.2f}x league average)",
         "delta_goals": round(after_atk - step, 3),
     })
-    after_def = after_atk * hd
+    running = after_atk
+    if away_adj.active:
+        after_avail = running * away_adj.attack
+        factors.append({
+            "side": "away",
+            "label": f"{C.short(away)} unavailable",
+            "detail": f"{_missing_detail(away_adj)} out "
+                      f"({away_adj.attack:.2f}x attack)",
+            "delta_goals": round(after_avail - running, 3),
+        })
+        running = after_avail
+    after_def = running * hd
     factors.append({
         "side": "away",
         "label": f"{C.short(home)} defence",
         "detail": f"{_defence_word(hd)} ({hd:.2f}x league average conceded)",
-        "delta_goals": round(after_def - after_atk, 3),
+        "delta_goals": round(after_def - running, 3),
     })
+    if home_adj.active:
+        after_avail = after_def * home_adj.defence
+        factors.append({
+            "side": "away",
+            "label": f"{C.short(home)} defence weakened",
+            "detail": f"{_missing_detail(home_adj)} out "
+                      f"({home_adj.defence:.2f}x conceded)",
+            "delta_goals": round(after_avail - after_def, 3),
+        })
     return factors
 
 
@@ -202,9 +267,32 @@ def _form_clause(team: str, form: Dict[str, Any], ratings: M.Ratings) -> Optiona
     return None
 
 
+def _availability_clause(team: str, adj) -> Optional[str]:
+    """
+    Say who is missing, and only when it is worth saying.
+
+    A squad with its third-choice full-back out is not news, so the clause is
+    gated on the adjustment actually moving the forecast rather than on the
+    injury list being non-empty.
+    """
+    if not adj.active:
+        return None
+    n = len(adj.missing)
+    shift = (1.0 - adj.attack) * 100
+    if shift < 2.0:
+        return (f"{C.short(team)} are without {_missing_detail(adj)}, which the "
+                f"model treats as a marginal cost given the cover behind them.")
+    return (f"{C.short(team)} are missing {_missing_detail(adj)}; weighting the "
+            f"absentees by value against the depth behind them, the model marks "
+            f"their attack down {shift:.0f}% for this fixture.")
+
+
 def build(ratings: M.Ratings, match: Dict[str, Any], probs: Dict[str, Any],
-          home_form: Dict[str, Any], away_form: Dict[str, Any]) -> Dict[str, Any]:
+          home_form: Dict[str, Any], away_form: Dict[str, Any],
+          home_adj=None, away_adj=None) -> Dict[str, Any]:
     home, away = match["home"], match["away"]
+    home_adj = home_adj or A.NEUTRAL
+    away_adj = away_adj or A.NEUTRAL
     lh, la = probs["pred_xg_home"], probs["pred_xg_away"]
     conf = confidence(ratings, home, away)
 
@@ -213,6 +301,11 @@ def build(ratings: M.Ratings, match: Dict[str, Any], probs: Dict[str, Any],
     # At most one form note per side, and only where it actually says something.
     for team, form in ((home, home_form), (away, away_form)):
         clause = _form_clause(team, form, ratings)
+        if clause:
+            parts.append(clause)
+
+    for team, adj in ((home, home_adj), (away, away_adj)):
+        clause = _availability_clause(team, adj)
         if clause:
             parts.append(clause)
 
@@ -228,7 +321,7 @@ def build(ratings: M.Ratings, match: Dict[str, Any], probs: Dict[str, Any],
     return {
         "thesis": " ".join(parts),
         "confidence": conf,
-        "factors": decompose(ratings, home, away),
+        "factors": decompose(ratings, home, away, home_adj, away_adj),
         "rating_snapshot": {
             "home_attack": round(ratings.attack_of(home), 3),
             "home_defence": round(ratings.defence_of(home), 3),
@@ -236,6 +329,14 @@ def build(ratings: M.Ratings, match: Dict[str, Any], probs: Dict[str, Any],
             "away_defence": round(ratings.defence_of(away), 3),
             "league_base": round(ratings.base, 3),
             "home_advantage": round(ratings.home_adv, 3),
+        },
+        "availability": {
+            "home_attack_mult": round(home_adj.attack, 3),
+            "home_defence_mult": round(home_adj.defence, 3),
+            "away_attack_mult": round(away_adj.attack, 3),
+            "away_defence_mult": round(away_adj.defence, 3),
+            "home_missing": home_adj.missing,
+            "away_missing": away_adj.missing,
         },
     }
 

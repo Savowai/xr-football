@@ -169,6 +169,21 @@ def short(name: str) -> str:
     return SHORT_NAMES.get(name, name)
 
 
+def short_player(name: str) -> str:
+    """
+    Surname only, for prose that lists several players at once.
+
+    Kept deliberately simple: strip a leading given name and keep everything
+    after it, so compound surnames ("van Dijk", "De Bruyne") survive intact.
+    Single-token names are left alone, which is what the mononym convention in
+    Brazilian and Portuguese squads needs.
+    """
+    parts = name.split()
+    if len(parts) < 2:
+        return name
+    return " ".join(parts[1:])
+
+
 # ---------------------------------------------------------------------------
 # Model hyper-parameters  (tuned via scripts/backtest.py)
 # ---------------------------------------------------------------------------

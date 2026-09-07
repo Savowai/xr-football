@@ -73,6 +73,20 @@ export interface ReasoningFactor {
   delta_goals: number;
 }
 
+/**
+ * Squad availability as applied to one fixture. Multipliers are 1.0 when the
+ * side is at full strength; absent entirely on matches built before the
+ * availability layer existed, hence optional.
+ */
+export interface AvailabilitySnapshot {
+  home_attack_mult: number;
+  home_defence_mult: number;
+  away_attack_mult: number;
+  away_defence_mult: number;
+  home_missing: string[];
+  away_missing: string[];
+}
+
 export interface Reasoning {
   thesis: string;
   confidence: {
@@ -90,6 +104,7 @@ export interface Reasoning {
     league_base: number;
     home_advantage: number;
   };
+  availability?: AvailabilitySnapshot;
 }
 
 export interface XRPrediction {

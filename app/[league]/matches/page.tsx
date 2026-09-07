@@ -1,5 +1,10 @@
 import { notFound } from "next/navigation";
-import { getLeague, loadPredictions, loadMatches } from "../../lib/xr_data";
+import {
+  getLeague,
+  loadPredictions,
+  loadMatches,
+  type ReasoningFactor,
+} from "../../lib/xr_data";
 import { Empty } from "../../components/ui";
 import MatchweekBrowser from "./MatchweekBrowser";
 
@@ -33,6 +38,8 @@ export interface Fixture {
   win_away?: number;
   scoreline?: [number, number];
   thesis?: string;
+  factors?: ReasoningFactor[];
+  base?: number;
   verdict?: string | null;
 }
 
@@ -72,6 +79,8 @@ export default async function MatchesPage({
       win_away: p?.win_away_pct,
       scoreline: p?.most_likely_scoreline,
       thesis: p?.reasoning?.thesis,
+      factors: p?.reasoning?.factors,
+      base: p?.reasoning?.rating_snapshot?.league_base,
       verdict: p?.xresult_verdict ?? null,
     };
   });

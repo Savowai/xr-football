@@ -23,6 +23,7 @@ from typing import Any, Dict, List, Optional
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
+import availability
 import config as C
 import fotmob
 import players
@@ -261,6 +262,23 @@ def build_league(league: C.League) -> Optional[Dict[str, Any]]:
                   "home_adv_prior": home_adv_prior,
                   "fallback_rho": fallback_rho}
 
+    # --- squads, fetched before predictions because they feed them ----------
+    # Player data must never be able to break a build: if FotMob changes shape
+    # or a squad page 404s, the league still ships its table and predictions,
+    # just without the availability adjustment.
+    rosters: Dict[str, List[Dict[str, Any]]] = {}
+    boards: List[Dict[str, Any]] = []
+    try:
+        boards = players.leaderboards(league, payload.get("props")) or []
+        rosters = players.squads(league, published_table) or {}
+        if rosters:
+            hurt = sum(1 for v in rosters.values() for p in v if p["injured"])
+            print(f"  Players: {sum(len(v) for v in rosters.values())} in "
+                  f"{len(rosters)} squads, {hurt} unavailable")
+            availability.record_snapshot(league.key, rosters)
+    except Exception as exc:  # noqa: BLE001 - never fail a build over this
+        print(f"  Player data skipped: {exc}")
+
     # --- walk-forward predictions for played matches -----------------------
     by_day: Dict[str, List[Dict[str, Any]]] = defaultdict(list)
     for m in played:
@@ -297,6 +315,20 @@ def build_league(league: C.League) -> Optional[Dict[str, Any]]:
         hf = M.rolling_form(played, m["home"], before)
         af = M.rolling_form(played, m["away"], before)
 
+        # Availability applies to fixtures not yet played, and only to those.
+        # The injury list is a snapshot of today; feeding it into the
+        # walk-forward prediction for a match in August would score the model
+        # on information that did not exist at kick-off. That is the single
+        # easiest way to fake a good backtest, so the guard is explicit.
+        h_adj = a_adj = availability.NEUTRAL
+        if not finished and rosters:
+            h_adj = availability.for_fixture(rosters.get(m["home"]), before, today)
+            a_adj = availability.for_fixture(rosters.get(m["away"]), before, today)
+            if h_adj.active or a_adj.active:
+                lh, la = availability.lambdas(current, m["home"], m["away"],
+                                              h_adj, a_adj)
+                probs = M.predict(lh, la, current.rho)
+
         record: Dict[str, Any] = {
             "date": m["date"],
             "kickoff_datetime": m.get("kickoff_iso"),
@@ -311,7 +343,8 @@ def build_league(league: C.League) -> Optional[Dict[str, Any]]:
             "season": season,
             **probs,
         }
-        record["reasoning"] = reasoning.build(ratings, m, probs, hf, af)
+        record["reasoning"] = reasoning.build(ratings, m, probs, hf, af,
+                                              h_adj, a_adj)
 
         if finished and m.get("home_xg") is not None:
             xr = M.xresult(m["home_xg"], m["away_xg"], current.rho)
@@ -368,21 +401,10 @@ def build_league(league: C.League) -> Optional[Dict[str, Any]]:
     write(league.key, "standings.json", table)
     write(league.key, "power_rankings.json", power_rankings(current, teams))
 
-    # Player data is presentational for now and must never be able to break a
-    # build: if FotMob changes shape or a squad page 404s, the league still
-    # ships its table and predictions with whatever player data was last good.
-    try:
-        boards = players.leaderboards(league, payload.get("props"))
-        if boards:
-            write(league.key, "players.json", boards)
-        rosters = players.squads(league, published_table)
-        if rosters:
-            write(league.key, "squads.json", rosters)
-            hurt = sum(1 for v in rosters.values() for p in v if p["injured"])
-            print(f"  Players: {sum(len(v) for v in rosters.values())} in "
-                  f"{len(rosters)} squads, {hurt} unavailable")
-    except Exception as exc:  # noqa: BLE001 - never fail a build over this
-        print(f"  Player data skipped: {exc}")
+    if boards:
+        write(league.key, "players.json", boards)
+    if rosters:
+        write(league.key, "squads.json", rosters)
 
     if published_table:
         # FotMob's own table is the authority on points deductions, which no

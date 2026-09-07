@@ -309,6 +309,36 @@ export default function AboutPage() {
 
         <Section
           number="07"
+          title="Who is actually available"
+          body={[
+            `The ratings describe a club, but a club does not play matches — eleven players do.
+             The largest thing the betting market can see that a public-data model cannot is
+             that a side is without its first-choice striker. So squad lists and injury status
+             are read from FotMob and turned into a pair of multipliers on each club's attack
+             and defence for each individual fixture.`,
+            `Two details do most of the work. Loss is measured against replacement rather than
+             in absolute terms: each positional group is scored as the best available eleven
+             against the best possible eleven, so losing a fourth-choice centre-back costs
+             nothing while losing three of your top four is severe. And it is applied per
+             fixture, using the published return date — a player out until mid-October is
+             missing this weekend and present in November, which matters because club pages
+             show fixtures two months ahead.`,
+            `This parameter is not fitted, and that should be said plainly. Fitting it needs a
+             history of injury snapshots and this project has one snapshot, taken today. The
+             strength was chosen so a typical injury list moves a forecast one to three percent,
+             capped at twelve — smaller than the published estimates of the effect, because an
+             unfitted parameter should not be allowed to overrule ratings that were fitted.
+             Every build now appends a dated snapshot, so in a few months this becomes a
+             question that can be answered with a backtest instead of a judgement.`,
+          ]}
+          footer="The adjustment applies only to fixtures that have not been played. Applying
+                  today's injury list to a match from August would score the model on
+                  information that did not exist at kick-off, which is the easiest way there is
+                  to fake a good backtest."
+        />
+
+        <Section
+          number="08"
           title="The reasoning is the maths, not a caption"
           body={[
             `Most model write-ups are prose bolted onto a number, free to drift from what the
@@ -329,7 +359,7 @@ export default function AboutPage() {
         />
 
         <Section
-          number="08"
+          number="09"
           title="After the whistle: the xResult"
           body={[
             `Once a match is played, the same scoreline model is re-run on the chances that were
@@ -349,13 +379,14 @@ export default function AboutPage() {
         />
 
         <Section
-          number="09"
+          number="10"
           title="Limitations, stated plainly"
           body={[
             `This is a statistical model of a game played by people. Real things it does not know:`,
           ]}
           bullets={[
-            "Injuries, suspensions, rotation and squad depth are not modelled — a side missing its first-choice striker carries the rating it earned with him",
+            "Availability is adjusted for, but by an unfitted parameter (section 07) — the size of the effect is a reasoned choice, not a measured one",
+            "Suspensions and rotation are still invisible; only published injuries are read, so a benched star counts as available",
             "Managerial changes are absorbed only gradually, through time decay",
             "Goals are treated as conditionally independent; in reality teams change how they play once ahead or behind",
             "Motivation is invisible: a dead rubber in May is priced identically to a title decider",
@@ -370,7 +401,7 @@ export default function AboutPage() {
         />
 
         <Section
-          number="10"
+          number="11"
           title="Data and refresh cadence"
           body={[
             `Fixtures, live scores, results and shot quality all come from FotMob, which publishes

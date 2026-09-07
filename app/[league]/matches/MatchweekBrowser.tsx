@@ -10,6 +10,103 @@ import {
   formatDayLong,
 } from "../../components/ui";
 
+/**
+ * The factor breakdown: how the league's average goal rate becomes this
+ * fixture's prediction, one term at a time.
+ *
+ * The deltas come straight from the model's own sequential decomposition, so
+ * base + every delta on a side equals that side's predicted goals exactly.
+ * The running total is printed at the bottom precisely so that claim is
+ * checkable on screen rather than merely asserted in the methodology page.
+ */
+function FactorPanel({ fixture }: { fixture: Fixture }) {
+  const { factors, base } = fixture;
+  if (!factors || factors.length === 0 || base == null) return null;
+
+  const sides: Array<{ key: "home" | "away"; team: string; total?: number }> = [
+    { key: "home", team: fixture.home, total: fixture.pred_home },
+    { key: "away", team: fixture.away, total: fixture.pred_away },
+  ];
+
+  // The widest bar in the panel sets the scale, so the columns stay
+  // comparable between the two sides instead of each self-normalising.
+  const peak = Math.max(...factors.map((f) => Math.abs(f.delta_goals)), 0.01);
+
+  return (
+    <div style={{ marginTop: 14 }}>
+      <div className="eyebrow" style={{ marginBottom: 8 }}>
+        How the model gets there
+      </div>
+      <div className="grid-2" style={{ gap: 14 }}>
+        {sides.map(({ key, team, total }) => (
+          <div key={key}>
+            <div className="small muted" style={{ marginBottom: 6 }}>
+              {team}
+            </div>
+            <div
+              className="row-between small dim"
+              style={{ padding: "3px 0", borderBottom: "1px solid var(--border)" }}
+            >
+              <span>League average</span>
+              <span className="tnum">{base.toFixed(2)}</span>
+            </div>
+            {factors
+              .filter((f) => f.side === key)
+              .map((f, i) => {
+                const up = f.delta_goals >= 0;
+                return (
+                  <div
+                    key={i}
+                    style={{
+                      padding: "5px 0",
+                      borderBottom: "1px solid var(--border)",
+                    }}
+                  >
+                    <div className="row-between small">
+                      <span title={f.detail} style={{ minWidth: 0 }}>
+                        {f.label}
+                      </span>
+                      <span
+                        className="tnum"
+                        style={{
+                          color: up ? "var(--win)" : "var(--loss)",
+                          fontWeight: 550,
+                        }}
+                      >
+                        {up ? "+" : ""}
+                        {f.delta_goals.toFixed(2)}
+                      </span>
+                    </div>
+                    <div
+                      style={{
+                        height: 3,
+                        marginTop: 3,
+                        borderRadius: 2,
+                        width: `${(Math.abs(f.delta_goals) / peak) * 100}%`,
+                        background: up ? "var(--win)" : "var(--loss)",
+                        opacity: 0.55,
+                      }}
+                    />
+                    <div className="small dim" style={{ marginTop: 1 }}>
+                      {f.detail}
+                    </div>
+                  </div>
+                );
+              })}
+            <div
+              className="row-between small"
+              style={{ padding: "6px 0 0", fontWeight: 600 }}
+            >
+              <span>Predicted goals</span>
+              <span className="tnum">{total?.toFixed(2) ?? "—"}</span>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
 export default function MatchweekBrowser({
   fixtures,
   league,
@@ -197,6 +294,7 @@ export default function MatchweekBrowser({
                       )}
                       {f.thesis && <p className="sub">{f.thesis}</p>}
                       {!f.thesis && <p className="sub dim">No model note for this fixture.</p>}
+                      <FactorPanel fixture={f} />
                     </div>
                   )}
                 </div>

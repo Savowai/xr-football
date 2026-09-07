@@ -122,6 +122,14 @@
     "away_defence": 0.973,
     "league_base": 1.35,
     "home_advantage": 1.3
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   },
   "xresult_win_home_pct": 90.6,
@@ -291,6 +299,14 @@
     "away_defence": 0.966,
     "league_base": 2.032,
     "home_advantage": 1.262
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   },
   "xresult_win_home_pct": 40.7,
@@ -460,6 +476,14 @@
     "away_defence": 0.931,
     "league_base": 2.032,
     "home_advantage": 1.262
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   },
   "xresult_win_home_pct": 25.7,
@@ -629,6 +653,14 @@
     "away_defence": 1.129,
     "league_base": 2.032,
     "home_advantage": 1.262
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   },
   "xresult_win_home_pct": 48.0,
@@ -798,6 +830,14 @@
     "away_defence": 0.958,
     "league_base": 2.032,
     "home_advantage": 1.262
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   },
   "xresult_win_home_pct": 86.1,
@@ -967,6 +1007,14 @@
     "away_defence": 0.997,
     "league_base": 2.032,
     "home_advantage": 1.262
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   },
   "xresult_win_home_pct": 46.3,
@@ -1136,6 +1184,14 @@
     "away_defence": 1.042,
     "league_base": 2.032,
     "home_advantage": 1.262
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   },
   "xresult_win_home_pct": 51.1,
@@ -1305,6 +1361,14 @@
     "away_defence": 1.002,
     "league_base": 1.615,
     "home_advantage": 1.286
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   },
   "xresult_win_home_pct": 78.2,
@@ -1474,6 +1538,14 @@
     "away_defence": 1.13,
     "league_base": 1.615,
     "home_advantage": 1.286
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   },
   "xresult_win_home_pct": 67.7,
@@ -1643,6 +1715,14 @@
     "away_defence": 1.049,
     "league_base": 1.635,
     "home_advantage": 1.309
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   },
   "xresult_win_home_pct": 51.5,
@@ -1812,6 +1892,14 @@
     "away_defence": 1.028,
     "league_base": 1.649,
     "home_advantage": 1.325
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   },
   "xresult_win_home_pct": 89.6,
@@ -1981,6 +2069,14 @@
     "away_defence": 1.112,
     "league_base": 1.649,
     "home_advantage": 1.325
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   },
   "xresult_win_home_pct": 41.3,
@@ -2150,6 +2246,14 @@
     "away_defence": 0.781,
     "league_base": 1.649,
     "home_advantage": 1.325
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   },
   "xresult_win_home_pct": 33.8,
@@ -2319,6 +2423,14 @@
     "away_defence": 0.906,
     "league_base": 1.649,
     "home_advantage": 1.325
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   },
   "xresult_win_home_pct": 22.9,
@@ -2488,6 +2600,14 @@
     "away_defence": 0.904,
     "league_base": 1.649,
     "home_advantage": 1.325
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   },
   "xresult_win_home_pct": 23.8,
@@ -2657,6 +2777,14 @@
     "away_defence": 0.826,
     "league_base": 1.649,
     "home_advantage": 1.325
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   },
   "xresult_win_home_pct": 3.2,
@@ -2826,6 +2954,14 @@
     "away_defence": 0.92,
     "league_base": 1.583,
     "home_advantage": 1.357
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   },
   "xresult_win_home_pct": 1.4,
@@ -2995,6 +3131,14 @@
     "away_defence": 1.075,
     "league_base": 1.583,
     "home_advantage": 1.357
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   },
   "xresult_win_home_pct": 61.9,
@@ -3077,48 +3221,48 @@
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 2.042,
-  "pred_xg_away": 1.408,
-  "win_home_pct": 52.1,
-  "draw_pct": 21.6,
-  "win_away_pct": 26.3,
-  "xpts_home": 1.78,
-  "xpts_away": 1.01,
+  "pred_xg_home": 1.958,
+  "pred_xg_away": 1.413,
+  "win_home_pct": 50.2,
+  "draw_pct": 22.1,
+  "win_away_pct": 27.7,
+  "xpts_home": 1.73,
+  "xpts_away": 1.05,
   "most_likely_scoreline": [
-   2,
+   1,
    1
   ],
   "top_5_scorelines": [
    [
-    2,
-    1,
-    9.32
-   ],
-   [
     1,
     1,
-    9.23
+    9.6
    ],
    [
     2,
+    1,
+    9.3
+   ],
+   [
+    1,
+    2,
+    6.72
+   ],
+   [
+    1,
     0,
     6.62
    ],
    [
     2,
-    2,
-    6.56
-   ],
-   [
-    1,
-    2,
-    6.43
+    0,
+    6.58
    ]
   ],
-  "over_2_5_pct": 67.0,
-  "btts_pct": 65.8,
+  "over_2_5_pct": 65.5,
+  "btts_pct": 65.1,
   "reasoning": {
-   "thesis": "Union Berlin are clear favourites, projected 0.63 goals better than Schalke 04 on the day, which prices the win at 52%. Projected 2.04-1.41 on expected goals, with 2-1 the single most likely scoreline at 9.3%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
+   "thesis": "Union Berlin are clear favourites, projected 0.54 goals better than Schalke 04 on the day, which prices the win at 50%. Union Berlin are missing Ilic, Markgraf, Imeri and 4 others; weighting the absentees by value against the depth behind them, the model marks their attack down 4% for this fixture. Projected 1.96-1.41 on expected goals, with 1-1 the single most likely scoreline at 9.6%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
    "confidence": {
     "level": "very low",
     "note": "too few matches played to move the ratings much; these are close to last season's, regressed toward the mean",
@@ -3134,15 +3278,21 @@
     },
     {
      "side": "home",
+     "label": "Union Berlin unavailable",
+     "detail": "Ilic, Markgraf, Imeri and 4 others out (0.96x attack)",
+     "delta_goals": -0.059
+    },
+    {
+     "side": "home",
      "label": "Schalke 04 defence",
      "detail": "leaky (1.08x league average conceded)",
-     "delta_goals": 0.12
+     "delta_goals": 0.115
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.30x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.468
+     "delta_goals": 0.449
     },
     {
      "side": "away",
@@ -3155,6 +3305,12 @@
      "label": "Union Berlin defence",
      "detail": "leaky (1.11x league average conceded)",
      "delta_goals": 0.141
+    },
+    {
+     "side": "away",
+     "label": "Union Berlin defence weakened",
+     "detail": "Ilic, Markgraf, Imeri and 4 others out (1.00x conceded)",
+     "delta_goals": 0.005
     }
    ],
    "rating_snapshot": {
@@ -3164,6 +3320,25 @@
     "away_defence": 1.083,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 0.959,
+    "home_defence_mult": 1.004,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Andrej Ilic",
+     "Andrik Markgraf",
+     "Kastriot Imeri",
+     "Marvin Friedrich",
+     "Oliver Burke",
+     "Robert Skov",
+     "Stanley N'Soki"
+    ],
+    "away_missing": [
+     "Adrian Gantenbein",
+     "Bryan Lasme"
+    ]
    }
   }
  },
@@ -3203,13 +3378,13 @@
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 2.028,
-  "pred_xg_away": 2.095,
-  "win_home_pct": 38.5,
+  "pred_xg_home": 2.038,
+  "pred_xg_away": 2.083,
+  "win_home_pct": 38.9,
   "draw_pct": 20.5,
-  "win_away_pct": 41.0,
-  "xpts_home": 1.36,
-  "xpts_away": 1.44,
+  "win_away_pct": 40.6,
+  "xpts_home": 1.37,
+  "xpts_away": 1.42,
   "most_likely_scoreline": [
    2,
    2
@@ -3223,28 +3398,28 @@
    [
     1,
     2,
-    7.21
+    7.18
    ],
    [
     2,
     1,
-    6.98
+    7.02
    ],
    [
     1,
     1,
-    6.95
+    6.96
    ],
    [
     2,
     3,
-    5.1
+    5.08
    ]
   ],
   "over_2_5_pct": 77.9,
   "btts_pct": 76.2,
   "reasoning": {
-   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.07 goals, and the most likely single outcome is a draw at 20%. Projected 2.03-2.10 on expected goals, with 2-2 the single most likely scoreline at 7.3%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
+   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.05 goals, and the most likely single outcome is a draw at 20%. Bayer Leverkusen are without Ben Seghir, Dou\u00e9, Eichhorn and 2 others, which the model treats as a marginal cost given the cover behind them. Projected 2.04-2.08 on expected goals, with 2-2 the single most likely scoreline at 7.3%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
    "confidence": {
     "level": "very low",
     "note": "too few matches played to move the ratings much; these are close to last season's, regressed toward the mean",
@@ -3266,9 +3441,15 @@
     },
     {
      "side": "home",
+     "label": "Bayer Leverkusen defence weakened",
+     "detail": "Ben Seghir, Dou\u00e9, Eichhorn and 2 others out (1.00x conceded)",
+     "delta_goals": 0.007
+    },
+    {
+     "side": "home",
      "label": "Home advantage",
      "detail": "1.30x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.465
+     "delta_goals": 0.467
     },
     {
      "side": "away",
@@ -3278,9 +3459,15 @@
     },
     {
      "side": "away",
+     "label": "Bayer Leverkusen unavailable",
+     "detail": "Ben Seghir, Dou\u00e9, Eichhorn and 2 others out (0.99x attack)",
+     "delta_goals": -0.011
+    },
+    {
+     "side": "away",
      "label": "Augsburg defence",
      "detail": "solid (1.04x league average conceded)",
-     "delta_goals": 0.08
+     "delta_goals": 0.079
     }
    ],
    "rating_snapshot": {
@@ -3290,6 +3477,23 @@
     "away_defence": 0.836,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 0.994,
+    "away_defence_mult": 1.005,
+    "home_missing": [
+     "Sima Suso",
+     "Tim Breithaupt"
+    ],
+    "away_missing": [
+     "Eliesse Ben Seghir",
+     "Gu\u00e9la Dou\u00e9",
+     "Kennet Eichhorn",
+     "Montrell Culbreath",
+     "Nathan Tella"
+    ]
    }
   }
  },
@@ -3329,48 +3533,48 @@
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 2.241,
-  "pred_xg_away": 0.986,
-  "win_home_pct": 65.6,
-  "draw_pct": 19.1,
-  "win_away_pct": 15.2,
-  "xpts_home": 2.16,
-  "xpts_away": 0.65,
+  "pred_xg_home": 2.218,
+  "pred_xg_away": 1.055,
+  "win_home_pct": 63.6,
+  "draw_pct": 19.6,
+  "win_away_pct": 16.8,
+  "xpts_home": 2.1,
+  "xpts_away": 0.7,
   "most_likely_scoreline": [
    2,
-   0
+   1
   ],
   "top_5_scorelines": [
    [
     2,
-    0,
-    9.96
+    1,
+    9.83
    ],
    [
     2,
-    1,
-    9.82
+    0,
+    9.32
    ],
    [
     1,
     1,
-    8.86
+    8.96
    ],
    [
     1,
     0,
-    8.8
+    8.31
    ],
    [
     3,
-    0,
-    7.44
+    1,
+    7.27
    ]
   ],
-  "over_2_5_pct": 62.6,
-  "btts_pct": 56.1,
+  "over_2_5_pct": 63.5,
+  "btts_pct": 58.2,
   "reasoning": {
-   "thesis": "Borussia Dortmund should win comfortably. The model has them 1.26 goals clear of Paderborn, a 66% win probability. Projected 2.24-0.99 on expected goals, with 2-0 the single most likely scoreline at 10.0%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
+   "thesis": "Borussia Dortmund should win comfortably. The model has them 1.16 goals clear of Paderborn, a 64% win probability. Borussia Dortmund are without Can, Mane, Konstantelias and 3 others, which the model treats as a marginal cost given the cover behind them. Paderborn are without G\u00f6tze, Awortwie-Grant, Klaas and 2 others, which the model treats as a marginal cost given the cover behind them. Projected 2.22-1.05 on expected goals, with 2-1 the single most likely scoreline at 9.8%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
    "confidence": {
     "level": "very low",
     "note": "too few matches played to move the ratings much; these are close to last season's, regressed toward the mean",
@@ -3386,15 +3590,27 @@
     },
     {
      "side": "home",
+     "label": "Borussia Dortmund unavailable",
+     "detail": "Can, Mane, Konstantelias and 3 others out (0.98x attack)",
+     "delta_goals": -0.033
+    },
+    {
+     "side": "home",
      "label": "Paderborn defence",
      "detail": "solid (0.94x league average conceded)",
-     "delta_goals": -0.117
+     "delta_goals": -0.115
+    },
+    {
+     "side": "home",
+     "label": "Paderborn defence weakened",
+     "detail": "G\u00f6tze, Awortwie-Grant, Klaas and 2 others out (1.01x conceded)",
+     "delta_goals": 0.014
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.30x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.513
+     "delta_goals": 0.508
     },
     {
      "side": "away",
@@ -3404,9 +3620,21 @@
     },
     {
      "side": "away",
+     "label": "Paderborn unavailable",
+     "detail": "G\u00f6tze, Awortwie-Grant, Klaas and 2 others out (1.00x attack)",
+     "delta_goals": -0.002
+    },
+    {
+     "side": "away",
      "label": "Borussia Dortmund defence",
      "detail": "strong (0.81x league average conceded)",
-     "delta_goals": -0.23
+     "delta_goals": -0.229
+    },
+    {
+     "side": "away",
+     "label": "Borussia Dortmund defence weakened",
+     "detail": "Can, Mane, Konstantelias and 3 others out (1.07x conceded)",
+     "delta_goals": 0.07
     }
    ],
    "rating_snapshot": {
@@ -3416,6 +3644,27 @@
     "away_defence": 0.936,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 0.982,
+    "home_defence_mult": 1.072,
+    "away_attack_mult": 0.998,
+    "away_defence_mult": 1.008,
+    "home_missing": [
+     "Emre Can",
+     "Filippo Mane",
+     "Giannis Konstantelias",
+     "Justin Lerma",
+     "Nico Schlotterbeck",
+     "Ramy Bensebaini"
+    ],
+    "away_missing": [
+     "Felix G\u00f6tze",
+     "Nyamekye Awortwie-Grant",
+     "Sebastian Klaas",
+     "Sven Michel",
+     "Timur Gayret"
+    ]
    }
   }
  },
@@ -3455,13 +3704,13 @@
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 2.591,
-  "pred_xg_away": 1.233,
-  "win_home_pct": 66.5,
-  "draw_pct": 17.3,
-  "win_away_pct": 16.2,
-  "xpts_home": 2.17,
-  "xpts_away": 0.66,
+  "pred_xg_home": 2.602,
+  "pred_xg_away": 1.21,
+  "win_home_pct": 67.2,
+  "draw_pct": 17.1,
+  "win_away_pct": 15.7,
+  "xpts_home": 2.19,
+  "xpts_away": 0.64,
   "most_likely_scoreline": [
    2,
    1
@@ -3470,33 +3719,33 @@
    [
     2,
     1,
-    9.04
+    9.05
    ],
    [
     3,
     1,
-    7.81
+    7.85
    ],
    [
     2,
     0,
-    7.33
+    7.48
    ],
    [
     1,
     1,
-    7.05
+    7.03
    ],
    [
     3,
     0,
-    6.34
+    6.49
    ]
   ],
-  "over_2_5_pct": 73.5,
-  "btts_pct": 65.6,
+  "over_2_5_pct": 73.3,
+  "btts_pct": 65.1,
   "reasoning": {
-   "thesis": "Freiburg should win comfortably. The model has them 1.36 goals clear of Borussia M\u00f6nchengladbach, a 66% win probability. Projected 2.59-1.23 on expected goals, with 2-1 the single most likely scoreline at 9.0%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
+   "thesis": "Freiburg should win comfortably. The model has them 1.39 goals clear of Borussia M\u00f6nchengladbach, a 67% win probability. Freiburg are without Muslija, Osterhage, Yamamoto, which the model treats as a marginal cost given the cover behind them. Borussia M\u00f6nchengladbach are missing Hashioka, Leopold, Chiarodia and 3 others; weighting the absentees by value against the depth behind them, the model marks their attack down 2% for this fixture. Projected 2.60-1.21 on expected goals, with 2-1 the single most likely scoreline at 9.1%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
    "confidence": {
     "level": "very low",
     "note": "too few matches played to move the ratings much; these are close to last season's, regressed toward the mean",
@@ -3512,15 +3761,27 @@
     },
     {
      "side": "home",
+     "label": "Freiburg unavailable",
+     "detail": "Muslija, Osterhage, Yamamoto out (0.99x attack)",
+     "delta_goals": -0.015
+    },
+    {
+     "side": "home",
      "label": "Borussia M\u00f6nchengladbach defence",
      "detail": "leaky (1.18x league average conceded)",
-     "delta_goals": 0.305
+     "delta_goals": 0.302
+    },
+    {
+     "side": "home",
+     "label": "Borussia M\u00f6nchengladbach defence weakened",
+     "detail": "Hashioka, Leopold, Chiarodia and 3 others out (1.01x conceded)",
+     "delta_goals": 0.026
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.30x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.594
+     "delta_goals": 0.596
     },
     {
      "side": "away",
@@ -3530,9 +3791,21 @@
     },
     {
      "side": "away",
+     "label": "Borussia M\u00f6nchengladbach unavailable",
+     "detail": "Hashioka, Leopold, Chiarodia and 3 others out (0.98x attack)",
+     "delta_goals": -0.035
+    },
+    {
+     "side": "away",
      "label": "Freiburg defence",
      "detail": "strong (0.83x league average conceded)",
-     "delta_goals": -0.254
+     "delta_goals": -0.248
+    },
+    {
+     "side": "away",
+     "label": "Freiburg defence weakened",
+     "detail": "Muslija, Osterhage, Yamamoto out (1.01x conceded)",
+     "delta_goals": 0.006
     }
    ],
    "rating_snapshot": {
@@ -3542,6 +3815,25 @@
     "away_defence": 1.18,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 0.991,
+    "home_defence_mult": 1.005,
+    "away_attack_mult": 0.977,
+    "away_defence_mult": 1.013,
+    "home_missing": [
+     "Florent Muslija",
+     "Patrick Osterhage",
+     "Rihito Yamamoto"
+    ],
+    "away_missing": [
+     "Daiki Hashioka",
+     "Enzo Leopold",
+     "Fabio Chiarodia",
+     "Jens Castrop",
+     "Yukhym Konoplya",
+     "Zento Uno"
+    ]
    }
   }
  },
@@ -3581,13 +3873,13 @@
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 2.599,
-  "pred_xg_away": 2.079,
-  "win_home_pct": 49.9,
-  "draw_pct": 18.6,
-  "win_away_pct": 31.4,
-  "xpts_home": 1.68,
-  "xpts_away": 1.13,
+  "pred_xg_home": 2.705,
+  "pred_xg_away": 2.082,
+  "win_home_pct": 51.8,
+  "draw_pct": 18.2,
+  "win_away_pct": 30.0,
+  "xpts_home": 1.74,
+  "xpts_away": 1.08,
   "most_likely_scoreline": [
    2,
    2
@@ -3596,33 +3888,33 @@
    [
     2,
     2,
-    6.79
+    6.61
    ],
    [
     2,
     1,
-    6.53
+    6.35
    ],
    [
     3,
     2,
-    5.88
+    5.96
    ],
    [
     3,
     1,
-    5.66
+    5.73
    ],
    [
     1,
     2,
-    5.22
+    4.89
    ]
   ],
-  "over_2_5_pct": 84.5,
-  "btts_pct": 81.0,
+  "over_2_5_pct": 85.6,
+  "btts_pct": 81.7,
   "reasoning": {
-   "thesis": "Hoffenheim are clear favourites, projected 0.52 goals better than VfB Stuttgart on the day, which prices the win at 50%. Projected 2.60-2.08 on expected goals, with 2-2 the single most likely scoreline at 6.8%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
+   "thesis": "Hoffenheim are clear favourites, projected 0.62 goals better than VfB Stuttgart on the day, which prices the win at 52%. Hoffenheim are missing Prass, Asllani; weighting the absentees by value against the depth behind them, the model marks their attack down 7% for this fixture. VfB Stuttgart are without Zagadou, Seimen, Assignon and 2 others, which the model treats as a marginal cost given the cover behind them. Projected 2.71-2.08 on expected goals, with 2-2 the single most likely scoreline at 6.6%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
    "confidence": {
     "level": "very low",
     "note": "too few matches played to move the ratings much; these are close to last season's, regressed toward the mean",
@@ -3638,15 +3930,27 @@
     },
     {
      "side": "home",
+     "label": "Hoffenheim unavailable",
+     "detail": "Prass, Asllani out (0.93x attack)",
+     "delta_goals": -0.126
+    },
+    {
+     "side": "home",
      "label": "VfB Stuttgart defence",
      "detail": "leaky (1.12x league average conceded)",
-     "delta_goals": 0.22
+     "delta_goals": 0.204
+    },
+    {
+     "side": "home",
+     "label": "VfB Stuttgart defence weakened",
+     "detail": "Zagadou, Seimen, Assignon and 2 others out (1.12x conceded)",
+     "delta_goals": 0.223
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.30x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.595
+     "delta_goals": 0.62
     },
     {
      "side": "away",
@@ -3656,9 +3960,21 @@
     },
     {
      "side": "away",
+     "label": "VfB Stuttgart unavailable",
+     "detail": "Zagadou, Seimen, Assignon and 2 others out (0.99x attack)",
+     "delta_goals": -0.01
+    },
+    {
+     "side": "away",
      "label": "Hoffenheim defence",
      "detail": "solid (1.04x league average conceded)",
      "delta_goals": 0.086
+    },
+    {
+     "side": "away",
+     "label": "Hoffenheim defence weakened",
+     "detail": "Prass, Asllani out (1.01x conceded)",
+     "delta_goals": 0.013
     }
    ],
    "rating_snapshot": {
@@ -3668,6 +3984,23 @@
     "away_defence": 1.123,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 0.929,
+    "home_defence_mult": 1.006,
+    "away_attack_mult": 0.995,
+    "away_defence_mult": 1.12,
+    "home_missing": [
+     "Alexander Prass",
+     "Fisnik Asllani"
+    ],
+    "away_missing": [
+     "Dan-Axel Zagadou",
+     "Dennis Seimen",
+     "Lorenz Assignon",
+     "Luca Jaquez",
+     "Tiago Tom\u00e1s"
+    ]
    }
   }
  },
@@ -3707,13 +4040,13 @@
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 2.466,
-  "pred_xg_away": 1.297,
-  "win_home_pct": 62.9,
-  "draw_pct": 18.4,
-  "win_away_pct": 18.6,
-  "xpts_home": 2.07,
-  "xpts_away": 0.74,
+  "pred_xg_home": 2.527,
+  "pred_xg_away": 1.249,
+  "win_home_pct": 65.1,
+  "draw_pct": 17.8,
+  "win_away_pct": 17.1,
+  "xpts_home": 2.13,
+  "xpts_away": 0.69,
   "most_likely_scoreline": [
    2,
    1
@@ -3722,33 +4055,33 @@
    [
     2,
     1,
-    9.16
+    9.14
    ],
    [
     3,
     1,
-    7.53
-   ],
-   [
-    1,
-    1,
-    7.51
+    7.7
    ],
    [
     2,
     0,
-    7.06
+    7.32
    ],
    [
-    2,
-    2,
-    5.94
+    1,
+    1,
+    7.31
+   ],
+   [
+    3,
+    0,
+    6.16
    ]
   ],
-  "over_2_5_pct": 72.5,
-  "btts_pct": 66.6,
+  "over_2_5_pct": 72.7,
+  "btts_pct": 65.7,
   "reasoning": {
-   "thesis": "Mainz 05 should win comfortably. The model has them 1.17 goals clear of Eintracht Frankfurt, a 63% win probability. Projected 2.47-1.30 on expected goals, with 2-1 the single most likely scoreline at 9.2%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
+   "thesis": "Mainz 05 should win comfortably. The model has them 1.28 goals clear of Eintracht Frankfurt, a 65% win probability. Mainz 05 are without Kohr, Martel, Nebel and 1 others, which the model treats as a marginal cost given the cover behind them. Eintracht Frankfurt are missing Knauff, Ngankam, Collins; weighting the absentees by value against the depth behind them, the model marks their attack down 6% for this fixture. Projected 2.53-1.25 on expected goals, with 2-1 the single most likely scoreline at 9.1%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
    "confidence": {
     "level": "very low",
     "note": "too few matches played to move the ratings much; these are close to last season's, regressed toward the mean",
@@ -3764,15 +4097,27 @@
     },
     {
      "side": "home",
+     "label": "Mainz 05 unavailable",
+     "detail": "Kohr, Martel, Nebel and 1 others out (0.98x attack)",
+     "delta_goals": -0.033
+    },
+    {
+     "side": "home",
      "label": "Eintracht Frankfurt defence",
      "detail": "leaky (1.06x league average conceded)",
-     "delta_goals": 0.105
+     "delta_goals": 0.103
+    },
+    {
+     "side": "home",
+     "label": "Eintracht Frankfurt defence weakened",
+     "detail": "Knauff, Ngankam, Collins out (1.04x conceded)",
+     "delta_goals": 0.082
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.30x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.565
+     "delta_goals": 0.579
     },
     {
      "side": "away",
@@ -3782,9 +4127,21 @@
     },
     {
      "side": "away",
+     "label": "Eintracht Frankfurt unavailable",
+     "detail": "Knauff, Ngankam, Collins out (0.94x attack)",
+     "delta_goals": -0.097
+    },
+    {
+     "side": "away",
      "label": "Mainz 05 defence",
      "detail": "strong (0.80x league average conceded)",
-     "delta_goals": -0.32
+     "delta_goals": -0.301
+    },
+    {
+     "side": "away",
+     "label": "Mainz 05 defence weakened",
+     "detail": "Kohr, Martel, Nebel and 1 others out (1.02x conceded)",
+     "delta_goals": 0.03
     }
    ],
    "rating_snapshot": {
@@ -3794,6 +4151,23 @@
     "away_defence": 1.059,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 0.982,
+    "home_defence_mult": 1.025,
+    "away_attack_mult": 0.94,
+    "away_defence_mult": 1.044,
+    "home_missing": [
+     "Dominik Kohr",
+     "Eric Martel",
+     "Paul Nebel",
+     "Silas Katompa Mvumpa"
+    ],
+    "away_missing": [
+     "Ansgar Knauff",
+     "Jessic Ngankam",
+     "Nnamdi Collins"
+    ]
    }
   }
  },
@@ -3833,13 +4207,13 @@
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 2.344,
-  "pred_xg_away": 1.574,
-  "win_home_pct": 54.8,
-  "draw_pct": 19.8,
-  "win_away_pct": 25.4,
-  "xpts_home": 1.84,
-  "xpts_away": 0.96,
+  "pred_xg_home": 2.373,
+  "pred_xg_away": 1.43,
+  "win_home_pct": 58.4,
+  "draw_pct": 19.4,
+  "win_away_pct": 22.2,
+  "xpts_home": 1.95,
+  "xpts_away": 0.86,
   "most_likely_scoreline": [
    2,
    1
@@ -3848,33 +4222,33 @@
    [
     2,
     1,
-    8.6
+    8.98
    ],
    [
     1,
     1,
-    7.41
-   ],
-   [
-    2,
-    2,
-    6.77
+    7.65
    ],
    [
     3,
     1,
-    6.72
+    7.1
    ],
    [
-    1,
     2,
-    5.77
+    2,
+    6.42
+   ],
+   [
+    2,
+    0,
+    6.28
    ]
   ],
-  "over_2_5_pct": 75.0,
-  "btts_pct": 71.7,
+  "over_2_5_pct": 73.2,
+  "btts_pct": 69.1,
   "reasoning": {
-   "thesis": "1. FC K\u00f6ln are clear favourites, projected 0.77 goals better than Werder Bremen on the day, which prices the win at 55%. Projected 2.34-1.57 on expected goals, with 2-1 the single most likely scoreline at 8.6%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
+   "thesis": "1. FC K\u00f6ln should win comfortably. The model has them 0.94 goals clear of Werder Bremen, a 58% win probability. 1. FC K\u00f6ln are without Waldschmidt, Sebulonsen, Dallinga and 1 others, which the model treats as a marginal cost given the cover behind them. Werder Bremen are missing Agu, Stage, Njinmah and 2 others; weighting the absentees by value against the depth behind them, the model marks their attack down 10% for this fixture. Projected 2.37-1.43 on expected goals, with 2-1 the single most likely scoreline at 9.0%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
    "confidence": {
     "level": "very low",
     "note": "too few matches played to move the ratings much; these are close to last season's, regressed toward the mean",
@@ -3890,15 +4264,27 @@
     },
     {
      "side": "home",
+     "label": "1. FC K\u00f6ln unavailable",
+     "detail": "Waldschmidt, Sebulonsen, Dallinga and 1 others out (0.98x attack)",
+     "delta_goals": -0.033
+    },
+    {
+     "side": "home",
      "label": "Werder Bremen defence",
      "detail": "solid (1.03x league average conceded)",
-     "delta_goals": 0.05
+     "delta_goals": 0.049
+    },
+    {
+     "side": "home",
+     "label": "Werder Bremen defence weakened",
+     "detail": "Agu, Stage, Njinmah and 2 others out (1.03x conceded)",
+     "delta_goals": 0.056
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.30x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.537
+     "delta_goals": 0.543
     },
     {
      "side": "away",
@@ -3908,9 +4294,21 @@
     },
     {
      "side": "away",
+     "label": "Werder Bremen unavailable",
+     "detail": "Agu, Stage, Njinmah and 2 others out (0.90x attack)",
+     "delta_goals": -0.144
+    },
+    {
+     "side": "away",
      "label": "1. FC K\u00f6ln defence",
      "detail": "leaky (1.14x league average conceded)",
-     "delta_goals": 0.195
+     "delta_goals": 0.175
+    },
+    {
+     "side": "away",
+     "label": "1. FC K\u00f6ln defence weakened",
+     "detail": "Waldschmidt, Sebulonsen, Dallinga and 1 others out (1.01x conceded)",
+     "delta_goals": 0.021
     }
    ],
    "rating_snapshot": {
@@ -3920,6 +4318,25 @@
     "away_defence": 1.028,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 0.981,
+    "home_defence_mult": 1.015,
+    "away_attack_mult": 0.895,
+    "away_defence_mult": 1.032,
+    "home_missing": [
+     "Gian-Luca Waldschmidt",
+     "Sebastian Sebulonsen",
+     "Thijs Dallinga",
+     "Timo H\u00fcbers"
+    ],
+    "away_missing": [
+     "Felix Agu",
+     "Jens Stage",
+     "Justin Njinmah",
+     "Keke Topp",
+     "Oskar W\u00f3jcik"
+    ]
    }
   }
  },
@@ -3959,13 +4376,13 @@
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 2.883,
-  "pred_xg_away": 1.101,
-  "win_home_pct": 73.9,
-  "draw_pct": 14.6,
-  "win_away_pct": 11.5,
-  "xpts_home": 2.36,
-  "xpts_away": 0.49,
+  "pred_xg_home": 2.877,
+  "pred_xg_away": 1.054,
+  "win_home_pct": 74.7,
+  "draw_pct": 14.4,
+  "win_away_pct": 10.9,
+  "xpts_home": 2.39,
+  "xpts_away": 0.47,
   "most_likely_scoreline": [
    2,
    1
@@ -3974,33 +4391,33 @@
    [
     2,
     1,
-    8.52
+    8.56
    ],
    [
     3,
     1,
-    8.19
+    8.21
    ],
    [
     2,
     0,
-    7.74
+    8.12
    ],
    [
     3,
     0,
-    7.44
+    7.79
    ],
    [
     1,
     1,
-    5.97
+    6.01
    ]
   ],
-  "over_2_5_pct": 75.9,
-  "btts_pct": 63.1,
+  "over_2_5_pct": 75.2,
+  "btts_pct": 61.5,
   "reasoning": {
-   "thesis": "RB Leipzig should win comfortably. The model has them 1.78 goals clear of Hamburger SV, a 74% win probability. Projected 2.88-1.10 on expected goals, with 2-1 the single most likely scoreline at 8.5%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
+   "thesis": "RB Leipzig should win comfortably. The model has them 1.82 goals clear of Hamburger SV, a 75% win probability. RB Leipzig are without Ou\u00e9draogo, Baumgartner, Reitz and 1 others, which the model treats as a marginal cost given the cover behind them. Hamburger SV are missing R\u00f8ssing, Muheim, Omari; weighting the absentees by value against the depth behind them, the model marks their attack down 4% for this fixture. Projected 2.88-1.05 on expected goals, with 2-1 the single most likely scoreline at 8.6%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
    "confidence": {
     "level": "very low",
     "note": "too few matches played to move the ratings much; these are close to last season's, regressed toward the mean",
@@ -4016,15 +4433,27 @@
     },
     {
      "side": "home",
+     "label": "RB Leipzig unavailable",
+     "detail": "Ou\u00e9draogo, Baumgartner, Reitz and 1 others out (0.99x attack)",
+     "delta_goals": -0.012
+    },
+    {
+     "side": "home",
      "label": "Hamburger SV defence",
      "detail": "leaky (1.13x league average conceded)",
-     "delta_goals": 0.264
+     "delta_goals": 0.262
+    },
+    {
+     "side": "home",
+     "label": "Hamburger SV defence weakened",
+     "detail": "R\u00f8ssing, Muheim, Omari out (1.00x conceded)",
+     "delta_goals": 0.009
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.30x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.66
+     "delta_goals": 0.659
     },
     {
      "side": "away",
@@ -4034,9 +4463,21 @@
     },
     {
      "side": "away",
+     "label": "Hamburger SV unavailable",
+     "detail": "R\u00f8ssing, Muheim, Omari out (0.96x attack)",
+     "delta_goals": -0.053
+    },
+    {
+     "side": "away",
      "label": "RB Leipzig defence",
      "detail": "strong (0.91x league average conceded)",
-     "delta_goals": -0.103
+     "delta_goals": -0.099
+    },
+    {
+     "side": "away",
+     "label": "RB Leipzig defence weakened",
+     "detail": "Ou\u00e9draogo, Baumgartner, Reitz and 1 others out (1.00x conceded)",
+     "delta_goals": 0.001
     }
    ],
    "rating_snapshot": {
@@ -4046,6 +4487,23 @@
     "away_defence": 1.135,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 0.994,
+    "home_defence_mult": 1.001,
+    "away_attack_mult": 0.956,
+    "away_defence_mult": 1.004,
+    "home_missing": [
+     "Assan Ou\u00e9draogo",
+     "Christoph Baumgartner",
+     "Rocco Reitz",
+     "R\u00f4mulo"
+    ],
+    "away_missing": [
+     "Alexander R\u00f8ssing",
+     "Miro Muheim",
+     "Warmed Omari"
+    ]
    }
   }
  },
@@ -4172,6 +4630,18 @@
     "away_defence": 0.729,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Tom Zimmerschied"
+    ],
+    "away_missing": [
+     "Serge Gnabry"
+    ]
    }
   }
  },
@@ -4298,6 +4768,16 @@
     "away_defence": 1.111,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Andrik Markgraf"
+    ]
    }
   }
  },
@@ -4337,13 +4817,13 @@
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 1.546,
-  "pred_xg_away": 2.119,
-  "win_home_pct": 28.1,
-  "draw_pct": 21.1,
-  "win_away_pct": 50.8,
-  "xpts_home": 1.05,
-  "xpts_away": 1.74,
+  "pred_xg_home": 1.583,
+  "pred_xg_away": 2.081,
+  "win_home_pct": 29.5,
+  "draw_pct": 21.3,
+  "win_away_pct": 49.3,
+  "xpts_home": 1.1,
+  "xpts_away": 1.69,
   "most_likely_scoreline": [
    1,
    2
@@ -4352,33 +4832,33 @@
    [
     1,
     2,
-    8.89
+    8.78
    ],
    [
     1,
     1,
-    8.48
+    8.53
    ],
    [
     2,
     2,
-    6.87
+    6.95
    ],
    [
     2,
     1,
-    6.49
+    6.68
    ],
    [
     1,
     3,
-    6.28
+    6.09
    ]
   ],
   "over_2_5_pct": 70.9,
-  "btts_pct": 69.3,
+  "btts_pct": 69.6,
   "reasoning": {
-   "thesis": "Mainz 05 are clear favourites, projected 0.57 goals better than Borussia M\u00f6nchengladbach on the day, which prices the win at 51%. Projected 1.55-2.12 on expected goals, with 1-2 the single most likely scoreline at 8.9%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
+   "thesis": "Mainz 05 are clear favourites, projected 0.50 goals better than Borussia M\u00f6nchengladbach on the day, which prices the win at 49%. Mainz 05 are without Kohr, Nebel, which the model treats as a marginal cost given the cover behind them. Projected 1.58-2.08 on expected goals, with 1-2 the single most likely scoreline at 8.8%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
    "confidence": {
     "level": "very low",
     "note": "too few matches played to move the ratings much; these are close to last season's, regressed toward the mean",
@@ -4400,9 +4880,15 @@
     },
     {
      "side": "home",
+     "label": "Mainz 05 defence weakened",
+     "detail": "Kohr, Nebel out (1.02x conceded)",
+     "delta_goals": 0.029
+    },
+    {
+     "side": "home",
      "label": "Home advantage",
      "detail": "1.30x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.354
+     "delta_goals": 0.363
     },
     {
      "side": "away",
@@ -4412,9 +4898,15 @@
     },
     {
      "side": "away",
+     "label": "Mainz 05 unavailable",
+     "detail": "Kohr, Nebel out (0.98x attack)",
+     "delta_goals": -0.032
+    },
+    {
+     "side": "away",
      "label": "Borussia M\u00f6nchengladbach defence",
      "detail": "leaky (1.18x league average conceded)",
-     "delta_goals": 0.323
+     "delta_goals": 0.317
     }
    ],
    "rating_snapshot": {
@@ -4424,6 +4916,20 @@
     "away_defence": 0.802,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 0.982,
+    "away_defence_mult": 1.024,
+    "home_missing": [
+     "Enzo Leopold",
+     "Fabio Chiarodia"
+    ],
+    "away_missing": [
+     "Dominik Kohr",
+     "Paul Nebel"
+    ]
    }
   }
  },
@@ -4550,6 +5056,17 @@
     "away_defence": 0.829,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Florent Muslija",
+     "Rihito Yamamoto"
+    ]
    }
   }
  },
@@ -4676,6 +5193,16 @@
     "away_defence": 1.142,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Timo H\u00fcbers"
+    ]
    }
   }
  },
@@ -4715,13 +5242,13 @@
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 1.859,
-  "pred_xg_away": 1.922,
-  "win_home_pct": 38.0,
-  "draw_pct": 21.5,
-  "win_away_pct": 40.5,
-  "xpts_home": 1.35,
-  "xpts_away": 1.43,
+  "pred_xg_home": 1.668,
+  "pred_xg_away": 1.97,
+  "win_home_pct": 33.0,
+  "draw_pct": 21.8,
+  "win_away_pct": 45.2,
+  "xpts_home": 1.21,
+  "xpts_away": 1.57,
   "most_likely_scoreline": [
    1,
    1
@@ -4730,33 +5257,33 @@
    [
     1,
     1,
-    8.23
+    8.74
    ],
    [
     1,
     2,
-    7.83
+    8.52
    ],
    [
     2,
     1,
-    7.57
+    7.21
    ],
    [
     2,
     2,
-    7.28
+    7.1
    ],
    [
     1,
     3,
-    5.02
+    5.59
    ]
   ],
-  "over_2_5_pct": 72.8,
-  "btts_pct": 72.2,
+  "over_2_5_pct": 70.4,
+  "btts_pct": 69.9,
   "reasoning": {
-   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.06 goals, and the most likely single outcome is a draw at 22%. Projected 1.86-1.92 on expected goals, with 1-1 the single most likely scoreline at 8.2%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
+   "thesis": "Augsburg are marginal favourites, worth about 0.30 goals of edge and a 45% win probability -- a lean, not a call. Werder Bremen are missing Stage, Njinmah, Topp; weighting the absentees by value against the depth behind them, the model marks their attack down 10% for this fixture. Projected 1.67-1.97 on expected goals, with 1-1 the single most likely scoreline at 8.7%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
    "confidence": {
     "level": "very low",
     "note": "too few matches played to move the ratings much; these are close to last season's, regressed toward the mean",
@@ -4772,15 +5299,21 @@
     },
     {
      "side": "home",
+     "label": "Werder Bremen unavailable",
+     "detail": "Stage, Njinmah, Topp out (0.90x attack)",
+     "delta_goals": -0.142
+    },
+    {
+     "side": "home",
      "label": "Augsburg defence",
      "detail": "solid (1.04x league average conceded)",
-     "delta_goals": 0.054
+     "delta_goals": 0.049
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.30x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.426
+     "delta_goals": 0.382
     },
     {
      "side": "away",
@@ -4793,6 +5326,12 @@
      "label": "Werder Bremen defence",
      "detail": "solid (1.03x league average conceded)",
      "delta_goals": 0.053
+    },
+    {
+     "side": "away",
+     "label": "Werder Bremen defence weakened",
+     "detail": "Stage, Njinmah, Topp out (1.02x conceded)",
+     "delta_goals": 0.047
     }
    ],
    "rating_snapshot": {
@@ -4802,6 +5341,18 @@
     "away_defence": 1.039,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 0.897,
+    "home_defence_mult": 1.025,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Jens Stage",
+     "Justin Njinmah",
+     "Keke Topp"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -4841,13 +5392,13 @@
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 2.097,
-  "pred_xg_away": 2.072,
-  "win_home_pct": 40.3,
-  "draw_pct": 20.4,
-  "win_away_pct": 39.3,
-  "xpts_home": 1.41,
-  "xpts_away": 1.38,
+  "pred_xg_home": 2.087,
+  "pred_xg_away": 2.318,
+  "win_home_pct": 35.9,
+  "draw_pct": 19.7,
+  "win_away_pct": 44.4,
+  "xpts_home": 1.27,
+  "xpts_away": 1.53,
   "most_likely_scoreline": [
    2,
    2
@@ -4856,33 +5407,33 @@
    [
     2,
     2,
-    7.3
-   ],
-   [
-    2,
-    1,
-    7.05
+    7.15
    ],
    [
     1,
     2,
-    6.96
+    6.85
+   ],
+   [
+    2,
+    1,
+    6.17
    ],
    [
     1,
     1,
-    6.79
+    5.97
    ],
    [
+    2,
     3,
-    2,
-    5.1
+    5.52
    ]
   ],
-  "over_2_5_pct": 78.6,
-  "btts_pct": 76.7,
+  "over_2_5_pct": 81.5,
+  "btts_pct": 79.0,
   "reasoning": {
-   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.02 goals, and the most likely single outcome is a draw at 20%. Projected 2.10-2.07 on expected goals, with 2-2 the single most likely scoreline at 7.3%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
+   "thesis": "Borussia Dortmund are marginal favourites, worth about 0.23 goals of edge and a 44% win probability -- a lean, not a call. VfB Stuttgart are without Seimen, Tom\u00e1s, which the model treats as a marginal cost given the cover behind them. Projected 2.09-2.32 on expected goals, with 2-2 the single most likely scoreline at 7.2%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
    "confidence": {
     "level": "very low",
     "note": "too few matches played to move the ratings much; these are close to last season's, regressed toward the mean",
@@ -4898,15 +5449,21 @@
     },
     {
      "side": "home",
+     "label": "VfB Stuttgart unavailable",
+     "detail": "Seimen, Tom\u00e1s out (1.00x attack)",
+     "delta_goals": -0.009
+    },
+    {
+     "side": "home",
      "label": "Borussia Dortmund defence",
      "detail": "strong (0.81x league average conceded)",
-     "delta_goals": -0.376
+     "delta_goals": -0.375
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.30x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.48
+     "delta_goals": 0.478
     },
     {
      "side": "away",
@@ -4919,6 +5476,12 @@
      "label": "VfB Stuttgart defence",
      "detail": "leaky (1.12x league average conceded)",
      "delta_goals": 0.227
+    },
+    {
+     "side": "away",
+     "label": "VfB Stuttgart defence weakened",
+     "detail": "Seimen, Tom\u00e1s out (1.12x conceded)",
+     "delta_goals": 0.246
     }
    ],
    "rating_snapshot": {
@@ -4928,6 +5491,21 @@
     "away_defence": 0.811,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 0.995,
+    "home_defence_mult": 1.119,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Dennis Seimen",
+     "Tiago Tom\u00e1s"
+    ],
+    "away_missing": [
+     "Emre Can",
+     "Filippo Mane",
+     "Giannis Konstantelias"
+    ]
    }
   }
  },
@@ -4967,12 +5545,12 @@
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 2.39,
-  "pred_xg_away": 1.639,
-  "win_home_pct": 54.4,
-  "draw_pct": 19.5,
-  "win_away_pct": 26.0,
-  "xpts_home": 1.83,
+  "pred_xg_home": 2.38,
+  "pred_xg_away": 1.641,
+  "win_home_pct": 54.2,
+  "draw_pct": 19.6,
+  "win_away_pct": 26.2,
+  "xpts_home": 1.82,
   "xpts_away": 0.98,
   "most_likely_scoreline": [
    2,
@@ -4982,33 +5560,33 @@
    [
     2,
     1,
-    8.33
+    8.34
    ],
    [
     1,
     1,
-    7.04
+    7.08
    ],
    [
     2,
     2,
-    6.82
+    6.84
    ],
    [
     3,
     1,
-    6.64
+    6.61
    ],
    [
     1,
     2,
-    5.71
+    5.75
    ]
   ],
-  "over_2_5_pct": 76.6,
-  "btts_pct": 73.3,
+  "over_2_5_pct": 76.5,
+  "btts_pct": 73.2,
   "reasoning": {
-   "thesis": "Bayer Leverkusen are clear favourites, projected 0.75 goals better than RB Leipzig on the day, which prices the win at 54%. Projected 2.39-1.64 on expected goals, with 2-1 the single most likely scoreline at 8.3%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
+   "thesis": "Bayer Leverkusen are clear favourites, projected 0.74 goals better than RB Leipzig on the day, which prices the win at 54%. Bayer Leverkusen are without Ben Seghir, Eichhorn, Tella, which the model treats as a marginal cost given the cover behind them. Projected 2.38-1.64 on expected goals, with 2-1 the single most likely scoreline at 8.3%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
    "confidence": {
     "level": "very low",
     "note": "too few matches played to move the ratings much; these are close to last season's, regressed toward the mean",
@@ -5024,15 +5602,21 @@
     },
     {
      "side": "home",
+     "label": "Bayer Leverkusen unavailable",
+     "detail": "Ben Seghir, Eichhorn, Tella out (0.99x attack)",
+     "delta_goals": -0.011
+    },
+    {
+     "side": "home",
      "label": "RB Leipzig defence",
      "detail": "strong (0.91x league average conceded)",
-     "delta_goals": -0.173
+     "delta_goals": -0.172
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.30x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.547
+     "delta_goals": 0.545
     },
     {
      "side": "away",
@@ -5045,6 +5629,12 @@
      "label": "Bayer Leverkusen defence",
      "detail": "strong (0.84x league average conceded)",
      "delta_goals": -0.32
+    },
+    {
+     "side": "away",
+     "label": "Bayer Leverkusen defence weakened",
+     "detail": "Ben Seghir, Eichhorn, Tella out (1.00x conceded)",
+     "delta_goals": 0.005
     }
    ],
    "rating_snapshot": {
@@ -5054,6 +5644,22 @@
     "away_defence": 0.914,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 0.995,
+    "home_defence_mult": 1.003,
+    "away_attack_mult": 0.998,
+    "away_defence_mult": 1.001,
+    "home_missing": [
+     "Eliesse Ben Seghir",
+     "Kennet Eichhorn",
+     "Nathan Tella"
+    ],
+    "away_missing": [
+     "Assan Ou\u00e9draogo",
+     "Christoph Baumgartner",
+     "Rocco Reitz"
+    ]
    }
   }
  },
@@ -5180,6 +5786,16 @@
     "away_defence": 1.157,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Tom Zimmerschied"
+    ]
    }
   }
  },
@@ -5306,6 +5922,18 @@
     "away_defence": 1.043,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Nyamekye Awortwie-Grant",
+     "Sven Michel",
+     "Timur Gayret"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -5432,6 +6060,16 @@
     "away_defence": 1.18,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Enzo Leopold"
+    ]
    }
   }
  },
@@ -5558,6 +6196,14 @@
     "away_defence": 0.729,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -5597,13 +6243,13 @@
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 2.46,
-  "pred_xg_away": 1.118,
-  "win_home_pct": 66.7,
-  "draw_pct": 17.8,
-  "win_away_pct": 15.5,
-  "xpts_home": 2.18,
-  "xpts_away": 0.64,
+  "pred_xg_home": 2.521,
+  "pred_xg_away": 1.003,
+  "win_home_pct": 70.2,
+  "draw_pct": 16.8,
+  "win_away_pct": 12.9,
+  "xpts_home": 2.28,
+  "xpts_away": 0.56,
   "most_likely_scoreline": [
    2,
    1
@@ -5612,33 +6258,33 @@
    [
     2,
     1,
-    9.45
+    9.4
    ],
    [
     2,
     0,
-    8.45
-   ],
-   [
-    1,
-    1,
-    7.76
+    9.37
    ],
    [
     3,
     1,
-    7.75
+    7.9
    ],
    [
     3,
     0,
-    6.93
+    7.87
+   ],
+   [
+    1,
+    1,
+    7.54
    ]
   ],
-  "over_2_5_pct": 69.3,
-  "btts_pct": 61.7,
+  "over_2_5_pct": 68.4,
+  "btts_pct": 58.3,
   "reasoning": {
-   "thesis": "Borussia Dortmund should win comfortably. The model has them 1.34 goals clear of Werder Bremen, a 67% win probability. Projected 2.46-1.12 on expected goals, with 2-1 the single most likely scoreline at 9.4%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
+   "thesis": "Borussia Dortmund should win comfortably. The model has them 1.52 goals clear of Werder Bremen, a 70% win probability. Werder Bremen are missing Stage, Njinmah, Topp; weighting the absentees by value against the depth behind them, the model marks their attack down 10% for this fixture. Projected 2.52-1.00 on expected goals, with 2-1 the single most likely scoreline at 9.4%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
    "confidence": {
     "level": "very low",
     "note": "too few matches played to move the ratings much; these are close to last season's, regressed toward the mean",
@@ -5660,9 +6306,15 @@
     },
     {
      "side": "home",
+     "label": "Werder Bremen defence weakened",
+     "detail": "Stage, Njinmah, Topp out (1.02x conceded)",
+     "delta_goals": 0.047
+    },
+    {
+     "side": "home",
      "label": "Home advantage",
      "detail": "1.30x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.563
+     "delta_goals": 0.577
     },
     {
      "side": "away",
@@ -5672,9 +6324,15 @@
     },
     {
      "side": "away",
+     "label": "Werder Bremen unavailable",
+     "detail": "Stage, Njinmah, Topp out (0.90x attack)",
+     "delta_goals": -0.142
+    },
+    {
+     "side": "away",
      "label": "Borussia Dortmund defence",
      "detail": "strong (0.81x league average conceded)",
-     "delta_goals": -0.26
+     "delta_goals": -0.234
     }
    ],
    "rating_snapshot": {
@@ -5684,6 +6342,21 @@
     "away_defence": 1.028,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 0.897,
+    "away_defence_mult": 1.025,
+    "home_missing": [
+     "Emre Can",
+     "Giannis Konstantelias"
+    ],
+    "away_missing": [
+     "Jens Stage",
+     "Justin Njinmah",
+     "Keke Topp"
+    ]
    }
   }
  },
@@ -5810,6 +6483,16 @@
     "away_defence": 1.083,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Florent Muslija"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -5936,6 +6619,14 @@
     "away_defence": 1.135,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -6062,6 +6753,16 @@
     "away_defence": 0.836,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Kennet Eichhorn"
+    ]
    }
   }
  },
@@ -6188,6 +6889,16 @@
     "away_defence": 1.123,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Timur Gayret"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -6314,6 +7025,14 @@
     "away_defence": 1.059,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -6440,6 +7159,16 @@
     "away_defence": 1.157,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Andrik Markgraf"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -6566,6 +7295,18 @@
     "away_defence": 0.829,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Kennet Eichhorn"
+    ],
+    "away_missing": [
+     "Florent Muslija"
+    ]
    }
   }
  },
@@ -6692,6 +7433,14 @@
     "away_defence": 0.914,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -6818,6 +7567,16 @@
     "away_defence": 1.043,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Enzo Leopold"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -6944,6 +7703,14 @@
     "away_defence": 1.142,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -7070,6 +7837,14 @@
     "away_defence": 1.039,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -7196,6 +7971,14 @@
     "away_defence": 1.123,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -7322,6 +8105,14 @@
     "away_defence": 0.802,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -7448,6 +8239,19 @@
     "away_defence": 0.811,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Andrik Markgraf"
+    ],
+    "away_missing": [
+     "Emre Can",
+     "Giannis Konstantelias"
+    ]
    }
   }
  },
@@ -7487,13 +8291,13 @@
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 1.675,
-  "pred_xg_away": 1.25,
-  "win_home_pct": 47.2,
-  "draw_pct": 24.3,
-  "win_away_pct": 28.5,
-  "xpts_home": 1.66,
-  "xpts_away": 1.1,
+  "pred_xg_home": 1.502,
+  "pred_xg_away": 1.281,
+  "win_home_pct": 42.3,
+  "draw_pct": 25.4,
+  "win_away_pct": 32.3,
+  "xpts_home": 1.52,
+  "xpts_away": 1.22,
   "most_likely_scoreline": [
    1,
    1
@@ -7502,33 +8306,33 @@
    [
     1,
     1,
-    11.35
-   ],
-   [
-    2,
-    1,
-    9.41
+    12.02
    ],
    [
     1,
     0,
-    8.87
+    9.16
    ],
    [
     2,
+    1,
+    8.94
+   ],
+   [
     0,
-    7.52
+    1,
+    7.79
    ],
    [
     1,
     2,
-    7.02
+    7.62
    ]
   ],
-  "over_2_5_pct": 56.0,
-  "btts_pct": 58.1,
+  "over_2_5_pct": 52.7,
+  "btts_pct": 56.3,
   "reasoning": {
-   "thesis": "Werder Bremen are marginal favourites, worth about 0.43 goals of edge and a 47% win probability -- a lean, not a call. Projected 1.68-1.25 on expected goals, with 1-1 the single most likely scoreline at 11.3%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
+   "thesis": "Werder Bremen are marginal favourites, worth about 0.22 goals of edge and a 42% win probability -- a lean, not a call. Werder Bremen are missing Stage, Njinmah, Topp; weighting the absentees by value against the depth behind them, the model marks their attack down 10% for this fixture. Projected 1.50-1.28 on expected goals, with 1-1 the single most likely scoreline at 12.0%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
    "confidence": {
     "level": "very low",
     "note": "too few matches played to move the ratings much; these are close to last season's, regressed toward the mean",
@@ -7544,15 +8348,21 @@
     },
     {
      "side": "home",
+     "label": "Werder Bremen unavailable",
+     "detail": "Stage, Njinmah, Topp out (0.90x attack)",
+     "delta_goals": -0.142
+    },
+    {
+     "side": "home",
      "label": "Paderborn defence",
      "detail": "solid (0.94x league average conceded)",
-     "delta_goals": -0.088
+     "delta_goals": -0.079
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.30x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.384
+     "delta_goals": 0.344
     },
     {
      "side": "away",
@@ -7565,6 +8375,12 @@
      "label": "Werder Bremen defence",
      "detail": "solid (1.03x league average conceded)",
      "delta_goals": 0.034
+    },
+    {
+     "side": "away",
+     "label": "Werder Bremen defence weakened",
+     "detail": "Stage, Njinmah, Topp out (1.02x conceded)",
+     "delta_goals": 0.031
     }
    ],
    "rating_snapshot": {
@@ -7574,6 +8390,20 @@
     "away_defence": 0.936,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 0.897,
+    "home_defence_mult": 1.025,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Jens Stage",
+     "Justin Njinmah",
+     "Keke Topp"
+    ],
+    "away_missing": [
+     "Timur Gayret"
+    ]
    }
   }
  },
@@ -7700,6 +8530,14 @@
     "away_defence": 1.083,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -7826,6 +8664,16 @@
     "away_defence": 1.111,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Andrik Markgraf"
+    ]
    }
   }
  },
@@ -7952,6 +8800,17 @@
     "away_defence": 1.059,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Emre Can",
+     "Giannis Konstantelias"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -8078,6 +8937,16 @@
     "away_defence": 0.729,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Florent Muslija"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -8204,6 +9073,16 @@
     "away_defence": 0.836,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Kennet Eichhorn"
+    ]
    }
   }
  },
@@ -8243,48 +9122,48 @@
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 2.395,
-  "pred_xg_away": 1.106,
-  "win_home_pct": 65.8,
-  "draw_pct": 18.3,
-  "win_away_pct": 15.9,
-  "xpts_home": 2.16,
-  "xpts_away": 0.66,
+  "pred_xg_home": 2.454,
+  "pred_xg_away": 0.992,
+  "win_home_pct": 69.4,
+  "draw_pct": 17.3,
+  "win_away_pct": 13.3,
+  "xpts_home": 2.25,
+  "xpts_away": 0.57,
   "most_likely_scoreline": [
    2,
-   1
+   0
   ],
   "top_5_scorelines": [
    [
     2,
-    1,
-    9.57
+    0,
+    9.6
    ],
    [
     2,
+    1,
+    9.52
+   ],
+   [
+    3,
     0,
-    8.66
+    7.85
    ],
    [
     1,
     1,
-    8.08
+    7.84
    ],
    [
     3,
     1,
-    7.64
-   ],
-   [
-    1,
-    0,
-    7.14
+    7.79
    ]
   ],
-  "over_2_5_pct": 67.9,
-  "btts_pct": 60.9,
+  "over_2_5_pct": 66.9,
+  "btts_pct": 57.6,
   "reasoning": {
-   "thesis": "Mainz 05 should win comfortably. The model has them 1.29 goals clear of Werder Bremen, a 66% win probability. Projected 2.40-1.11 on expected goals, with 2-1 the single most likely scoreline at 9.6%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
+   "thesis": "Mainz 05 should win comfortably. The model has them 1.46 goals clear of Werder Bremen, a 69% win probability. Werder Bremen are missing Stage, Njinmah, Topp; weighting the absentees by value against the depth behind them, the model marks their attack down 10% for this fixture. Projected 2.45-0.99 on expected goals, with 2-0 the single most likely scoreline at 9.6%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
    "confidence": {
     "level": "very low",
     "note": "too few matches played to move the ratings much; these are close to last season's, regressed toward the mean",
@@ -8306,9 +9185,15 @@
     },
     {
      "side": "home",
+     "label": "Werder Bremen defence weakened",
+     "detail": "Stage, Njinmah, Topp out (1.02x conceded)",
+     "delta_goals": 0.045
+    },
+    {
+     "side": "home",
      "label": "Home advantage",
      "detail": "1.30x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.548
+     "delta_goals": 0.562
     },
     {
      "side": "away",
@@ -8318,9 +9203,15 @@
     },
     {
      "side": "away",
+     "label": "Werder Bremen unavailable",
+     "detail": "Stage, Njinmah, Topp out (0.90x attack)",
+     "delta_goals": -0.142
+    },
+    {
+     "side": "away",
      "label": "Mainz 05 defence",
      "detail": "strong (0.80x league average conceded)",
-     "delta_goals": -0.273
+     "delta_goals": -0.245
     }
    ],
    "rating_snapshot": {
@@ -8330,6 +9221,18 @@
     "away_defence": 1.028,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 0.897,
+    "away_defence_mult": 1.025,
+    "home_missing": [],
+    "away_missing": [
+     "Jens Stage",
+     "Justin Njinmah",
+     "Keke Topp"
+    ]
    }
   }
  },
@@ -8456,6 +9359,16 @@
     "away_defence": 1.135,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Timur Gayret"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -8582,6 +9495,14 @@
     "away_defence": 1.157,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -8708,6 +9629,16 @@
     "away_defence": 1.18,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Enzo Leopold"
+    ]
    }
   }
  },
@@ -8834,6 +9765,16 @@
     "away_defence": 0.829,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Florent Muslija"
+    ]
    }
   }
  },
@@ -8960,6 +9901,14 @@
     "away_defence": 1.123,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -9086,6 +10035,17 @@
     "away_defence": 0.811,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Emre Can",
+     "Giannis Konstantelias"
+    ]
    }
   }
  },
@@ -9212,6 +10172,18 @@
     "away_defence": 0.936,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Enzo Leopold"
+    ],
+    "away_missing": [
+     "Timur Gayret"
+    ]
    }
   }
  },
@@ -9338,6 +10310,14 @@
     "away_defence": 1.135,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -9464,6 +10444,14 @@
     "away_defence": 0.802,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -9590,6 +10578,14 @@
     "away_defence": 0.914,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -9716,6 +10712,16 @@
     "away_defence": 1.142,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Andrik Markgraf"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -9755,13 +10761,13 @@
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 1.866,
-  "pred_xg_away": 1.834,
-  "win_home_pct": 39.7,
-  "draw_pct": 21.8,
-  "win_away_pct": 38.5,
-  "xpts_home": 1.41,
-  "xpts_away": 1.37,
+  "pred_xg_home": 1.823,
+  "pred_xg_away": 1.838,
+  "win_home_pct": 38.7,
+  "draw_pct": 21.9,
+  "win_away_pct": 39.4,
+  "xpts_home": 1.38,
+  "xpts_away": 1.4,
   "most_likely_scoreline": [
    1,
    1
@@ -9770,33 +10776,33 @@
    [
     1,
     1,
-    8.55
-   ],
-   [
-    2,
-    1,
-    7.89
+    8.71
    ],
    [
     1,
     2,
-    7.76
+    7.92
+   ],
+   [
+    2,
+    1,
+    7.85
    ],
    [
     2,
     2,
-    7.24
+    7.22
    ],
    [
+    1,
     3,
-    1,
-    4.91
+    4.85
    ]
   ],
-  "over_2_5_pct": 71.5,
-  "btts_pct": 71.1,
+  "over_2_5_pct": 70.8,
+  "btts_pct": 70.6,
   "reasoning": {
-   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.03 goals, and the most likely single outcome is a draw at 22%. Projected 1.87-1.83 on expected goals, with 1-1 the single most likely scoreline at 8.6%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
+   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.02 goals, and the most likely single outcome is a draw at 22%. Werder Bremen are missing Topp; weighting the absentees by value against the depth behind them, the model marks their attack down 2% for this fixture. Projected 1.82-1.84 on expected goals, with 1-1 the single most likely scoreline at 8.7%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
    "confidence": {
     "level": "very low",
     "note": "too few matches played to move the ratings much; these are close to last season's, regressed toward the mean",
@@ -9812,15 +10818,21 @@
     },
     {
      "side": "home",
+     "label": "Werder Bremen unavailable",
+     "detail": "Topp out (0.98x attack)",
+     "delta_goals": -0.032
+    },
+    {
+     "side": "home",
      "label": "Hoffenheim defence",
      "detail": "solid (1.04x league average conceded)",
-     "delta_goals": 0.06
+     "delta_goals": 0.058
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.30x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.427
+     "delta_goals": 0.417
     },
     {
      "side": "away",
@@ -9833,6 +10845,12 @@
      "label": "Werder Bremen defence",
      "detail": "solid (1.03x league average conceded)",
      "delta_goals": 0.05
+    },
+    {
+     "side": "away",
+     "label": "Werder Bremen defence weakened",
+     "detail": "Topp out (1.00x conceded)",
+     "delta_goals": 0.004
     }
    ],
    "rating_snapshot": {
@@ -9842,6 +10860,16 @@
     "away_defence": 1.043,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 0.977,
+    "home_defence_mult": 1.002,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Keke Topp"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -9968,6 +10996,14 @@
     "away_defence": 0.836,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -10094,6 +11130,17 @@
     "away_defence": 1.157,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Emre Can",
+     "Giannis Konstantelias"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -10220,6 +11267,18 @@
     "away_defence": 1.111,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Florent Muslija"
+    ],
+    "away_missing": [
+     "Andrik Markgraf"
+    ]
    }
   }
  },
@@ -10346,6 +11405,16 @@
     "away_defence": 1.18,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Enzo Leopold"
+    ]
    }
   }
  },
@@ -10472,6 +11541,14 @@
     "away_defence": 1.083,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -10598,6 +11675,14 @@
     "away_defence": 0.729,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -10724,6 +11809,16 @@
     "away_defence": 1.059,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Timur Gayret"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -10850,6 +11945,14 @@
     "away_defence": 1.039,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -10889,13 +11992,13 @@
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 2.658,
-  "pred_xg_away": 1.549,
-  "win_home_pct": 61.2,
-  "draw_pct": 17.8,
-  "win_away_pct": 21.0,
-  "xpts_home": 2.01,
-  "xpts_away": 0.81,
+  "pred_xg_home": 2.664,
+  "pred_xg_away": 1.513,
+  "win_home_pct": 62.0,
+  "draw_pct": 17.7,
+  "win_away_pct": 20.3,
+  "xpts_home": 2.04,
+  "xpts_away": 0.78,
   "most_likely_scoreline": [
    2,
    1
@@ -10904,33 +12007,33 @@
    [
     2,
     1,
-    8.15
+    8.24
    ],
    [
     3,
     1,
-    7.22
-   ],
-   [
-    2,
-    2,
-    6.31
+    7.32
    ],
    [
     1,
     1,
-    6.2
+    6.25
+   ],
+   [
+    2,
+    2,
+    6.23
    ],
    [
     3,
     2,
-    5.59
+    5.53
    ]
   ],
-  "over_2_5_pct": 79.1,
-  "btts_pct": 73.3,
+  "over_2_5_pct": 78.7,
+  "btts_pct": 72.6,
   "reasoning": {
-   "thesis": "VfB Stuttgart should win comfortably. The model has them 1.11 goals clear of Werder Bremen, a 61% win probability. Projected 2.66-1.55 on expected goals, with 2-1 the single most likely scoreline at 8.2%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
+   "thesis": "VfB Stuttgart should win comfortably. The model has them 1.15 goals clear of Werder Bremen, a 62% win probability. Werder Bremen are missing Topp; weighting the absentees by value against the depth behind them, the model marks their attack down 2% for this fixture. Projected 2.66-1.51 on expected goals, with 2-1 the single most likely scoreline at 8.2%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
    "confidence": {
     "level": "very low",
     "note": "too few matches played to move the ratings much; these are close to last season's, regressed toward the mean",
@@ -10952,9 +12055,15 @@
     },
     {
      "side": "home",
+     "label": "Werder Bremen defence weakened",
+     "detail": "Topp out (1.00x conceded)",
+     "delta_goals": 0.004
+    },
+    {
+     "side": "home",
      "label": "Home advantage",
      "detail": "1.30x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.609
+     "delta_goals": 0.61
     },
     {
      "side": "away",
@@ -10964,9 +12073,15 @@
     },
     {
      "side": "away",
+     "label": "Werder Bremen unavailable",
+     "detail": "Topp out (0.98x attack)",
+     "delta_goals": -0.032
+    },
+    {
+     "side": "away",
      "label": "VfB Stuttgart defence",
      "detail": "leaky (1.12x league average conceded)",
-     "delta_goals": 0.17
+     "delta_goals": 0.166
     }
    ],
    "rating_snapshot": {
@@ -10976,6 +12091,16 @@
     "away_defence": 1.028,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 0.977,
+    "away_defence_mult": 1.002,
+    "home_missing": [],
+    "away_missing": [
+     "Keke Topp"
+    ]
    }
   }
  },
@@ -11102,6 +12227,14 @@
     "away_defence": 0.802,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -11228,6 +12361,16 @@
     "away_defence": 0.936,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Timur Gayret"
+    ]
    }
   }
  },
@@ -11354,6 +12497,14 @@
     "away_defence": 1.142,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -11480,6 +12631,18 @@
     "away_defence": 0.811,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Enzo Leopold"
+    ],
+    "away_missing": [
+     "Giannis Konstantelias"
+    ]
    }
   }
  },
@@ -11606,6 +12769,14 @@
     "away_defence": 1.043,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -11732,6 +12903,16 @@
     "away_defence": 0.829,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Florent Muslija"
+    ]
    }
   }
  },
@@ -11858,6 +13039,14 @@
     "away_defence": 1.123,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -11984,6 +13173,16 @@
     "away_defence": 0.914,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Andrik Markgraf"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -12023,48 +13222,48 @@
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 2.029,
-  "pred_xg_away": 1.238,
-  "win_home_pct": 55.6,
-  "draw_pct": 21.6,
-  "win_away_pct": 22.9,
-  "xpts_home": 1.88,
-  "xpts_away": 0.9,
+  "pred_xg_home": 1.982,
+  "pred_xg_away": 1.241,
+  "win_home_pct": 54.5,
+  "draw_pct": 21.9,
+  "win_away_pct": 23.6,
+  "xpts_home": 1.85,
+  "xpts_away": 0.93,
   "most_likely_scoreline": [
-   2,
+   1,
    1
   ],
   "top_5_scorelines": [
+   [
+    1,
+    1,
+    9.9
+   ],
    [
     2,
     1,
     9.71
    ],
    [
-    1,
-    1,
-    9.68
-   ],
-   [
     2,
     0,
-    7.85
+    7.83
    ],
    [
     1,
     0,
-    7.63
+    7.79
    ],
    [
     3,
     1,
-    6.57
+    6.42
    ]
   ],
-  "over_2_5_pct": 63.4,
-  "btts_pct": 61.8,
+  "over_2_5_pct": 62.5,
+  "btts_pct": 61.4,
   "reasoning": {
-   "thesis": "Werder Bremen are clear favourites, projected 0.79 goals better than Hamburger SV on the day, which prices the win at 56%. Projected 2.03-1.24 on expected goals, with 2-1 the single most likely scoreline at 9.7%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
+   "thesis": "Werder Bremen are clear favourites, projected 0.74 goals better than Hamburger SV on the day, which prices the win at 54%. Werder Bremen are missing Topp; weighting the absentees by value against the depth behind them, the model marks their attack down 2% for this fixture. Projected 1.98-1.24 on expected goals, with 1-1 the single most likely scoreline at 9.9%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
    "confidence": {
     "level": "very low",
     "note": "too few matches played to move the ratings much; these are close to last season's, regressed toward the mean",
@@ -12080,15 +13279,21 @@
     },
     {
      "side": "home",
+     "label": "Werder Bremen unavailable",
+     "detail": "Topp out (0.98x attack)",
+     "delta_goals": -0.032
+    },
+    {
+     "side": "home",
      "label": "Hamburger SV defence",
      "detail": "leaky (1.13x league average conceded)",
-     "delta_goals": 0.185
+     "delta_goals": 0.181
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.30x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.465
+     "delta_goals": 0.454
     },
     {
      "side": "away",
@@ -12101,6 +13306,12 @@
      "label": "Werder Bremen defence",
      "detail": "solid (1.03x league average conceded)",
      "delta_goals": 0.034
+    },
+    {
+     "side": "away",
+     "label": "Werder Bremen defence weakened",
+     "detail": "Topp out (1.00x conceded)",
+     "delta_goals": 0.003
     }
    ],
    "rating_snapshot": {
@@ -12110,6 +13321,16 @@
     "away_defence": 1.135,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 0.977,
+    "home_defence_mult": 1.002,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Keke Topp"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -12236,6 +13457,14 @@
     "away_defence": 1.157,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -12362,6 +13591,16 @@
     "away_defence": 0.836,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Giannis Konstantelias"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -12488,6 +13727,16 @@
     "away_defence": 0.914,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Florent Muslija"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -12614,6 +13863,14 @@
     "away_defence": 0.729,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -12740,6 +13997,14 @@
     "away_defence": 1.039,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -12866,6 +14131,16 @@
     "away_defence": 1.111,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Andrik Markgraf"
+    ]
    }
   }
  },
@@ -12992,6 +14267,16 @@
     "away_defence": 1.083,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Timur Gayret"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -13118,6 +14403,14 @@
     "away_defence": 1.059,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -13157,13 +14450,13 @@
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 2.11,
-  "pred_xg_away": 1.528,
-  "win_home_pct": 51.0,
-  "draw_pct": 21.1,
-  "win_away_pct": 27.8,
-  "xpts_home": 1.74,
-  "xpts_away": 1.05,
+  "pred_xg_home": 2.061,
+  "pred_xg_away": 1.531,
+  "win_home_pct": 49.9,
+  "draw_pct": 21.4,
+  "win_away_pct": 28.7,
+  "xpts_home": 1.71,
+  "xpts_away": 1.07,
   "most_likely_scoreline": [
    2,
    1
@@ -13177,28 +14470,28 @@
    [
     1,
     1,
-    8.57
+    8.78
    ],
    [
     2,
     2,
-    6.84
+    6.86
    ],
    [
     1,
     2,
-    6.48
+    6.65
    ],
    [
     3,
     1,
-    6.29
+    6.15
    ]
   ],
-  "over_2_5_pct": 70.4,
-  "btts_pct": 68.9,
+  "over_2_5_pct": 69.6,
+  "btts_pct": 68.5,
   "reasoning": {
-   "thesis": "Werder Bremen are clear favourites, projected 0.58 goals better than Borussia M\u00f6nchengladbach on the day, which prices the win at 51%. Projected 2.11-1.53 on expected goals, with 2-1 the single most likely scoreline at 8.9%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
+   "thesis": "Werder Bremen are clear favourites, projected 0.53 goals better than Borussia M\u00f6nchengladbach on the day, which prices the win at 50%. Werder Bremen are missing Topp; weighting the absentees by value against the depth behind them, the model marks their attack down 2% for this fixture. Projected 2.06-1.53 on expected goals, with 2-1 the single most likely scoreline at 8.9%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
    "confidence": {
     "level": "very low",
     "note": "too few matches played to move the ratings much; these are close to last season's, regressed toward the mean",
@@ -13214,15 +14507,21 @@
     },
     {
      "side": "home",
+     "label": "Werder Bremen unavailable",
+     "detail": "Topp out (0.98x attack)",
+     "delta_goals": -0.032
+    },
+    {
+     "side": "home",
      "label": "Borussia M\u00f6nchengladbach defence",
      "detail": "leaky (1.18x league average conceded)",
-     "delta_goals": 0.248
+     "delta_goals": 0.242
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.30x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.483
+     "delta_goals": 0.472
     },
     {
      "side": "away",
@@ -13235,6 +14534,12 @@
      "label": "Werder Bremen defence",
      "detail": "solid (1.03x league average conceded)",
      "delta_goals": 0.042
+    },
+    {
+     "side": "away",
+     "label": "Werder Bremen defence weakened",
+     "detail": "Topp out (1.00x conceded)",
+     "delta_goals": 0.003
     }
    ],
    "rating_snapshot": {
@@ -13244,6 +14549,18 @@
     "away_defence": 1.18,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 0.977,
+    "home_defence_mult": 1.002,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Keke Topp"
+    ],
+    "away_missing": [
+     "Enzo Leopold"
+    ]
    }
   }
  },
@@ -13370,6 +14687,14 @@
     "away_defence": 1.142,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -13496,6 +14821,16 @@
     "away_defence": 1.18,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Enzo Leopold"
+    ]
    }
   }
  },
@@ -13622,6 +14957,16 @@
     "away_defence": 0.936,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Timur Gayret"
+    ]
    }
   }
  },
@@ -13661,13 +15006,13 @@
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 2.157,
-  "pred_xg_away": 1.46,
-  "win_home_pct": 53.4,
+  "pred_xg_home": 2.162,
+  "pred_xg_away": 1.426,
+  "win_home_pct": 54.2,
   "draw_pct": 20.8,
-  "win_away_pct": 25.7,
-  "xpts_home": 1.81,
-  "xpts_away": 0.98,
+  "win_away_pct": 25.0,
+  "xpts_home": 1.84,
+  "xpts_away": 0.96,
   "most_likely_scoreline": [
    2,
    1
@@ -13676,33 +15021,33 @@
    [
     2,
     1,
-    9.12
+    9.22
    ],
    [
     1,
     1,
-    8.55
-   ],
-   [
-    2,
-    2,
-    6.66
+    8.62
    ],
    [
     3,
     1,
-    6.56
+    6.64
+   ],
+   [
+    2,
+    2,
+    6.57
    ],
    [
     2,
     0,
-    6.25
+    6.46
    ]
   ],
-  "over_2_5_pct": 70.0,
-  "btts_pct": 68.0,
+  "over_2_5_pct": 69.5,
+  "btts_pct": 67.3,
   "reasoning": {
-   "thesis": "Eintracht Frankfurt are clear favourites, projected 0.70 goals better than Werder Bremen on the day, which prices the win at 53%. Projected 2.16-1.46 on expected goals, with 2-1 the single most likely scoreline at 9.1%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
+   "thesis": "Eintracht Frankfurt are clear favourites, projected 0.74 goals better than Werder Bremen on the day, which prices the win at 54%. Werder Bremen are missing Topp; weighting the absentees by value against the depth behind them, the model marks their attack down 2% for this fixture. Projected 2.16-1.43 on expected goals, with 2-1 the single most likely scoreline at 9.2%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
    "confidence": {
     "level": "very low",
     "note": "too few matches played to move the ratings much; these are close to last season's, regressed toward the mean",
@@ -13724,9 +15069,15 @@
     },
     {
      "side": "home",
+     "label": "Werder Bremen defence weakened",
+     "detail": "Topp out (1.00x conceded)",
+     "delta_goals": 0.003
+    },
+    {
+     "side": "home",
      "label": "Home advantage",
      "detail": "1.30x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.494
+     "delta_goals": 0.495
     },
     {
      "side": "away",
@@ -13736,9 +15087,15 @@
     },
     {
      "side": "away",
+     "label": "Werder Bremen unavailable",
+     "detail": "Topp out (0.98x attack)",
+     "delta_goals": -0.032
+    },
+    {
+     "side": "away",
      "label": "Eintracht Frankfurt defence",
      "detail": "leaky (1.06x league average conceded)",
-     "delta_goals": 0.081
+     "delta_goals": 0.079
     }
    ],
    "rating_snapshot": {
@@ -13748,6 +15105,16 @@
     "away_defence": 1.028,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 0.977,
+    "away_defence_mult": 1.002,
+    "home_missing": [],
+    "away_missing": [
+     "Keke Topp"
+    ]
    }
   }
  },
@@ -13874,6 +15241,14 @@
     "away_defence": 1.123,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -14000,6 +15375,16 @@
     "away_defence": 1.043,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Florent Muslija"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -14126,6 +15511,14 @@
     "away_defence": 0.802,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -14252,6 +15645,16 @@
     "away_defence": 0.811,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Giannis Konstantelias"
+    ]
    }
   }
  },
@@ -14378,6 +15781,16 @@
     "away_defence": 1.135,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Andrik Markgraf"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -14504,6 +15917,14 @@
     "away_defence": 0.914,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -14630,6 +16051,16 @@
     "away_defence": 1.039,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Giannis Konstantelias"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -14756,6 +16187,16 @@
     "away_defence": 1.059,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Enzo Leopold"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -14882,6 +16323,14 @@
     "away_defence": 1.083,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -15008,6 +16457,14 @@
     "away_defence": 0.729,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -15134,6 +16591,16 @@
     "away_defence": 0.829,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Florent Muslija"
+    ]
    }
   }
  },
@@ -15260,6 +16727,16 @@
     "away_defence": 1.157,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Timur Gayret"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -15386,6 +16863,16 @@
     "away_defence": 1.111,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Andrik Markgraf"
+    ]
    }
   }
  },
@@ -15425,13 +16912,13 @@
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 1.496,
-  "pred_xg_away": 2.073,
-  "win_home_pct": 27.7,
-  "draw_pct": 21.4,
-  "win_away_pct": 50.9,
-  "xpts_home": 1.05,
-  "xpts_away": 1.74,
+  "pred_xg_home": 1.461,
+  "pred_xg_away": 2.077,
+  "win_home_pct": 26.9,
+  "draw_pct": 21.3,
+  "win_away_pct": 51.7,
+  "xpts_home": 1.02,
+  "xpts_away": 1.77,
   "most_likely_scoreline": [
    1,
    2
@@ -15440,33 +16927,33 @@
    [
     1,
     2,
-    9.06
+    9.16
    ],
    [
     1,
     1,
-    8.83
+    8.91
    ],
    [
     2,
     2,
-    6.78
+    6.69
    ],
    [
     2,
     1,
-    6.54
+    6.44
    ],
    [
     1,
     3,
-    6.26
+    6.34
    ]
   ],
-  "over_2_5_pct": 69.2,
-  "btts_pct": 67.9,
+  "over_2_5_pct": 68.6,
+  "btts_pct": 67.3,
   "reasoning": {
-   "thesis": "Bayer Leverkusen are clear favourites, projected 0.58 goals better than Werder Bremen on the day, which prices the win at 51%. Projected 1.50-2.07 on expected goals, with 1-2 the single most likely scoreline at 9.1%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
+   "thesis": "Bayer Leverkusen are clear favourites, projected 0.62 goals better than Werder Bremen on the day, which prices the win at 52%. Werder Bremen are missing Topp; weighting the absentees by value against the depth behind them, the model marks their attack down 2% for this fixture. Projected 1.46-2.08 on expected goals, with 1-2 the single most likely scoreline at 9.2%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
    "confidence": {
     "level": "very low",
     "note": "too few matches played to move the ratings much; these are close to last season's, regressed toward the mean",
@@ -15482,15 +16969,21 @@
     },
     {
      "side": "home",
+     "label": "Werder Bremen unavailable",
+     "detail": "Topp out (0.98x attack)",
+     "delta_goals": -0.032
+    },
+    {
+     "side": "home",
      "label": "Bayer Leverkusen defence",
      "detail": "strong (0.84x league average conceded)",
-     "delta_goals": -0.225
+     "delta_goals": -0.22
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.30x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.343
+     "delta_goals": 0.335
     },
     {
      "side": "away",
@@ -15503,6 +16996,12 @@
      "label": "Werder Bremen defence",
      "detail": "solid (1.03x league average conceded)",
      "delta_goals": 0.057
+    },
+    {
+     "side": "away",
+     "label": "Werder Bremen defence weakened",
+     "detail": "Topp out (1.00x conceded)",
+     "delta_goals": 0.004
     }
    ],
    "rating_snapshot": {
@@ -15512,6 +17011,16 @@
     "away_defence": 0.836,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 0.977,
+    "home_defence_mult": 1.002,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Keke Topp"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -15638,6 +17147,16 @@
     "away_defence": 0.936,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Timur Gayret"
+    ]
    }
   }
  },
@@ -15764,6 +17283,14 @@
     "away_defence": 1.059,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -15803,48 +17330,48 @@
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 3.335,
-  "pred_xg_away": 1.005,
-  "win_home_pct": 81.4,
-  "draw_pct": 11.1,
-  "win_away_pct": 7.5,
-  "xpts_home": 2.55,
-  "xpts_away": 0.34,
+  "pred_xg_home": 3.342,
+  "pred_xg_away": 0.982,
+  "win_home_pct": 81.8,
+  "draw_pct": 10.9,
+  "win_away_pct": 7.2,
+  "xpts_home": 2.56,
+  "xpts_away": 0.33,
   "most_likely_scoreline": [
    3,
-   1
+   0
   ],
   "top_5_scorelines": [
    [
     3,
-    1,
-    8.11
+    0,
+    8.25
    ],
    [
     3,
+    1,
+    8.1
+   ],
+   [
+    2,
     0,
-    8.06
+    7.4
    ],
    [
     2,
     1,
-    7.29
-   ],
-   [
-    2,
-    0,
-    7.25
+    7.27
    ],
    [
     4,
-    1,
-    6.76
+    0,
+    6.89
    ]
   ],
-  "over_2_5_pct": 80.7,
-  "btts_pct": 61.2,
+  "over_2_5_pct": 80.5,
+  "btts_pct": 60.4,
   "reasoning": {
-   "thesis": "Bayern M\u00fcnchen should win comfortably. The model has them 2.33 goals clear of Werder Bremen, a 81% win probability. Projected 3.33-1.00 on expected goals, with 3-1 the single most likely scoreline at 8.1%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
+   "thesis": "Bayern M\u00fcnchen should win comfortably. The model has them 2.36 goals clear of Werder Bremen, a 82% win probability. Werder Bremen are missing Topp; weighting the absentees by value against the depth behind them, the model marks their attack down 2% for this fixture. Projected 3.34-0.98 on expected goals, with 3-0 the single most likely scoreline at 8.2%. Confidence is very low: too few matches played to move the ratings much; these are close to last season's, regressed toward the mean.",
    "confidence": {
     "level": "very low",
     "note": "too few matches played to move the ratings much; these are close to last season's, regressed toward the mean",
@@ -15866,9 +17393,15 @@
     },
     {
      "side": "home",
+     "label": "Werder Bremen defence weakened",
+     "detail": "Topp out (1.00x conceded)",
+     "delta_goals": 0.005
+    },
+    {
+     "side": "home",
      "label": "Home advantage",
      "detail": "1.30x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.764
+     "delta_goals": 0.765
     },
     {
      "side": "away",
@@ -15878,9 +17411,15 @@
     },
     {
      "side": "away",
+     "label": "Werder Bremen unavailable",
+     "detail": "Topp out (0.98x attack)",
+     "delta_goals": -0.032
+    },
+    {
+     "side": "away",
      "label": "Bayern M\u00fcnchen defence",
      "detail": "excellent (0.73x league average conceded)",
-     "delta_goals": -0.373
+     "delta_goals": -0.365
     }
    ],
    "rating_snapshot": {
@@ -15890,6 +17429,16 @@
     "away_defence": 1.028,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 0.977,
+    "away_defence_mult": 1.002,
+    "home_missing": [],
+    "away_missing": [
+     "Keke Topp"
+    ]
    }
   }
  },
@@ -16016,6 +17565,14 @@
     "away_defence": 1.135,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -16142,6 +17699,16 @@
     "away_defence": 1.123,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Florent Muslija"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -16268,6 +17835,14 @@
     "away_defence": 1.142,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -16394,6 +17969,16 @@
     "away_defence": 0.811,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Giannis Konstantelias"
+    ]
    }
   }
  },
@@ -16520,6 +18105,16 @@
     "away_defence": 1.18,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Enzo Leopold"
+    ]
    }
   }
  },
@@ -16646,6 +18241,16 @@
     "away_defence": 1.043,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Andrik Markgraf"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -16772,6 +18377,14 @@
     "away_defence": 0.829,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -16898,6 +18511,16 @@
     "away_defence": 0.802,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Giannis Konstantelias"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -17024,6 +18647,16 @@
     "away_defence": 0.729,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Enzo Leopold"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -17150,6 +18783,14 @@
     "away_defence": 1.083,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -17276,6 +18917,14 @@
     "away_defence": 0.836,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -17402,6 +19051,14 @@
     "away_defence": 1.157,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -17528,6 +19185,14 @@
     "away_defence": 0.914,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -17654,6 +19319,14 @@
     "away_defence": 1.039,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -17780,6 +19453,16 @@
     "away_defence": 1.111,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Andrik Markgraf"
+    ]
    }
   }
  },
@@ -17906,6 +19589,16 @@
     "away_defence": 0.811,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Giannis Konstantelias"
+    ]
    }
   }
  },
@@ -18032,6 +19725,16 @@
     "away_defence": 1.18,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Enzo Leopold"
+    ]
    }
   }
  },
@@ -18158,6 +19861,14 @@
     "away_defence": 0.836,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -18284,6 +19995,14 @@
     "away_defence": 1.059,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -18410,6 +20129,14 @@
     "away_defence": 1.135,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -18536,6 +20263,14 @@
     "away_defence": 1.043,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -18662,6 +20397,14 @@
     "away_defence": 1.123,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -18788,6 +20531,14 @@
     "away_defence": 1.028,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -18914,6 +20665,16 @@
     "away_defence": 0.936,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Andrik Markgraf"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -19040,6 +20801,14 @@
     "away_defence": 1.083,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -19166,6 +20935,16 @@
     "away_defence": 0.829,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Giannis Konstantelias"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -19292,6 +21071,18 @@
     "away_defence": 1.111,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Enzo Leopold"
+    ],
+    "away_missing": [
+     "Andrik Markgraf"
+    ]
    }
   }
  },
@@ -19418,6 +21209,14 @@
     "away_defence": 0.729,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -19544,6 +21343,14 @@
     "away_defence": 1.039,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -19670,6 +21477,14 @@
     "away_defence": 0.914,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -19796,6 +21611,14 @@
     "away_defence": 1.142,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -19922,6 +21745,14 @@
     "away_defence": 0.802,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -20048,6 +21879,14 @@
     "away_defence": 1.157,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -20174,6 +22013,14 @@
     "away_defence": 1.157,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -20300,6 +22147,16 @@
     "away_defence": 0.914,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Enzo Leopold"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -20426,6 +22283,16 @@
     "away_defence": 1.111,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Andrik Markgraf"
+    ]
    }
   }
  },
@@ -20552,6 +22419,16 @@
     "away_defence": 0.811,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Giannis Konstantelias"
+    ]
    }
   }
  },
@@ -20678,6 +22555,14 @@
     "away_defence": 1.142,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -20804,6 +22689,14 @@
     "away_defence": 0.802,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -20930,6 +22823,14 @@
     "away_defence": 1.039,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -21056,6 +22957,14 @@
     "away_defence": 0.729,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -21182,6 +23091,14 @@
     "away_defence": 0.829,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -21308,6 +23225,14 @@
     "away_defence": 1.123,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -21434,6 +23359,14 @@
     "away_defence": 1.059,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -21560,6 +23493,14 @@
     "away_defence": 1.083,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -21686,6 +23627,16 @@
     "away_defence": 1.043,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Giannis Konstantelias"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -21812,6 +23763,16 @@
     "away_defence": 1.18,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Enzo Leopold"
+    ]
    }
   }
  },
@@ -21938,6 +23899,14 @@
     "away_defence": 0.936,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -22064,6 +24033,14 @@
     "away_defence": 1.135,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -22190,6 +24167,14 @@
     "away_defence": 1.028,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -22316,6 +24301,16 @@
     "away_defence": 0.836,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Andrik Markgraf"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -22442,6 +24437,14 @@
     "away_defence": 1.039,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -22568,6 +24571,14 @@
     "away_defence": 1.157,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -22694,6 +24705,16 @@
     "away_defence": 0.829,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Enzo Leopold"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -22820,6 +24841,14 @@
     "away_defence": 0.802,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -22946,6 +24975,14 @@
     "away_defence": 0.914,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -23072,6 +25109,16 @@
     "away_defence": 0.811,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Giannis Konstantelias"
+    ]
    }
   }
  },
@@ -23198,6 +25245,16 @@
     "away_defence": 1.111,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Andrik Markgraf"
+    ]
    }
   }
  },
@@ -23324,6 +25381,14 @@
     "away_defence": 1.043,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -23450,6 +25515,14 @@
     "away_defence": 1.142,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -23576,6 +25649,14 @@
     "away_defence": 1.135,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -23702,6 +25783,14 @@
     "away_defence": 1.028,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -23828,6 +25917,16 @@
     "away_defence": 1.123,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Giannis Konstantelias"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -23954,6 +26053,14 @@
     "away_defence": 1.083,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -24080,6 +26187,14 @@
     "away_defence": 1.059,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -24206,6 +26321,14 @@
     "away_defence": 0.936,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -24332,6 +26455,16 @@
     "away_defence": 1.18,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Enzo Leopold"
+    ]
    }
   }
  },
@@ -24458,6 +26591,14 @@
     "away_defence": 0.836,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -24584,6 +26725,16 @@
     "away_defence": 0.729,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Andrik Markgraf"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -24710,6 +26861,14 @@
     "away_defence": 0.802,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -24836,6 +26995,14 @@
     "away_defence": 1.039,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -24962,6 +27129,16 @@
     "away_defence": 1.142,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Enzo Leopold"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -25088,6 +27265,14 @@
     "away_defence": 0.914,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -25214,6 +27399,16 @@
     "away_defence": 1.111,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Andrik Markgraf"
+    ]
    }
   }
  },
@@ -25340,6 +27535,14 @@
     "away_defence": 1.043,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -25466,6 +27669,14 @@
     "away_defence": 0.829,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -25592,6 +27803,14 @@
     "away_defence": 0.936,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -25718,6 +27937,16 @@
     "away_defence": 0.811,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Giannis Konstantelias"
+    ]
    }
   }
  },
@@ -25844,6 +28073,14 @@
     "away_defence": 1.059,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -25970,6 +28207,14 @@
     "away_defence": 1.157,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -26096,6 +28341,18 @@
     "away_defence": 1.111,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Giannis Konstantelias"
+    ],
+    "away_missing": [
+     "Andrik Markgraf"
+    ]
    }
   }
  },
@@ -26222,6 +28479,14 @@
     "away_defence": 0.836,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -26348,6 +28613,16 @@
     "away_defence": 1.18,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Enzo Leopold"
+    ]
    }
   }
  },
@@ -26474,6 +28749,14 @@
     "away_defence": 1.083,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -26600,6 +28883,14 @@
     "away_defence": 1.028,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -26726,6 +29017,14 @@
     "away_defence": 0.729,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -26852,6 +29151,14 @@
     "away_defence": 1.135,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -26978,6 +29285,14 @@
     "away_defence": 1.043,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -27104,6 +29419,14 @@
     "away_defence": 0.829,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -27230,6 +29553,16 @@
     "away_defence": 1.123,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Enzo Leopold"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -27356,6 +29689,16 @@
     "away_defence": 0.811,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Giannis Konstantelias"
+    ]
    }
   }
  },
@@ -27482,6 +29825,14 @@
     "away_defence": 0.914,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -27608,6 +29959,14 @@
     "away_defence": 0.936,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -27734,6 +30093,14 @@
     "away_defence": 1.142,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -27860,6 +30227,16 @@
     "away_defence": 1.039,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Andrik Markgraf"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -27986,6 +30363,14 @@
     "away_defence": 0.802,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -28112,6 +30497,16 @@
     "away_defence": 1.111,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Andrik Markgraf"
+    ]
    }
   }
  },
@@ -28238,6 +30633,16 @@
     "away_defence": 0.729,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Giannis Konstantelias"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -28364,6 +30769,14 @@
     "away_defence": 1.039,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -28490,6 +30903,14 @@
     "away_defence": 1.059,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -28616,6 +31037,14 @@
     "away_defence": 1.028,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -28742,6 +31171,14 @@
     "away_defence": 1.157,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -28868,6 +31305,16 @@
     "away_defence": 1.18,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Enzo Leopold"
+    ]
    }
   }
  },
@@ -28994,6 +31441,14 @@
     "away_defence": 1.083,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -29120,6 +31575,14 @@
     "away_defence": 0.836,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -29246,6 +31709,14 @@
     "away_defence": 0.914,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -29372,6 +31843,14 @@
     "away_defence": 1.142,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -29498,6 +31977,14 @@
     "away_defence": 0.802,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -29624,6 +32111,16 @@
     "away_defence": 1.135,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Enzo Leopold"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -29750,6 +32247,14 @@
     "away_defence": 0.936,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -29876,6 +32381,16 @@
     "away_defence": 0.811,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Giannis Konstantelias"
+    ]
    }
   }
  },
@@ -30002,6 +32517,14 @@
     "away_defence": 1.043,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -30128,6 +32651,14 @@
     "away_defence": 0.829,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -30254,6 +32785,14 @@
     "away_defence": 1.123,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -30380,6 +32919,14 @@
     "away_defence": 0.729,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -30506,6 +33053,18 @@
     "away_defence": 1.18,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Giannis Konstantelias"
+    ],
+    "away_missing": [
+     "Enzo Leopold"
+    ]
    }
   }
  },
@@ -30632,6 +33191,14 @@
     "away_defence": 1.157,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -30758,6 +33325,14 @@
     "away_defence": 1.028,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -30884,6 +33459,14 @@
     "away_defence": 1.059,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -31010,6 +33593,14 @@
     "away_defence": 1.039,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -31136,6 +33727,14 @@
     "away_defence": 0.836,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -31262,6 +33861,14 @@
     "away_defence": 1.111,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -31388,6 +33995,14 @@
     "away_defence": 1.083,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -31514,6 +34129,14 @@
     "away_defence": 1.043,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -31640,6 +34263,16 @@
     "away_defence": 0.811,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Giannis Konstantelias"
+    ]
    }
   }
  },
@@ -31766,6 +34399,14 @@
     "away_defence": 1.135,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -31892,6 +34533,16 @@
     "away_defence": 1.028,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Enzo Leopold"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -32018,6 +34669,14 @@
     "away_defence": 1.123,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -32144,6 +34803,14 @@
     "away_defence": 1.142,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -32270,6 +34937,14 @@
     "away_defence": 0.829,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -32396,6 +35071,14 @@
     "away_defence": 0.936,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -32522,6 +35205,14 @@
     "away_defence": 0.802,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -32648,6 +35339,14 @@
     "away_defence": 1.039,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -32774,6 +35473,16 @@
     "away_defence": 1.083,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Giannis Konstantelias"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -32900,6 +35609,16 @@
     "away_defence": 0.836,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Enzo Leopold"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -33026,6 +35745,14 @@
     "away_defence": 1.111,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -33152,6 +35879,14 @@
     "away_defence": 0.829,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -33278,6 +36013,14 @@
     "away_defence": 0.914,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -33404,6 +36147,14 @@
     "away_defence": 0.729,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -33530,6 +36281,14 @@
     "away_defence": 1.157,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -33656,6 +36415,14 @@
     "away_defence": 1.059,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -33782,6 +36549,16 @@
     "away_defence": 0.811,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Giannis Konstantelias"
+    ]
    }
   }
  },
@@ -33908,6 +36685,14 @@
     "away_defence": 1.028,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -34034,6 +36819,14 @@
     "away_defence": 1.043,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -34160,6 +36953,16 @@
     "away_defence": 1.18,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Enzo Leopold"
+    ]
    }
   }
  },
@@ -34286,6 +37089,14 @@
     "away_defence": 0.936,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -34412,6 +37223,14 @@
     "away_defence": 0.802,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -34538,6 +37357,14 @@
     "away_defence": 1.142,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -34664,6 +37491,14 @@
     "away_defence": 1.135,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -34790,6 +37625,14 @@
     "away_defence": 1.123,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -34916,6 +37759,14 @@
     "away_defence": 0.802,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -35042,6 +37893,16 @@
     "away_defence": 0.914,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Giannis Konstantelias"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -35168,6 +38029,16 @@
     "away_defence": 1.083,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Enzo Leopold"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -35294,6 +38165,14 @@
     "away_defence": 0.836,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -35420,6 +38299,14 @@
     "away_defence": 1.157,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -35546,6 +38433,14 @@
     "away_defence": 1.111,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -35672,6 +38567,14 @@
     "away_defence": 1.039,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -35798,6 +38701,14 @@
     "away_defence": 0.829,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -35924,6 +38835,14 @@
     "away_defence": 0.729,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -36050,6 +38969,14 @@
     "away_defence": 1.123,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -36176,6 +39103,14 @@
     "away_defence": 1.135,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -36302,6 +39237,16 @@
     "away_defence": 1.18,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Enzo Leopold"
+    ]
    }
   }
  },
@@ -36428,6 +39373,14 @@
     "away_defence": 1.043,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -36554,6 +39507,14 @@
     "away_defence": 1.142,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -36680,6 +39641,16 @@
     "away_defence": 0.811,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Giannis Konstantelias"
+    ]
    }
   }
  },
@@ -36806,6 +39777,14 @@
     "away_defence": 0.936,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -36932,6 +39911,14 @@
     "away_defence": 1.059,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -37058,6 +40045,14 @@
     "away_defence": 1.028,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -37184,6 +40179,14 @@
     "away_defence": 0.729,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -37310,6 +40313,16 @@
     "away_defence": 1.142,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Giannis Konstantelias"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -37436,6 +40449,16 @@
     "away_defence": 1.039,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Enzo Leopold"
+    ],
+    "away_missing": []
    }
   }
  },
@@ -37562,6 +40585,14 @@
     "away_defence": 1.157,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -37688,6 +40719,14 @@
     "away_defence": 0.829,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -37814,6 +40853,14 @@
     "away_defence": 0.802,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -37940,6 +40987,14 @@
     "away_defence": 1.111,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -38066,6 +41121,14 @@
     "away_defence": 0.914,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -38192,6 +41255,14 @@
     "away_defence": 1.083,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -38318,6 +41389,14 @@
     "away_defence": 0.936,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -38444,6 +41523,14 @@
     "away_defence": 1.135,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -38570,6 +41657,14 @@
     "away_defence": 1.059,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -38696,6 +41791,14 @@
     "away_defence": 1.028,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -38822,6 +41925,16 @@
     "away_defence": 0.811,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Giannis Konstantelias"
+    ]
    }
   }
  },
@@ -38948,6 +42061,14 @@
     "away_defence": 1.123,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -39074,6 +42195,14 @@
     "away_defence": 1.043,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -39200,6 +42329,14 @@
     "away_defence": 0.836,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -39326,6 +42463,16 @@
     "away_defence": 1.18,
     "league_base": 1.699,
     "home_advantage": 1.297
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Enzo Leopold"
+    ]
    }
   }
  }
