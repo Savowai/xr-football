@@ -40,6 +40,19 @@
  },
  {
   "position": 4,
+  "team": "Como",
+  "fotmob_team_id": "10171",
+  "played": 3,
+  "won": 2,
+  "drawn": 1,
+  "lost": 0,
+  "gf": 7,
+  "ga": 3,
+  "gd": 4,
+  "points": 7
+ },
+ {
+  "position": 5,
   "team": "Milan",
   "fotmob_team_id": "8564",
   "played": 3,
@@ -52,7 +65,7 @@
   "points": 7
  },
  {
-  "position": 5,
+  "position": 6,
   "team": "Juventus",
   "fotmob_team_id": "9885",
   "played": 3,
@@ -62,19 +75,6 @@
   "gf": 4,
   "ga": 1,
   "gd": 3,
-  "points": 7
- },
- {
-  "position": 6,
-  "team": "Como",
-  "fotmob_team_id": "10171",
-  "played": 3,
-  "won": 2,
-  "drawn": 1,
-  "lost": 0,
-  "gf": 7,
-  "ga": 3,
-  "gd": 4,
   "points": 7
  },
  {
@@ -183,6 +183,19 @@
  },
  {
   "position": 15,
+  "team": "Bologna",
+  "fotmob_team_id": "9857",
+  "played": 3,
+  "won": 0,
+  "drawn": 1,
+  "lost": 2,
+  "gf": 2,
+  "ga": 4,
+  "gd": -2,
+  "points": 1
+ },
+ {
+  "position": 16,
   "team": "Parma",
   "fotmob_team_id": "10167",
   "played": 3,
@@ -195,7 +208,7 @@
   "points": 1
  },
  {
-  "position": 16,
+  "position": 17,
   "team": "Monza",
   "fotmob_team_id": "6504",
   "played": 3,
@@ -205,19 +218,6 @@
   "gf": 4,
   "ga": 8,
   "gd": -4,
-  "points": 1
- },
- {
-  "position": 17,
-  "team": "Bologna",
-  "fotmob_team_id": "9857",
-  "played": 3,
-  "won": 0,
-  "drawn": 1,
-  "lost": 2,
-  "gf": 2,
-  "ga": 4,
-  "gd": -2,
   "points": 1
  },
  {
