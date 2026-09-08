@@ -2,7 +2,7 @@
 
 **Europe's top five leagues, analysed on Expected Results — not the scoreline.**
 
-Premier League · LaLiga · Serie A · Bundesliga · Ligue 1 · Data via FotMob · Rebuilt hourly · Season rolls over automatically each July · **Live at [xrphilosophy.vercel.app](https://xrphilosophy.vercel.app)**
+Premier League · LaLiga · Serie A · Bundesliga · Ligue 1 · Data via FotMob · Rebuilt hourly · Season rolls over automatically each July · **Live at [xr-football.vercel.app](https://xr-football.vercel.app)**
 
 ---
 
@@ -159,4 +159,4 @@ data/
 
 ---
 
-*Built by [@adamsebhat](https://github.com/adamsebhat)*
+*Built by [Adam Sebhat](https://github.com/Savowai)*
