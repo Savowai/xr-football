@@ -3,7 +3,7 @@
  "league": "Bundesliga",
  "country": "Germany",
  "season": "2026-27",
- "built_at": "2026-09-09T23:34:46.578706+00:00",
+ "built_at": "2026-09-10T01:37:29.764971+00:00",
  "match_count": 306,
  "played_count": 18,
  "prediction_count": 306,
@@ -36,7 +36,7 @@
  "model": {
   "name": "Dixon-Coles bivariate Poisson",
   "base_goals": 1.7,
-  "home_advantage": 1.297,
+  "home_advantage": 1.296,
   "rho": -0.0105,
   "time_decay_xi": 0.0045,
   "prior_strength": 8.0,
