@@ -15153,8 +15153,142 @@
   }
  },
  {
+  "date": "2026-11-27",
+  "kickoff_datetime": "2026-11-27T19:45:00Z",
+  "round": 12,
+  "home": "Brest",
+  "away": "Paris FC",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 3,
+   "goals": 2.0,
+   "goals_against": 1.67,
+   "xg_for": 2.71,
+   "xg_against": 1.28,
+   "xg_diff_per_game": 1.43,
+   "finishing_delta": -0.71,
+   "points": 5,
+   "ppg": 1.67,
+   "form": "DDW",
+   "possession_pct": 48.3
+  },
+  "away_form": {
+   "matches": 3,
+   "goals": 2.0,
+   "goals_against": 0.67,
+   "xg_for": 2.49,
+   "xg_against": 0.86,
+   "xg_diff_per_game": 1.63,
+   "finishing_delta": -0.49,
+   "points": 7,
+   "ppg": 2.33,
+   "form": "DWW",
+   "possession_pct": 47.3
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.586,
+  "pred_xg_away": 1.6,
+  "win_home_pct": 37.2,
+  "draw_pct": 25.1,
+  "win_away_pct": 37.8,
+  "xpts_home": 1.37,
+  "xpts_away": 1.38,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    11.28
+   ],
+   [
+    1,
+    2,
+    8.39
+   ],
+   [
+    2,
+    1,
+    8.32
+   ],
+   [
+    2,
+    2,
+    6.65
+   ],
+   [
+    0,
+    1,
+    5.83
+   ]
+  ],
+  "over_2_5_pct": 61.7,
+  "btts_pct": 64.2,
+  "reasoning": {
+   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.01 goals, and the most likely single outcome is a draw at 25%. Brest are converting 0.71 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Paris FC are converting 0.49 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Projected 1.59-1.60 on expected goals, with 1-1 the single most likely scoreline at 11.3%. Confidence is low: only a handful of matches played, so ratings still lean on last season's baseline.",
+   "confidence": {
+    "level": "low",
+    "note": "only a handful of matches played, so ratings still lean on last season's baseline",
+    "effective_matches_home": 2.8,
+    "effective_matches_away": 2.9
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Brest attack",
+     "detail": "strong (1.13x league average)",
+     "delta_goals": 0.182
+    },
+    {
+     "side": "home",
+     "label": "Paris FC defence",
+     "detail": "strong (0.83x league average conceded)",
+     "delta_goals": -0.274
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.18x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.241
+    },
+    {
+     "side": "away",
+     "label": "Paris FC attack",
+     "detail": "strong (1.12x league average)",
+     "delta_goals": 0.17
+    },
+    {
+     "side": "away",
+     "label": "Brest defence",
+     "detail": "solid (1.00x league average conceded)",
+     "delta_goals": -0.007
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 1.126,
+    "home_defence": 0.996,
+    "away_attack": 1.118,
+    "away_defence": 0.831,
+    "league_base": 1.437,
+    "home_advantage": 1.179
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
+   }
+  }
+ },
+ {
   "date": "2026-11-28",
-  "kickoff_datetime": "2026-11-28T16:00:00Z",
+  "kickoff_datetime": "2026-11-28T16:15:00Z",
   "round": 12,
   "home": "Angers",
   "away": "Lens",
@@ -15290,278 +15424,7 @@
  },
  {
   "date": "2026-11-28",
-  "kickoff_datetime": "2026-11-28T16:00:00Z",
-  "round": 12,
-  "home": "Auxerre",
-  "away": "Marseille",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 3,
-   "goals": 1.33,
-   "goals_against": 3.67,
-   "xg_for": 1.45,
-   "xg_against": 2.94,
-   "xg_diff_per_game": -1.48,
-   "finishing_delta": -0.12,
-   "points": 0,
-   "ppg": 0.0,
-   "form": "LLL",
-   "possession_pct": 47.7
-  },
-  "away_form": {
-   "matches": 3,
-   "goals": 2.0,
-   "goals_against": 1.67,
-   "xg_for": 1.56,
-   "xg_against": 1.73,
-   "xg_diff_per_game": -0.17,
-   "finishing_delta": 0.44,
-   "points": 3,
-   "ppg": 1.0,
-   "form": "WLL",
-   "possession_pct": 64.0
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.48,
-  "pred_xg_away": 1.985,
-  "win_home_pct": 28.1,
-  "draw_pct": 23.1,
-  "win_away_pct": 48.8,
-  "xpts_home": 1.07,
-  "xpts_away": 1.69,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    9.87
-   ],
-   [
-    1,
-    2,
-    9.12
-   ],
-   [
-    2,
-    1,
-    6.8
-   ],
-   [
-    2,
-    2,
-    6.75
-   ],
-   [
-    0,
-    2,
-    6.16
-   ]
-  ],
-  "over_2_5_pct": 67.3,
-  "btts_pct": 67.3,
-  "reasoning": {
-   "thesis": "Marseille are clear favourites, projected 0.51 goals better than Auxerre on the day, which prices the win at 49%. Auxerre are being outcreated by 1.48 xG per game over their last 3, which is why the model is cautious regardless of recent results. Projected 1.48-1.99 on expected goals, with 1-1 the single most likely scoreline at 9.9%. Confidence is low: only a handful of matches played, so ratings still lean on last season's baseline.",
-   "confidence": {
-    "level": "low",
-    "note": "only a handful of matches played, so ratings still lean on last season's baseline",
-    "effective_matches_home": 2.8,
-    "effective_matches_away": 2.8
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Auxerre attack",
-     "detail": "modest (0.87x league average)",
-     "delta_goals": -0.183
-    },
-    {
-     "side": "home",
-     "label": "Marseille defence",
-     "detail": "solid (1.00x league average conceded)",
-     "delta_goals": 0.001
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.18x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.225
-    },
-    {
-     "side": "away",
-     "label": "Marseille attack",
-     "detail": "solid (1.09x league average)",
-     "delta_goals": 0.131
-    },
-    {
-     "side": "away",
-     "label": "Auxerre defence",
-     "detail": "poor (1.27x league average conceded)",
-     "delta_goals": 0.418
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 0.873,
-    "home_defence": 1.266,
-    "away_attack": 1.091,
-    "away_defence": 1.001,
-    "league_base": 1.437,
-    "home_advantage": 1.179
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [
-     "Assane Diouss\u00e9",
-     "Bryan Okoh"
-    ],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2026-11-28",
-  "kickoff_datetime": "2026-11-28T16:00:00Z",
-  "round": 12,
-  "home": "Brest",
-  "away": "Paris FC",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 3,
-   "goals": 2.0,
-   "goals_against": 1.67,
-   "xg_for": 2.71,
-   "xg_against": 1.28,
-   "xg_diff_per_game": 1.43,
-   "finishing_delta": -0.71,
-   "points": 5,
-   "ppg": 1.67,
-   "form": "DDW",
-   "possession_pct": 48.3
-  },
-  "away_form": {
-   "matches": 3,
-   "goals": 2.0,
-   "goals_against": 0.67,
-   "xg_for": 2.49,
-   "xg_against": 0.86,
-   "xg_diff_per_game": 1.63,
-   "finishing_delta": -0.49,
-   "points": 7,
-   "ppg": 2.33,
-   "form": "DWW",
-   "possession_pct": 47.3
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.586,
-  "pred_xg_away": 1.6,
-  "win_home_pct": 37.2,
-  "draw_pct": 25.1,
-  "win_away_pct": 37.8,
-  "xpts_home": 1.37,
-  "xpts_away": 1.38,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    11.28
-   ],
-   [
-    1,
-    2,
-    8.39
-   ],
-   [
-    2,
-    1,
-    8.32
-   ],
-   [
-    2,
-    2,
-    6.65
-   ],
-   [
-    0,
-    1,
-    5.83
-   ]
-  ],
-  "over_2_5_pct": 61.7,
-  "btts_pct": 64.2,
-  "reasoning": {
-   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.01 goals, and the most likely single outcome is a draw at 25%. Brest are converting 0.71 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Paris FC are converting 0.49 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Projected 1.59-1.60 on expected goals, with 1-1 the single most likely scoreline at 11.3%. Confidence is low: only a handful of matches played, so ratings still lean on last season's baseline.",
-   "confidence": {
-    "level": "low",
-    "note": "only a handful of matches played, so ratings still lean on last season's baseline",
-    "effective_matches_home": 2.8,
-    "effective_matches_away": 2.9
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Brest attack",
-     "detail": "strong (1.13x league average)",
-     "delta_goals": 0.182
-    },
-    {
-     "side": "home",
-     "label": "Paris FC defence",
-     "detail": "strong (0.83x league average conceded)",
-     "delta_goals": -0.274
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.18x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.241
-    },
-    {
-     "side": "away",
-     "label": "Paris FC attack",
-     "detail": "strong (1.12x league average)",
-     "delta_goals": 0.17
-    },
-    {
-     "side": "away",
-     "label": "Brest defence",
-     "detail": "solid (1.00x league average conceded)",
-     "delta_goals": -0.007
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 1.126,
-    "home_defence": 0.996,
-    "away_attack": 1.118,
-    "away_defence": 0.831,
-    "league_base": 1.437,
-    "home_advantage": 1.179
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2026-11-28",
-  "kickoff_datetime": "2026-11-28T16:00:00Z",
+  "kickoff_datetime": "2026-11-28T19:45:00Z",
   "round": 12,
   "home": "Le Havre",
   "away": "Strasbourg",
@@ -15723,7 +15586,7 @@
  },
  {
   "date": "2026-11-28",
-  "kickoff_datetime": "2026-11-28T16:00:00Z",
+  "kickoff_datetime": "2026-11-28T19:45:00Z",
   "round": 12,
   "home": "Le Mans",
   "away": "Lille",
@@ -15857,141 +15720,7 @@
  },
  {
   "date": "2026-11-28",
-  "kickoff_datetime": "2026-11-28T16:00:00Z",
-  "round": 12,
-  "home": "Lyon",
-  "away": "Monaco",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 3,
-   "goals": 2.0,
-   "goals_against": 0.67,
-   "xg_for": 1.77,
-   "xg_against": 1.39,
-   "xg_diff_per_game": 0.38,
-   "finishing_delta": 0.23,
-   "points": 7,
-   "ppg": 2.33,
-   "form": "WDW",
-   "possession_pct": 57.7
-  },
-  "away_form": {
-   "matches": 3,
-   "goals": 1.67,
-   "goals_against": 0.33,
-   "xg_for": 1.27,
-   "xg_against": 1.45,
-   "xg_diff_per_game": -0.18,
-   "finishing_delta": 0.39,
-   "points": 9,
-   "ppg": 3.0,
-   "form": "WWW",
-   "possession_pct": 39.3
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.463,
-  "pred_xg_away": 1.339,
-  "win_home_pct": 39.3,
-  "draw_pct": 27.0,
-  "win_away_pct": 33.7,
-  "xpts_home": 1.45,
-  "xpts_away": 1.28,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    12.77
-   ],
-   [
-    2,
-    1,
-    8.7
-   ],
-   [
-    1,
-    0,
-    7.99
-   ],
-   [
-    1,
-    2,
-    7.96
-   ],
-   [
-    0,
-    1,
-    7.23
-   ]
-  ],
-  "over_2_5_pct": 53.1,
-  "btts_pct": 57.6,
-  "reasoning": {
-   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.12 goals, and the most likely single outcome is a draw at 27%. Projected 1.46-1.34 on expected goals, with 1-1 the single most likely scoreline at 12.8%. Confidence is low: only a handful of matches played, so ratings still lean on last season's baseline.",
-   "confidence": {
-    "level": "low",
-    "note": "only a handful of matches played, so ratings still lean on last season's baseline",
-    "effective_matches_home": 2.8,
-    "effective_matches_away": 2.8
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Lyon attack",
-     "detail": "solid (1.02x league average)",
-     "delta_goals": 0.034
-    },
-    {
-     "side": "home",
-     "label": "Monaco defence",
-     "detail": "strong (0.84x league average conceded)",
-     "delta_goals": -0.23
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.18x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.222
-    },
-    {
-     "side": "away",
-     "label": "Monaco attack",
-     "detail": "solid (1.04x league average)",
-     "delta_goals": 0.056
-    },
-    {
-     "side": "away",
-     "label": "Lyon defence",
-     "detail": "strong (0.90x league average conceded)",
-     "delta_goals": -0.153
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 1.024,
-    "home_defence": 0.897,
-    "away_attack": 1.039,
-    "away_defence": 0.844,
-    "league_base": 1.437,
-    "home_advantage": 1.179
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2026-11-28",
-  "kickoff_datetime": "2026-11-28T16:00:00Z",
+  "kickoff_datetime": "2026-11-28T19:45:00Z",
   "round": 12,
   "home": "Nice",
   "away": "Troyes",
@@ -16127,7 +15856,7 @@
  },
  {
   "date": "2026-11-28",
-  "kickoff_datetime": "2026-11-28T16:00:00Z",
+  "kickoff_datetime": "2026-11-28T19:45:00Z",
   "round": 12,
   "home": "Paris Saint-Germain",
   "away": "Lorient",
@@ -16260,8 +15989,145 @@
   }
  },
  {
-  "date": "2026-11-28",
-  "kickoff_datetime": "2026-11-28T16:00:00Z",
+  "date": "2026-11-29",
+  "kickoff_datetime": "2026-11-29T14:00:00Z",
+  "round": 12,
+  "home": "Auxerre",
+  "away": "Marseille",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 3,
+   "goals": 1.33,
+   "goals_against": 3.67,
+   "xg_for": 1.45,
+   "xg_against": 2.94,
+   "xg_diff_per_game": -1.48,
+   "finishing_delta": -0.12,
+   "points": 0,
+   "ppg": 0.0,
+   "form": "LLL",
+   "possession_pct": 47.7
+  },
+  "away_form": {
+   "matches": 3,
+   "goals": 2.0,
+   "goals_against": 1.67,
+   "xg_for": 1.56,
+   "xg_against": 1.73,
+   "xg_diff_per_game": -0.17,
+   "finishing_delta": 0.44,
+   "points": 3,
+   "ppg": 1.0,
+   "form": "WLL",
+   "possession_pct": 64.0
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.48,
+  "pred_xg_away": 1.985,
+  "win_home_pct": 28.1,
+  "draw_pct": 23.1,
+  "win_away_pct": 48.8,
+  "xpts_home": 1.07,
+  "xpts_away": 1.69,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    9.87
+   ],
+   [
+    1,
+    2,
+    9.12
+   ],
+   [
+    2,
+    1,
+    6.8
+   ],
+   [
+    2,
+    2,
+    6.75
+   ],
+   [
+    0,
+    2,
+    6.16
+   ]
+  ],
+  "over_2_5_pct": 67.3,
+  "btts_pct": 67.3,
+  "reasoning": {
+   "thesis": "Marseille are clear favourites, projected 0.51 goals better than Auxerre on the day, which prices the win at 49%. Auxerre are being outcreated by 1.48 xG per game over their last 3, which is why the model is cautious regardless of recent results. Projected 1.48-1.99 on expected goals, with 1-1 the single most likely scoreline at 9.9%. Confidence is low: only a handful of matches played, so ratings still lean on last season's baseline.",
+   "confidence": {
+    "level": "low",
+    "note": "only a handful of matches played, so ratings still lean on last season's baseline",
+    "effective_matches_home": 2.8,
+    "effective_matches_away": 2.8
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Auxerre attack",
+     "detail": "modest (0.87x league average)",
+     "delta_goals": -0.183
+    },
+    {
+     "side": "home",
+     "label": "Marseille defence",
+     "detail": "solid (1.00x league average conceded)",
+     "delta_goals": 0.001
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.18x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.225
+    },
+    {
+     "side": "away",
+     "label": "Marseille attack",
+     "detail": "solid (1.09x league average)",
+     "delta_goals": 0.131
+    },
+    {
+     "side": "away",
+     "label": "Auxerre defence",
+     "detail": "poor (1.27x league average conceded)",
+     "delta_goals": 0.418
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 0.873,
+    "home_defence": 1.266,
+    "away_attack": 1.091,
+    "away_defence": 1.001,
+    "league_base": 1.437,
+    "home_advantage": 1.179
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Assane Diouss\u00e9",
+     "Bryan Okoh"
+    ],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2026-11-29",
+  "kickoff_datetime": "2026-11-29T16:15:00Z",
   "round": 12,
   "home": "Toulouse",
   "away": "Rennes",
@@ -16380,6 +16246,140 @@
     "home_defence": 0.949,
     "away_attack": 1.126,
     "away_defence": 1.132,
+    "league_base": 1.437,
+    "home_advantage": 1.179
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2026-11-29",
+  "kickoff_datetime": "2026-11-29T19:45:00Z",
+  "round": 12,
+  "home": "Lyon",
+  "away": "Monaco",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 3,
+   "goals": 2.0,
+   "goals_against": 0.67,
+   "xg_for": 1.77,
+   "xg_against": 1.39,
+   "xg_diff_per_game": 0.38,
+   "finishing_delta": 0.23,
+   "points": 7,
+   "ppg": 2.33,
+   "form": "WDW",
+   "possession_pct": 57.7
+  },
+  "away_form": {
+   "matches": 3,
+   "goals": 1.67,
+   "goals_against": 0.33,
+   "xg_for": 1.27,
+   "xg_against": 1.45,
+   "xg_diff_per_game": -0.18,
+   "finishing_delta": 0.39,
+   "points": 9,
+   "ppg": 3.0,
+   "form": "WWW",
+   "possession_pct": 39.3
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.463,
+  "pred_xg_away": 1.339,
+  "win_home_pct": 39.3,
+  "draw_pct": 27.0,
+  "win_away_pct": 33.7,
+  "xpts_home": 1.45,
+  "xpts_away": 1.28,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    12.77
+   ],
+   [
+    2,
+    1,
+    8.7
+   ],
+   [
+    1,
+    0,
+    7.99
+   ],
+   [
+    1,
+    2,
+    7.96
+   ],
+   [
+    0,
+    1,
+    7.23
+   ]
+  ],
+  "over_2_5_pct": 53.1,
+  "btts_pct": 57.6,
+  "reasoning": {
+   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.12 goals, and the most likely single outcome is a draw at 27%. Projected 1.46-1.34 on expected goals, with 1-1 the single most likely scoreline at 12.8%. Confidence is low: only a handful of matches played, so ratings still lean on last season's baseline.",
+   "confidence": {
+    "level": "low",
+    "note": "only a handful of matches played, so ratings still lean on last season's baseline",
+    "effective_matches_home": 2.8,
+    "effective_matches_away": 2.8
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Lyon attack",
+     "detail": "solid (1.02x league average)",
+     "delta_goals": 0.034
+    },
+    {
+     "side": "home",
+     "label": "Monaco defence",
+     "detail": "strong (0.84x league average conceded)",
+     "delta_goals": -0.23
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.18x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.222
+    },
+    {
+     "side": "away",
+     "label": "Monaco attack",
+     "detail": "solid (1.04x league average)",
+     "delta_goals": 0.056
+    },
+    {
+     "side": "away",
+     "label": "Lyon defence",
+     "detail": "strong (0.90x league average conceded)",
+     "delta_goals": -0.153
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 1.024,
+    "home_defence": 0.897,
+    "away_attack": 1.039,
+    "away_defence": 0.844,
     "league_base": 1.437,
     "home_advantage": 1.179
    },
