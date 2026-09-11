@@ -1,5 +1,23 @@
 [
  {
+  "team": "Rennes",
+  "played": 4,
+  "won": 3,
+  "drawn": 1,
+  "lost": 0,
+  "gf": 8,
+  "ga": 5,
+  "gd": 3,
+  "points": 10,
+  "xg_for": 7.38,
+  "xg_against": 7.83,
+  "xpts": 5.31,
+  "xg_diff": -0.45,
+  "luck": 4.69,
+  "position": 1,
+  "xposition": 6
+ },
+ {
   "team": "Monaco",
   "played": 3,
   "won": 3,
@@ -14,8 +32,8 @@
   "xpts": 3.97,
   "xg_diff": -0.54,
   "luck": 5.03,
-  "position": 1,
-  "xposition": 9
+  "position": 2,
+  "xposition": 10
  },
  {
   "team": "Lyon",
@@ -32,8 +50,8 @@
   "xpts": 4.99,
   "xg_diff": 1.13,
   "luck": 2.01,
-  "position": 2,
-  "xposition": 6
+  "position": 3,
+  "xposition": 8
  },
  {
   "team": "Paris FC",
@@ -50,7 +68,7 @@
   "xpts": 7.05,
   "xg_diff": 4.88,
   "luck": -0.05,
-  "position": 3,
+  "position": 4,
   "xposition": 1
  },
  {
@@ -68,26 +86,8 @@
   "xpts": 2.56,
   "xg_diff": -3.17,
   "luck": 4.44,
-  "position": 4,
-  "xposition": 15
- },
- {
-  "team": "Rennes",
-  "played": 3,
-  "won": 2,
-  "drawn": 1,
-  "lost": 0,
-  "gf": 7,
-  "ga": 5,
-  "gd": 2,
-  "points": 7,
-  "xg_for": 5.53,
-  "xg_against": 6.88,
-  "xpts": 3.34,
-  "xg_diff": -1.35,
-  "luck": 3.66,
   "position": 5,
-  "xposition": 12
+  "xposition": 15
  },
  {
   "team": "Strasbourg",
@@ -141,7 +141,7 @@
   "xg_diff": -0.38,
   "luck": 0.07,
   "position": 8,
-  "xposition": 10
+  "xposition": 11
  },
  {
   "team": "Troyes",
@@ -159,7 +159,7 @@
   "xg_diff": -0.42,
   "luck": 0.16,
   "position": 9,
-  "xposition": 11
+  "xposition": 12
  },
  {
   "team": "Lens",
@@ -181,21 +181,21 @@
  },
  {
   "team": "Marseille",
-  "played": 3,
+  "played": 4,
   "won": 1,
   "drawn": 0,
-  "lost": 2,
+  "lost": 3,
   "gf": 6,
-  "ga": 5,
-  "gd": 1,
+  "ga": 6,
+  "gd": 0,
   "points": 3,
-  "xg_for": 4.68,
-  "xg_against": 5.19,
-  "xpts": 4.24,
-  "xg_diff": -0.51,
-  "luck": -1.24,
+  "xg_for": 5.63,
+  "xg_against": 7.04,
+  "xpts": 5.03,
+  "xg_diff": -1.41,
+  "luck": -2.03,
   "position": 11,
-  "xposition": 8
+  "xposition": 7
  },
  {
   "team": "Angers",
@@ -213,7 +213,7 @@
   "xg_diff": 0.61,
   "luck": -1.52,
   "position": 12,
-  "xposition": 7
+  "xposition": 9
  },
  {
   "team": "Le Mans",

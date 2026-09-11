@@ -79,6 +79,19 @@
  },
  {
   "position": 7,
+  "team": "Schalke 04",
+  "fotmob_team_id": "10189",
+  "played": 3,
+  "won": 1,
+  "drawn": 1,
+  "lost": 1,
+  "gf": 3,
+  "ga": 4,
+  "gd": -1,
+  "points": 4
+ },
+ {
+  "position": 8,
   "team": "Bayer Leverkusen",
   "fotmob_team_id": "8178",
   "played": 2,
@@ -91,7 +104,7 @@
   "points": 3
  },
  {
-  "position": 8,
+  "position": 9,
   "team": "RB Leipzig",
   "fotmob_team_id": "178475",
   "played": 2,
@@ -104,7 +117,7 @@
   "points": 3
  },
  {
-  "position": 9,
+  "position": 10,
   "team": "VfB Stuttgart",
   "fotmob_team_id": "10269",
   "played": 2,
@@ -117,7 +130,7 @@
   "points": 3
  },
  {
-  "position": 10,
+  "position": 11,
   "team": "Werder Bremen",
   "fotmob_team_id": "8697",
   "played": 2,
@@ -130,7 +143,7 @@
   "points": 3
  },
  {
-  "position": 11,
+  "position": 12,
   "team": "1. FC K\u00f6ln",
   "fotmob_team_id": "8722",
   "played": 2,
@@ -143,33 +156,7 @@
   "points": 3
  },
  {
-  "position": 12,
-  "team": "Schalke 04",
-  "fotmob_team_id": "10189",
-  "played": 3,
-  "won": 0,
-  "drawn": 2,
-  "lost": 1,
-  "gf": 0,
-  "ga": 3,
-  "gd": -3,
-  "points": 2
- },
- {
   "position": 13,
-  "team": "Union Berlin",
-  "fotmob_team_id": "8149",
-  "played": 3,
-  "won": 0,
-  "drawn": 2,
-  "lost": 1,
-  "gf": 3,
-  "ga": 7,
-  "gd": -4,
-  "points": 2
- },
- {
-  "position": 14,
   "team": "Paderborn",
   "fotmob_team_id": "8460",
   "played": 2,
@@ -182,7 +169,7 @@
   "points": 1
  },
  {
-  "position": 15,
+  "position": 14,
   "team": "Eintracht Frankfurt",
   "fotmob_team_id": "9810",
   "played": 2,
@@ -192,6 +179,19 @@
   "gf": 4,
   "ga": 7,
   "gd": -3,
+  "points": 1
+ },
+ {
+  "position": 15,
+  "team": "Union Berlin",
+  "fotmob_team_id": "8149",
+  "played": 3,
+  "won": 0,
+  "drawn": 1,
+  "lost": 2,
+  "gf": 4,
+  "ga": 10,
+  "gd": -6,
   "points": 1
  },
  {

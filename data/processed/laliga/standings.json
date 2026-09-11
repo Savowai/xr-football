@@ -11,9 +11,9 @@
   "points": 12,
   "xg_for": 15.73,
   "xg_against": 2.82,
-  "xpts": 10.94,
+  "xpts": 10.95,
   "xg_diff": 12.91,
-  "luck": 1.06,
+  "luck": 1.05,
   "position": 1,
   "xposition": 1
  },
@@ -33,7 +33,25 @@
   "xg_diff": 1.82,
   "luck": 3.29,
   "position": 2,
-  "xposition": 5
+  "xposition": 6
+ },
+ {
+  "team": "Sevilla",
+  "played": 5,
+  "won": 3,
+  "drawn": 1,
+  "lost": 1,
+  "gf": 8,
+  "ga": 6,
+  "gd": 2,
+  "points": 10,
+  "xg_for": 6.02,
+  "xg_against": 5.47,
+  "xpts": 7.18,
+  "xg_diff": 0.55,
+  "luck": 2.82,
+  "position": 3,
+  "xposition": 4
  },
  {
   "team": "Real Madrid",
@@ -50,7 +68,7 @@
   "xpts": 10.08,
   "xg_diff": 8.63,
   "luck": -1.08,
-  "position": 3,
+  "position": 4,
   "xposition": 2
  },
  {
@@ -65,10 +83,10 @@
   "points": 9,
   "xg_for": 4.8,
   "xg_against": 8.7,
-  "xpts": 3.5,
+  "xpts": 3.51,
   "xg_diff": -3.9,
-  "luck": 5.5,
-  "position": 4,
+  "luck": 5.49,
+  "position": 5,
   "xposition": 18
  },
  {
@@ -83,10 +101,10 @@
   "points": 8,
   "xg_for": 3.71,
   "xg_against": 5.78,
-  "xpts": 3.87,
+  "xpts": 3.88,
   "xg_diff": -2.07,
-  "luck": 4.13,
-  "position": 5,
+  "luck": 4.12,
+  "position": 6,
   "xposition": 17
  },
  {
@@ -101,29 +119,11 @@
   "points": 7,
   "xg_for": 2.73,
   "xg_against": 5.91,
-  "xpts": 2.62,
+  "xpts": 2.63,
   "xg_diff": -3.18,
-  "luck": 4.38,
-  "position": 6,
-  "xposition": 20
- },
- {
-  "team": "Sevilla",
-  "played": 4,
-  "won": 2,
-  "drawn": 1,
-  "lost": 1,
-  "gf": 7,
-  "ga": 6,
-  "gd": 1,
-  "points": 7,
-  "xg_for": 4.82,
-  "xg_against": 5.39,
-  "xpts": 4.85,
-  "xg_diff": -0.57,
-  "luck": 2.15,
+  "luck": 4.37,
   "position": 7,
-  "xposition": 12
+  "xposition": 20
  },
  {
   "team": "Osasuna",
@@ -155,11 +155,11 @@
   "points": 7,
   "xg_for": 5.58,
   "xg_against": 8.09,
-  "xpts": 6.0,
+  "xpts": 6.01,
   "xg_diff": -2.51,
-  "luck": 1.0,
+  "luck": 0.99,
   "position": 9,
-  "xposition": 6
+  "xposition": 7
  },
  {
   "team": "Athletic Club",
@@ -177,7 +177,7 @@
   "xg_diff": -1.45,
   "luck": 0.39,
   "position": 10,
-  "xposition": 8
+  "xposition": 9
  },
  {
   "team": "Levante",
@@ -191,11 +191,11 @@
   "points": 5,
   "xg_for": 5.04,
   "xg_against": 5.55,
-  "xpts": 4.89,
+  "xpts": 4.9,
   "xg_diff": -0.51,
-  "luck": 0.11,
+  "luck": 0.1,
   "position": 11,
-  "xposition": 11
+  "xposition": 12
  },
  {
   "team": "Espanyol",
@@ -213,7 +213,7 @@
   "xg_diff": -0.82,
   "luck": -1.42,
   "position": 12,
-  "xposition": 10
+  "xposition": 11
  },
  {
   "team": "Racing Santander",
@@ -231,7 +231,7 @@
   "xg_diff": 0.83,
   "luck": -1.96,
   "position": 13,
-  "xposition": 7
+  "xposition": 8
  },
  {
   "team": "Rayo Vallecano",
@@ -263,9 +263,9 @@
   "points": 4,
   "xg_for": 2.97,
   "xg_against": 5.88,
-  "xpts": 3.44,
+  "xpts": 3.45,
   "xg_diff": -2.91,
-  "luck": 0.56,
+  "luck": 0.55,
   "position": 15,
   "xposition": 19
  },
@@ -281,9 +281,9 @@
   "points": 3,
   "xg_for": 2.9,
   "xg_against": 7.94,
-  "xpts": 3.89,
+  "xpts": 3.91,
   "xg_diff": -5.04,
-  "luck": -0.89,
+  "luck": -0.91,
   "position": 16,
   "xposition": 16
  },
@@ -299,11 +299,11 @@
   "points": 2,
   "xg_for": 7.21,
   "xg_against": 4.21,
-  "xpts": 6.96,
+  "xpts": 6.97,
   "xg_diff": 3.0,
-  "luck": -4.96,
+  "luck": -4.97,
   "position": 17,
-  "xposition": 4
+  "xposition": 5
  },
  {
   "team": "M\u00e1laga",
@@ -317,9 +317,9 @@
   "points": 2,
   "xg_for": 4.12,
   "xg_against": 4.55,
-  "xpts": 4.08,
+  "xpts": 4.11,
   "xg_diff": -0.43,
-  "luck": -2.08,
+  "luck": -2.11,
   "position": 18,
   "xposition": 15
  },
@@ -335,27 +335,27 @@
   "points": 1,
   "xg_for": 5.43,
   "xg_against": 7.02,
-  "xpts": 5.57,
+  "xpts": 5.58,
   "xg_diff": -1.59,
-  "luck": -4.57,
+  "luck": -4.58,
   "position": 19,
-  "xposition": 9
+  "xposition": 10
  },
  {
   "team": "Valencia",
-  "played": 4,
+  "played": 5,
   "won": 0,
   "drawn": 1,
-  "lost": 3,
+  "lost": 4,
   "gf": 1,
-  "ga": 9,
-  "gd": -8,
+  "ga": 10,
+  "gd": -9,
   "points": 1,
-  "xg_for": 3.88,
-  "xg_against": 6.83,
-  "xpts": 4.48,
-  "xg_diff": -2.95,
-  "luck": -3.48,
+  "xg_for": 3.96,
+  "xg_against": 8.03,
+  "xpts": 4.87,
+  "xg_diff": -4.07,
+  "luck": -3.87,
   "position": 20,
   "xposition": 13
  }

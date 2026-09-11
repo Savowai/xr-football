@@ -1,6 +1,19 @@
 [
  {
   "position": 1,
+  "team": "Rennes",
+  "fotmob_team_id": "9851",
+  "played": 4,
+  "won": 3,
+  "drawn": 1,
+  "lost": 0,
+  "gf": 8,
+  "ga": 5,
+  "gd": 3,
+  "points": 10
+ },
+ {
+  "position": 2,
   "team": "Monaco",
   "fotmob_team_id": "9829",
   "played": 3,
@@ -11,19 +24,6 @@
   "ga": 1,
   "gd": 4,
   "points": 9
- },
- {
-  "position": 2,
-  "team": "Rennes",
-  "fotmob_team_id": "9851",
-  "played": 4,
-  "won": 2,
-  "drawn": 2,
-  "lost": 0,
-  "gf": 7,
-  "ga": 5,
-  "gd": 2,
-  "points": 8
  },
  {
   "position": 3,
@@ -92,19 +92,6 @@
  },
  {
   "position": 8,
-  "team": "Marseille",
-  "fotmob_team_id": "8592",
-  "played": 4,
-  "won": 1,
-  "drawn": 1,
-  "lost": 2,
-  "gf": 6,
-  "ga": 5,
-  "gd": 1,
-  "points": 4
- },
- {
-  "position": 9,
   "team": "Lorient",
   "fotmob_team_id": "8689",
   "played": 3,
@@ -117,7 +104,7 @@
   "points": 4
  },
  {
-  "position": 10,
+  "position": 9,
   "team": "Troyes",
   "fotmob_team_id": "10242",
   "played": 3,
@@ -130,7 +117,7 @@
   "points": 4
  },
  {
-  "position": 11,
+  "position": 10,
   "team": "Lens",
   "fotmob_team_id": "8588",
   "played": 3,
@@ -140,6 +127,19 @@
   "gf": 6,
   "ga": 5,
   "gd": 1,
+  "points": 3
+ },
+ {
+  "position": 11,
+  "team": "Marseille",
+  "fotmob_team_id": "8592",
+  "played": 4,
+  "won": 1,
+  "drawn": 0,
+  "lost": 3,
+  "gf": 6,
+  "ga": 6,
+  "gd": 0,
   "points": 3
  },
  {

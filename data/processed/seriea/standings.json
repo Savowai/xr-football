@@ -33,7 +33,7 @@
   "xg_diff": 4.44,
   "luck": 2.86,
   "position": 2,
-  "xposition": 3
+  "xposition": 4
  },
  {
   "team": "Lazio",
@@ -51,7 +51,7 @@
   "xg_diff": 1.18,
   "luck": 3.98,
   "position": 3,
-  "xposition": 7
+  "xposition": 8
  },
  {
   "team": "Como",
@@ -87,7 +87,7 @@
   "xg_diff": 0.79,
   "luck": 2.51,
   "position": 5,
-  "xposition": 8
+  "xposition": 9
  },
  {
   "team": "Juventus",
@@ -177,7 +177,7 @@
   "xg_diff": 2.15,
   "luck": -1.43,
   "position": 10,
-  "xposition": 6
+  "xposition": 7
  },
  {
   "team": "Udinese",
@@ -195,7 +195,7 @@
   "xg_diff": -1.21,
   "luck": 0.65,
   "position": 11,
-  "xposition": 13
+  "xposition": 14
  },
  {
   "team": "Napoli",
@@ -252,6 +252,24 @@
   "xposition": 15
  },
  {
+  "team": "Fiorentina",
+  "played": 4,
+  "won": 1,
+  "drawn": 0,
+  "lost": 3,
+  "gf": 5,
+  "ga": 11,
+  "gd": -6,
+  "points": 3,
+  "xg_for": 7.51,
+  "xg_against": 5.34,
+  "xpts": 7.08,
+  "xg_diff": 2.17,
+  "luck": -4.08,
+  "position": 15,
+  "xposition": 3
+ },
+ {
   "team": "Bologna",
   "played": 3,
   "won": 0,
@@ -266,8 +284,8 @@
   "xpts": 5.9,
   "xg_diff": 2.31,
   "luck": -4.9,
-  "position": 15,
-  "xposition": 4
+  "position": 16,
+  "xposition": 5
  },
  {
   "team": "Parma",
@@ -284,7 +302,7 @@
   "xpts": 2.29,
   "xg_diff": -2.51,
   "luck": -1.29,
-  "position": 16,
+  "position": 17,
   "xposition": 19
  },
  {
@@ -302,26 +320,8 @@
   "xpts": 5.47,
   "xg_diff": 1.89,
   "luck": -4.47,
-  "position": 17,
-  "xposition": 5
- },
- {
-  "team": "Venezia",
-  "played": 3,
-  "won": 0,
-  "drawn": 0,
-  "lost": 3,
-  "gf": 2,
-  "ga": 7,
-  "gd": -5,
-  "points": 0,
-  "xg_for": 5.02,
-  "xg_against": 6.81,
-  "xpts": 3.19,
-  "xg_diff": -1.79,
-  "luck": -3.19,
   "position": 18,
-  "xposition": 14
+  "xposition": 6
  },
  {
   "team": "Genoa",
@@ -342,21 +342,21 @@
   "xposition": 17
  },
  {
-  "team": "Fiorentina",
-  "played": 3,
+  "team": "Venezia",
+  "played": 4,
   "won": 0,
   "drawn": 0,
-  "lost": 3,
-  "gf": 1,
-  "ga": 9,
-  "gd": -8,
+  "lost": 4,
+  "gf": 4,
+  "ga": 11,
+  "gd": -7,
   "points": 0,
-  "xg_for": 4.15,
-  "xg_against": 4.76,
-  "xpts": 4.34,
-  "xg_diff": -0.61,
-  "luck": -4.34,
+  "xg_for": 5.6,
+  "xg_against": 10.17,
+  "xpts": 3.38,
+  "xg_diff": -4.57,
+  "luck": -3.38,
   "position": 20,
-  "xposition": 9
+  "xposition": 13
  }
 ]
