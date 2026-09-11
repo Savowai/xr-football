@@ -224,17 +224,30 @@
   "position": 18,
   "team": "Venezia",
   "fotmob_team_id": "7881",
-  "played": 3,
+  "played": 4,
   "won": 0,
-  "drawn": 0,
+  "drawn": 1,
   "lost": 3,
   "gf": 2,
   "ga": 7,
   "gd": -5,
-  "points": 0
+  "points": 1
  },
  {
   "position": 19,
+  "team": "Fiorentina",
+  "fotmob_team_id": "8535",
+  "played": 4,
+  "won": 0,
+  "drawn": 1,
+  "lost": 3,
+  "gf": 1,
+  "ga": 9,
+  "gd": -8,
+  "points": 1
+ },
+ {
+  "position": 20,
   "team": "Genoa",
   "fotmob_team_id": "10233",
   "played": 3,
@@ -244,19 +257,6 @@
   "gf": 1,
   "ga": 7,
   "gd": -6,
-  "points": 0
- },
- {
-  "position": 20,
-  "team": "Fiorentina",
-  "fotmob_team_id": "8535",
-  "played": 3,
-  "won": 0,
-  "drawn": 0,
-  "lost": 3,
-  "gf": 1,
-  "ga": 9,
-  "gd": -8,
   "points": 0
  }
 ]
