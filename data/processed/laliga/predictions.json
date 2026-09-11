@@ -14782,144 +14782,6 @@
   "date": "2026-10-25",
   "kickoff_datetime": "2026-10-25T14:00:00Z",
   "round": 10,
-  "home": "Barcelona",
-  "away": "Real Madrid",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 4,
-   "goals": 4.25,
-   "goals_against": 0.5,
-   "xg_for": 3.93,
-   "xg_against": 0.71,
-   "xg_diff_per_game": 3.23,
-   "finishing_delta": 0.32,
-   "points": 12,
-   "ppg": 3.0,
-   "form": "WWWW",
-   "possession_pct": 66.5
-  },
-  "away_form": {
-   "matches": 4,
-   "goals": 2.5,
-   "goals_against": 0.75,
-   "xg_for": 2.99,
-   "xg_against": 0.83,
-   "xg_diff_per_game": 2.16,
-   "finishing_delta": -0.49,
-   "points": 9,
-   "ppg": 2.25,
-   "form": "WWWL",
-   "possession_pct": 57.0
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 2.532,
-  "pred_xg_away": 1.394,
-  "win_home_pct": 61.2,
-  "draw_pct": 20.0,
-  "win_away_pct": 18.7,
-  "xpts_home": 2.04,
-  "xpts_away": 0.76,
-  "most_likely_scoreline": [
-   2,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    2,
-    1,
-    8.81
-   ],
-   [
-    1,
-    1,
-    7.93
-   ],
-   [
-    3,
-    1,
-    7.44
-   ],
-   [
-    2,
-    0,
-    6.32
-   ],
-   [
-    2,
-    2,
-    6.14
-   ]
-  ],
-  "over_2_5_pct": 75.1,
-  "btts_pct": 70.2,
-  "reasoning": {
-   "thesis": "Barcelona should win comfortably. The model has them 1.14 goals clear of Real Madrid, a 61% win probability. Barcelona are creating +3.23 xG per game more than they concede over their last 4, the profile of a side controlling matches. Real Madrid are converting 0.49 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Projected 2.53-1.39 on expected goals, with 2-1 the single most likely scoreline at 8.8%. Confidence is low: only a handful of matches played, so ratings still lean on last season's baseline.",
-   "confidence": {
-    "level": "low",
-    "note": "only a handful of matches played, so ratings still lean on last season's baseline",
-    "effective_matches_home": 3.8,
-    "effective_matches_away": 3.8
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Barcelona attack",
-     "detail": "excellent (1.89x league average)",
-     "delta_goals": 1.139
-    },
-    {
-     "side": "home",
-     "label": "Real Madrid defence",
-     "detail": "excellent (0.77x league average conceded)",
-     "delta_goals": -0.563
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.37x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.68
-    },
-    {
-     "side": "away",
-     "label": "Real Madrid attack",
-     "detail": "excellent (1.49x league average)",
-     "delta_goals": 0.621
-    },
-    {
-     "side": "away",
-     "label": "Barcelona defence",
-     "detail": "excellent (0.73x league average conceded)",
-     "delta_goals": -0.504
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 1.893,
-    "home_defence": 0.735,
-    "away_attack": 1.487,
-    "away_defence": 0.767,
-    "league_base": 1.276,
-    "home_advantage": 1.367
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [
-     "Roony Bardghji"
-    ],
-    "away_missing": [
-     "Rodrygo"
-    ]
-   }
-  }
- },
- {
-  "date": "2026-10-25",
-  "kickoff_datetime": "2026-10-25T14:00:00Z",
-  "round": 10,
   "home": "Celta Vigo",
   "away": "Real Betis",
   "status": "scheduled",
@@ -15916,6 +15778,144 @@
      "Umar Sadiq"
     ],
     "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "kickoff_datetime": "2026-10-25T20:00:00Z",
+  "round": 10,
+  "home": "Barcelona",
+  "away": "Real Madrid",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 4,
+   "goals": 4.25,
+   "goals_against": 0.5,
+   "xg_for": 3.93,
+   "xg_against": 0.71,
+   "xg_diff_per_game": 3.23,
+   "finishing_delta": 0.32,
+   "points": 12,
+   "ppg": 3.0,
+   "form": "WWWW",
+   "possession_pct": 66.5
+  },
+  "away_form": {
+   "matches": 4,
+   "goals": 2.5,
+   "goals_against": 0.75,
+   "xg_for": 2.99,
+   "xg_against": 0.83,
+   "xg_diff_per_game": 2.16,
+   "finishing_delta": -0.49,
+   "points": 9,
+   "ppg": 2.25,
+   "form": "WWWL",
+   "possession_pct": 57.0
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 2.532,
+  "pred_xg_away": 1.394,
+  "win_home_pct": 61.2,
+  "draw_pct": 20.0,
+  "win_away_pct": 18.7,
+  "xpts_home": 2.04,
+  "xpts_away": 0.76,
+  "most_likely_scoreline": [
+   2,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    2,
+    1,
+    8.81
+   ],
+   [
+    1,
+    1,
+    7.93
+   ],
+   [
+    3,
+    1,
+    7.44
+   ],
+   [
+    2,
+    0,
+    6.32
+   ],
+   [
+    2,
+    2,
+    6.14
+   ]
+  ],
+  "over_2_5_pct": 75.1,
+  "btts_pct": 70.2,
+  "reasoning": {
+   "thesis": "Barcelona should win comfortably. The model has them 1.14 goals clear of Real Madrid, a 61% win probability. Barcelona are creating +3.23 xG per game more than they concede over their last 4, the profile of a side controlling matches. Real Madrid are converting 0.49 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Projected 2.53-1.39 on expected goals, with 2-1 the single most likely scoreline at 8.8%. Confidence is low: only a handful of matches played, so ratings still lean on last season's baseline.",
+   "confidence": {
+    "level": "low",
+    "note": "only a handful of matches played, so ratings still lean on last season's baseline",
+    "effective_matches_home": 3.8,
+    "effective_matches_away": 3.8
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Barcelona attack",
+     "detail": "excellent (1.89x league average)",
+     "delta_goals": 1.139
+    },
+    {
+     "side": "home",
+     "label": "Real Madrid defence",
+     "detail": "excellent (0.77x league average conceded)",
+     "delta_goals": -0.563
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.37x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.68
+    },
+    {
+     "side": "away",
+     "label": "Real Madrid attack",
+     "detail": "excellent (1.49x league average)",
+     "delta_goals": 0.621
+    },
+    {
+     "side": "away",
+     "label": "Barcelona defence",
+     "detail": "excellent (0.73x league average conceded)",
+     "delta_goals": -0.504
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 1.893,
+    "home_defence": 0.735,
+    "away_attack": 1.487,
+    "away_defence": 0.767,
+    "league_base": 1.276,
+    "home_advantage": 1.367
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Roony Bardghji"
+    ],
+    "away_missing": [
+     "Rodrygo"
+    ]
    }
   }
  },
