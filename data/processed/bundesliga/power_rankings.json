@@ -1,11 +1,11 @@
 [
  {
   "team": "Bayern M\u00fcnchen",
-  "attack": 1.472,
-  "defence": 0.731,
+  "attack": 1.473,
+  "defence": 0.732,
   "expected_gf_per_game": 2.5,
   "expected_ga_per_game": 1.24,
-  "net_rating": 1.26,
+  "net_rating": 1.259,
   "evidence_matches": 1.9,
   "rank": 1
  },
@@ -15,13 +15,13 @@
   "defence": 0.838,
   "expected_gf_per_game": 2.02,
   "expected_ga_per_game": 1.42,
-  "net_rating": 0.592,
+  "net_rating": 0.591,
   "evidence_matches": 1.9,
   "rank": 2
  },
  {
   "team": "Borussia Dortmund",
-  "attack": 1.086,
+  "attack": 1.087,
   "defence": 0.811,
   "expected_gf_per_game": 1.85,
   "expected_ga_per_game": 1.38,
@@ -35,7 +35,7 @@
   "defence": 0.804,
   "expected_gf_per_game": 1.79,
   "expected_ga_per_game": 1.37,
-  "net_rating": 0.428,
+  "net_rating": 0.427,
   "evidence_matches": 1.9,
   "rank": 4
  },
@@ -51,21 +51,21 @@
  },
  {
   "team": "Freiburg",
-  "attack": 0.996,
+  "attack": 0.995,
   "defence": 0.831,
   "expected_gf_per_game": 1.69,
   "expected_ga_per_game": 1.41,
-  "net_rating": 0.28,
+  "net_rating": 0.279,
   "evidence_matches": 1.9,
   "rank": 6
  },
  {
   "team": "Augsburg",
-  "attack": 1.099,
+  "attack": 1.098,
   "defence": 1.04,
   "expected_gf_per_game": 1.87,
   "expected_ga_per_game": 1.77,
-  "net_rating": 0.1,
+  "net_rating": 0.099,
   "evidence_matches": 1.9,
   "rank": 7
  },
@@ -90,21 +90,21 @@
   "rank": 9
  },
  {
-  "team": "1. FC K\u00f6ln",
-  "attack": 1.034,
-  "defence": 1.14,
-  "expected_gf_per_game": 1.76,
-  "expected_ga_per_game": 1.94,
-  "net_rating": -0.181,
-  "evidence_matches": 1.9,
-  "rank": 10
- },
- {
   "team": "Eintracht Frankfurt",
   "attack": 0.952,
   "defence": 1.058,
   "expected_gf_per_game": 1.62,
   "expected_ga_per_game": 1.8,
+  "net_rating": -0.18,
+  "evidence_matches": 1.9,
+  "rank": 10
+ },
+ {
+  "team": "1. FC K\u00f6ln",
+  "attack": 1.034,
+  "defence": 1.14,
+  "expected_gf_per_game": 1.76,
+  "expected_ga_per_game": 1.94,
   "net_rating": -0.181,
   "evidence_matches": 1.9,
   "rank": 11
@@ -115,7 +115,7 @@
   "defence": 1.157,
   "expected_gf_per_game": 1.69,
   "expected_ga_per_game": 1.97,
-  "net_rating": -0.275,
+  "net_rating": -0.276,
   "evidence_matches": 1.9,
   "rank": 12
  },
@@ -131,21 +131,21 @@
  },
  {
   "team": "Paderborn",
-  "attack": 0.717,
-  "defence": 0.939,
+  "attack": 0.718,
+  "defence": 0.94,
   "expected_gf_per_game": 1.22,
   "expected_ga_per_game": 1.6,
-  "net_rating": -0.377,
+  "net_rating": -0.378,
   "evidence_matches": 1.9,
   "rank": 14
  },
  {
   "team": "Union Berlin",
   "attack": 0.856,
-  "defence": 1.11,
+  "defence": 1.109,
   "expected_gf_per_game": 1.46,
   "expected_ga_per_game": 1.89,
-  "net_rating": -0.431,
+  "net_rating": -0.43,
   "evidence_matches": 1.9,
   "rank": 15
  },
@@ -155,7 +155,7 @@
   "defence": 1.177,
   "expected_gf_per_game": 1.49,
   "expected_ga_per_game": 2.0,
-  "net_rating": -0.514,
+  "net_rating": -0.513,
   "evidence_matches": 1.9,
   "rank": 16
  },
@@ -175,7 +175,7 @@
   "defence": 1.133,
   "expected_gf_per_game": 1.21,
   "expected_ga_per_game": 1.93,
-  "net_rating": -0.719,
+  "net_rating": -0.717,
   "evidence_matches": 1.9,
   "rank": 18
  }
