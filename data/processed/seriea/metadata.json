@@ -3,7 +3,7 @@
  "league": "Serie A",
  "country": "Italy",
  "season": "2026-27",
- "built_at": "2026-09-11T23:35:42.796783+00:00",
+ "built_at": "2026-09-12T01:42:44.615267+00:00",
  "match_count": 380,
  "played_count": 31,
  "prediction_count": 380,
@@ -38,7 +38,7 @@
  "model": {
   "name": "Dixon-Coles bivariate Poisson",
   "base_goals": 1.349,
-  "home_advantage": 1.089,
+  "home_advantage": 1.09,
   "rho": 0.1,
   "time_decay_xi": 0.0045,
   "prior_strength": 8.0,

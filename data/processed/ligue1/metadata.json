@@ -3,7 +3,7 @@
  "league": "Ligue 1",
  "country": "France",
  "season": "2026-27",
- "built_at": "2026-09-11T23:35:47.003563+00:00",
+ "built_at": "2026-09-12T01:42:49.558603+00:00",
  "match_count": 306,
  "played_count": 28,
  "prediction_count": 306,
@@ -36,7 +36,7 @@
  "model": {
   "name": "Dixon-Coles bivariate Poisson",
   "base_goals": 1.393,
-  "home_advantage": 1.184,
+  "home_advantage": 1.185,
   "rho": -0.0748,
   "time_decay_xi": 0.0045,
   "prior_strength": 8.0,
