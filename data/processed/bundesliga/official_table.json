@@ -7,9 +7,9 @@
   "won": 3,
   "drawn": 0,
   "lost": 0,
-  "gf": 7,
+  "gf": 10,
   "ga": 1,
-  "gd": 6,
+  "gd": 9,
   "points": 9
  },
  {
@@ -20,9 +20,9 @@
   "won": 3,
   "drawn": 0,
   "lost": 0,
-  "gf": 6,
+  "gf": 8,
   "ga": 2,
-  "gd": 4,
+  "gd": 6,
   "points": 9
  },
  {
@@ -31,28 +31,15 @@
   "fotmob_team_id": "8406",
   "played": 3,
   "won": 2,
-  "drawn": 0,
-  "lost": 1,
-  "gf": 7,
-  "ga": 2,
-  "gd": 5,
-  "points": 6
+  "drawn": 1,
+  "lost": 0,
+  "gf": 9,
+  "ga": 3,
+  "gd": 6,
+  "points": 7
  },
  {
   "position": 4,
-  "team": "Bayer Leverkusen",
-  "fotmob_team_id": "8178",
-  "played": 3,
-  "won": 2,
-  "drawn": 0,
-  "lost": 1,
-  "gf": 7,
-  "ga": 3,
-  "gd": 4,
-  "points": 6
- },
- {
-  "position": 5,
   "team": "Elversberg",
   "fotmob_team_id": "8232",
   "played": 2,
@@ -62,6 +49,19 @@
   "gf": 7,
   "ga": 5,
   "gd": 2,
+  "points": 6
+ },
+ {
+  "position": 5,
+  "team": "1. FC K\u00f6ln",
+  "fotmob_team_id": "8722",
+  "played": 3,
+  "won": 2,
+  "drawn": 0,
+  "lost": 1,
+  "gf": 5,
+  "ga": 6,
+  "gd": -1,
   "points": 6
  },
  {
@@ -79,32 +79,45 @@
  },
  {
   "position": 7,
+  "team": "Bayer Leverkusen",
+  "fotmob_team_id": "8178",
+  "played": 3,
+  "won": 1,
+  "drawn": 1,
+  "lost": 1,
+  "gf": 8,
+  "ga": 5,
+  "gd": 3,
+  "points": 4
+ },
+ {
+  "position": 8,
   "team": "Mainz 05",
   "fotmob_team_id": "9905",
   "played": 3,
   "won": 1,
   "drawn": 1,
   "lost": 1,
-  "gf": 5,
-  "ga": 2,
+  "gf": 6,
+  "ga": 3,
   "gd": 3,
   "points": 4
  },
  {
-  "position": 8,
+  "position": 9,
   "team": "Eintracht Frankfurt",
   "fotmob_team_id": "9810",
   "played": 3,
   "won": 1,
   "drawn": 1,
   "lost": 1,
-  "gf": 6,
-  "ga": 7,
+  "gf": 7,
+  "ga": 8,
   "gd": -1,
   "points": 4
  },
  {
-  "position": 9,
+  "position": 10,
   "team": "Schalke 04",
   "fotmob_team_id": "10189",
   "played": 3,
@@ -117,7 +130,7 @@
   "points": 4
  },
  {
-  "position": 10,
+  "position": 11,
   "team": "RB Leipzig",
   "fotmob_team_id": "178475",
   "played": 2,
@@ -130,28 +143,15 @@
   "points": 3
  },
  {
-  "position": 11,
+  "position": 12,
   "team": "Hoffenheim",
   "fotmob_team_id": "8226",
   "played": 3,
   "won": 1,
   "drawn": 0,
   "lost": 2,
-  "gf": 5,
-  "ga": 6,
-  "gd": -1,
-  "points": 3
- },
- {
-  "position": 12,
-  "team": "Werder Bremen",
-  "fotmob_team_id": "8697",
-  "played": 2,
-  "won": 1,
-  "drawn": 0,
-  "lost": 1,
-  "gf": 4,
-  "ga": 5,
+  "gf": 6,
+  "ga": 7,
   "gd": -1,
   "points": 3
  },
@@ -163,19 +163,19 @@
   "won": 1,
   "drawn": 0,
   "lost": 2,
-  "gf": 5,
-  "ga": 7,
+  "gf": 6,
+  "ga": 8,
   "gd": -2,
   "points": 3
  },
  {
   "position": 14,
-  "team": "1. FC K\u00f6ln",
-  "fotmob_team_id": "8722",
-  "played": 2,
+  "team": "Werder Bremen",
+  "fotmob_team_id": "8697",
+  "played": 3,
   "won": 1,
   "drawn": 0,
-  "lost": 1,
+  "lost": 2,
   "gf": 4,
   "ga": 6,
   "gd": -2,
@@ -190,8 +190,8 @@
   "drawn": 1,
   "lost": 2,
   "gf": 0,
-  "ga": 2,
-  "gd": -2,
+  "ga": 4,
+  "gd": -4,
   "points": 1
  },
  {
@@ -209,19 +209,6 @@
  },
  {
   "position": 17,
-  "team": "Borussia M\u00f6nchengladbach",
-  "fotmob_team_id": "9788",
-  "played": 3,
-  "won": 0,
-  "drawn": 0,
-  "lost": 3,
-  "gf": 3,
-  "ga": 9,
-  "gd": -6,
-  "points": 0
- },
- {
-  "position": 18,
   "team": "Hamburger SV",
   "fotmob_team_id": "9790",
   "played": 2,
@@ -231,6 +218,19 @@
   "gf": 0,
   "ga": 7,
   "gd": -7,
+  "points": 0
+ },
+ {
+  "position": 18,
+  "team": "Borussia M\u00f6nchengladbach",
+  "fotmob_team_id": "9788",
+  "played": 3,
+  "won": 0,
+  "drawn": 0,
+  "lost": 3,
+  "gf": 3,
+  "ga": 12,
+  "gd": -9,
   "points": 0
  }
 ]

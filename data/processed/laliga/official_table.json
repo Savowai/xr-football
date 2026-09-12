@@ -85,9 +85,9 @@
   "won": 2,
   "drawn": 1,
   "lost": 2,
-  "gf": 7,
+  "gf": 8,
   "ga": 5,
-  "gd": 2,
+  "gd": 3,
   "points": 7
  },
  {
@@ -105,6 +105,19 @@
  },
  {
   "position": 9,
+  "team": "Athletic Club",
+  "fotmob_team_id": "8315",
+  "played": 5,
+  "won": 2,
+  "drawn": 1,
+  "lost": 2,
+  "gf": 6,
+  "ga": 5,
+  "gd": 1,
+  "points": 7
+ },
+ {
+  "position": 10,
   "team": "Racing Santander",
   "fotmob_team_id": "8696",
   "played": 5,
@@ -117,7 +130,7 @@
   "points": 7
  },
  {
-  "position": 10,
+  "position": 11,
   "team": "Real Sociedad",
   "fotmob_team_id": "8560",
   "played": 5,
@@ -130,7 +143,7 @@
   "points": 7
  },
  {
-  "position": 11,
+  "position": 12,
   "team": "Osasuna",
   "fotmob_team_id": "8371",
   "played": 5,
@@ -138,22 +151,9 @@
   "drawn": 1,
   "lost": 2,
   "gf": 5,
-  "ga": 7,
-  "gd": -2,
+  "ga": 8,
+  "gd": -3,
   "points": 7
- },
- {
-  "position": 12,
-  "team": "Athletic Club",
-  "fotmob_team_id": "8315",
-  "played": 4,
-  "won": 2,
-  "drawn": 0,
-  "lost": 2,
-  "gf": 6,
-  "ga": 5,
-  "gd": 1,
-  "points": 6
  },
  {
   "position": 13,
@@ -237,14 +237,14 @@
   "position": 19,
   "team": "Elche",
   "fotmob_team_id": "10268",
-  "played": 4,
+  "played": 5,
   "won": 0,
-  "drawn": 1,
+  "drawn": 2,
   "lost": 3,
   "gf": 5,
   "ga": 12,
   "gd": -7,
-  "points": 1
+  "points": 2
  },
  {
   "position": 20,

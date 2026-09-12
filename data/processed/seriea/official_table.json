@@ -1,6 +1,19 @@
 [
  {
   "position": 1,
+  "team": "Lazio",
+  "fotmob_team_id": "8543",
+  "played": 4,
+  "won": 3,
+  "drawn": 1,
+  "lost": 0,
+  "gf": 6,
+  "ga": 3,
+  "gd": 3,
+  "points": 10
+ },
+ {
+  "position": 2,
   "team": "Roma",
   "fotmob_team_id": "8686",
   "played": 3,
@@ -13,7 +26,7 @@
   "points": 9
  },
  {
-  "position": 2,
+  "position": 3,
   "team": "Inter",
   "fotmob_team_id": "8636",
   "played": 3,
@@ -26,20 +39,20 @@
   "points": 9
  },
  {
-  "position": 3,
-  "team": "Lazio",
-  "fotmob_team_id": "8543",
-  "played": 3,
-  "won": 3,
-  "drawn": 0,
+  "position": 4,
+  "team": "Milan",
+  "fotmob_team_id": "8564",
+  "played": 4,
+  "won": 2,
+  "drawn": 2,
   "lost": 0,
-  "gf": 4,
-  "ga": 1,
+  "gf": 7,
+  "ga": 4,
   "gd": 3,
-  "points": 9
+  "points": 8
  },
  {
-  "position": 4,
+  "position": 5,
   "team": "Como",
   "fotmob_team_id": "10171",
   "played": 3,
@@ -52,7 +65,7 @@
   "points": 7
  },
  {
-  "position": 5,
+  "position": 6,
   "team": "Frosinone",
   "fotmob_team_id": "9891",
   "played": 4,
@@ -61,19 +74,6 @@
   "lost": 1,
   "gf": 7,
   "ga": 4,
-  "gd": 3,
-  "points": 7
- },
- {
-  "position": 6,
-  "team": "Milan",
-  "fotmob_team_id": "8564",
-  "played": 3,
-  "won": 2,
-  "drawn": 1,
-  "lost": 0,
-  "gf": 5,
-  "ga": 2,
   "gd": 3,
   "points": 7
  },
