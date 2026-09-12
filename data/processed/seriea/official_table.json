@@ -94,27 +94,27 @@
   "position": 8,
   "team": "Atalanta",
   "fotmob_team_id": "8524",
-  "played": 3,
+  "played": 4,
   "won": 2,
-  "drawn": 0,
+  "drawn": 1,
   "lost": 1,
-  "gf": 4,
-  "ga": 3,
+  "gf": 5,
+  "ga": 4,
   "gd": 1,
-  "points": 6
+  "points": 7
  },
  {
   "position": 9,
   "team": "Cagliari",
   "fotmob_team_id": "8529",
-  "played": 3,
+  "played": 4,
   "won": 2,
-  "drawn": 0,
+  "drawn": 1,
   "lost": 1,
-  "gf": 2,
-  "ga": 1,
+  "gf": 3,
+  "ga": 2,
   "gd": 1,
-  "points": 6
+  "points": 7
  },
  {
   "position": 10,

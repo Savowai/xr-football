@@ -5138,7 +5138,7 @@
   "round": 4,
   "home": "Auxerre",
   "away": "Nice",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 3,
    "goals": 1.33,
@@ -5165,8 +5165,8 @@
    "form": "DLD",
    "possession_pct": 57.7
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.506,
   "pred_xg_away": 1.312,
@@ -5295,7 +5295,7 @@
   "round": 4,
   "home": "Le Havre",
   "away": "Angers",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 3,
    "goals": 0.67,
@@ -5322,8 +5322,8 @@
    "form": "LWL",
    "possession_pct": 47.0
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.337,
   "pred_xg_away": 1.142,
@@ -5460,7 +5460,7 @@
   "round": 4,
   "home": "Lorient",
   "away": "Toulouse",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 3,
    "goals": 0.67,
@@ -5487,8 +5487,8 @@
    "form": "LDL",
    "possession_pct": 50.3
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 2,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.453,
   "pred_xg_away": 1.198,
@@ -5624,7 +5624,7 @@
   "round": 4,
   "home": "Paris FC",
   "away": "Lyon",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 3,
    "goals": 2.0,
@@ -5651,8 +5651,8 @@
    "form": "WDW",
    "possession_pct": 57.7
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.635,
   "pred_xg_away": 1.285,
