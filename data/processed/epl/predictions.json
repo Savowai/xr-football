@@ -5315,7 +5315,7 @@
   "round": 4,
   "home": "Aston Villa",
   "away": "Nottingham Forest",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 3,
    "goals": 0.0,
@@ -5342,8 +5342,8 @@
    "form": "LDD",
    "possession_pct": 42.7
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.162,
   "pred_xg_away": 1.139,
@@ -5468,7 +5468,7 @@
   "round": 4,
   "home": "Bournemouth",
   "away": "Brentford",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 3,
    "goals": 1.33,
@@ -5495,8 +5495,8 @@
    "form": "WDD",
    "possession_pct": 47.3
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.586,
   "pred_xg_away": 1.478,
@@ -5637,7 +5637,7 @@
   "round": 4,
   "home": "Chelsea",
   "away": "Hull City",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 3,
    "goals": 2.67,
@@ -5664,8 +5664,8 @@
    "form": "WWD",
    "possession_pct": 28.7
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 1,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.964,
   "pred_xg_away": 0.958,
@@ -5806,7 +5806,7 @@
   "round": 4,
   "home": "Crystal Palace",
   "away": "Ipswich Town",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 3,
    "goals": 1.33,
@@ -5833,8 +5833,8 @@
    "form": "WLL",
    "possession_pct": 41.0
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 1,
+  "away_goals": 1,
   "season": "2026-27",
   "pred_xg_home": 1.852,
   "pred_xg_away": 1.343,
@@ -5973,7 +5973,7 @@
   "round": 4,
   "home": "Liverpool",
   "away": "Fulham",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 3,
    "goals": 2.0,
@@ -6000,8 +6000,8 @@
    "form": "LLL",
    "possession_pct": 61.7
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 2.013,
   "pred_xg_away": 1.21,

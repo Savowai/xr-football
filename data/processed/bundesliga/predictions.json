@@ -3368,7 +3368,7 @@
   "round": 3,
   "home": "Augsburg",
   "away": "Bayer Leverkusen",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 2,
    "goals": 3.5,
@@ -3395,8 +3395,8 @@
    "form": "LW",
    "possession_pct": 65.5
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 1,
   "season": "2026-27",
   "pred_xg_home": 2.037,
   "pred_xg_away": 2.064,
@@ -3538,7 +3538,7 @@
   "round": 3,
   "home": "Borussia Dortmund",
   "away": "Paderborn",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 2,
    "goals": 2.5,
@@ -3565,8 +3565,8 @@
    "form": "DL",
    "possession_pct": 54.0
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 1,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 2.234,
   "pred_xg_away": 1.073,
@@ -3709,7 +3709,7 @@
   "round": 3,
   "home": "Freiburg",
   "away": "Borussia M\u00f6nchengladbach",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 2,
    "goals": 2.5,
@@ -3736,8 +3736,8 @@
    "form": "LL",
    "possession_pct": 52.0
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 2,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 2.595,
   "pred_xg_away": 1.229,
@@ -3878,7 +3878,7 @@
   "round": 3,
   "home": "Hoffenheim",
   "away": "VfB Stuttgart",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 2,
    "goals": 2.0,
@@ -3905,8 +3905,8 @@
    "form": "LW",
    "possession_pct": 49.5
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 1,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 2.701,
   "pred_xg_away": 2.108,
@@ -4045,7 +4045,7 @@
   "round": 3,
   "home": "Mainz 05",
   "away": "Eintracht Frankfurt",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 2,
    "goals": 2.5,
@@ -4072,8 +4072,8 @@
    "form": "DL",
    "possession_pct": 55.5
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 2,
   "season": "2026-27",
   "pred_xg_home": 2.286,
   "pred_xg_away": 1.265,

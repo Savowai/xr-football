@@ -53,6 +53,19 @@
  },
  {
   "position": 5,
+  "team": "Frosinone",
+  "fotmob_team_id": "9891",
+  "played": 4,
+  "won": 2,
+  "drawn": 1,
+  "lost": 1,
+  "gf": 7,
+  "ga": 4,
+  "gd": 3,
+  "points": 7
+ },
+ {
+  "position": 6,
   "team": "Milan",
   "fotmob_team_id": "8564",
   "played": 3,
@@ -65,7 +78,7 @@
   "points": 7
  },
  {
-  "position": 6,
+  "position": 7,
   "team": "Juventus",
   "fotmob_team_id": "9885",
   "played": 3,
@@ -76,19 +89,6 @@
   "ga": 1,
   "gd": 3,
   "points": 7
- },
- {
-  "position": 7,
-  "team": "Frosinone",
-  "fotmob_team_id": "9891",
-  "played": 3,
-  "won": 2,
-  "drawn": 0,
-  "lost": 1,
-  "gf": 6,
-  "ga": 3,
-  "gd": 3,
-  "points": 6
  },
  {
   "position": 8,
@@ -237,14 +237,14 @@
   "position": 19,
   "team": "Genoa",
   "fotmob_team_id": "10233",
-  "played": 3,
+  "played": 4,
   "won": 0,
-  "drawn": 0,
+  "drawn": 1,
   "lost": 3,
-  "gf": 1,
-  "ga": 7,
+  "gf": 2,
+  "ga": 8,
   "gd": -6,
-  "points": 0
+  "points": 1
  },
  {
   "position": 20,

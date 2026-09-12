@@ -5492,7 +5492,7 @@
   "round": 4,
   "home": "Genoa",
   "away": "Frosinone",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 3,
    "goals": 0.33,
@@ -5519,8 +5519,8 @@
    "form": "LWW",
    "possession_pct": 38.7
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 1,
+  "away_goals": 1,
   "season": "2026-27",
   "pred_xg_home": 1.329,
   "pred_xg_away": 1.239,
