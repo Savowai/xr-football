@@ -15,7 +15,7 @@
   "xg_diff": 2.14,
   "luck": 2.98,
   "position": 1,
-  "xposition": 4
+  "xposition": 5
  },
  {
   "team": "Roma",
@@ -51,7 +51,7 @@
   "xg_diff": 4.44,
   "luck": 2.86,
   "position": 3,
-  "xposition": 5
+  "xposition": 6
  },
  {
   "team": "Cagliari",
@@ -141,7 +141,7 @@
   "xg_diff": 4.58,
   "luck": -0.41,
   "position": 8,
-  "xposition": 2
+  "xposition": 3
  },
  {
   "team": "Atalanta",
@@ -159,6 +159,24 @@
   "xg_diff": -4.78,
   "luck": 3.23,
   "position": 9,
+  "xposition": 18
+ },
+ {
+  "team": "Lecce",
+  "played": 4,
+  "won": 2,
+  "drawn": 0,
+  "lost": 2,
+  "gf": 5,
+  "ga": 7,
+  "gd": -2,
+  "points": 6,
+  "xg_for": 4.99,
+  "xg_against": 9.47,
+  "xpts": 3.18,
+  "xg_diff": -4.48,
+  "luck": 2.82,
+  "position": 10,
   "xposition": 17
  },
  {
@@ -176,7 +194,7 @@
   "xpts": 5.43,
   "xg_diff": 2.15,
   "luck": -1.43,
-  "position": 10,
+  "position": 11,
   "xposition": 8
  },
  {
@@ -194,7 +212,7 @@
   "xpts": 3.35,
   "xg_diff": -1.21,
   "luck": 0.65,
-  "position": 11,
+  "position": 12,
   "xposition": 16
  },
  {
@@ -212,7 +230,7 @@
   "xpts": 3.82,
   "xg_diff": -0.99,
   "luck": -0.82,
-  "position": 12,
+  "position": 13,
   "xposition": 13
  },
  {
@@ -230,26 +248,8 @@
   "xpts": 2.53,
   "xg_diff": -2.54,
   "luck": 0.47,
-  "position": 13,
-  "xposition": 19
- },
- {
-  "team": "Lecce",
-  "played": 3,
-  "won": 1,
-  "drawn": 0,
-  "lost": 2,
-  "gf": 2,
-  "ga": 5,
-  "gd": -3,
-  "points": 3,
-  "xg_for": 3.91,
-  "xg_against": 6.68,
-  "xpts": 2.66,
-  "xg_diff": -2.77,
-  "luck": 0.34,
   "position": 14,
-  "xposition": 18
+  "xposition": 19
  },
  {
   "team": "Fiorentina",
@@ -267,7 +267,7 @@
   "xg_diff": 2.17,
   "luck": -4.08,
   "position": 15,
-  "xposition": 3
+  "xposition": 4
  },
  {
   "team": "Bologna",
@@ -285,7 +285,7 @@
   "xg_diff": 2.31,
   "luck": -4.9,
   "position": 16,
-  "xposition": 6
+  "xposition": 7
  },
  {
   "team": "Parma",
@@ -307,21 +307,21 @@
  },
  {
   "team": "Monza",
-  "played": 3,
+  "played": 4,
   "won": 0,
   "drawn": 1,
-  "lost": 2,
-  "gf": 4,
-  "ga": 8,
-  "gd": -4,
+  "lost": 3,
+  "gf": 6,
+  "ga": 11,
+  "gd": -5,
   "points": 1,
-  "xg_for": 4.65,
-  "xg_against": 2.76,
-  "xpts": 5.47,
-  "xg_diff": 1.89,
-  "luck": -4.47,
+  "xg_for": 7.44,
+  "xg_against": 3.84,
+  "xpts": 7.82,
+  "xg_diff": 3.6,
+  "luck": -6.82,
   "position": 18,
-  "xposition": 7
+  "xposition": 2
  },
  {
   "team": "Genoa",

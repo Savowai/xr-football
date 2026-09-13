@@ -3,14 +3,14 @@
   "position": 1,
   "team": "Barcelona",
   "fotmob_team_id": "8634",
-  "played": 4,
-  "won": 4,
+  "played": 5,
+  "won": 5,
   "drawn": 0,
   "lost": 0,
-  "gf": 17,
-  "ga": 2,
-  "gd": 15,
-  "points": 12
+  "gf": 21,
+  "ga": 4,
+  "gd": 17,
+  "points": 15
  },
  {
   "position": 2,
@@ -53,6 +53,19 @@
  },
  {
   "position": 5,
+  "team": "Deportivo A Coru\u00f1a",
+  "fotmob_team_id": "9783",
+  "played": 5,
+  "won": 2,
+  "drawn": 3,
+  "lost": 0,
+  "gf": 8,
+  "ga": 5,
+  "gd": 3,
+  "points": 9
+ },
+ {
+  "position": 6,
   "team": "Real Betis",
   "fotmob_team_id": "8603",
   "played": 4,
@@ -63,19 +76,6 @@
   "ga": 5,
   "gd": 0,
   "points": 9
- },
- {
-  "position": 6,
-  "team": "Deportivo A Coru\u00f1a",
-  "fotmob_team_id": "9783",
-  "played": 4,
-  "won": 2,
-  "drawn": 2,
-  "lost": 0,
-  "gf": 8,
-  "ga": 5,
-  "gd": 3,
-  "points": 8
  },
  {
   "position": 7,
@@ -159,27 +159,27 @@
   "position": 13,
   "team": "Levante",
   "fotmob_team_id": "8581",
-  "played": 4,
+  "played": 5,
   "won": 1,
   "drawn": 2,
-  "lost": 1,
-  "gf": 5,
-  "ga": 5,
-  "gd": 0,
+  "lost": 2,
+  "gf": 7,
+  "ga": 9,
+  "gd": -2,
   "points": 5
  },
  {
   "position": 14,
   "team": "Getafe",
   "fotmob_team_id": "8305",
-  "played": 4,
+  "played": 5,
   "won": 1,
-  "drawn": 1,
+  "drawn": 2,
   "lost": 2,
   "gf": 2,
   "ga": 5,
   "gd": -3,
-  "points": 4
+  "points": 5
  },
  {
   "position": 15,
@@ -189,8 +189,8 @@
   "won": 0,
   "drawn": 4,
   "lost": 2,
-  "gf": 2,
-  "ga": 5,
+  "gf": 3,
+  "ga": 6,
   "gd": -3,
   "points": 4
  },
@@ -215,8 +215,8 @@
   "won": 0,
   "drawn": 3,
   "lost": 2,
-  "gf": 1,
-  "ga": 7,
+  "gf": 2,
+  "ga": 8,
   "gd": -6,
   "points": 3
  },

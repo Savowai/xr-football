@@ -33,7 +33,7 @@
   "xg_diff": 2.01,
   "luck": 3.43,
   "position": 2,
-  "xposition": 4
+  "xposition": 5
  },
  {
   "team": "Augsburg",
@@ -54,6 +54,24 @@
   "xposition": 10
  },
  {
+  "team": "RB Leipzig",
+  "played": 3,
+  "won": 2,
+  "drawn": 0,
+  "lost": 1,
+  "gf": 9,
+  "ga": 3,
+  "gd": 6,
+  "points": 6,
+  "xg_for": 7.84,
+  "xg_against": 2.98,
+  "xpts": 6.68,
+  "xg_diff": 4.86,
+  "luck": -0.68,
+  "position": 4,
+  "xposition": 3
+ },
+ {
   "team": "Elversberg",
   "played": 2,
   "won": 2,
@@ -68,7 +86,7 @@
   "xpts": 2.38,
   "xg_diff": -0.66,
   "luck": 3.62,
-  "position": 4,
+  "position": 5,
   "xposition": 15
  },
  {
@@ -86,8 +104,8 @@
   "xpts": 5.34,
   "xg_diff": 5.0,
   "luck": -1.34,
-  "position": 5,
-  "xposition": 5
+  "position": 6,
+  "xposition": 6
  },
  {
   "team": "Bayer Leverkusen",
@@ -104,7 +122,7 @@
   "xpts": 6.71,
   "xg_diff": 4.64,
   "luck": -2.71,
-  "position": 6,
+  "position": 7,
   "xposition": 2
  },
  {
@@ -122,8 +140,8 @@
   "xpts": 5.92,
   "xg_diff": 3.07,
   "luck": -1.92,
-  "position": 7,
-  "xposition": 3
+  "position": 8,
+  "xposition": 4
  },
  {
   "team": "Eintracht Frankfurt",
@@ -140,8 +158,8 @@
   "xpts": 4.61,
   "xg_diff": 0.73,
   "luck": -0.61,
-  "position": 8,
-  "xposition": 6
+  "position": 9,
+  "xposition": 7
  },
  {
   "team": "Werder Bremen",
@@ -158,7 +176,7 @@
   "xpts": 2.25,
   "xg_diff": -3.04,
   "luck": 1.75,
-  "position": 9,
+  "position": 10,
   "xposition": 16
  },
  {
@@ -176,7 +194,7 @@
   "xpts": 2.59,
   "xg_diff": -2.93,
   "luck": 1.41,
-  "position": 10,
+  "position": 11,
   "xposition": 13
  },
  {
@@ -194,26 +212,8 @@
   "xpts": 4.4,
   "xg_diff": 0.12,
   "luck": -0.4,
-  "position": 11,
-  "xposition": 8
- },
- {
-  "team": "RB Leipzig",
-  "played": 2,
-  "won": 1,
-  "drawn": 0,
-  "lost": 1,
-  "gf": 4,
-  "ga": 3,
-  "gd": 1,
-  "points": 3,
-  "xg_for": 5.46,
-  "xg_against": 2.04,
-  "xpts": 4.43,
-  "xg_diff": 3.42,
-  "luck": -1.43,
   "position": 12,
-  "xposition": 7
+  "xposition": 8
  },
  {
   "team": "Hoffenheim",
@@ -288,24 +288,6 @@
   "xposition": 12
  },
  {
-  "team": "Hamburger SV",
-  "played": 2,
-  "won": 0,
-  "drawn": 0,
-  "lost": 2,
-  "gf": 0,
-  "ga": 7,
-  "gd": -7,
-  "points": 0,
-  "xg_for": 1.1,
-  "xg_against": 4.28,
-  "xpts": 1.06,
-  "xg_diff": -3.18,
-  "luck": -1.06,
-  "position": 17,
-  "xposition": 18
- },
- {
   "team": "Borussia M\u00f6nchengladbach",
   "played": 3,
   "won": 0,
@@ -320,7 +302,25 @@
   "xpts": 1.87,
   "xg_diff": -4.97,
   "luck": -1.87,
-  "position": 18,
+  "position": 17,
   "xposition": 17
+ },
+ {
+  "team": "Hamburger SV",
+  "played": 3,
+  "won": 0,
+  "drawn": 0,
+  "lost": 3,
+  "gf": 0,
+  "ga": 12,
+  "gd": -12,
+  "points": 0,
+  "xg_for": 2.04,
+  "xg_against": 6.66,
+  "xpts": 1.63,
+  "xg_diff": -4.62,
+  "luck": -1.63,
+  "position": 18,
+  "xposition": 18
  }
 ]
