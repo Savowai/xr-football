@@ -69,7 +69,25 @@
   "xg_diff": 0.55,
   "luck": 2.84,
   "position": 4,
-  "xposition": 7
+  "xposition": 6
+ },
+ {
+  "team": "Deportivo A Coru\u00f1a",
+  "played": 5,
+  "won": 2,
+  "drawn": 3,
+  "lost": 0,
+  "gf": 9,
+  "ga": 6,
+  "gd": 3,
+  "points": 9,
+  "xg_for": 4.59,
+  "xg_against": 6.48,
+  "xpts": 5.28,
+  "xg_diff": -1.89,
+  "luck": 3.72,
+  "position": 5,
+  "xposition": 14
  },
  {
   "team": "Real Betis",
@@ -86,26 +104,8 @@
   "xpts": 3.49,
   "xg_diff": -3.9,
   "luck": 5.51,
-  "position": 5,
-  "xposition": 18
- },
- {
-  "team": "Deportivo A Coru\u00f1a",
-  "played": 4,
-  "won": 2,
-  "drawn": 2,
-  "lost": 0,
-  "gf": 8,
-  "ga": 5,
-  "gd": 3,
-  "points": 8,
-  "xg_for": 3.71,
-  "xg_against": 5.78,
-  "xpts": 3.86,
-  "xg_diff": -2.07,
-  "luck": 4.14,
   "position": 6,
-  "xposition": 17
+  "xposition": 19
  },
  {
   "team": "Espanyol",
@@ -119,11 +119,11 @@
   "points": 7,
   "xg_for": 5.91,
   "xg_against": 6.18,
-  "xpts": 7.17,
+  "xpts": 7.14,
   "xg_diff": -0.27,
-  "luck": -0.17,
+  "luck": -0.14,
   "position": 7,
-  "xposition": 6
+  "xposition": 7
  },
  {
   "team": "Athletic Club",
@@ -137,9 +137,9 @@
   "points": 7,
   "xg_for": 8.23,
   "xg_against": 8.1,
-  "xpts": 7.93,
+  "xpts": 7.9,
   "xg_diff": 0.13,
-  "luck": -0.93,
+  "luck": -0.9,
   "position": 8,
   "xposition": 5
  },
@@ -173,9 +173,9 @@
   "points": 7,
   "xg_for": 6.84,
   "xg_against": 6.59,
-  "xpts": 6.98,
+  "xpts": 6.95,
   "xg_diff": 0.25,
-  "luck": 0.02,
+  "luck": 0.05,
   "position": 10,
   "xposition": 8
  },
@@ -227,11 +227,29 @@
   "points": 5,
   "xg_for": 7.5,
   "xg_against": 8.18,
-  "xpts": 6.18,
+  "xpts": 6.17,
   "xg_diff": -0.68,
-  "luck": -1.18,
+  "luck": -1.17,
   "position": 13,
   "xposition": 10
+ },
+ {
+  "team": "Getafe",
+  "played": 5,
+  "won": 1,
+  "drawn": 2,
+  "lost": 2,
+  "gf": 3,
+  "ga": 6,
+  "gd": -3,
+  "points": 5,
+  "xg_for": 3.67,
+  "xg_against": 6.76,
+  "xpts": 4.56,
+  "xg_diff": -3.09,
+  "luck": 0.44,
+  "position": 14,
+  "xposition": 18
  },
  {
   "team": "Celta Vigo",
@@ -245,29 +263,11 @@
   "points": 4,
   "xg_for": 4.68,
   "xg_against": 8.42,
-  "xpts": 6.17,
+  "xpts": 6.14,
   "xg_diff": -3.74,
-  "luck": -2.17,
-  "position": 14,
-  "xposition": 11
- },
- {
-  "team": "Getafe",
-  "played": 4,
-  "won": 1,
-  "drawn": 1,
-  "lost": 2,
-  "gf": 2,
-  "ga": 5,
-  "gd": -3,
-  "points": 4,
-  "xg_for": 2.97,
-  "xg_against": 5.88,
-  "xpts": 3.43,
-  "xg_diff": -2.91,
-  "luck": 0.57,
+  "luck": -2.14,
   "position": 15,
-  "xposition": 19
+  "xposition": 11
  },
  {
   "team": "Rayo Vallecano",
@@ -281,11 +281,11 @@
   "points": 4,
   "xg_for": 6.26,
   "xg_against": 10.41,
-  "xpts": 4.81,
+  "xpts": 4.8,
   "xg_diff": -4.15,
-  "luck": -0.81,
+  "luck": -0.8,
   "position": 16,
-  "xposition": 15
+  "xposition": 16
  },
  {
   "team": "M\u00e1laga",
@@ -303,7 +303,7 @@
   "xg_diff": -1.73,
   "luck": -1.56,
   "position": 17,
-  "xposition": 16
+  "xposition": 17
  },
  {
   "team": "Villarreal",
@@ -317,9 +317,9 @@
   "points": 2,
   "xg_for": 7.21,
   "xg_against": 4.21,
-  "xpts": 6.96,
+  "xpts": 6.94,
   "xg_diff": 3.0,
-  "luck": -4.96,
+  "luck": -4.94,
   "position": 18,
   "xposition": 9
  },
@@ -335,9 +335,9 @@
   "points": 2,
   "xg_for": 6.27,
   "xg_against": 9.44,
-  "xpts": 6.06,
+  "xpts": 6.04,
   "xg_diff": -3.17,
-  "luck": -4.06,
+  "luck": -4.04,
   "position": 19,
   "xposition": 12
  },
@@ -353,10 +353,10 @@
   "points": 1,
   "xg_for": 3.96,
   "xg_against": 8.03,
-  "xpts": 4.84,
+  "xpts": 4.83,
   "xg_diff": -4.07,
-  "luck": -3.84,
+  "luck": -3.83,
   "position": 20,
-  "xposition": 14
+  "xposition": 15
  }
 ]

@@ -17,13 +17,13 @@
   "team": "Manchester City",
   "fotmob_team_id": "8456",
   "played": 4,
-  "won": 3,
-  "drawn": 1,
+  "won": 4,
+  "drawn": 0,
   "lost": 0,
-  "gf": 7,
+  "gf": 8,
   "ga": 2,
-  "gd": 5,
-  "points": 10
+  "gd": 6,
+  "points": 12
  },
  {
   "position": 3,
@@ -131,19 +131,6 @@
  },
  {
   "position": 11,
-  "team": "Manchester United",
-  "fotmob_team_id": "10260",
-  "played": 4,
-  "won": 1,
-  "drawn": 2,
-  "lost": 1,
-  "gf": 7,
-  "ga": 6,
-  "gd": 1,
-  "points": 5
- },
- {
-  "position": 12,
   "team": "Leeds United",
   "fotmob_team_id": "8463",
   "played": 3,
@@ -156,7 +143,7 @@
   "points": 5
  },
  {
-  "position": 13,
+  "position": 12,
   "team": "Nottingham Forest",
   "fotmob_team_id": "10203",
   "played": 4,
@@ -167,6 +154,19 @@
   "ga": 4,
   "gd": 0,
   "points": 5
+ },
+ {
+  "position": 13,
+  "team": "Manchester United",
+  "fotmob_team_id": "10260",
+  "played": 4,
+  "won": 1,
+  "drawn": 1,
+  "lost": 2,
+  "gf": 7,
+  "ga": 7,
+  "gd": 0,
+  "points": 4
  },
  {
   "position": 14,
