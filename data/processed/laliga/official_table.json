@@ -40,6 +40,19 @@
  },
  {
   "position": 4,
+  "team": "Atl\u00e9tico Madrid",
+  "fotmob_team_id": "9906",
+  "played": 5,
+  "won": 3,
+  "drawn": 1,
+  "lost": 1,
+  "gf": 10,
+  "ga": 6,
+  "gd": 4,
+  "points": 10
+ },
+ {
+  "position": 5,
   "team": "Sevilla",
   "fotmob_team_id": "8302",
   "played": 5,
@@ -52,7 +65,7 @@
   "points": 10
  },
  {
-  "position": 5,
+  "position": 6,
   "team": "Deportivo A Coru\u00f1a",
   "fotmob_team_id": "9783",
   "played": 5,
@@ -65,7 +78,7 @@
   "points": 9
  },
  {
-  "position": 6,
+  "position": 7,
   "team": "Real Betis",
   "fotmob_team_id": "8603",
   "played": 4,
@@ -78,7 +91,7 @@
   "points": 9
  },
  {
-  "position": 7,
+  "position": 8,
   "team": "Espanyol",
   "fotmob_team_id": "8558",
   "played": 5,
@@ -91,26 +104,13 @@
   "points": 7
  },
  {
-  "position": 8,
+  "position": 9,
   "team": "Athletic Club",
   "fotmob_team_id": "8315",
   "played": 5,
   "won": 2,
   "drawn": 1,
   "lost": 2,
-  "gf": 7,
-  "ga": 6,
-  "gd": 1,
-  "points": 7
- },
- {
-  "position": 9,
-  "team": "Atl\u00e9tico Madrid",
-  "fotmob_team_id": "9906",
-  "played": 4,
-  "won": 2,
-  "drawn": 1,
-  "lost": 1,
   "gf": 7,
   "ga": 6,
   "gd": 1,
@@ -131,19 +131,6 @@
  },
  {
   "position": 11,
-  "team": "Real Sociedad",
-  "fotmob_team_id": "8560",
-  "played": 5,
-  "won": 2,
-  "drawn": 1,
-  "lost": 2,
-  "gf": 6,
-  "ga": 8,
-  "gd": -2,
-  "points": 7
- },
- {
-  "position": 12,
   "team": "Osasuna",
   "fotmob_team_id": "8371",
   "played": 5,
@@ -153,6 +140,19 @@
   "gf": 5,
   "ga": 8,
   "gd": -3,
+  "points": 7
+ },
+ {
+  "position": 12,
+  "team": "Real Sociedad",
+  "fotmob_team_id": "8560",
+  "played": 6,
+  "won": 2,
+  "drawn": 1,
+  "lost": 3,
+  "gf": 6,
+  "ga": 11,
+  "gd": -5,
   "points": 7
  },
  {

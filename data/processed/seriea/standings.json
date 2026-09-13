@@ -33,7 +33,7 @@
   "xg_diff": 7.46,
   "luck": 0.99,
   "position": 2,
-  "xposition": 1
+  "xposition": 2
  },
  {
   "team": "Inter",
@@ -51,7 +51,7 @@
   "xg_diff": 4.44,
   "luck": 2.86,
   "position": 3,
-  "xposition": 8
+  "xposition": 9
  },
  {
   "team": "Cagliari",
@@ -127,21 +127,39 @@
  },
  {
   "team": "Juventus",
-  "played": 3,
+  "played": 4,
   "won": 2,
   "drawn": 1,
-  "lost": 0,
-  "gf": 4,
-  "ga": 1,
-  "gd": 3,
+  "lost": 1,
+  "gf": 6,
+  "ga": 4,
+  "gd": 2,
   "points": 7,
-  "xg_for": 5.33,
-  "xg_against": 0.75,
-  "xpts": 7.41,
-  "xg_diff": 4.58,
-  "luck": -0.41,
+  "xg_for": 6.34,
+  "xg_against": 1.65,
+  "xpts": 8.85,
+  "xg_diff": 4.69,
+  "luck": -1.85,
   "position": 8,
-  "xposition": 3
+  "xposition": 1
+ },
+ {
+  "team": "Sassuolo",
+  "played": 4,
+  "won": 2,
+  "drawn": 1,
+  "lost": 1,
+  "gf": 8,
+  "ga": 7,
+  "gd": 1,
+  "points": 7,
+  "xg_for": 7.07,
+  "xg_against": 5.03,
+  "xpts": 6.7,
+  "xg_diff": 2.04,
+  "luck": 0.3,
+  "position": 9,
+  "xposition": 6
  },
  {
   "team": "Napoli",
@@ -158,8 +176,8 @@
   "xpts": 6.31,
   "xg_diff": 0.57,
   "luck": -0.31,
-  "position": 9,
-  "xposition": 6
+  "position": 10,
+  "xposition": 7
  },
  {
   "team": "Atalanta",
@@ -176,7 +194,7 @@
   "xpts": 2.77,
   "xg_diff": -4.78,
   "luck": 3.23,
-  "position": 10,
+  "position": 11,
   "xposition": 18
  },
  {
@@ -194,26 +212,8 @@
   "xpts": 3.18,
   "xg_diff": -4.48,
   "luck": 2.82,
-  "position": 11,
-  "xposition": 17
- },
- {
-  "team": "Sassuolo",
-  "played": 3,
-  "won": 1,
-  "drawn": 1,
-  "lost": 1,
-  "gf": 5,
-  "ga": 5,
-  "gd": 0,
-  "points": 4,
-  "xg_for": 6.17,
-  "xg_against": 4.02,
-  "xpts": 5.43,
-  "xg_diff": 2.15,
-  "luck": -1.43,
   "position": 12,
-  "xposition": 9
+  "xposition": 17
  },
  {
   "team": "Udinese",
@@ -285,7 +285,7 @@
   "xg_diff": 0.75,
   "luck": -5.23,
   "position": 16,
-  "xposition": 7
+  "xposition": 8
  },
  {
   "team": "Parma",
@@ -321,7 +321,7 @@
   "xg_diff": 3.6,
   "luck": -6.82,
   "position": 18,
-  "xposition": 2
+  "xposition": 3
  },
  {
   "team": "Genoa",
