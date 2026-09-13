@@ -183,6 +183,19 @@
  },
  {
   "position": 15,
+  "team": "Celta Vigo",
+  "fotmob_team_id": "9910",
+  "played": 6,
+  "won": 0,
+  "drawn": 4,
+  "lost": 2,
+  "gf": 2,
+  "ga": 5,
+  "gd": -3,
+  "points": 4
+ },
+ {
+  "position": 16,
   "team": "Rayo Vallecano",
   "fotmob_team_id": "8370",
   "played": 5,
@@ -195,20 +208,20 @@
   "points": 4
  },
  {
-  "position": 16,
-  "team": "Celta Vigo",
-  "fotmob_team_id": "9910",
+  "position": 17,
+  "team": "M\u00e1laga",
+  "fotmob_team_id": "9864",
   "played": 5,
   "won": 0,
   "drawn": 3,
   "lost": 2,
-  "gf": 2,
-  "ga": 5,
-  "gd": -3,
+  "gf": 1,
+  "ga": 7,
+  "gd": -6,
   "points": 3
  },
  {
-  "position": 17,
+  "position": 18,
   "team": "Villarreal",
   "fotmob_team_id": "10205",
   "played": 4,
@@ -218,19 +231,6 @@
   "gf": 6,
   "ga": 8,
   "gd": -2,
-  "points": 2
- },
- {
-  "position": 18,
-  "team": "M\u00e1laga",
-  "fotmob_team_id": "9864",
-  "played": 4,
-  "won": 0,
-  "drawn": 2,
-  "lost": 2,
-  "gf": 1,
-  "ga": 7,
-  "gd": -6,
   "points": 2
  },
  {
