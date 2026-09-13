@@ -1,21 +1,21 @@
 [
  {
   "team": "Barcelona",
-  "attack": 1.898,
+  "attack": 1.896,
   "defence": 0.743,
   "expected_gf_per_game": 2.37,
   "expected_ga_per_game": 0.93,
-  "net_rating": 1.444,
-  "evidence_matches": 3.8,
+  "net_rating": 1.442,
+  "evidence_matches": 3.7,
   "rank": 1
  },
  {
   "team": "Real Madrid",
-  "attack": 1.534,
+  "attack": 1.533,
   "defence": 0.772,
   "expected_gf_per_game": 1.92,
-  "expected_ga_per_game": 0.96,
-  "net_rating": 0.953,
+  "expected_ga_per_game": 0.97,
+  "net_rating": 0.951,
   "evidence_matches": 4.7,
   "rank": 2
  },
@@ -45,8 +45,8 @@
   "defence": 0.95,
   "expected_gf_per_game": 1.26,
   "expected_ga_per_game": 1.19,
-  "net_rating": 0.074,
-  "evidence_matches": 4.8,
+  "net_rating": 0.073,
+  "evidence_matches": 4.7,
   "rank": 5
  },
  {
@@ -54,8 +54,8 @@
   "attack": 0.942,
   "defence": 0.916,
   "expected_gf_per_game": 1.18,
-  "expected_ga_per_game": 1.14,
-  "net_rating": 0.033,
+  "expected_ga_per_game": 1.15,
+  "net_rating": 0.032,
   "evidence_matches": 4.7,
   "rank": 6
  },
@@ -66,7 +66,7 @@
   "expected_gf_per_game": 1.17,
   "expected_ga_per_game": 1.19,
   "net_rating": -0.02,
-  "evidence_matches": 4.8,
+  "evidence_matches": 4.7,
   "rank": 7
  },
  {
@@ -102,10 +102,10 @@
  {
   "team": "Real Betis",
   "attack": 0.983,
-  "defence": 1.077,
+  "defence": 1.076,
   "expected_gf_per_game": 1.23,
   "expected_ga_per_game": 1.35,
-  "net_rating": -0.118,
+  "net_rating": -0.117,
   "evidence_matches": 3.7,
   "rank": 11
  },
@@ -113,7 +113,7 @@
   "team": "Real Sociedad",
   "attack": 0.964,
   "defence": 1.073,
-  "expected_gf_per_game": 1.2,
+  "expected_gf_per_game": 1.21,
   "expected_ga_per_game": 1.34,
   "net_rating": -0.136,
   "evidence_matches": 4.7,
@@ -125,7 +125,7 @@
   "defence": 1.096,
   "expected_gf_per_game": 1.22,
   "expected_ga_per_game": 1.37,
-  "net_rating": -0.148,
+  "net_rating": -0.147,
   "evidence_matches": 3.7,
   "rank": 13
  },
@@ -165,7 +165,7 @@
   "defence": 0.923,
   "expected_gf_per_game": 0.81,
   "expected_ga_per_game": 1.15,
-  "net_rating": -0.343,
+  "net_rating": -0.342,
   "evidence_matches": 3.7,
   "rank": 17
  },
@@ -173,9 +173,9 @@
   "team": "Celta Vigo",
   "attack": 0.724,
   "defence": 1.022,
-  "expected_gf_per_game": 0.9,
+  "expected_gf_per_game": 0.91,
   "expected_ga_per_game": 1.28,
-  "net_rating": -0.373,
+  "net_rating": -0.372,
   "evidence_matches": 4.7,
   "rank": 18
  },
@@ -195,7 +195,7 @@
   "defence": 1.07,
   "expected_gf_per_game": 0.9,
   "expected_ga_per_game": 1.34,
-  "net_rating": -0.438,
+  "net_rating": -0.437,
   "evidence_matches": 4.7,
   "rank": 20
  }
