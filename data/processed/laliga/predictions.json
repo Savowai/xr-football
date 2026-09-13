@@ -11730,563 +11730,8 @@
   }
  },
  {
-  "date": "2026-10-11",
-  "kickoff_datetime": "2026-10-11T13:00:00Z",
-  "round": 8,
-  "home": "Barcelona",
-  "away": "Getafe",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 4,
-   "goals": 4.25,
-   "goals_against": 0.5,
-   "xg_for": 3.93,
-   "xg_against": 0.71,
-   "xg_diff_per_game": 3.23,
-   "finishing_delta": 0.32,
-   "points": 12,
-   "ppg": 3.0,
-   "form": "WWWW",
-   "possession_pct": 66.5
-  },
-  "away_form": {
-   "matches": 4,
-   "goals": 0.5,
-   "goals_against": 1.25,
-   "xg_for": 0.74,
-   "xg_against": 1.47,
-   "xg_diff_per_game": -0.73,
-   "finishing_delta": -0.24,
-   "points": 4,
-   "ppg": 1.0,
-   "form": "LWLD",
-   "possession_pct": 44.0
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 3.001,
-  "pred_xg_away": 0.557,
-  "win_home_pct": 85.1,
-  "draw_pct": 11.3,
-  "win_away_pct": 3.6,
-  "xpts_home": 2.67,
-  "xpts_away": 0.22,
-  "most_likely_scoreline": [
-   3,
-   0
-  ],
-  "top_5_scorelines": [
-   [
-    3,
-    0,
-    12.84
-   ],
-   [
-    2,
-    0,
-    12.83
-   ],
-   [
-    4,
-    0,
-    9.63
-   ],
-   [
-    1,
-    0,
-    7.92
-   ],
-   [
-    3,
-    1,
-    7.15
-   ]
-  ],
-  "over_2_5_pct": 69.0,
-  "btts_pct": 41.2,
-  "reasoning": {
-   "thesis": "Barcelona should win comfortably. The model has them 2.44 goals clear of Getafe, a 85% win probability. Barcelona are creating +3.23 xG per game more than they concede over their last 4, the profile of a side controlling matches. Getafe are being outcreated by 0.73 xG per game over their last 4, which is why the model is cautious regardless of recent results. Getafe are missing Uche, Juanmi; weighting the absentees by value against the depth behind them, the model marks their attack down 8% for this fixture. Projected 3.00-0.56 on expected goals, with 3-0 the single most likely scoreline at 12.8%. Confidence is low: only a handful of matches played, so ratings still lean on last season's baseline.",
-   "confidence": {
-    "level": "low",
-    "note": "only a handful of matches played, so ratings still lean on last season's baseline",
-    "effective_matches_home": 3.7,
-    "effective_matches_away": 3.7
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Barcelona attack",
-     "detail": "excellent (1.90x league average)",
-     "delta_goals": 1.121
-    },
-    {
-     "side": "home",
-     "label": "Getafe defence",
-     "detail": "solid (0.92x league average conceded)",
-     "delta_goals": -0.182
-    },
-    {
-     "side": "home",
-     "label": "Getafe defence weakened",
-     "detail": "Uche, Juanmi out (1.01x conceded)",
-     "delta_goals": 0.015
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.797
-    },
-    {
-     "side": "away",
-     "label": "Getafe attack",
-     "detail": "poor (0.65x league average)",
-     "delta_goals": -0.438
-    },
-    {
-     "side": "away",
-     "label": "Getafe unavailable",
-     "detail": "Uche, Juanmi out (0.92x attack)",
-     "delta_goals": -0.062
-    },
-    {
-     "side": "away",
-     "label": "Barcelona defence",
-     "detail": "excellent (0.74x league average conceded)",
-     "delta_goals": -0.193
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 1.896,
-    "home_defence": 0.743,
-    "away_attack": 0.649,
-    "away_defence": 0.923,
-    "league_base": 1.25,
-    "home_advantage": 1.362
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 0.923,
-    "away_defence_mult": 1.007,
-    "home_missing": [
-     "Roony Bardghji"
-    ],
-    "away_missing": [
-     "Christantus Uche",
-     "Juanmi"
-    ]
-   }
-  }
- },
- {
-  "date": "2026-10-11",
-  "kickoff_datetime": "2026-10-11T13:00:00Z",
-  "round": 8,
-  "home": "Deportivo Alav\u00e9s",
-  "away": "Atl\u00e9tico Madrid",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 5,
-   "goals": 2.2,
-   "goals_against": 1.0,
-   "xg_for": 1.58,
-   "xg_against": 1.1,
-   "xg_diff_per_game": 0.48,
-   "finishing_delta": 0.62,
-   "points": 10,
-   "ppg": 2.0,
-   "form": "WDWWL",
-   "possession_pct": 44.2
-  },
-  "away_form": {
-   "matches": 4,
-   "goals": 1.75,
-   "goals_against": 1.5,
-   "xg_for": 0.91,
-   "xg_against": 1.97,
-   "xg_diff_per_game": -1.06,
-   "finishing_delta": 1.42,
-   "points": 7,
-   "ppg": 1.75,
-   "form": "WDWL",
-   "possession_pct": 57.3
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 2.07,
-  "pred_xg_away": 1.117,
-  "win_home_pct": 58.0,
-  "draw_pct": 23.4,
-  "win_away_pct": 18.6,
-  "xpts_home": 1.97,
-  "xpts_away": 0.79,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    10.81
-   ],
-   [
-    2,
-    1,
-    9.88
-   ],
-   [
-    2,
-    0,
-    8.85
-   ],
-   [
-    1,
-    0,
-    7.28
-   ],
-   [
-    3,
-    1,
-    6.82
-   ]
-  ],
-  "over_2_5_pct": 61.7,
-  "btts_pct": 60.1,
-  "reasoning": {
-   "thesis": "Deportivo Alav\u00e9s should win comfortably. The model has them 0.95 goals clear of Atl\u00e9tico Madrid, a 58% win probability. Deportivo Alav\u00e9s are scoring 0.62 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Atl\u00e9tico Madrid are scoring 1.42 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Projected 2.07-1.12 on expected goals, with 1-1 the single most likely scoreline at 10.8%. Confidence is low: only a handful of matches played, so ratings still lean on last season's baseline.",
-   "confidence": {
-    "level": "low",
-    "note": "only a handful of matches played, so ratings still lean on last season's baseline",
-    "effective_matches_home": 4.7,
-    "effective_matches_away": 3.7
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Deportivo Alav\u00e9s attack",
-     "detail": "strong (1.11x league average)",
-     "delta_goals": 0.137
-    },
-    {
-     "side": "home",
-     "label": "Atl\u00e9tico Madrid defence",
-     "detail": "leaky (1.10x league average conceded)",
-     "delta_goals": 0.133
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.55
-    },
-    {
-     "side": "away",
-     "label": "Atl\u00e9tico Madrid attack",
-     "detail": "solid (0.98x league average)",
-     "delta_goals": -0.027
-    },
-    {
-     "side": "away",
-     "label": "Deportivo Alav\u00e9s defence",
-     "detail": "strong (0.91x league average conceded)",
-     "delta_goals": -0.106
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 1.109,
-    "home_defence": 0.913,
-    "away_attack": 0.978,
-    "away_defence": 1.096,
-    "league_base": 1.25,
-    "home_advantage": 1.362
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [
-     "Mikel Rodr\u00edguez"
-    ],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2026-10-11",
-  "kickoff_datetime": "2026-10-11T13:00:00Z",
-  "round": 8,
-  "home": "Elche",
-  "away": "Celta Vigo",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 5,
-   "goals": 1.2,
-   "goals_against": 2.6,
-   "xg_for": 1.25,
-   "xg_against": 1.89,
-   "xg_diff_per_game": -0.63,
-   "finishing_delta": -0.05,
-   "points": 2,
-   "ppg": 0.4,
-   "form": "DLLLD",
-   "possession_pct": 51.6
-  },
-  "away_form": {
-   "matches": 5,
-   "goals": 0.4,
-   "goals_against": 1.0,
-   "xg_for": 0.58,
-   "xg_against": 1.59,
-   "xg_diff_per_game": -1.01,
-   "finishing_delta": -0.18,
-   "points": 3,
-   "ppg": 0.6,
-   "form": "DLLDD",
-   "possession_pct": 56.2
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.607,
-  "pred_xg_away": 1.077,
-  "win_home_pct": 48.1,
-  "draw_pct": 28.0,
-  "win_away_pct": 23.9,
-  "xpts_home": 1.72,
-  "xpts_away": 1.0,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    13.38
-   ],
-   [
-    2,
-    1,
-    9.5
-   ],
-   [
-    1,
-    0,
-    9.41
-   ],
-   [
-    2,
-    0,
-    8.82
-   ],
-   [
-    0,
-    0,
-    8.39
-   ]
-  ],
-  "over_2_5_pct": 50.3,
-  "btts_pct": 54.3,
-  "reasoning": {
-   "thesis": "Elche are clear favourites, projected 0.53 goals better than Celta Vigo on the day, which prices the win at 48%. Elche are being outcreated by 0.63 xG per game over their last 5, which is why the model is cautious regardless of recent results. Celta Vigo are being outcreated by 1.01 xG per game over their last 5, which is why the model is cautious regardless of recent results. Projected 1.61-1.08 on expected goals, with 1-1 the single most likely scoreline at 13.4%. Confidence is low: only a handful of matches played, so ratings still lean on last season's baseline.",
-   "confidence": {
-    "level": "low",
-    "note": "only a handful of matches played, so ratings still lean on last season's baseline",
-    "effective_matches_home": 4.7,
-    "effective_matches_away": 4.7
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Elche attack",
-     "detail": "modest (0.92x league average)",
-     "delta_goals": -0.095
-    },
-    {
-     "side": "home",
-     "label": "Celta Vigo defence",
-     "detail": "solid (1.02x league average conceded)",
-     "delta_goals": 0.025
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.427
-    },
-    {
-     "side": "away",
-     "label": "Celta Vigo attack",
-     "detail": "poor (0.72x league average)",
-     "delta_goals": -0.345
-    },
-    {
-     "side": "away",
-     "label": "Elche defence",
-     "detail": "poor (1.19x league average conceded)",
-     "delta_goals": 0.171
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 0.924,
-    "home_defence": 1.189,
-    "away_attack": 0.724,
-    "away_defence": 1.022,
-    "league_base": 1.25,
-    "home_advantage": 1.362
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2026-10-11",
-  "kickoff_datetime": "2026-10-11T13:00:00Z",
-  "round": 8,
-  "home": "Levante",
-  "away": "Sevilla",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 4,
-   "goals": 1.25,
-   "goals_against": 1.25,
-   "xg_for": 1.26,
-   "xg_against": 1.39,
-   "xg_diff_per_game": -0.13,
-   "finishing_delta": -0.01,
-   "points": 5,
-   "ppg": 1.25,
-   "form": "LDWD",
-   "possession_pct": 44.2
-  },
-  "away_form": {
-   "matches": 5,
-   "goals": 1.6,
-   "goals_against": 1.2,
-   "xg_for": 1.2,
-   "xg_against": 1.09,
-   "xg_diff_per_game": 0.11,
-   "finishing_delta": 0.4,
-   "points": 10,
-   "ppg": 2.0,
-   "form": "WWLDW",
-   "possession_pct": 43.2
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.579,
-  "pred_xg_away": 1.123,
-  "win_home_pct": 46.3,
-  "draw_pct": 28.2,
-  "win_away_pct": 25.5,
-  "xpts_home": 1.67,
-  "xpts_away": 1.05,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    13.47
-   ],
-   [
-    2,
-    1,
-    9.39
-   ],
-   [
-    1,
-    0,
-    9.01
-   ],
-   [
-    2,
-    0,
-    8.36
-   ],
-   [
-    0,
-    0,
-    8.28
-   ]
-  ],
-  "over_2_5_pct": 50.7,
-  "btts_pct": 55.1,
-  "reasoning": {
-   "thesis": "Levante are clear favourites, projected 0.46 goals better than Sevilla on the day, which prices the win at 46%. Projected 1.58-1.12 on expected goals, with 1-1 the single most likely scoreline at 13.5%. Confidence is low: only a handful of matches played, so ratings still lean on last season's baseline.",
-   "confidence": {
-    "level": "low",
-    "note": "only a handful of matches played, so ratings still lean on last season's baseline",
-    "effective_matches_home": 3.7,
-    "effective_matches_away": 4.7
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Levante attack",
-     "detail": "solid (0.99x league average)",
-     "delta_goals": -0.019
-    },
-    {
-     "side": "home",
-     "label": "Sevilla defence",
-     "detail": "solid (0.94x league average conceded)",
-     "delta_goals": -0.072
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.419
-    },
-    {
-     "side": "away",
-     "label": "Sevilla attack",
-     "detail": "modest (0.88x league average)",
-     "delta_goals": -0.15
-    },
-    {
-     "side": "away",
-     "label": "Levante defence",
-     "detail": "solid (1.02x league average conceded)",
-     "delta_goals": 0.023
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 0.985,
-    "home_defence": 1.021,
-    "away_attack": 0.88,
-    "away_defence": 0.941,
-    "league_base": 1.25,
-    "home_advantage": 1.362
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2026-10-11",
-  "kickoff_datetime": "2026-10-11T13:00:00Z",
+  "date": "2026-10-09",
+  "kickoff_datetime": "2026-10-09T19:00:00Z",
   "round": 8,
   "home": "M\u00e1laga",
   "away": "Espanyol",
@@ -12437,8 +11882,1001 @@
   }
  },
  {
+  "date": "2026-10-10",
+  "kickoff_datetime": "2026-10-10T12:00:00Z",
+  "round": 8,
+  "home": "Rayo Vallecano",
+  "away": "Athletic Club",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 5,
+   "goals": 1.6,
+   "goals_against": 2.8,
+   "xg_for": 1.25,
+   "xg_against": 2.08,
+   "xg_diff_per_game": -0.83,
+   "finishing_delta": 0.35,
+   "points": 4,
+   "ppg": 0.8,
+   "form": "LDLWL",
+   "possession_pct": 44.8
+  },
+  "away_form": {
+   "matches": 5,
+   "goals": 1.4,
+   "goals_against": 1.2,
+   "xg_for": 1.65,
+   "xg_against": 1.62,
+   "xg_diff_per_game": 0.03,
+   "finishing_delta": -0.25,
+   "points": 7,
+   "ppg": 1.4,
+   "form": "LLWWD",
+   "possession_pct": 49.2
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.654,
+  "pred_xg_away": 1.452,
+  "win_home_pct": 41.1,
+  "draw_pct": 26.5,
+  "win_away_pct": 32.3,
+  "xpts_home": 1.5,
+  "xpts_away": 1.24,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    12.18
+   ],
+   [
+    2,
+    1,
+    8.9
+   ],
+   [
+    1,
+    2,
+    7.81
+   ],
+   [
+    2,
+    2,
+    6.46
+   ],
+   [
+    2,
+    0,
+    6.13
+   ]
+  ],
+  "over_2_5_pct": 60.0,
+  "btts_pct": 63.4,
+  "reasoning": {
+   "thesis": "Rayo Vallecano are marginal favourites, worth about 0.20 goals of edge and a 41% win probability -- a lean, not a call. Rayo Vallecano are being outcreated by 0.83 xG per game over their last 5, which is why the model is cautious regardless of recent results. Rayo Vallecano are without Batalla, which the model treats as a marginal cost given the cover behind them. Projected 1.65-1.45 on expected goals, with 1-1 the single most likely scoreline at 12.2%. Confidence is low: only a handful of matches played, so ratings still lean on last season's baseline.",
+   "confidence": {
+    "level": "low",
+    "note": "only a handful of matches played, so ratings still lean on last season's baseline",
+    "effective_matches_home": 4.7,
+    "effective_matches_away": 4.7
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Rayo Vallecano attack",
+     "detail": "solid (1.02x league average)",
+     "delta_goals": 0.029
+    },
+    {
+     "side": "home",
+     "label": "Rayo Vallecano unavailable",
+     "detail": "Batalla out (1.00x attack)",
+     "delta_goals": 0.0
+    },
+    {
+     "side": "home",
+     "label": "Athletic Club defence",
+     "detail": "solid (0.95x league average conceded)",
+     "delta_goals": -0.064
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.44
+    },
+    {
+     "side": "away",
+     "label": "Athletic Club attack",
+     "detail": "solid (1.01x league average)",
+     "delta_goals": 0.011
+    },
+    {
+     "side": "away",
+     "label": "Rayo Vallecano defence",
+     "detail": "leaky (1.08x league average conceded)",
+     "delta_goals": 0.098
+    },
+    {
+     "side": "away",
+     "label": "Rayo Vallecano defence weakened",
+     "detail": "Batalla out (1.07x conceded)",
+     "delta_goals": 0.093
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 1.023,
+    "home_defence": 1.078,
+    "away_attack": 1.009,
+    "away_defence": 0.95,
+    "league_base": 1.25,
+    "home_advantage": 1.362
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.068,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Augusto Batalla"
+    ],
+    "away_missing": [
+     "Unai Eguiluz"
+    ]
+   }
+  }
+ },
+ {
+  "date": "2026-10-10",
+  "kickoff_datetime": "2026-10-10T14:15:00Z",
+  "round": 8,
+  "home": "Deportivo Alav\u00e9s",
+  "away": "Atl\u00e9tico Madrid",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 5,
+   "goals": 2.2,
+   "goals_against": 1.0,
+   "xg_for": 1.58,
+   "xg_against": 1.1,
+   "xg_diff_per_game": 0.48,
+   "finishing_delta": 0.62,
+   "points": 10,
+   "ppg": 2.0,
+   "form": "WDWWL",
+   "possession_pct": 44.2
+  },
+  "away_form": {
+   "matches": 4,
+   "goals": 1.75,
+   "goals_against": 1.5,
+   "xg_for": 0.91,
+   "xg_against": 1.97,
+   "xg_diff_per_game": -1.06,
+   "finishing_delta": 1.42,
+   "points": 7,
+   "ppg": 1.75,
+   "form": "WDWL",
+   "possession_pct": 57.3
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 2.07,
+  "pred_xg_away": 1.117,
+  "win_home_pct": 58.0,
+  "draw_pct": 23.4,
+  "win_away_pct": 18.6,
+  "xpts_home": 1.97,
+  "xpts_away": 0.79,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    10.81
+   ],
+   [
+    2,
+    1,
+    9.88
+   ],
+   [
+    2,
+    0,
+    8.85
+   ],
+   [
+    1,
+    0,
+    7.28
+   ],
+   [
+    3,
+    1,
+    6.82
+   ]
+  ],
+  "over_2_5_pct": 61.7,
+  "btts_pct": 60.1,
+  "reasoning": {
+   "thesis": "Deportivo Alav\u00e9s should win comfortably. The model has them 0.95 goals clear of Atl\u00e9tico Madrid, a 58% win probability. Deportivo Alav\u00e9s are scoring 0.62 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Atl\u00e9tico Madrid are scoring 1.42 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Projected 2.07-1.12 on expected goals, with 1-1 the single most likely scoreline at 10.8%. Confidence is low: only a handful of matches played, so ratings still lean on last season's baseline.",
+   "confidence": {
+    "level": "low",
+    "note": "only a handful of matches played, so ratings still lean on last season's baseline",
+    "effective_matches_home": 4.7,
+    "effective_matches_away": 3.7
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Deportivo Alav\u00e9s attack",
+     "detail": "strong (1.11x league average)",
+     "delta_goals": 0.137
+    },
+    {
+     "side": "home",
+     "label": "Atl\u00e9tico Madrid defence",
+     "detail": "leaky (1.10x league average conceded)",
+     "delta_goals": 0.133
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.55
+    },
+    {
+     "side": "away",
+     "label": "Atl\u00e9tico Madrid attack",
+     "detail": "solid (0.98x league average)",
+     "delta_goals": -0.027
+    },
+    {
+     "side": "away",
+     "label": "Deportivo Alav\u00e9s defence",
+     "detail": "strong (0.91x league average conceded)",
+     "delta_goals": -0.106
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 1.109,
+    "home_defence": 0.913,
+    "away_attack": 0.978,
+    "away_defence": 1.096,
+    "league_base": 1.25,
+    "home_advantage": 1.362
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Mikel Rodr\u00edguez"
+    ],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2026-10-10",
+  "kickoff_datetime": "2026-10-10T16:30:00Z",
+  "round": 8,
+  "home": "Barcelona",
+  "away": "Getafe",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 4,
+   "goals": 4.25,
+   "goals_against": 0.5,
+   "xg_for": 3.93,
+   "xg_against": 0.71,
+   "xg_diff_per_game": 3.23,
+   "finishing_delta": 0.32,
+   "points": 12,
+   "ppg": 3.0,
+   "form": "WWWW",
+   "possession_pct": 66.5
+  },
+  "away_form": {
+   "matches": 4,
+   "goals": 0.5,
+   "goals_against": 1.25,
+   "xg_for": 0.74,
+   "xg_against": 1.47,
+   "xg_diff_per_game": -0.73,
+   "finishing_delta": -0.24,
+   "points": 4,
+   "ppg": 1.0,
+   "form": "LWLD",
+   "possession_pct": 44.0
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 3.001,
+  "pred_xg_away": 0.557,
+  "win_home_pct": 85.1,
+  "draw_pct": 11.3,
+  "win_away_pct": 3.6,
+  "xpts_home": 2.67,
+  "xpts_away": 0.22,
+  "most_likely_scoreline": [
+   3,
+   0
+  ],
+  "top_5_scorelines": [
+   [
+    3,
+    0,
+    12.84
+   ],
+   [
+    2,
+    0,
+    12.83
+   ],
+   [
+    4,
+    0,
+    9.63
+   ],
+   [
+    1,
+    0,
+    7.92
+   ],
+   [
+    3,
+    1,
+    7.15
+   ]
+  ],
+  "over_2_5_pct": 69.0,
+  "btts_pct": 41.2,
+  "reasoning": {
+   "thesis": "Barcelona should win comfortably. The model has them 2.44 goals clear of Getafe, a 85% win probability. Barcelona are creating +3.23 xG per game more than they concede over their last 4, the profile of a side controlling matches. Getafe are being outcreated by 0.73 xG per game over their last 4, which is why the model is cautious regardless of recent results. Getafe are missing Uche, Juanmi; weighting the absentees by value against the depth behind them, the model marks their attack down 8% for this fixture. Projected 3.00-0.56 on expected goals, with 3-0 the single most likely scoreline at 12.8%. Confidence is low: only a handful of matches played, so ratings still lean on last season's baseline.",
+   "confidence": {
+    "level": "low",
+    "note": "only a handful of matches played, so ratings still lean on last season's baseline",
+    "effective_matches_home": 3.7,
+    "effective_matches_away": 3.7
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Barcelona attack",
+     "detail": "excellent (1.90x league average)",
+     "delta_goals": 1.121
+    },
+    {
+     "side": "home",
+     "label": "Getafe defence",
+     "detail": "solid (0.92x league average conceded)",
+     "delta_goals": -0.182
+    },
+    {
+     "side": "home",
+     "label": "Getafe defence weakened",
+     "detail": "Uche, Juanmi out (1.01x conceded)",
+     "delta_goals": 0.015
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.797
+    },
+    {
+     "side": "away",
+     "label": "Getafe attack",
+     "detail": "poor (0.65x league average)",
+     "delta_goals": -0.438
+    },
+    {
+     "side": "away",
+     "label": "Getafe unavailable",
+     "detail": "Uche, Juanmi out (0.92x attack)",
+     "delta_goals": -0.062
+    },
+    {
+     "side": "away",
+     "label": "Barcelona defence",
+     "detail": "excellent (0.74x league average conceded)",
+     "delta_goals": -0.193
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 1.896,
+    "home_defence": 0.743,
+    "away_attack": 0.649,
+    "away_defence": 0.923,
+    "league_base": 1.25,
+    "home_advantage": 1.362
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 0.923,
+    "away_defence_mult": 1.007,
+    "home_missing": [
+     "Roony Bardghji"
+    ],
+    "away_missing": [
+     "Christantus Uche",
+     "Juanmi"
+    ]
+   }
+  }
+ },
+ {
+  "date": "2026-10-10",
+  "kickoff_datetime": "2026-10-10T19:00:00Z",
+  "round": 8,
+  "home": "Real Madrid",
+  "away": "Villarreal",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 5,
+   "goals": 2.8,
+   "goals_against": 0.8,
+   "xg_for": 2.93,
+   "xg_against": 0.89,
+   "xg_diff_per_game": 2.04,
+   "finishing_delta": -0.13,
+   "points": 12,
+   "ppg": 2.4,
+   "form": "WWWLW",
+   "possession_pct": 56.8
+  },
+  "away_form": {
+   "matches": 4,
+   "goals": 1.5,
+   "goals_against": 2.0,
+   "xg_for": 1.8,
+   "xg_against": 1.05,
+   "xg_diff_per_game": 0.75,
+   "finishing_delta": -0.3,
+   "points": 2,
+   "ppg": 0.5,
+   "form": "DDLL",
+   "possession_pct": 61.5
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 2.45,
+  "pred_xg_away": 1.11,
+  "win_home_pct": 65.8,
+  "draw_pct": 19.8,
+  "win_away_pct": 14.5,
+  "xpts_home": 2.17,
+  "xpts_away": 0.63,
+  "most_likely_scoreline": [
+   2,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    2,
+    1,
+    9.47
+   ],
+   [
+    1,
+    1,
+    8.76
+   ],
+   [
+    2,
+    0,
+    8.53
+   ],
+   [
+    3,
+    1,
+    7.74
+   ],
+   [
+    3,
+    0,
+    6.97
+   ]
+  ],
+  "over_2_5_pct": 69.0,
+  "btts_pct": 62.3,
+  "reasoning": {
+   "thesis": "Real Madrid should win comfortably. The model has them 1.34 goals clear of Villarreal, a 66% win probability. Real Madrid are creating +2.04 xG per game more than they concede over their last 5, the profile of a side controlling matches. Villarreal are creating +0.75 xG per game more than they concede over their last 4, the profile of a side controlling matches. Projected 2.45-1.11 on expected goals, with 2-1 the single most likely scoreline at 9.5%. Confidence is low: only a handful of matches played, so ratings still lean on last season's baseline.",
+   "confidence": {
+    "level": "low",
+    "note": "only a handful of matches played, so ratings still lean on last season's baseline",
+    "effective_matches_home": 4.7,
+    "effective_matches_away": 3.7
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Real Madrid attack",
+     "detail": "excellent (1.53x league average)",
+     "delta_goals": 0.666
+    },
+    {
+     "side": "home",
+     "label": "Villarreal defence",
+     "detail": "solid (0.94x league average conceded)",
+     "delta_goals": -0.117
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.651
+    },
+    {
+     "side": "away",
+     "label": "Villarreal attack",
+     "detail": "strong (1.15x league average)",
+     "delta_goals": 0.188
+    },
+    {
+     "side": "away",
+     "label": "Real Madrid defence",
+     "detail": "excellent (0.77x league average conceded)",
+     "delta_goals": -0.328
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 1.533,
+    "home_defence": 0.772,
+    "away_attack": 1.15,
+    "away_defence": 0.939,
+    "league_base": 1.25,
+    "home_advantage": 1.362
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Rodrygo"
+    ],
+    "away_missing": []
+   }
+  }
+ },
+ {
   "date": "2026-10-11",
-  "kickoff_datetime": "2026-10-11T13:00:00Z",
+  "kickoff_datetime": "2026-10-11T12:00:00Z",
+  "round": 8,
+  "home": "Elche",
+  "away": "Celta Vigo",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 5,
+   "goals": 1.2,
+   "goals_against": 2.6,
+   "xg_for": 1.25,
+   "xg_against": 1.89,
+   "xg_diff_per_game": -0.63,
+   "finishing_delta": -0.05,
+   "points": 2,
+   "ppg": 0.4,
+   "form": "DLLLD",
+   "possession_pct": 51.6
+  },
+  "away_form": {
+   "matches": 5,
+   "goals": 0.4,
+   "goals_against": 1.0,
+   "xg_for": 0.58,
+   "xg_against": 1.59,
+   "xg_diff_per_game": -1.01,
+   "finishing_delta": -0.18,
+   "points": 3,
+   "ppg": 0.6,
+   "form": "DLLDD",
+   "possession_pct": 56.2
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.607,
+  "pred_xg_away": 1.077,
+  "win_home_pct": 48.1,
+  "draw_pct": 28.0,
+  "win_away_pct": 23.9,
+  "xpts_home": 1.72,
+  "xpts_away": 1.0,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    13.38
+   ],
+   [
+    2,
+    1,
+    9.5
+   ],
+   [
+    1,
+    0,
+    9.41
+   ],
+   [
+    2,
+    0,
+    8.82
+   ],
+   [
+    0,
+    0,
+    8.39
+   ]
+  ],
+  "over_2_5_pct": 50.3,
+  "btts_pct": 54.3,
+  "reasoning": {
+   "thesis": "Elche are clear favourites, projected 0.53 goals better than Celta Vigo on the day, which prices the win at 48%. Elche are being outcreated by 0.63 xG per game over their last 5, which is why the model is cautious regardless of recent results. Celta Vigo are being outcreated by 1.01 xG per game over their last 5, which is why the model is cautious regardless of recent results. Projected 1.61-1.08 on expected goals, with 1-1 the single most likely scoreline at 13.4%. Confidence is low: only a handful of matches played, so ratings still lean on last season's baseline.",
+   "confidence": {
+    "level": "low",
+    "note": "only a handful of matches played, so ratings still lean on last season's baseline",
+    "effective_matches_home": 4.7,
+    "effective_matches_away": 4.7
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Elche attack",
+     "detail": "modest (0.92x league average)",
+     "delta_goals": -0.095
+    },
+    {
+     "side": "home",
+     "label": "Celta Vigo defence",
+     "detail": "solid (1.02x league average conceded)",
+     "delta_goals": 0.025
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.427
+    },
+    {
+     "side": "away",
+     "label": "Celta Vigo attack",
+     "detail": "poor (0.72x league average)",
+     "delta_goals": -0.345
+    },
+    {
+     "side": "away",
+     "label": "Elche defence",
+     "detail": "poor (1.19x league average conceded)",
+     "delta_goals": 0.171
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 0.924,
+    "home_defence": 1.189,
+    "away_attack": 0.724,
+    "away_defence": 1.022,
+    "league_base": 1.25,
+    "home_advantage": 1.362
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2026-10-11",
+  "kickoff_datetime": "2026-10-11T14:15:00Z",
+  "round": 8,
+  "home": "Real Sociedad",
+  "away": "Deportivo A Coru\u00f1a",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 5,
+   "goals": 1.2,
+   "goals_against": 1.6,
+   "xg_for": 1.12,
+   "xg_against": 1.62,
+   "xg_diff_per_game": -0.5,
+   "finishing_delta": 0.08,
+   "points": 7,
+   "ppg": 1.4,
+   "form": "LLWDW",
+   "possession_pct": 49.0
+  },
+  "away_form": {
+   "matches": 4,
+   "goals": 2.0,
+   "goals_against": 1.25,
+   "xg_for": 0.93,
+   "xg_against": 1.44,
+   "xg_diff_per_game": -0.52,
+   "finishing_delta": 1.07,
+   "points": 8,
+   "ppg": 2.0,
+   "form": "DDWW",
+   "possession_pct": 41.2
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.797,
+  "pred_xg_away": 1.141,
+  "win_home_pct": 51.3,
+  "draw_pct": 26.0,
+  "win_away_pct": 22.7,
+  "xpts_home": 1.8,
+  "xpts_away": 0.94,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    12.3
+   ],
+   [
+    2,
+    1,
+    9.76
+   ],
+   [
+    2,
+    0,
+    8.55
+   ],
+   [
+    1,
+    0,
+    8.08
+   ],
+   [
+    0,
+    0,
+    6.73
+   ]
+  ],
+  "over_2_5_pct": 56.3,
+  "btts_pct": 58.2,
+  "reasoning": {
+   "thesis": "Real Sociedad are clear favourites, projected 0.66 goals better than Deportivo A Coru\u00f1a on the day, which prices the win at 51%. Deportivo A Coru\u00f1a are scoring 1.07 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Real Sociedad are without Pacheco, Mar\u00edn, Odriozola, which the model treats as a marginal cost given the cover behind them. Projected 1.80-1.14 on expected goals, with 1-1 the single most likely scoreline at 12.3%. Confidence is low: only a handful of matches played, so ratings still lean on last season's baseline.",
+   "confidence": {
+    "level": "low",
+    "note": "only a handful of matches played, so ratings still lean on last season's baseline",
+    "effective_matches_home": 4.7,
+    "effective_matches_away": 3.7
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Real Sociedad attack",
+     "detail": "solid (0.96x league average)",
+     "delta_goals": -0.045
+    },
+    {
+     "side": "home",
+     "label": "Real Sociedad unavailable",
+     "detail": "Pacheco, Mar\u00edn, Odriozola out (1.00x attack)",
+     "delta_goals": -0.005
+    },
+    {
+     "side": "home",
+     "label": "Deportivo A Coru\u00f1a defence",
+     "detail": "leaky (1.10x league average conceded)",
+     "delta_goals": 0.12
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.477
+    },
+    {
+     "side": "away",
+     "label": "Deportivo A Coru\u00f1a attack",
+     "detail": "modest (0.85x league average)",
+     "delta_goals": -0.189
+    },
+    {
+     "side": "away",
+     "label": "Real Sociedad defence",
+     "detail": "leaky (1.07x league average conceded)",
+     "delta_goals": 0.077
+    },
+    {
+     "side": "away",
+     "label": "Real Sociedad defence weakened",
+     "detail": "Pacheco, Mar\u00edn, Odriozola out (1.00x conceded)",
+     "delta_goals": 0.003
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 0.964,
+    "home_defence": 1.073,
+    "away_attack": 0.849,
+    "away_defence": 1.1,
+    "league_base": 1.25,
+    "home_advantage": 1.362
+   },
+   "availability": {
+    "home_attack_mult": 0.996,
+    "home_defence_mult": 1.003,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Jon Pacheco",
+     "Pablo Mar\u00edn",
+     "\u00c1lvaro Odriozola"
+    ],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2026-10-11",
+  "kickoff_datetime": "2026-10-11T16:30:00Z",
+  "round": 8,
+  "home": "Real Betis",
+  "away": "Osasuna",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 4,
+   "goals": 1.25,
+   "goals_against": 1.25,
+   "xg_for": 1.2,
+   "xg_against": 2.17,
+   "xg_diff_per_game": -0.97,
+   "finishing_delta": 0.05,
+   "points": 9,
+   "ppg": 2.25,
+   "form": "WWLW",
+   "possession_pct": 52.0
+  },
+  "away_form": {
+   "matches": 5,
+   "goals": 1.0,
+   "goals_against": 1.6,
+   "xg_for": 1.5,
+   "xg_against": 0.94,
+   "xg_diff_per_game": 0.55,
+   "finishing_delta": -0.5,
+   "points": 7,
+   "ppg": 1.4,
+   "form": "DWWLL",
+   "possession_pct": 50.0
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.596,
+  "pred_xg_away": 1.262,
+  "win_home_pct": 43.7,
+  "draw_pct": 27.7,
+  "win_away_pct": 28.7,
+  "xpts_home": 1.59,
+  "xpts_away": 1.14,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    13.09
+   ],
+   [
+    2,
+    1,
+    9.22
+   ],
+   [
+    1,
+    0,
+    7.63
+   ],
+   [
+    2,
+    0,
+    7.31
+   ],
+   [
+    1,
+    2,
+    7.29
+   ]
+  ],
+  "over_2_5_pct": 54.4,
+  "btts_pct": 58.7,
+  "reasoning": {
+   "thesis": "Real Betis are marginal favourites, worth about 0.33 goals of edge and a 44% win probability -- a lean, not a call. Real Betis are being outcreated by 0.97 xG per game over their last 4, which is why the model is cautious regardless of recent results. Osasuna are converting 0.50 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Projected 1.60-1.26 on expected goals, with 1-1 the single most likely scoreline at 13.1%. Confidence is low: only a handful of matches played, so ratings still lean on last season's baseline.",
+   "confidence": {
+    "level": "low",
+    "note": "only a handful of matches played, so ratings still lean on last season's baseline",
+    "effective_matches_home": 3.7,
+    "effective_matches_away": 4.7
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Real Betis attack",
+     "detail": "solid (0.98x league average)",
+     "delta_goals": -0.021
+    },
+    {
+     "side": "home",
+     "label": "Osasuna defence",
+     "detail": "solid (0.95x league average conceded)",
+     "delta_goals": -0.057
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.424
+    },
+    {
+     "side": "away",
+     "label": "Osasuna attack",
+     "detail": "modest (0.94x league average)",
+     "delta_goals": -0.078
+    },
+    {
+     "side": "away",
+     "label": "Real Betis defence",
+     "detail": "leaky (1.08x league average conceded)",
+     "delta_goals": 0.09
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 0.983,
+    "home_defence": 1.076,
+    "away_attack": 0.937,
+    "away_defence": 0.954,
+    "league_base": 1.25,
+    "home_advantage": 1.362
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Ismael Barea"
+    ],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2026-10-11",
+  "kickoff_datetime": "2026-10-11T19:00:00Z",
   "round": 8,
   "home": "Racing Santander",
   "away": "Valencia",
@@ -12601,198 +13039,48 @@
   }
  },
  {
-  "date": "2026-10-11",
-  "kickoff_datetime": "2026-10-11T13:00:00Z",
+  "date": "2026-10-12",
+  "kickoff_datetime": "2026-10-12T19:00:00Z",
   "round": 8,
-  "home": "Rayo Vallecano",
-  "away": "Athletic Club",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 5,
-   "goals": 1.6,
-   "goals_against": 2.8,
-   "xg_for": 1.25,
-   "xg_against": 2.08,
-   "xg_diff_per_game": -0.83,
-   "finishing_delta": 0.35,
-   "points": 4,
-   "ppg": 0.8,
-   "form": "LDLWL",
-   "possession_pct": 44.8
-  },
-  "away_form": {
-   "matches": 5,
-   "goals": 1.4,
-   "goals_against": 1.2,
-   "xg_for": 1.65,
-   "xg_against": 1.62,
-   "xg_diff_per_game": 0.03,
-   "finishing_delta": -0.25,
-   "points": 7,
-   "ppg": 1.4,
-   "form": "LLWWD",
-   "possession_pct": 49.2
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.654,
-  "pred_xg_away": 1.452,
-  "win_home_pct": 41.1,
-  "draw_pct": 26.5,
-  "win_away_pct": 32.3,
-  "xpts_home": 1.5,
-  "xpts_away": 1.24,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    12.18
-   ],
-   [
-    2,
-    1,
-    8.9
-   ],
-   [
-    1,
-    2,
-    7.81
-   ],
-   [
-    2,
-    2,
-    6.46
-   ],
-   [
-    2,
-    0,
-    6.13
-   ]
-  ],
-  "over_2_5_pct": 60.0,
-  "btts_pct": 63.4,
-  "reasoning": {
-   "thesis": "Rayo Vallecano are marginal favourites, worth about 0.20 goals of edge and a 41% win probability -- a lean, not a call. Rayo Vallecano are being outcreated by 0.83 xG per game over their last 5, which is why the model is cautious regardless of recent results. Rayo Vallecano are without Batalla, which the model treats as a marginal cost given the cover behind them. Projected 1.65-1.45 on expected goals, with 1-1 the single most likely scoreline at 12.2%. Confidence is low: only a handful of matches played, so ratings still lean on last season's baseline.",
-   "confidence": {
-    "level": "low",
-    "note": "only a handful of matches played, so ratings still lean on last season's baseline",
-    "effective_matches_home": 4.7,
-    "effective_matches_away": 4.7
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Rayo Vallecano attack",
-     "detail": "solid (1.02x league average)",
-     "delta_goals": 0.029
-    },
-    {
-     "side": "home",
-     "label": "Rayo Vallecano unavailable",
-     "detail": "Batalla out (1.00x attack)",
-     "delta_goals": 0.0
-    },
-    {
-     "side": "home",
-     "label": "Athletic Club defence",
-     "detail": "solid (0.95x league average conceded)",
-     "delta_goals": -0.064
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.44
-    },
-    {
-     "side": "away",
-     "label": "Athletic Club attack",
-     "detail": "solid (1.01x league average)",
-     "delta_goals": 0.011
-    },
-    {
-     "side": "away",
-     "label": "Rayo Vallecano defence",
-     "detail": "leaky (1.08x league average conceded)",
-     "delta_goals": 0.098
-    },
-    {
-     "side": "away",
-     "label": "Rayo Vallecano defence weakened",
-     "detail": "Batalla out (1.07x conceded)",
-     "delta_goals": 0.093
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 1.023,
-    "home_defence": 1.078,
-    "away_attack": 1.009,
-    "away_defence": 0.95,
-    "league_base": 1.25,
-    "home_advantage": 1.362
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.068,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [
-     "Augusto Batalla"
-    ],
-    "away_missing": [
-     "Unai Eguiluz"
-    ]
-   }
-  }
- },
- {
-  "date": "2026-10-11",
-  "kickoff_datetime": "2026-10-11T13:00:00Z",
-  "round": 8,
-  "home": "Real Betis",
-  "away": "Osasuna",
+  "home": "Levante",
+  "away": "Sevilla",
   "status": "scheduled",
   "home_form": {
    "matches": 4,
    "goals": 1.25,
    "goals_against": 1.25,
-   "xg_for": 1.2,
-   "xg_against": 2.17,
-   "xg_diff_per_game": -0.97,
-   "finishing_delta": 0.05,
-   "points": 9,
-   "ppg": 2.25,
-   "form": "WWLW",
-   "possession_pct": 52.0
+   "xg_for": 1.26,
+   "xg_against": 1.39,
+   "xg_diff_per_game": -0.13,
+   "finishing_delta": -0.01,
+   "points": 5,
+   "ppg": 1.25,
+   "form": "LDWD",
+   "possession_pct": 44.2
   },
   "away_form": {
    "matches": 5,
-   "goals": 1.0,
-   "goals_against": 1.6,
-   "xg_for": 1.5,
-   "xg_against": 0.94,
-   "xg_diff_per_game": 0.55,
-   "finishing_delta": -0.5,
-   "points": 7,
-   "ppg": 1.4,
-   "form": "DWWLL",
-   "possession_pct": 50.0
+   "goals": 1.6,
+   "goals_against": 1.2,
+   "xg_for": 1.2,
+   "xg_against": 1.09,
+   "xg_diff_per_game": 0.11,
+   "finishing_delta": 0.4,
+   "points": 10,
+   "ppg": 2.0,
+   "form": "WWLDW",
+   "possession_pct": 43.2
   },
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 1.596,
-  "pred_xg_away": 1.262,
-  "win_home_pct": 43.7,
-  "draw_pct": 27.7,
-  "win_away_pct": 28.7,
-  "xpts_home": 1.59,
-  "xpts_away": 1.14,
+  "pred_xg_home": 1.579,
+  "pred_xg_away": 1.123,
+  "win_home_pct": 46.3,
+  "draw_pct": 28.2,
+  "win_away_pct": 25.5,
+  "xpts_home": 1.67,
+  "xpts_away": 1.05,
   "most_likely_scoreline": [
    1,
    1
@@ -12801,33 +13089,33 @@
    [
     1,
     1,
-    13.09
+    13.47
    ],
    [
     2,
     1,
-    9.22
+    9.39
    ],
    [
     1,
     0,
-    7.63
+    9.01
    ],
    [
     2,
     0,
-    7.31
+    8.36
    ],
    [
-    1,
-    2,
-    7.29
+    0,
+    0,
+    8.28
    ]
   ],
-  "over_2_5_pct": 54.4,
-  "btts_pct": 58.7,
+  "over_2_5_pct": 50.7,
+  "btts_pct": 55.1,
   "reasoning": {
-   "thesis": "Real Betis are marginal favourites, worth about 0.33 goals of edge and a 44% win probability -- a lean, not a call. Real Betis are being outcreated by 0.97 xG per game over their last 4, which is why the model is cautious regardless of recent results. Osasuna are converting 0.50 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Projected 1.60-1.26 on expected goals, with 1-1 the single most likely scoreline at 13.1%. Confidence is low: only a handful of matches played, so ratings still lean on last season's baseline.",
+   "thesis": "Levante are clear favourites, projected 0.46 goals better than Sevilla on the day, which prices the win at 46%. Projected 1.58-1.12 on expected goals, with 1-1 the single most likely scoreline at 13.5%. Confidence is low: only a handful of matches played, so ratings still lean on last season's baseline.",
    "confidence": {
     "level": "low",
     "note": "only a handful of matches played, so ratings still lean on last season's baseline",
@@ -12837,176 +13125,40 @@
    "factors": [
     {
      "side": "home",
-     "label": "Real Betis attack",
-     "detail": "solid (0.98x league average)",
-     "delta_goals": -0.021
+     "label": "Levante attack",
+     "detail": "solid (0.99x league average)",
+     "delta_goals": -0.019
     },
     {
      "side": "home",
-     "label": "Osasuna defence",
-     "detail": "solid (0.95x league average conceded)",
-     "delta_goals": -0.057
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.424
-    },
-    {
-     "side": "away",
-     "label": "Osasuna attack",
-     "detail": "modest (0.94x league average)",
-     "delta_goals": -0.078
-    },
-    {
-     "side": "away",
-     "label": "Real Betis defence",
-     "detail": "leaky (1.08x league average conceded)",
-     "delta_goals": 0.09
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 0.983,
-    "home_defence": 1.076,
-    "away_attack": 0.937,
-    "away_defence": 0.954,
-    "league_base": 1.25,
-    "home_advantage": 1.362
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [
-     "Ismael Barea"
-    ],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2026-10-11",
-  "kickoff_datetime": "2026-10-11T13:00:00Z",
-  "round": 8,
-  "home": "Real Madrid",
-  "away": "Villarreal",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 5,
-   "goals": 2.8,
-   "goals_against": 0.8,
-   "xg_for": 2.93,
-   "xg_against": 0.89,
-   "xg_diff_per_game": 2.04,
-   "finishing_delta": -0.13,
-   "points": 12,
-   "ppg": 2.4,
-   "form": "WWWLW",
-   "possession_pct": 56.8
-  },
-  "away_form": {
-   "matches": 4,
-   "goals": 1.5,
-   "goals_against": 2.0,
-   "xg_for": 1.8,
-   "xg_against": 1.05,
-   "xg_diff_per_game": 0.75,
-   "finishing_delta": -0.3,
-   "points": 2,
-   "ppg": 0.5,
-   "form": "DDLL",
-   "possession_pct": 61.5
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 2.45,
-  "pred_xg_away": 1.11,
-  "win_home_pct": 65.8,
-  "draw_pct": 19.8,
-  "win_away_pct": 14.5,
-  "xpts_home": 2.17,
-  "xpts_away": 0.63,
-  "most_likely_scoreline": [
-   2,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    2,
-    1,
-    9.47
-   ],
-   [
-    1,
-    1,
-    8.76
-   ],
-   [
-    2,
-    0,
-    8.53
-   ],
-   [
-    3,
-    1,
-    7.74
-   ],
-   [
-    3,
-    0,
-    6.97
-   ]
-  ],
-  "over_2_5_pct": 69.0,
-  "btts_pct": 62.3,
-  "reasoning": {
-   "thesis": "Real Madrid should win comfortably. The model has them 1.34 goals clear of Villarreal, a 66% win probability. Real Madrid are creating +2.04 xG per game more than they concede over their last 5, the profile of a side controlling matches. Villarreal are creating +0.75 xG per game more than they concede over their last 4, the profile of a side controlling matches. Projected 2.45-1.11 on expected goals, with 2-1 the single most likely scoreline at 9.5%. Confidence is low: only a handful of matches played, so ratings still lean on last season's baseline.",
-   "confidence": {
-    "level": "low",
-    "note": "only a handful of matches played, so ratings still lean on last season's baseline",
-    "effective_matches_home": 4.7,
-    "effective_matches_away": 3.7
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Real Madrid attack",
-     "detail": "excellent (1.53x league average)",
-     "delta_goals": 0.666
-    },
-    {
-     "side": "home",
-     "label": "Villarreal defence",
+     "label": "Sevilla defence",
      "detail": "solid (0.94x league average conceded)",
-     "delta_goals": -0.117
+     "delta_goals": -0.072
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.651
+     "delta_goals": 0.419
     },
     {
      "side": "away",
-     "label": "Villarreal attack",
-     "detail": "strong (1.15x league average)",
-     "delta_goals": 0.188
+     "label": "Sevilla attack",
+     "detail": "modest (0.88x league average)",
+     "delta_goals": -0.15
     },
     {
      "side": "away",
-     "label": "Real Madrid defence",
-     "detail": "excellent (0.77x league average conceded)",
-     "delta_goals": -0.328
+     "label": "Levante defence",
+     "detail": "solid (1.02x league average conceded)",
+     "delta_goals": 0.023
     }
    ],
    "rating_snapshot": {
-    "home_attack": 1.533,
-    "home_defence": 0.772,
-    "away_attack": 1.15,
-    "away_defence": 0.939,
+    "home_attack": 0.985,
+    "home_defence": 1.021,
+    "away_attack": 0.88,
+    "away_defence": 0.941,
     "league_base": 1.25,
     "home_advantage": 1.362
    },
@@ -13015,159 +13167,7 @@
     "home_defence_mult": 1.0,
     "away_attack_mult": 1.0,
     "away_defence_mult": 1.0,
-    "home_missing": [
-     "Rodrygo"
-    ],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2026-10-11",
-  "kickoff_datetime": "2026-10-11T13:00:00Z",
-  "round": 8,
-  "home": "Real Sociedad",
-  "away": "Deportivo A Coru\u00f1a",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 5,
-   "goals": 1.2,
-   "goals_against": 1.6,
-   "xg_for": 1.12,
-   "xg_against": 1.62,
-   "xg_diff_per_game": -0.5,
-   "finishing_delta": 0.08,
-   "points": 7,
-   "ppg": 1.4,
-   "form": "LLWDW",
-   "possession_pct": 49.0
-  },
-  "away_form": {
-   "matches": 4,
-   "goals": 2.0,
-   "goals_against": 1.25,
-   "xg_for": 0.93,
-   "xg_against": 1.44,
-   "xg_diff_per_game": -0.52,
-   "finishing_delta": 1.07,
-   "points": 8,
-   "ppg": 2.0,
-   "form": "DDWW",
-   "possession_pct": 41.2
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.797,
-  "pred_xg_away": 1.141,
-  "win_home_pct": 51.3,
-  "draw_pct": 26.0,
-  "win_away_pct": 22.7,
-  "xpts_home": 1.8,
-  "xpts_away": 0.94,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    12.3
-   ],
-   [
-    2,
-    1,
-    9.76
-   ],
-   [
-    2,
-    0,
-    8.55
-   ],
-   [
-    1,
-    0,
-    8.08
-   ],
-   [
-    0,
-    0,
-    6.73
-   ]
-  ],
-  "over_2_5_pct": 56.3,
-  "btts_pct": 58.2,
-  "reasoning": {
-   "thesis": "Real Sociedad are clear favourites, projected 0.66 goals better than Deportivo A Coru\u00f1a on the day, which prices the win at 51%. Deportivo A Coru\u00f1a are scoring 1.07 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Real Sociedad are without Pacheco, Mar\u00edn, Odriozola, which the model treats as a marginal cost given the cover behind them. Projected 1.80-1.14 on expected goals, with 1-1 the single most likely scoreline at 12.3%. Confidence is low: only a handful of matches played, so ratings still lean on last season's baseline.",
-   "confidence": {
-    "level": "low",
-    "note": "only a handful of matches played, so ratings still lean on last season's baseline",
-    "effective_matches_home": 4.7,
-    "effective_matches_away": 3.7
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Real Sociedad attack",
-     "detail": "solid (0.96x league average)",
-     "delta_goals": -0.045
-    },
-    {
-     "side": "home",
-     "label": "Real Sociedad unavailable",
-     "detail": "Pacheco, Mar\u00edn, Odriozola out (1.00x attack)",
-     "delta_goals": -0.005
-    },
-    {
-     "side": "home",
-     "label": "Deportivo A Coru\u00f1a defence",
-     "detail": "leaky (1.10x league average conceded)",
-     "delta_goals": 0.12
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.477
-    },
-    {
-     "side": "away",
-     "label": "Deportivo A Coru\u00f1a attack",
-     "detail": "modest (0.85x league average)",
-     "delta_goals": -0.189
-    },
-    {
-     "side": "away",
-     "label": "Real Sociedad defence",
-     "detail": "leaky (1.07x league average conceded)",
-     "delta_goals": 0.077
-    },
-    {
-     "side": "away",
-     "label": "Real Sociedad defence weakened",
-     "detail": "Pacheco, Mar\u00edn, Odriozola out (1.00x conceded)",
-     "delta_goals": 0.003
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 0.964,
-    "home_defence": 1.073,
-    "away_attack": 0.849,
-    "away_defence": 1.1,
-    "league_base": 1.25,
-    "home_advantage": 1.362
-   },
-   "availability": {
-    "home_attack_mult": 0.996,
-    "home_defence_mult": 1.003,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [
-     "Jon Pacheco",
-     "Pablo Mar\u00edn",
-     "\u00c1lvaro Odriozola"
-    ],
+    "home_missing": [],
     "away_missing": []
    }
   }
