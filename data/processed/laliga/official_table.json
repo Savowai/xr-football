@@ -27,6 +27,19 @@
  },
  {
   "position": 3,
+  "team": "Real Betis",
+  "fotmob_team_id": "8603",
+  "played": 5,
+  "won": 4,
+  "drawn": 0,
+  "lost": 1,
+  "gf": 7,
+  "ga": 6,
+  "gd": 1,
+  "points": 12
+ },
+ {
+  "position": 4,
   "team": "Deportivo Alav\u00e9s",
   "fotmob_team_id": "9866",
   "played": 5,
@@ -39,7 +52,7 @@
   "points": 10
  },
  {
-  "position": 4,
+  "position": 5,
   "team": "Atl\u00e9tico Madrid",
   "fotmob_team_id": "9906",
   "played": 5,
@@ -52,7 +65,7 @@
   "points": 10
  },
  {
-  "position": 5,
+  "position": 6,
   "team": "Sevilla",
   "fotmob_team_id": "8302",
   "played": 5,
@@ -65,7 +78,7 @@
   "points": 10
  },
  {
-  "position": 6,
+  "position": 7,
   "team": "Deportivo A Coru\u00f1a",
   "fotmob_team_id": "9783",
   "played": 5,
@@ -75,19 +88,6 @@
   "gf": 9,
   "ga": 6,
   "gd": 3,
-  "points": 9
- },
- {
-  "position": 7,
-  "team": "Real Betis",
-  "fotmob_team_id": "8603",
-  "played": 5,
-  "won": 3,
-  "drawn": 0,
-  "lost": 2,
-  "gf": 5,
-  "ga": 6,
-  "gd": -1,
   "points": 9
  },
  {
@@ -157,19 +157,6 @@
  },
  {
   "position": 13,
-  "team": "Villarreal",
-  "fotmob_team_id": "10205",
-  "played": 5,
-  "won": 1,
-  "drawn": 2,
-  "lost": 2,
-  "gf": 7,
-  "ga": 8,
-  "gd": -1,
-  "points": 5
- },
- {
-  "position": 14,
   "team": "Levante",
   "fotmob_team_id": "8581",
   "played": 5,
@@ -182,7 +169,7 @@
   "points": 5
  },
  {
-  "position": 15,
+  "position": 14,
   "team": "Getafe",
   "fotmob_team_id": "8305",
   "played": 5,
@@ -195,7 +182,7 @@
   "points": 5
  },
  {
-  "position": 16,
+  "position": 15,
   "team": "Celta Vigo",
   "fotmob_team_id": "9910",
   "played": 6,
@@ -208,7 +195,7 @@
   "points": 4
  },
  {
-  "position": 17,
+  "position": 16,
   "team": "Rayo Vallecano",
   "fotmob_team_id": "8370",
   "played": 5,
@@ -221,7 +208,7 @@
   "points": 4
  },
  {
-  "position": 18,
+  "position": 17,
   "team": "M\u00e1laga",
   "fotmob_team_id": "9864",
   "played": 5,
@@ -232,6 +219,19 @@
   "ga": 8,
   "gd": -6,
   "points": 3
+ },
+ {
+  "position": 18,
+  "team": "Villarreal",
+  "fotmob_team_id": "10205",
+  "played": 5,
+  "won": 0,
+  "drawn": 2,
+  "lost": 3,
+  "gf": 7,
+  "ga": 10,
+  "gd": -3,
+  "points": 2
  },
  {
   "position": 19,

@@ -18,6 +18,24 @@
   "xposition": 1
  },
  {
+  "team": "Inter",
+  "played": 4,
+  "won": 4,
+  "drawn": 0,
+  "lost": 0,
+  "gf": 13,
+  "ga": 6,
+  "gd": 7,
+  "points": 12,
+  "xg_for": 11.69,
+  "xg_against": 5.04,
+  "xpts": 8.68,
+  "xg_diff": 6.65,
+  "luck": 3.32,
+  "position": 2,
+  "xposition": 3
+ },
+ {
   "team": "Como",
   "played": 4,
   "won": 3,
@@ -32,8 +50,8 @@
   "xpts": 6.65,
   "xg_diff": 2.04,
   "luck": 3.35,
-  "position": 2,
-  "xposition": 7
+  "position": 3,
+  "xposition": 8
  },
  {
   "team": "Lazio",
@@ -50,26 +68,8 @@
   "xpts": 7.02,
   "xg_diff": 2.14,
   "luck": 2.98,
-  "position": 3,
-  "xposition": 5
- },
- {
-  "team": "Inter",
-  "played": 3,
-  "won": 3,
-  "drawn": 0,
-  "lost": 0,
-  "gf": 8,
-  "ga": 3,
-  "gd": 5,
-  "points": 9,
-  "xg_for": 8.58,
-  "xg_against": 4.14,
-  "xpts": 6.14,
-  "xg_diff": 4.44,
-  "luck": 2.86,
   "position": 4,
-  "xposition": 10
+  "xposition": 6
  },
  {
   "team": "Cagliari",
@@ -159,7 +159,7 @@
   "xg_diff": 2.04,
   "luck": 0.3,
   "position": 9,
-  "xposition": 6
+  "xposition": 7
  },
  {
   "team": "Napoli",
@@ -177,7 +177,7 @@
   "xg_diff": 0.57,
   "luck": -0.31,
   "position": 10,
-  "xposition": 8
+  "xposition": 9
  },
  {
   "team": "Atalanta",
@@ -217,21 +217,21 @@
  },
  {
   "team": "Udinese",
-  "played": 3,
+  "played": 4,
   "won": 1,
   "drawn": 1,
-  "lost": 1,
-  "gf": 5,
-  "ga": 5,
-  "gd": 0,
+  "lost": 2,
+  "gf": 8,
+  "ga": 10,
+  "gd": -2,
   "points": 4,
-  "xg_for": 3.88,
-  "xg_against": 5.09,
-  "xpts": 3.35,
-  "xg_diff": -1.21,
-  "luck": 0.65,
+  "xg_for": 4.78,
+  "xg_against": 8.2,
+  "xpts": 3.7,
+  "xg_diff": -3.42,
+  "luck": 0.3,
   "position": 13,
-  "xposition": 16
+  "xposition": 15
  },
  {
   "team": "Torino",
@@ -267,7 +267,7 @@
   "xg_diff": 2.17,
   "luck": -4.08,
   "position": 15,
-  "xposition": 4
+  "xposition": 5
  },
  {
   "team": "Bologna",
@@ -285,7 +285,7 @@
   "xg_diff": 0.75,
   "luck": -5.23,
   "position": 16,
-  "xposition": 9
+  "xposition": 10
  },
  {
   "team": "Parma",
@@ -321,7 +321,7 @@
   "xg_diff": 3.6,
   "luck": -6.82,
   "position": 18,
-  "xposition": 3
+  "xposition": 4
  },
  {
   "team": "Genoa",
@@ -357,6 +357,6 @@
   "xg_diff": -4.57,
   "luck": -3.38,
   "position": 20,
-  "xposition": 15
+  "xposition": 16
  }
 ]
