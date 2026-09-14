@@ -8812,7 +8812,7 @@
   "round": 5,
   "home": "Villarreal",
   "away": "Real Betis",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 4,
    "goals": 1.5,
@@ -8839,8 +8839,8 @@
    "form": "WWLW",
    "possession_pct": 52.0
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 1,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 2.165,
   "pred_xg_away": 1.133,
