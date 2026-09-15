@@ -16,14 +16,14 @@
   "position": 2,
   "team": "Real Madrid",
   "fotmob_team_id": "8633",
-  "played": 5,
-  "won": 4,
+  "played": 6,
+  "won": 5,
   "drawn": 0,
   "lost": 1,
-  "gf": 14,
+  "gf": 16,
   "ga": 4,
-  "gd": 10,
-  "points": 12
+  "gd": 12,
+  "points": 15
  },
  {
   "position": 3,
@@ -42,13 +42,13 @@
   "position": 4,
   "team": "Deportivo Alav\u00e9s",
   "fotmob_team_id": "9866",
-  "played": 5,
+  "played": 6,
   "won": 3,
   "drawn": 1,
-  "lost": 1,
+  "lost": 2,
   "gf": 11,
-  "ga": 5,
-  "gd": 6,
+  "ga": 6,
+  "gd": 5,
   "points": 10
  },
  {
@@ -98,8 +98,8 @@
   "won": 2,
   "drawn": 1,
   "lost": 3,
-  "gf": 8,
-  "ga": 6,
+  "gf": 9,
+  "ga": 7,
   "gd": 2,
   "points": 7
  },
@@ -150,8 +150,8 @@
   "won": 2,
   "drawn": 1,
   "lost": 3,
-  "gf": 9,
-  "ga": 14,
+  "gf": 10,
+  "ga": 15,
   "gd": -5,
   "points": 7
  },
@@ -209,6 +209,19 @@
  },
  {
   "position": 17,
+  "team": "Valencia",
+  "fotmob_team_id": "10267",
+  "played": 6,
+  "won": 1,
+  "drawn": 1,
+  "lost": 4,
+  "gf": 2,
+  "ga": 10,
+  "gd": -8,
+  "points": 4
+ },
+ {
+  "position": 18,
   "team": "M\u00e1laga",
   "fotmob_team_id": "9864",
   "played": 5,
@@ -221,7 +234,7 @@
   "points": 3
  },
  {
-  "position": 18,
+  "position": 19,
   "team": "Villarreal",
   "fotmob_team_id": "10205",
   "played": 5,
@@ -234,29 +247,16 @@
   "points": 2
  },
  {
-  "position": 19,
+  "position": 20,
   "team": "Elche",
   "fotmob_team_id": "10268",
-  "played": 5,
+  "played": 6,
   "won": 0,
   "drawn": 2,
-  "lost": 3,
-  "gf": 6,
-  "ga": 13,
-  "gd": -7,
-  "points": 2
- },
- {
-  "position": 20,
-  "team": "Valencia",
-  "fotmob_team_id": "10267",
-  "played": 5,
-  "won": 0,
-  "drawn": 1,
   "lost": 4,
-  "gf": 1,
-  "ga": 10,
+  "gf": 6,
+  "ga": 15,
   "gd": -9,
-  "points": 1
+  "points": 2
  }
 ]
