@@ -94,13 +94,13 @@
   "position": 8,
   "team": "Espanyol",
   "fotmob_team_id": "8558",
-  "played": 5,
+  "played": 6,
   "won": 2,
   "drawn": 1,
-  "lost": 2,
+  "lost": 3,
   "gf": 8,
-  "ga": 5,
-  "gd": 3,
+  "ga": 6,
+  "gd": 2,
   "points": 7
  },
  {
@@ -144,6 +144,19 @@
  },
  {
   "position": 12,
+  "team": "Rayo Vallecano",
+  "fotmob_team_id": "8370",
+  "played": 6,
+  "won": 2,
+  "drawn": 1,
+  "lost": 3,
+  "gf": 9,
+  "ga": 14,
+  "gd": -5,
+  "points": 7
+ },
+ {
+  "position": 13,
   "team": "Real Sociedad",
   "fotmob_team_id": "8560",
   "played": 6,
@@ -156,7 +169,7 @@
   "points": 7
  },
  {
-  "position": 13,
+  "position": 14,
   "team": "Levante",
   "fotmob_team_id": "8581",
   "played": 5,
@@ -169,7 +182,7 @@
   "points": 5
  },
  {
-  "position": 14,
+  "position": 15,
   "team": "Getafe",
   "fotmob_team_id": "8305",
   "played": 5,
@@ -182,7 +195,7 @@
   "points": 5
  },
  {
-  "position": 15,
+  "position": 16,
   "team": "Celta Vigo",
   "fotmob_team_id": "9910",
   "played": 6,
@@ -192,19 +205,6 @@
   "gf": 3,
   "ga": 6,
   "gd": -3,
-  "points": 4
- },
- {
-  "position": 16,
-  "team": "Rayo Vallecano",
-  "fotmob_team_id": "8370",
-  "played": 5,
-  "won": 1,
-  "drawn": 1,
-  "lost": 3,
-  "gf": 8,
-  "ga": 14,
-  "gd": -6,
   "points": 4
  },
  {
