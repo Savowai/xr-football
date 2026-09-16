@@ -9520,7 +9520,7 @@
   "round": 6,
   "home": "Atl\u00e9tico Madrid",
   "away": "Osasuna",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 5,
    "goals": 2.0,
@@ -9547,8 +9547,8 @@
    "form": "DWWLL",
    "possession_pct": 50.0
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.726,
   "pred_xg_away": 1.115,
@@ -9669,7 +9669,7 @@
   "round": 6,
   "home": "Deportivo A Coru\u00f1a",
   "away": "Sevilla",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 5,
    "goals": 1.8,
@@ -9696,8 +9696,8 @@
    "form": "WWLDW",
    "possession_pct": 43.2
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.326,
   "pred_xg_away": 1.241,

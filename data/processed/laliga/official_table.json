@@ -40,6 +40,32 @@
  },
  {
   "position": 4,
+  "team": "Atl\u00e9tico Madrid",
+  "fotmob_team_id": "9906",
+  "played": 6,
+  "won": 3,
+  "drawn": 2,
+  "lost": 1,
+  "gf": 10,
+  "ga": 6,
+  "gd": 4,
+  "points": 11
+ },
+ {
+  "position": 5,
+  "team": "Sevilla",
+  "fotmob_team_id": "8302",
+  "played": 6,
+  "won": 3,
+  "drawn": 2,
+  "lost": 1,
+  "gf": 8,
+  "ga": 6,
+  "gd": 2,
+  "points": 11
+ },
+ {
+  "position": 6,
   "team": "Deportivo Alav\u00e9s",
   "fotmob_team_id": "9866",
   "played": 6,
@@ -52,46 +78,33 @@
   "points": 10
  },
  {
-  "position": 5,
-  "team": "Atl\u00e9tico Madrid",
-  "fotmob_team_id": "9906",
-  "played": 5,
-  "won": 3,
-  "drawn": 1,
-  "lost": 1,
-  "gf": 10,
-  "ga": 6,
-  "gd": 4,
-  "points": 10
- },
- {
-  "position": 6,
-  "team": "Sevilla",
-  "fotmob_team_id": "8302",
-  "played": 5,
-  "won": 3,
-  "drawn": 1,
-  "lost": 1,
-  "gf": 8,
-  "ga": 6,
-  "gd": 2,
-  "points": 10
- },
- {
   "position": 7,
   "team": "Deportivo A Coru\u00f1a",
   "fotmob_team_id": "9783",
-  "played": 5,
+  "played": 6,
   "won": 2,
-  "drawn": 3,
+  "drawn": 4,
   "lost": 0,
   "gf": 9,
   "ga": 6,
   "gd": 3,
-  "points": 9
+  "points": 10
  },
  {
   "position": 8,
+  "team": "Osasuna",
+  "fotmob_team_id": "8371",
+  "played": 6,
+  "won": 2,
+  "drawn": 2,
+  "lost": 2,
+  "gf": 5,
+  "ga": 8,
+  "gd": -3,
+  "points": 8
+ },
+ {
+  "position": 9,
   "team": "Espanyol",
   "fotmob_team_id": "8558",
   "played": 6,
@@ -104,7 +117,7 @@
   "points": 7
  },
  {
-  "position": 9,
+  "position": 10,
   "team": "Athletic Club",
   "fotmob_team_id": "8315",
   "played": 5,
@@ -117,7 +130,7 @@
   "points": 7
  },
  {
-  "position": 10,
+  "position": 11,
   "team": "Racing Santander",
   "fotmob_team_id": "8696",
   "played": 5,
@@ -127,19 +140,6 @@
   "gf": 9,
   "ga": 9,
   "gd": 0,
-  "points": 7
- },
- {
-  "position": 11,
-  "team": "Osasuna",
-  "fotmob_team_id": "8371",
-  "played": 5,
-  "won": 2,
-  "drawn": 1,
-  "lost": 2,
-  "gf": 5,
-  "ga": 8,
-  "gd": -3,
   "points": 7
  },
  {
