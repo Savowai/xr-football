@@ -51,7 +51,7 @@
   "xg_diff": -1.06,
   "luck": 7.02,
   "position": 3,
-  "xposition": 8
+  "xposition": 9
  },
  {
   "team": "Atl\u00e9tico Madrid",
@@ -69,7 +69,7 @@
   "xg_diff": 2.0,
   "luck": 4.98,
   "position": 4,
-  "xposition": 7
+  "xposition": 8
  },
  {
   "team": "Sevilla",
@@ -87,7 +87,7 @@
   "xg_diff": 1.24,
   "luck": 3.85,
   "position": 5,
-  "xposition": 4
+  "xposition": 5
  },
  {
   "team": "Deportivo Alav\u00e9s",
@@ -105,7 +105,7 @@
   "xg_diff": 2.8,
   "luck": -0.11,
   "position": 6,
-  "xposition": 3
+  "xposition": 4
  },
  {
   "team": "Deportivo A Coru\u00f1a",
@@ -141,7 +141,7 @@
   "xg_diff": -0.3,
   "luck": -1.55,
   "position": 8,
-  "xposition": 5
+  "xposition": 6
  },
  {
   "team": "Athletic Club",
@@ -159,7 +159,7 @@
   "xg_diff": 0.13,
   "luck": -0.96,
   "position": 9,
-  "xposition": 9
+  "xposition": 10
  },
  {
   "team": "Racing Santander",
@@ -231,7 +231,25 @@
   "xg_diff": -0.74,
   "luck": -1.44,
   "position": 13,
-  "xposition": 6
+  "xposition": 7
+ },
+ {
+  "team": "Villarreal",
+  "played": 6,
+  "won": 1,
+  "drawn": 2,
+  "lost": 3,
+  "gf": 10,
+  "ga": 11,
+  "gd": -1,
+  "points": 5,
+  "xg_for": 12.43,
+  "xg_against": 8.36,
+  "xpts": 10.36,
+  "xg_diff": 4.07,
+  "luck": -5.36,
+  "position": 14,
+  "xposition": 3
  },
  {
   "team": "Levante",
@@ -248,7 +266,7 @@
   "xpts": 6.22,
   "xg_diff": -0.68,
   "luck": -1.22,
-  "position": 14,
+  "position": 15,
   "xposition": 15
  },
  {
@@ -266,7 +284,7 @@
   "xpts": 5.08,
   "xg_diff": -4.3,
   "luck": -0.08,
-  "position": 15,
+  "position": 16,
   "xposition": 19
  },
  {
@@ -284,7 +302,7 @@
   "xpts": 6.2,
   "xg_diff": -3.74,
   "luck": -2.2,
-  "position": 16,
+  "position": 17,
   "xposition": 16
  },
  {
@@ -302,44 +320,26 @@
   "xpts": 5.87,
   "xg_diff": -4.47,
   "luck": -1.87,
-  "position": 17,
+  "position": 18,
   "xposition": 18
  },
  {
   "team": "M\u00e1laga",
-  "played": 5,
+  "played": 6,
   "won": 0,
   "drawn": 3,
-  "lost": 2,
-  "gf": 2,
-  "ga": 8,
-  "gd": -6,
-  "points": 3,
-  "xg_for": 4.6,
-  "xg_against": 6.33,
-  "xpts": 4.6,
-  "xg_diff": -1.73,
-  "luck": -1.6,
-  "position": 18,
-  "xposition": 20
- },
- {
-  "team": "Villarreal",
-  "played": 5,
-  "won": 0,
-  "drawn": 2,
   "lost": 3,
-  "gf": 7,
-  "ga": 10,
-  "gd": -3,
-  "points": 2,
-  "xg_for": 9.1,
-  "xg_against": 7.73,
-  "xpts": 7.65,
-  "xg_diff": 1.37,
-  "luck": -5.65,
+  "gf": 3,
+  "ga": 11,
+  "gd": -8,
+  "points": 3,
+  "xg_for": 5.23,
+  "xg_against": 9.66,
+  "xpts": 4.8,
+  "xg_diff": -4.43,
+  "luck": -1.8,
   "position": 19,
-  "xposition": 10
+  "xposition": 20
  },
  {
   "team": "Elche",
