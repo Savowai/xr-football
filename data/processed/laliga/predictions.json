@@ -10192,7 +10192,7 @@
   "round": 6,
   "home": "Real Betis",
   "away": "Getafe",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 5,
    "goals": 1.4,
@@ -10219,8 +10219,8 @@
    "form": "LWLDD",
    "possession_pct": 42.4
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.797,
   "pred_xg_away": 0.741,
