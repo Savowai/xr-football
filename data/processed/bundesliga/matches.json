@@ -870,7 +870,7 @@
   "season": "2026/2027",
   "round": 4,
   "date": "2026-09-18",
-  "kickoff_iso": "2026-09-18T18:30:00Z",
+  "kickoff_iso": "2026-09-18T18:30:00.000Z",
   "status": "scheduled",
   "status_detail": null,
   "minute": null,

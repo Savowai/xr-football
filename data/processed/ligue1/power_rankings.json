@@ -11,11 +11,11 @@
  },
  {
   "team": "Paris FC",
-  "attack": 1.058,
-  "defence": 0.81,
+  "attack": 1.057,
+  "defence": 0.811,
   "expected_gf_per_game": 1.33,
   "expected_ga_per_game": 1.02,
-  "net_rating": 0.311,
+  "net_rating": 0.31,
   "evidence_matches": 3.7,
   "rank": 2
  },
@@ -25,7 +25,7 @@
   "defence": 1.069,
   "expected_gf_per_game": 1.58,
   "expected_ga_per_game": 1.34,
-  "net_rating": 0.241,
+  "net_rating": 0.242,
   "evidence_matches": 3.7,
   "rank": 3
  },
@@ -65,13 +65,13 @@
   "defence": 0.971,
   "expected_gf_per_game": 1.4,
   "expected_ga_per_game": 1.22,
-  "net_rating": 0.18,
+  "net_rating": 0.179,
   "evidence_matches": 3.7,
   "rank": 7
  },
  {
   "team": "Toulouse",
-  "attack": 1.071,
+  "attack": 1.07,
   "defence": 0.972,
   "expected_gf_per_game": 1.34,
   "expected_ga_per_game": 1.22,
@@ -82,7 +82,7 @@
  {
   "team": "Rennes",
   "attack": 1.141,
-  "defence": 1.086,
+  "defence": 1.085,
   "expected_gf_per_game": 1.43,
   "expected_ga_per_game": 1.36,
   "net_rating": 0.07,
@@ -102,17 +102,17 @@
  {
   "team": "Strasbourg",
   "attack": 1.092,
-  "defence": 1.132,
+  "defence": 1.131,
   "expected_gf_per_game": 1.37,
   "expected_ga_per_game": 1.42,
-  "net_rating": -0.05,
+  "net_rating": -0.049,
   "evidence_matches": 3.7,
   "rank": 11
  },
  {
   "team": "Lorient",
-  "attack": 0.854,
-  "defence": 0.924,
+  "attack": 0.855,
+  "defence": 0.925,
   "expected_gf_per_game": 1.07,
   "expected_ga_per_game": 1.16,
   "net_rating": -0.088,
@@ -141,7 +141,7 @@
  },
  {
   "team": "Le Havre",
-  "attack": 0.761,
+  "attack": 0.762,
   "defence": 0.981,
   "expected_gf_per_game": 0.96,
   "expected_ga_per_game": 1.23,
@@ -165,17 +165,17 @@
   "defence": 1.065,
   "expected_gf_per_game": 0.89,
   "expected_ga_per_game": 1.34,
-  "net_rating": -0.449,
+  "net_rating": -0.448,
   "evidence_matches": 3.7,
   "rank": 17
  },
  {
   "team": "Auxerre",
   "attack": 0.886,
-  "defence": 1.267,
+  "defence": 1.266,
   "expected_gf_per_game": 1.11,
   "expected_ga_per_game": 1.59,
-  "net_rating": -0.478,
+  "net_rating": -0.477,
   "evidence_matches": 3.7,
   "rank": 18
  }
