@@ -27,6 +27,19 @@
  },
  {
   "position": 3,
+  "team": "Bayern M\u00fcnchen",
+  "fotmob_team_id": "9823",
+  "played": 4,
+  "won": 2,
+  "drawn": 2,
+  "lost": 0,
+  "gf": 7,
+  "ga": 2,
+  "gd": 5,
+  "points": 8
+ },
+ {
+  "position": 4,
   "team": "Augsburg",
   "fotmob_team_id": "8406",
   "played": 3,
@@ -36,19 +49,6 @@
   "gf": 9,
   "ga": 3,
   "gd": 6,
-  "points": 7
- },
- {
-  "position": 4,
-  "team": "Bayern M\u00fcnchen",
-  "fotmob_team_id": "9823",
-  "played": 3,
-  "won": 2,
-  "drawn": 1,
-  "lost": 0,
-  "gf": 7,
-  "ga": 2,
-  "gd": 5,
   "points": 7
  },
  {
@@ -183,6 +183,19 @@
  },
  {
   "position": 15,
+  "team": "Union Berlin",
+  "fotmob_team_id": "8149",
+  "played": 4,
+  "won": 0,
+  "drawn": 2,
+  "lost": 2,
+  "gf": 4,
+  "ga": 10,
+  "gd": -6,
+  "points": 2
+ },
+ {
+  "position": 16,
   "team": "Paderborn",
   "fotmob_team_id": "8460",
   "played": 3,
@@ -192,19 +205,6 @@
   "gf": 0,
   "ga": 4,
   "gd": -4,
-  "points": 1
- },
- {
-  "position": 16,
-  "team": "Union Berlin",
-  "fotmob_team_id": "8149",
-  "played": 3,
-  "won": 0,
-  "drawn": 1,
-  "lost": 2,
-  "gf": 4,
-  "ga": 10,
-  "gd": -6,
   "points": 1
  },
  {
