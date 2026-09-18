@@ -27,6 +27,19 @@
  },
  {
   "position": 3,
+  "team": "Brentford",
+  "fotmob_team_id": "9937",
+  "played": 5,
+  "won": 2,
+  "drawn": 3,
+  "lost": 0,
+  "gf": 10,
+  "ga": 4,
+  "gd": 6,
+  "points": 9
+ },
+ {
+  "position": 4,
   "team": "Leeds United",
   "fotmob_team_id": "8463",
   "played": 4,
@@ -39,7 +52,7 @@
   "points": 8
  },
  {
-  "position": 4,
+  "position": 5,
   "team": "Hull City",
   "fotmob_team_id": "8667",
   "played": 4,
@@ -52,7 +65,7 @@
   "points": 8
  },
  {
-  "position": 5,
+  "position": 6,
   "team": "Brighton",
   "fotmob_team_id": "10204",
   "played": 4,
@@ -65,30 +78,17 @@
   "points": 7
  },
  {
-  "position": 6,
+  "position": 7,
   "team": "Chelsea",
   "fotmob_team_id": "8455",
-  "played": 4,
+  "played": 5,
   "won": 2,
   "drawn": 1,
-  "lost": 1,
+  "lost": 2,
   "gf": 10,
-  "ga": 9,
-  "gd": 1,
+  "ga": 12,
+  "gd": -2,
   "points": 7
- },
- {
-  "position": 7,
-  "team": "Brentford",
-  "fotmob_team_id": "9937",
-  "played": 4,
-  "won": 1,
-  "drawn": 3,
-  "lost": 0,
-  "gf": 7,
-  "ga": 4,
-  "gd": 3,
-  "points": 6
  },
  {
   "position": 8,

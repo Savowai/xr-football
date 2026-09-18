@@ -92,19 +92,6 @@
  },
  {
   "position": 8,
-  "team": "Espanyol",
-  "fotmob_team_id": "8558",
-  "played": 6,
-  "won": 2,
-  "drawn": 1,
-  "lost": 3,
-  "gf": 9,
-  "ga": 7,
-  "gd": 2,
-  "points": 7
- },
- {
-  "position": 9,
   "team": "Athletic Club",
   "fotmob_team_id": "8315",
   "played": 5,
@@ -114,6 +101,19 @@
   "gf": 7,
   "ga": 6,
   "gd": 1,
+  "points": 7
+ },
+ {
+  "position": 9,
+  "team": "Espanyol",
+  "fotmob_team_id": "8558",
+  "played": 7,
+  "won": 2,
+  "drawn": 1,
+  "lost": 4,
+  "gf": 10,
+  "ga": 10,
+  "gd": 0,
   "points": 7
  },
  {
@@ -209,6 +209,19 @@
  },
  {
   "position": 17,
+  "team": "Elche",
+  "fotmob_team_id": "10268",
+  "played": 7,
+  "won": 1,
+  "drawn": 2,
+  "lost": 4,
+  "gf": 11,
+  "ga": 17,
+  "gd": -6,
+  "points": 5
+ },
+ {
+  "position": 18,
   "team": "Celta Vigo",
   "fotmob_team_id": "9910",
   "played": 6,
@@ -221,7 +234,7 @@
   "points": 4
  },
  {
-  "position": 18,
+  "position": 19,
   "team": "Valencia",
   "fotmob_team_id": "10267",
   "played": 6,
@@ -234,7 +247,7 @@
   "points": 4
  },
  {
-  "position": 19,
+  "position": 20,
   "team": "M\u00e1laga",
   "fotmob_team_id": "9864",
   "played": 6,
@@ -245,18 +258,5 @@
   "ga": 11,
   "gd": -8,
   "points": 3
- },
- {
-  "position": 20,
-  "team": "Elche",
-  "fotmob_team_id": "10268",
-  "played": 6,
-  "won": 0,
-  "drawn": 2,
-  "lost": 4,
-  "gf": 8,
-  "ga": 16,
-  "gd": -8,
-  "points": 2
  }
 ]

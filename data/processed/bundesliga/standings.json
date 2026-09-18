@@ -1,5 +1,23 @@
 [
  {
+  "team": "Bayern M\u00fcnchen",
+  "played": 4,
+  "won": 3,
+  "drawn": 1,
+  "lost": 0,
+  "gf": 14,
+  "ga": 2,
+  "gd": 12,
+  "points": 10,
+  "xg_for": 12.19,
+  "xg_against": 2.28,
+  "xpts": 10.48,
+  "xg_diff": 9.91,
+  "luck": -0.48,
+  "position": 1,
+  "xposition": 1
+ },
+ {
   "team": "Freiburg",
   "played": 3,
   "won": 3,
@@ -14,7 +32,7 @@
   "xpts": 6.91,
   "xg_diff": 4.45,
   "luck": 2.09,
-  "position": 1,
+  "position": 2,
   "xposition": 2
  },
  {
@@ -32,7 +50,7 @@
   "xpts": 5.57,
   "xg_diff": 2.01,
   "luck": 3.43,
-  "position": 2,
+  "position": 3,
   "xposition": 6
  },
  {
@@ -50,26 +68,8 @@
   "xpts": 3.57,
   "xg_diff": -0.78,
   "luck": 3.43,
-  "position": 3,
-  "xposition": 10
- },
- {
-  "team": "Bayern M\u00fcnchen",
-  "played": 3,
-  "won": 2,
-  "drawn": 1,
-  "lost": 0,
-  "gf": 7,
-  "ga": 2,
-  "gd": 5,
-  "points": 7,
-  "xg_for": 8.42,
-  "xg_against": 1.94,
-  "xpts": 7.61,
-  "xg_diff": 6.48,
-  "luck": -0.61,
   "position": 4,
-  "xposition": 1
+  "xposition": 10
  },
  {
   "team": "RB Leipzig",
@@ -105,7 +105,7 @@
   "xg_diff": -2.14,
   "luck": 3.06,
   "position": 6,
-  "xposition": 12
+  "xposition": 13
  },
  {
   "team": "Bayer Leverkusen",
@@ -271,21 +271,21 @@
  },
  {
   "team": "Union Berlin",
-  "played": 3,
+  "played": 4,
   "won": 0,
   "drawn": 1,
-  "lost": 2,
+  "lost": 3,
   "gf": 4,
-  "ga": 10,
-  "gd": -6,
+  "ga": 17,
+  "gd": -13,
   "points": 1,
-  "xg_for": 4.26,
-  "xg_against": 7.03,
-  "xpts": 2.94,
-  "xg_diff": -2.77,
-  "luck": -1.94,
+  "xg_for": 4.6,
+  "xg_against": 10.8,
+  "xpts": 3.02,
+  "xg_diff": -6.2,
+  "luck": -2.02,
   "position": 16,
-  "xposition": 13
+  "xposition": 12
  },
  {
   "team": "Borussia M\u00f6nchengladbach",

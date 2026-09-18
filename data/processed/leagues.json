@@ -5,14 +5,14 @@
   "country": "England",
   "season": "2026-27",
   "teams": 20,
-  "played": 40,
+  "played": 41,
   "matches": 380,
-  "current_round": 4,
+  "current_round": 5,
   "next_round": 5,
   "total_rounds": 38,
-  "xg_coverage": 40,
+  "xg_coverage": 41,
   "leader": "Arsenal",
-  "built_at": "2026-09-18T18:40:07.193411+00:00"
+  "built_at": "2026-09-18T21:18:11.385759+00:00"
  },
  {
   "key": "laliga",
@@ -20,14 +20,14 @@
   "country": "Spain",
   "season": "2026-27",
   "teams": 20,
-  "played": 59,
+  "played": 60,
   "matches": 380,
-  "current_round": 6,
+  "current_round": 7,
   "next_round": 6,
   "total_rounds": 38,
-  "xg_coverage": 58,
+  "xg_coverage": 59,
   "leader": "Barcelona",
-  "built_at": "2026-09-18T18:40:12.041030+00:00"
+  "built_at": "2026-09-18T21:18:19.070920+00:00"
  },
  {
   "key": "seriea",
@@ -35,14 +35,14 @@
   "country": "Italy",
   "season": "2026-27",
   "teams": 20,
-  "played": 40,
+  "played": 41,
   "matches": 380,
-  "current_round": 4,
+  "current_round": 5,
   "next_round": 5,
   "total_rounds": 38,
-  "xg_coverage": 40,
+  "xg_coverage": 41,
   "leader": "Roma",
-  "built_at": "2026-09-18T18:40:14.376340+00:00"
+  "built_at": "2026-09-18T21:18:24.245325+00:00"
  },
  {
   "key": "bundesliga",
@@ -50,14 +50,14 @@
   "country": "Germany",
   "season": "2026-27",
   "teams": 18,
-  "played": 27,
+  "played": 28,
   "matches": 306,
-  "current_round": 3,
+  "current_round": 4,
   "next_round": 4,
   "total_rounds": 34,
-  "xg_coverage": 27,
-  "leader": "Freiburg",
-  "built_at": "2026-09-18T18:40:16.711321+00:00"
+  "xg_coverage": 28,
+  "leader": "Bayern M\u00fcnchen",
+  "built_at": "2026-09-18T21:18:28.864111+00:00"
  },
  {
   "key": "ligue1",
@@ -65,13 +65,13 @@
   "country": "France",
   "season": "2026-27",
   "teams": 18,
-  "played": 36,
+  "played": 37,
   "matches": 306,
-  "current_round": 4,
+  "current_round": 5,
   "next_round": 5,
   "total_rounds": 34,
-  "xg_coverage": 36,
-  "leader": "Lille",
-  "built_at": "2026-09-18T18:40:19.099820+00:00"
+  "xg_coverage": 37,
+  "leader": "Monaco",
+  "built_at": "2026-09-18T21:18:33.407747+00:00"
  }
 ]

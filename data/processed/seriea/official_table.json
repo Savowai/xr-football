@@ -107,13 +107,13 @@
   "position": 9,
   "team": "Sassuolo",
   "fotmob_team_id": "7943",
-  "played": 4,
+  "played": 5,
   "won": 2,
   "drawn": 1,
-  "lost": 1,
-  "gf": 8,
-  "ga": 7,
-  "gd": 1,
+  "lost": 2,
+  "gf": 9,
+  "ga": 9,
+  "gd": 0,
   "points": 7
  },
  {
@@ -170,6 +170,19 @@
  },
  {
   "position": 14,
+  "team": "Monza",
+  "fotmob_team_id": "6504",
+  "played": 5,
+  "won": 1,
+  "drawn": 1,
+  "lost": 3,
+  "gf": 8,
+  "ga": 12,
+  "gd": -4,
+  "points": 4
+ },
+ {
+  "position": 15,
   "team": "Torino",
   "fotmob_team_id": "9804",
   "played": 4,
@@ -182,7 +195,7 @@
   "points": 3
  },
  {
-  "position": 15,
+  "position": 16,
   "team": "Fiorentina",
   "fotmob_team_id": "8535",
   "played": 4,
@@ -195,7 +208,7 @@
   "points": 3
  },
  {
-  "position": 16,
+  "position": 17,
   "team": "Bologna",
   "fotmob_team_id": "9857",
   "played": 4,
@@ -208,7 +221,7 @@
   "points": 1
  },
  {
-  "position": 17,
+  "position": 18,
   "team": "Parma",
   "fotmob_team_id": "10167",
   "played": 4,
@@ -218,19 +231,6 @@
   "gf": 2,
   "ga": 6,
   "gd": -4,
-  "points": 1
- },
- {
-  "position": 18,
-  "team": "Monza",
-  "fotmob_team_id": "6504",
-  "played": 4,
-  "won": 0,
-  "drawn": 1,
-  "lost": 3,
-  "gf": 6,
-  "ga": 11,
-  "gd": -5,
   "points": 1
  },
  {

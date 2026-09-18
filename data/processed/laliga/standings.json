@@ -29,9 +29,9 @@
   "points": 15,
   "xg_for": 18.23,
   "xg_against": 5.32,
-  "xpts": 15.02,
+  "xpts": 15.03,
   "xg_diff": 12.91,
-  "luck": -0.02,
+  "luck": -0.03,
   "position": 2,
   "xposition": 2
  },
@@ -87,7 +87,7 @@
   "xg_diff": 1.24,
   "luck": 3.85,
   "position": 5,
-  "xposition": 5
+  "xposition": 6
  },
  {
   "team": "Deportivo Alav\u00e9s",
@@ -126,24 +126,6 @@
   "xposition": 17
  },
  {
-  "team": "Espanyol",
-  "played": 6,
-  "won": 2,
-  "drawn": 1,
-  "lost": 3,
-  "gf": 9,
-  "ga": 7,
-  "gd": 2,
-  "points": 7,
-  "xg_for": 7.4,
-  "xg_against": 7.7,
-  "xpts": 8.55,
-  "xg_diff": -0.3,
-  "luck": -1.55,
-  "position": 8,
-  "xposition": 6
- },
- {
   "team": "Athletic Club",
   "played": 5,
   "won": 2,
@@ -158,8 +140,26 @@
   "xpts": 7.96,
   "xg_diff": 0.13,
   "luck": -0.96,
+  "position": 8,
+  "xposition": 11
+ },
+ {
+  "team": "Espanyol",
+  "played": 7,
+  "won": 2,
+  "drawn": 1,
+  "lost": 4,
+  "gf": 10,
+  "ga": 10,
+  "gd": 0,
+  "points": 7,
+  "xg_for": 8.45,
+  "xg_against": 9.14,
+  "xpts": 9.64,
+  "xg_diff": -0.69,
+  "luck": -2.64,
   "position": 9,
-  "xposition": 10
+  "xposition": 5
  },
  {
   "team": "Racing Santander",
@@ -177,7 +177,7 @@
   "xg_diff": -4.54,
   "luck": -0.15,
   "position": 10,
-  "xposition": 11
+  "xposition": 12
  },
  {
   "team": "Rayo Vallecano",
@@ -191,9 +191,9 @@
   "points": 7,
   "xg_for": 7.78,
   "xg_against": 11.9,
-  "xpts": 6.23,
+  "xpts": 6.24,
   "xg_diff": -4.12,
-  "luck": 0.77,
+  "luck": 0.76,
   "position": 11,
   "xposition": 14
  },
@@ -288,6 +288,24 @@
   "xposition": 19
  },
  {
+  "team": "Elche",
+  "played": 7,
+  "won": 1,
+  "drawn": 2,
+  "lost": 4,
+  "gf": 11,
+  "ga": 17,
+  "gd": -6,
+  "points": 5,
+  "xg_for": 8.56,
+  "xg_against": 14.05,
+  "xpts": 7.98,
+  "xg_diff": -5.49,
+  "luck": -2.98,
+  "position": 17,
+  "xposition": 10
+ },
+ {
   "team": "Celta Vigo",
   "played": 6,
   "won": 0,
@@ -302,7 +320,7 @@
   "xpts": 6.2,
   "xg_diff": -3.74,
   "luck": -2.2,
-  "position": 17,
+  "position": 18,
   "xposition": 16
  },
  {
@@ -320,7 +338,7 @@
   "xpts": 5.87,
   "xg_diff": -4.47,
   "luck": -1.87,
-  "position": 18,
+  "position": 19,
   "xposition": 18
  },
  {
@@ -338,25 +356,7 @@
   "xpts": 4.8,
   "xg_diff": -4.43,
   "luck": -1.8,
-  "position": 19,
-  "xposition": 20
- },
- {
-  "team": "Elche",
-  "played": 6,
-  "won": 0,
-  "drawn": 2,
-  "lost": 4,
-  "gf": 8,
-  "ga": 16,
-  "gd": -8,
-  "points": 2,
-  "xg_for": 7.12,
-  "xg_against": 13.0,
-  "xpts": 6.33,
-  "xg_diff": -5.88,
-  "luck": -4.33,
   "position": 20,
-  "xposition": 12
+  "xposition": 20
  }
 ]

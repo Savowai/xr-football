@@ -33,6 +33,24 @@
   "xg_diff": 3.94,
   "luck": 4.1,
   "position": 2,
+  "xposition": 3
+ },
+ {
+  "team": "Brentford",
+  "played": 5,
+  "won": 2,
+  "drawn": 3,
+  "lost": 0,
+  "gf": 10,
+  "ga": 4,
+  "gd": 6,
+  "points": 9,
+  "xg_for": 9.9,
+  "xg_against": 6.77,
+  "xpts": 8.12,
+  "xg_diff": 3.13,
+  "luck": 0.88,
+  "position": 3,
   "xposition": 2
  },
  {
@@ -50,8 +68,8 @@
   "xpts": 5.94,
   "xg_diff": 0.96,
   "luck": 2.06,
-  "position": 3,
-  "xposition": 9
+  "position": 4,
+  "xposition": 10
  },
  {
   "team": "Hull City",
@@ -68,7 +86,7 @@
   "xpts": 3.99,
   "xg_diff": -2.15,
   "luck": 4.01,
-  "position": 4,
+  "position": 5,
   "xposition": 16
  },
  {
@@ -86,44 +104,26 @@
   "xpts": 6.85,
   "xg_diff": 2.96,
   "luck": 0.15,
-  "position": 5,
-  "xposition": 3
+  "position": 6,
+  "xposition": 4
  },
  {
   "team": "Chelsea",
-  "played": 4,
+  "played": 5,
   "won": 2,
   "drawn": 1,
-  "lost": 1,
+  "lost": 2,
   "gf": 10,
-  "ga": 9,
-  "gd": 1,
+  "ga": 12,
+  "gd": -2,
   "points": 7,
-  "xg_for": 6.45,
-  "xg_against": 6.28,
-  "xpts": 5.38,
-  "xg_diff": 0.17,
-  "luck": 1.62,
-  "position": 6,
-  "xposition": 12
- },
- {
-  "team": "Brentford",
-  "played": 4,
-  "won": 1,
-  "drawn": 3,
-  "lost": 0,
-  "gf": 7,
-  "ga": 4,
-  "gd": 3,
-  "points": 6,
-  "xg_for": 7.25,
-  "xg_against": 5.92,
-  "xpts": 5.72,
-  "xg_diff": 1.33,
-  "luck": 0.28,
+  "xg_for": 7.3,
+  "xg_against": 8.93,
+  "xpts": 5.8,
+  "xg_diff": -1.63,
+  "luck": 1.2,
   "position": 7,
-  "xposition": 10
+  "xposition": 11
  },
  {
   "team": "Liverpool",
@@ -141,7 +141,7 @@
   "xg_diff": 1.21,
   "luck": -0.1,
   "position": 8,
-  "xposition": 7
+  "xposition": 8
  },
  {
   "team": "Everton",
@@ -177,7 +177,7 @@
   "xg_diff": -0.46,
   "luck": 0.01,
   "position": 10,
-  "xposition": 8
+  "xposition": 9
  },
  {
   "team": "Nottingham Forest",
@@ -195,7 +195,7 @@
   "xg_diff": 1.7,
   "luck": -1.45,
   "position": 11,
-  "xposition": 5
+  "xposition": 6
  },
  {
   "team": "Newcastle United",
@@ -231,7 +231,7 @@
   "xg_diff": 3.17,
   "luck": -2.74,
   "position": 13,
-  "xposition": 4
+  "xposition": 5
  },
  {
   "team": "Sunderland",
@@ -249,7 +249,7 @@
   "xg_diff": 0.1,
   "luck": -1.53,
   "position": 14,
-  "xposition": 11
+  "xposition": 12
  },
  {
   "team": "Bournemouth",
@@ -267,7 +267,7 @@
   "xg_diff": 1.06,
   "luck": -3.28,
   "position": 15,
-  "xposition": 6
+  "xposition": 7
  },
  {
   "team": "Crystal Palace",

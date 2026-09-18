@@ -1,6 +1,19 @@
 [
  {
   "position": 1,
+  "team": "Monaco",
+  "fotmob_team_id": "9829",
+  "played": 5,
+  "won": 4,
+  "drawn": 1,
+  "lost": 0,
+  "gf": 8,
+  "ga": 3,
+  "gd": 5,
+  "points": 13
+ },
+ {
+  "position": 2,
   "team": "Lille",
   "fotmob_team_id": "8639",
   "played": 4,
@@ -10,19 +23,6 @@
   "gf": 7,
   "ga": 2,
   "gd": 5,
-  "points": 10
- },
- {
-  "position": 2,
-  "team": "Monaco",
-  "fotmob_team_id": "9829",
-  "played": 4,
-  "won": 3,
-  "drawn": 1,
-  "lost": 0,
-  "gf": 6,
-  "ga": 2,
-  "gd": 4,
   "points": 10
  },
  {
@@ -120,13 +120,13 @@
   "position": 10,
   "team": "Lens",
   "fotmob_team_id": "8588",
-  "played": 4,
+  "played": 5,
   "won": 1,
   "drawn": 1,
-  "lost": 2,
-  "gf": 8,
-  "ga": 7,
-  "gd": 1,
+  "lost": 3,
+  "gf": 9,
+  "ga": 9,
+  "gd": 0,
   "points": 4
  },
  {
