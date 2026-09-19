@@ -6731,7 +6731,7 @@
   "round": 5,
   "home": "Angers",
   "away": "Troyes",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 4,
    "goals": 1.0,
@@ -6758,8 +6758,8 @@
    "form": "DWLL",
    "possession_pct": 39.0
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 1,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.547,
   "pred_xg_away": 1.129,
@@ -6895,7 +6895,7 @@
   "round": 5,
   "home": "Le Mans",
   "away": "Lorient",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 4,
    "goals": 1.75,
@@ -6922,8 +6922,8 @@
    "form": "DLWD",
    "possession_pct": 47.8
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 1,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.388,
   "pred_xg_away": 1.275,
@@ -7044,7 +7044,7 @@
   "round": 5,
   "home": "Lyon",
   "away": "Rennes",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 4,
    "goals": 1.5,
@@ -7071,8 +7071,8 @@
    "form": "DWWW",
    "possession_pct": 50.0
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 2,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.837,
   "pred_xg_away": 1.189,
@@ -7194,7 +7194,7 @@
   "round": 5,
   "home": "Toulouse",
   "away": "Le Havre",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 4,
    "goals": 1.0,
@@ -7221,8 +7221,8 @@
    "form": "LDLD",
    "possession_pct": 48.8
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.613,
   "pred_xg_away": 1.034,

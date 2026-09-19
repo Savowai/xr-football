@@ -1,39 +1,39 @@
 [
  {
   "team": "Roma",
-  "played": 4,
+  "played": 5,
   "won": 4,
-  "drawn": 0,
+  "drawn": 1,
   "lost": 0,
-  "gf": 12,
-  "ga": 1,
+  "gf": 14,
+  "ga": 3,
   "gd": 11,
-  "points": 12,
-  "xg_for": 11.22,
-  "xg_against": 2.72,
-  "xpts": 10.09,
-  "xg_diff": 8.5,
-  "luck": 1.91,
+  "points": 13,
+  "xg_for": 12.91,
+  "xg_against": 5.09,
+  "xpts": 11.11,
+  "xg_diff": 7.82,
+  "luck": 1.89,
   "position": 1,
   "xposition": 1
  },
  {
   "team": "Inter",
-  "played": 4,
+  "played": 5,
   "won": 4,
-  "drawn": 0,
+  "drawn": 1,
   "lost": 0,
-  "gf": 13,
-  "ga": 6,
+  "gf": 15,
+  "ga": 8,
   "gd": 7,
-  "points": 12,
-  "xg_for": 11.69,
-  "xg_against": 5.04,
-  "xpts": 8.68,
-  "xg_diff": 6.65,
-  "luck": 3.32,
+  "points": 13,
+  "xg_for": 14.06,
+  "xg_against": 6.73,
+  "xpts": 10.47,
+  "xg_diff": 7.33,
+  "luck": 2.53,
   "position": 2,
-  "xposition": 4
+  "xposition": 2
  },
  {
   "team": "Cagliari",
@@ -141,7 +141,7 @@
   "xg_diff": 4.69,
   "luck": -1.85,
   "position": 8,
-  "xposition": 3
+  "xposition": 4
  },
  {
   "team": "Sassuolo",
@@ -267,7 +267,7 @@
   "xg_diff": 3.47,
   "luck": -5.13,
   "position": 15,
-  "xposition": 2
+  "xposition": 3
  },
  {
   "team": "Fiorentina",

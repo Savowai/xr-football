@@ -3,14 +3,14 @@
   "position": 1,
   "team": "Barcelona",
   "fotmob_team_id": "8634",
-  "played": 6,
+  "played": 7,
   "won": 6,
-  "drawn": 0,
+  "drawn": 1,
   "lost": 0,
-  "gf": 28,
-  "ga": 6,
+  "gf": 29,
+  "ga": 7,
   "gd": 22,
-  "points": 18
+  "points": 19
  },
  {
   "position": 2,
@@ -40,6 +40,19 @@
  },
  {
   "position": 4,
+  "team": "Sevilla",
+  "fotmob_team_id": "8302",
+  "played": 7,
+  "won": 4,
+  "drawn": 2,
+  "lost": 1,
+  "gf": 10,
+  "ga": 7,
+  "gd": 3,
+  "points": 14
+ },
+ {
+  "position": 5,
   "team": "Atl\u00e9tico Madrid",
   "fotmob_team_id": "9906",
   "played": 6,
@@ -49,19 +62,6 @@
   "gf": 14,
   "ga": 6,
   "gd": 8,
-  "points": 13
- },
- {
-  "position": 5,
-  "team": "Sevilla",
-  "fotmob_team_id": "8302",
-  "played": 6,
-  "won": 4,
-  "drawn": 1,
-  "lost": 1,
-  "gf": 9,
-  "ga": 6,
-  "gd": 3,
   "points": 13
  },
  {
@@ -131,6 +131,19 @@
  },
  {
   "position": 11,
+  "team": "Celta Vigo",
+  "fotmob_team_id": "9910",
+  "played": 7,
+  "won": 1,
+  "drawn": 4,
+  "lost": 2,
+  "gf": 8,
+  "ga": 6,
+  "gd": 2,
+  "points": 7
+ },
+ {
+  "position": 12,
   "team": "Espanyol",
   "fotmob_team_id": "8558",
   "played": 7,
@@ -140,19 +153,6 @@
   "gf": 10,
   "ga": 10,
   "gd": 0,
-  "points": 7
- },
- {
-  "position": 12,
-  "team": "Celta Vigo",
-  "fotmob_team_id": "9910",
-  "played": 7,
-  "won": 1,
-  "drawn": 4,
-  "lost": 2,
-  "gf": 5,
-  "ga": 6,
-  "gd": -1,
   "points": 7
  },
  {
@@ -177,8 +177,8 @@
   "drawn": 1,
   "lost": 4,
   "gf": 11,
-  "ga": 18,
-  "gd": -7,
+  "ga": 21,
+  "gd": -10,
   "points": 7
  },
  {

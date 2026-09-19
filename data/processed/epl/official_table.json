@@ -131,19 +131,6 @@
  },
  {
   "position": 11,
-  "team": "Nottingham Forest",
-  "fotmob_team_id": "10203",
-  "played": 5,
-  "won": 1,
-  "drawn": 3,
-  "lost": 1,
-  "gf": 4,
-  "ga": 4,
-  "gd": 0,
-  "points": 6
- },
- {
-  "position": 12,
   "team": "Ipswich Town",
   "fotmob_team_id": "9902",
   "played": 5,
@@ -154,6 +141,19 @@
   "ga": 11,
   "gd": -4,
   "points": 6
+ },
+ {
+  "position": 12,
+  "team": "Nottingham Forest",
+  "fotmob_team_id": "10203",
+  "played": 5,
+  "won": 1,
+  "drawn": 2,
+  "lost": 2,
+  "gf": 4,
+  "ga": 5,
+  "gd": -1,
+  "points": 5
  },
  {
   "position": 13,
@@ -222,6 +222,19 @@
  },
  {
   "position": 18,
+  "team": "Coventry City",
+  "fotmob_team_id": "8669",
+  "played": 5,
+  "won": 1,
+  "drawn": 0,
+  "lost": 4,
+  "gf": 1,
+  "ga": 10,
+  "gd": -9,
+  "points": 3
+ },
+ {
+  "position": 19,
   "team": "Tottenham Hotspur",
   "fotmob_team_id": "8586",
   "played": 5,
@@ -234,7 +247,7 @@
   "points": 2
  },
  {
-  "position": 19,
+  "position": 20,
   "team": "Fulham",
   "fotmob_team_id": "9879",
   "played": 4,
@@ -244,19 +257,6 @@
   "gf": 4,
   "ga": 7,
   "gd": -3,
-  "points": 1
- },
- {
-  "position": 20,
-  "team": "Coventry City",
-  "fotmob_team_id": "8669",
-  "played": 5,
-  "won": 0,
-  "drawn": 1,
-  "lost": 4,
-  "gf": 0,
-  "ga": 10,
-  "gd": -10,
   "points": 1
  }
 ]

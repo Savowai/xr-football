@@ -4,13 +4,13 @@
   "team": "Roma",
   "fotmob_team_id": "8686",
   "played": 5,
-  "won": 5,
-  "drawn": 0,
+  "won": 4,
+  "drawn": 1,
   "lost": 0,
   "gf": 14,
-  "ga": 2,
-  "gd": 12,
-  "points": 15
+  "ga": 3,
+  "gd": 11,
+  "points": 13
  },
  {
   "position": 2,
@@ -18,12 +18,12 @@
   "fotmob_team_id": "8636",
   "played": 5,
   "won": 4,
-  "drawn": 0,
-  "lost": 1,
-  "gf": 14,
+  "drawn": 1,
+  "lost": 0,
+  "gf": 15,
   "ga": 8,
-  "gd": 6,
-  "points": 12
+  "gd": 7,
+  "points": 13
  },
  {
   "position": 3,
@@ -40,6 +40,19 @@
  },
  {
   "position": 4,
+  "team": "Lazio",
+  "fotmob_team_id": "8543",
+  "played": 5,
+  "won": 3,
+  "drawn": 2,
+  "lost": 0,
+  "gf": 6,
+  "ga": 3,
+  "gd": 3,
+  "points": 11
+ },
+ {
+  "position": 5,
   "team": "Como",
   "fotmob_team_id": "10171",
   "played": 4,
@@ -49,19 +62,6 @@
   "gf": 9,
   "ga": 4,
   "gd": 5,
-  "points": 10
- },
- {
-  "position": 5,
-  "team": "Lazio",
-  "fotmob_team_id": "8543",
-  "played": 4,
-  "won": 3,
-  "drawn": 1,
-  "lost": 0,
-  "gf": 6,
-  "ga": 3,
-  "gd": 3,
   "points": 10
  },
  {
@@ -250,13 +250,13 @@
   "position": 20,
   "team": "Venezia",
   "fotmob_team_id": "7881",
-  "played": 4,
+  "played": 5,
   "won": 0,
-  "drawn": 0,
+  "drawn": 1,
   "lost": 4,
   "gf": 4,
   "ga": 11,
   "gd": -7,
-  "points": 0
+  "points": 1
  }
 ]
