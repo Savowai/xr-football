@@ -36,6 +36,24 @@
   "xposition": 4
  },
  {
+  "team": "Cagliari",
+  "played": 5,
+  "won": 4,
+  "drawn": 0,
+  "lost": 1,
+  "gf": 5,
+  "ga": 2,
+  "gd": 3,
+  "points": 12,
+  "xg_for": 5.0,
+  "xg_against": 8.06,
+  "xpts": 5.85,
+  "xg_diff": -3.06,
+  "luck": 6.15,
+  "position": 3,
+  "xposition": 11
+ },
+ {
   "team": "Como",
   "played": 4,
   "won": 3,
@@ -50,8 +68,8 @@
   "xpts": 6.65,
   "xg_diff": 2.04,
   "luck": 3.35,
-  "position": 3,
-  "xposition": 8
+  "position": 4,
+  "xposition": 9
  },
  {
   "team": "Lazio",
@@ -68,26 +86,8 @@
   "xpts": 7.02,
   "xg_diff": 2.14,
   "luck": 2.98,
-  "position": 4,
-  "xposition": 7
- },
- {
-  "team": "Cagliari",
-  "played": 4,
-  "won": 3,
-  "drawn": 0,
-  "lost": 1,
-  "gf": 4,
-  "ga": 2,
-  "gd": 2,
-  "points": 9,
-  "xg_for": 3.88,
-  "xg_against": 6.14,
-  "xpts": 4.96,
-  "xg_diff": -2.26,
-  "luck": 4.04,
   "position": 5,
-  "xposition": 12
+  "xposition": 8
  },
  {
   "team": "Milan",
@@ -105,7 +105,7 @@
   "xg_diff": -0.17,
   "luck": 2.7,
   "position": 6,
-  "xposition": 11
+  "xposition": 13
  },
  {
   "team": "Frosinone",
@@ -123,7 +123,7 @@
   "xg_diff": -2.97,
   "luck": 3.18,
   "position": 7,
-  "xposition": 14
+  "xposition": 16
  },
  {
   "team": "Juventus",
@@ -177,7 +177,7 @@
   "xg_diff": 0.57,
   "luck": -0.31,
   "position": 10,
-  "xposition": 9
+  "xposition": 10
  },
  {
   "team": "Atalanta",
@@ -217,21 +217,39 @@
  },
  {
   "team": "Udinese",
-  "played": 4,
+  "played": 5,
   "won": 1,
   "drawn": 1,
-  "lost": 2,
+  "lost": 3,
   "gf": 8,
-  "ga": 10,
-  "gd": -2,
+  "ga": 11,
+  "gd": -3,
   "points": 4,
-  "xg_for": 4.78,
-  "xg_against": 8.2,
-  "xpts": 3.7,
-  "xg_diff": -3.42,
-  "luck": 0.3,
+  "xg_for": 6.7,
+  "xg_against": 9.32,
+  "xpts": 5.61,
+  "xg_diff": -2.62,
+  "luck": -1.61,
   "position": 13,
-  "xposition": 15
+  "xposition": 12
+ },
+ {
+  "team": "Torino",
+  "played": 5,
+  "won": 1,
+  "drawn": 1,
+  "lost": 3,
+  "gf": 5,
+  "ga": 8,
+  "gd": -3,
+  "points": 4,
+  "xg_for": 4.91,
+  "xg_against": 8.22,
+  "xpts": 4.82,
+  "xg_diff": -3.31,
+  "luck": -0.82,
+  "position": 14,
+  "xposition": 14
  },
  {
   "team": "Monza",
@@ -248,26 +266,8 @@
   "xpts": 9.13,
   "xg_diff": 3.47,
   "luck": -5.13,
-  "position": 14,
-  "xposition": 2
- },
- {
-  "team": "Torino",
-  "played": 4,
-  "won": 1,
-  "drawn": 0,
-  "lost": 3,
-  "gf": 4,
-  "ga": 7,
-  "gd": -3,
-  "points": 3,
-  "xg_for": 4.0,
-  "xg_against": 7.58,
-  "xpts": 3.25,
-  "xg_diff": -3.58,
-  "luck": -0.25,
   "position": 15,
-  "xposition": 17
+  "xposition": 2
  },
  {
   "team": "Fiorentina",
@@ -285,25 +285,25 @@
   "xg_diff": 2.17,
   "luck": -4.08,
   "position": 16,
-  "xposition": 6
+  "xposition": 7
  },
  {
   "team": "Bologna",
-  "played": 4,
+  "played": 5,
   "won": 0,
-  "drawn": 1,
+  "drawn": 2,
   "lost": 3,
-  "gf": 2,
-  "ga": 5,
+  "gf": 3,
+  "ga": 6,
   "gd": -3,
-  "points": 1,
-  "xg_for": 4.96,
-  "xg_against": 4.21,
-  "xpts": 6.23,
-  "xg_diff": 0.75,
-  "luck": -5.23,
+  "points": 2,
+  "xg_for": 5.6,
+  "xg_against": 5.12,
+  "xpts": 7.33,
+  "xg_diff": 0.48,
+  "luck": -5.33,
   "position": 17,
-  "xposition": 10
+  "xposition": 6
  },
  {
   "team": "Parma",
@@ -339,7 +339,7 @@
   "xg_diff": -2.39,
   "luck": -2.83,
   "position": 19,
-  "xposition": 13
+  "xposition": 15
  },
  {
   "team": "Venezia",
@@ -357,6 +357,6 @@
   "xg_diff": -4.57,
   "luck": -3.38,
   "position": 20,
-  "xposition": 16
+  "xposition": 17
  }
 ]
