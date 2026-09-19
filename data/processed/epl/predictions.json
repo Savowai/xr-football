@@ -7262,7 +7262,7 @@
   "round": 5,
   "home": "Tottenham Hotspur",
   "away": "Aston Villa",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 4,
    "goals": 0.0,
@@ -7289,8 +7289,8 @@
    "form": "LLDL",
    "possession_pct": 48.2
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.117,
   "pred_xg_away": 1.036,

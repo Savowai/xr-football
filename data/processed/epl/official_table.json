@@ -211,17 +211,30 @@
   "position": 17,
   "team": "Tottenham Hotspur",
   "fotmob_team_id": "8586",
-  "played": 4,
+  "played": 5,
   "won": 0,
-  "drawn": 2,
+  "drawn": 3,
   "lost": 2,
   "gf": 0,
   "ga": 5,
   "gd": -5,
-  "points": 2
+  "points": 3
  },
  {
   "position": 18,
+  "team": "Aston Villa",
+  "fotmob_team_id": "10252",
+  "played": 5,
+  "won": 0,
+  "drawn": 2,
+  "lost": 3,
+  "gf": 1,
+  "ga": 7,
+  "gd": -6,
+  "points": 2
+ },
+ {
+  "position": 19,
   "team": "Fulham",
   "fotmob_team_id": "9879",
   "played": 4,
@@ -231,19 +244,6 @@
   "gf": 4,
   "ga": 7,
   "gd": -3,
-  "points": 1
- },
- {
-  "position": 19,
-  "team": "Aston Villa",
-  "fotmob_team_id": "10252",
-  "played": 4,
-  "won": 0,
-  "drawn": 1,
-  "lost": 3,
-  "gf": 1,
-  "ga": 7,
-  "gd": -6,
   "points": 1
  },
  {
