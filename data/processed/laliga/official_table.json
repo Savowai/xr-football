@@ -4,13 +4,13 @@
   "team": "Barcelona",
   "fotmob_team_id": "8634",
   "played": 7,
-  "won": 6,
-  "drawn": 1,
+  "won": 7,
+  "drawn": 0,
   "lost": 0,
-  "gf": 29,
+  "gf": 31,
   "ga": 7,
-  "gd": 22,
-  "points": 19
+  "gd": 24,
+  "points": 21
  },
  {
   "position": 2,
@@ -40,19 +40,6 @@
  },
  {
   "position": 4,
-  "team": "Sevilla",
-  "fotmob_team_id": "8302",
-  "played": 7,
-  "won": 4,
-  "drawn": 2,
-  "lost": 1,
-  "gf": 10,
-  "ga": 7,
-  "gd": 3,
-  "points": 14
- },
- {
-  "position": 5,
   "team": "Atl\u00e9tico Madrid",
   "fotmob_team_id": "9906",
   "played": 6,
@@ -62,6 +49,19 @@
   "gf": 14,
   "ga": 6,
   "gd": 8,
+  "points": 13
+ },
+ {
+  "position": 5,
+  "team": "Sevilla",
+  "fotmob_team_id": "8302",
+  "played": 7,
+  "won": 4,
+  "drawn": 1,
+  "lost": 2,
+  "gf": 10,
+  "ga": 9,
+  "gd": 1,
   "points": 13
  },
  {

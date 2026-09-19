@@ -27,6 +27,19 @@
  },
  {
   "position": 3,
+  "team": "Lazio",
+  "fotmob_team_id": "8543",
+  "played": 5,
+  "won": 4,
+  "drawn": 1,
+  "lost": 0,
+  "gf": 8,
+  "ga": 3,
+  "gd": 5,
+  "points": 13
+ },
+ {
+  "position": 4,
   "team": "Cagliari",
   "fotmob_team_id": "8529",
   "played": 5,
@@ -37,19 +50,6 @@
   "ga": 2,
   "gd": 3,
   "points": 12
- },
- {
-  "position": 4,
-  "team": "Lazio",
-  "fotmob_team_id": "8543",
-  "played": 5,
-  "won": 3,
-  "drawn": 2,
-  "lost": 0,
-  "gf": 6,
-  "ga": 3,
-  "gd": 3,
-  "points": 11
  },
  {
   "position": 5,
@@ -252,11 +252,11 @@
   "fotmob_team_id": "7881",
   "played": 5,
   "won": 0,
-  "drawn": 1,
-  "lost": 4,
+  "drawn": 0,
+  "lost": 5,
   "gf": 4,
-  "ga": 11,
-  "gd": -7,
-  "points": 1
+  "ga": 13,
+  "gd": -9,
+  "points": 0
  }
 ]
