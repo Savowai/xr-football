@@ -27,6 +27,19 @@
  },
  {
   "position": 3,
+  "team": "Cagliari",
+  "fotmob_team_id": "8529",
+  "played": 5,
+  "won": 4,
+  "drawn": 0,
+  "lost": 1,
+  "gf": 5,
+  "ga": 2,
+  "gd": 3,
+  "points": 12
+ },
+ {
+  "position": 4,
   "team": "Como",
   "fotmob_team_id": "10171",
   "played": 4,
@@ -39,7 +52,7 @@
   "points": 10
  },
  {
-  "position": 4,
+  "position": 5,
   "team": "Lazio",
   "fotmob_team_id": "8543",
   "played": 4,
@@ -50,19 +63,6 @@
   "ga": 3,
   "gd": 3,
   "points": 10
- },
- {
-  "position": 5,
-  "team": "Cagliari",
-  "fotmob_team_id": "8529",
-  "played": 4,
-  "won": 3,
-  "drawn": 0,
-  "lost": 1,
-  "gf": 4,
-  "ga": 2,
-  "gd": 2,
-  "points": 9
  },
  {
   "position": 6,
@@ -159,17 +159,30 @@
   "position": 13,
   "team": "Udinese",
   "fotmob_team_id": "8600",
-  "played": 4,
+  "played": 5,
   "won": 1,
   "drawn": 1,
-  "lost": 2,
+  "lost": 3,
   "gf": 8,
-  "ga": 10,
-  "gd": -2,
+  "ga": 11,
+  "gd": -3,
   "points": 4
  },
  {
   "position": 14,
+  "team": "Torino",
+  "fotmob_team_id": "9804",
+  "played": 5,
+  "won": 1,
+  "drawn": 1,
+  "lost": 3,
+  "gf": 5,
+  "ga": 8,
+  "gd": -3,
+  "points": 4
+ },
+ {
+  "position": 15,
   "team": "Monza",
   "fotmob_team_id": "6504",
   "played": 5,
@@ -180,19 +193,6 @@
   "ga": 12,
   "gd": -4,
   "points": 4
- },
- {
-  "position": 15,
-  "team": "Torino",
-  "fotmob_team_id": "9804",
-  "played": 4,
-  "won": 1,
-  "drawn": 0,
-  "lost": 3,
-  "gf": 4,
-  "ga": 7,
-  "gd": -3,
-  "points": 3
  },
  {
   "position": 16,
@@ -211,14 +211,14 @@
   "position": 17,
   "team": "Bologna",
   "fotmob_team_id": "9857",
-  "played": 4,
+  "played": 5,
   "won": 0,
-  "drawn": 1,
+  "drawn": 2,
   "lost": 3,
-  "gf": 2,
-  "ga": 5,
+  "gf": 3,
+  "ga": 6,
   "gd": -3,
-  "points": 1
+  "points": 2
  },
  {
   "position": 18,

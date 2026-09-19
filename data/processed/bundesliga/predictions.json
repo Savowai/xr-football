@@ -4961,7 +4961,7 @@
   "round": 4,
   "home": "Borussia M\u00f6nchengladbach",
   "away": "Mainz 05",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 3,
    "goals": 1.0,
@@ -4988,8 +4988,8 @@
    "form": "DWL",
    "possession_pct": 50.3
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 2,
+  "away_goals": 2,
   "season": "2026-27",
   "pred_xg_home": 1.679,
   "pred_xg_away": 1.829,
@@ -5115,7 +5115,7 @@
   "round": 4,
   "home": "Eintracht Frankfurt",
   "away": "Freiburg",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 3,
    "goals": 2.33,
@@ -5142,8 +5142,8 @@
    "form": "WWW",
    "possession_pct": 51.7
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 2,
+  "away_goals": 2,
   "season": "2026-27",
   "pred_xg_home": 1.7,
   "pred_xg_away": 1.881,
@@ -5280,7 +5280,7 @@
   "round": 4,
   "home": "Hamburger SV",
   "away": "1. FC K\u00f6ln",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 3,
    "goals": 0.0,
@@ -5307,8 +5307,8 @@
    "form": "WLD",
    "possession_pct": 43.3
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 2,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.65,
   "pred_xg_away": 1.717,
@@ -5433,7 +5433,7 @@
   "round": 4,
   "home": "Werder Bremen",
   "away": "Augsburg",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 3,
    "goals": 1.67,
@@ -5460,8 +5460,8 @@
    "form": "WWD",
    "possession_pct": 41.7
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 2,
   "season": "2026-27",
   "pred_xg_home": 1.601,
   "pred_xg_away": 1.765,

@@ -5,14 +5,14 @@
   "country": "England",
   "season": "2026-27",
   "teams": 20,
-  "played": 41,
+  "played": 42,
   "matches": 380,
   "current_round": 5,
   "next_round": 5,
   "total_rounds": 38,
-  "xg_coverage": 41,
+  "xg_coverage": 42,
   "leader": "Arsenal",
-  "built_at": "2026-09-19T11:39:03.014832+00:00"
+  "built_at": "2026-09-19T14:52:41.223982+00:00"
  },
  {
   "key": "laliga",
@@ -20,14 +20,14 @@
   "country": "Spain",
   "season": "2026-27",
   "teams": 20,
-  "played": 60,
+  "played": 61,
   "matches": 380,
   "current_round": 7,
   "next_round": 6,
   "total_rounds": 38,
-  "xg_coverage": 59,
+  "xg_coverage": 60,
   "leader": "Barcelona",
-  "built_at": "2026-09-19T11:39:08.397886+00:00"
+  "built_at": "2026-09-19T14:52:50.105749+00:00"
  },
  {
   "key": "seriea",
@@ -42,7 +42,7 @@
   "total_rounds": 38,
   "xg_coverage": 41,
   "leader": "Roma",
-  "built_at": "2026-09-19T11:39:11.348188+00:00"
+  "built_at": "2026-09-19T14:52:52.553730+00:00"
  },
  {
   "key": "bundesliga",
@@ -57,7 +57,7 @@
   "total_rounds": 34,
   "xg_coverage": 28,
   "leader": "Bayern M\u00fcnchen",
-  "built_at": "2026-09-19T11:39:14.761601+00:00"
+  "built_at": "2026-09-19T14:52:55.242945+00:00"
  },
  {
   "key": "ligue1",
@@ -72,6 +72,6 @@
   "total_rounds": 34,
   "xg_coverage": 37,
   "leader": "Monaco",
-  "built_at": "2026-09-19T11:39:18.029701+00:00"
+  "built_at": "2026-09-19T14:52:57.699125+00:00"
  }
 ]

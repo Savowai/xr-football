@@ -87,7 +87,7 @@
   "xg_diff": -2.15,
   "luck": 4.01,
   "position": 5,
-  "xposition": 16
+  "xposition": 17
  },
  {
   "team": "Brighton",
@@ -159,7 +159,7 @@
   "xg_diff": -0.31,
   "luck": 0.63,
   "position": 9,
-  "xposition": 13
+  "xposition": 14
  },
  {
   "team": "Ipswich Town",
@@ -252,6 +252,24 @@
   "xposition": 12
  },
  {
+  "team": "Aston Villa",
+  "played": 5,
+  "won": 1,
+  "drawn": 1,
+  "lost": 3,
+  "gf": 4,
+  "ga": 9,
+  "gd": -5,
+  "points": 4,
+  "xg_for": 4.53,
+  "xg_against": 8.52,
+  "xpts": 4.98,
+  "xg_diff": -3.99,
+  "luck": -0.98,
+  "position": 15,
+  "xposition": 15
+ },
+ {
   "team": "Bournemouth",
   "played": 4,
   "won": 0,
@@ -266,7 +284,7 @@
   "xpts": 6.28,
   "xg_diff": 1.06,
   "luck": -3.28,
-  "position": 15,
+  "position": 16,
   "xposition": 7
  },
  {
@@ -284,26 +302,26 @@
   "xpts": 3.81,
   "xg_diff": -2.93,
   "luck": -0.81,
-  "position": 16,
-  "xposition": 17
+  "position": 17,
+  "xposition": 18
  },
  {
   "team": "Tottenham Hotspur",
-  "played": 4,
+  "played": 5,
   "won": 0,
   "drawn": 2,
-  "lost": 2,
-  "gf": 0,
-  "ga": 5,
-  "gd": -5,
+  "lost": 3,
+  "gf": 2,
+  "ga": 8,
+  "gd": -6,
   "points": 2,
-  "xg_for": 3.39,
-  "xg_against": 6.68,
-  "xpts": 4.09,
-  "xg_diff": -3.29,
-  "luck": -2.09,
-  "position": 17,
-  "xposition": 15
+  "xg_for": 4.61,
+  "xg_against": 7.84,
+  "xpts": 5.47,
+  "xg_diff": -3.23,
+  "luck": -3.47,
+  "position": 18,
+  "xposition": 13
  },
  {
   "team": "Fulham",
@@ -320,26 +338,8 @@
   "xpts": 4.52,
   "xg_diff": -1.23,
   "luck": -3.52,
-  "position": 18,
-  "xposition": 14
- },
- {
-  "team": "Aston Villa",
-  "played": 4,
-  "won": 0,
-  "drawn": 1,
-  "lost": 3,
-  "gf": 1,
-  "ga": 7,
-  "gd": -6,
-  "points": 1,
-  "xg_for": 3.37,
-  "xg_against": 7.3,
-  "xpts": 3.69,
-  "xg_diff": -3.93,
-  "luck": -2.69,
   "position": 19,
-  "xposition": 18
+  "xposition": 16
  },
  {
   "team": "Coventry City",
