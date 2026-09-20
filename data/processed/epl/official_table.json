@@ -3,14 +3,14 @@
   "position": 1,
   "team": "Manchester City",
   "fotmob_team_id": "8456",
-  "played": 4,
-  "won": 4,
+  "played": 5,
+  "won": 5,
   "drawn": 0,
   "lost": 0,
-  "gf": 8,
-  "ga": 2,
-  "gd": 6,
-  "points": 12
+  "gf": 13,
+  "ga": 5,
+  "gd": 8,
+  "points": 15
  },
  {
   "position": 2,
@@ -53,6 +53,32 @@
  },
  {
   "position": 5,
+  "team": "Leeds United",
+  "fotmob_team_id": "8463",
+  "played": 5,
+  "won": 2,
+  "drawn": 3,
+  "lost": 0,
+  "gf": 7,
+  "ga": 3,
+  "gd": 4,
+  "points": 9
+ },
+ {
+  "position": 6,
+  "team": "Liverpool",
+  "fotmob_team_id": "8650",
+  "played": 5,
+  "won": 2,
+  "drawn": 3,
+  "lost": 0,
+  "gf": 7,
+  "ga": 4,
+  "gd": 3,
+  "points": 9
+ },
+ {
+  "position": 7,
   "team": "Everton",
   "fotmob_team_id": "8668",
   "played": 5,
@@ -65,20 +91,7 @@
   "points": 9
  },
  {
-  "position": 6,
-  "team": "Leeds United",
-  "fotmob_team_id": "8463",
-  "played": 4,
-  "won": 2,
-  "drawn": 2,
-  "lost": 0,
-  "gf": 7,
-  "ga": 3,
-  "gd": 4,
-  "points": 8
- },
- {
-  "position": 7,
+  "position": 8,
   "team": "Hull City",
   "fotmob_team_id": "8667",
   "played": 5,
@@ -91,7 +104,7 @@
   "points": 8
  },
  {
-  "position": 8,
+  "position": 9,
   "team": "Newcastle United",
   "fotmob_team_id": "10261",
   "played": 5,
@@ -104,7 +117,7 @@
   "points": 8
  },
  {
-  "position": 9,
+  "position": 10,
   "team": "Chelsea",
   "fotmob_team_id": "8455",
   "played": 5,
@@ -115,19 +128,6 @@
   "ga": 12,
   "gd": -2,
   "points": 7
- },
- {
-  "position": 10,
-  "team": "Liverpool",
-  "fotmob_team_id": "8650",
-  "played": 4,
-  "won": 1,
-  "drawn": 3,
-  "lost": 0,
-  "gf": 6,
-  "ga": 4,
-  "gd": 2,
-  "points": 6
  },
  {
   "position": 11,
@@ -144,6 +144,19 @@
  },
  {
   "position": 12,
+  "team": "Manchester United",
+  "fotmob_team_id": "10260",
+  "played": 5,
+  "won": 1,
+  "drawn": 2,
+  "lost": 2,
+  "gf": 7,
+  "ga": 7,
+  "gd": 0,
+  "points": 5
+ },
+ {
+  "position": 13,
   "team": "Nottingham Forest",
   "fotmob_team_id": "10203",
   "played": 5,
@@ -156,33 +169,33 @@
   "points": 5
  },
  {
-  "position": 13,
-  "team": "Manchester United",
-  "fotmob_team_id": "10260",
-  "played": 4,
-  "won": 1,
-  "drawn": 1,
-  "lost": 2,
-  "gf": 7,
-  "ga": 7,
-  "gd": 0,
-  "points": 4
- },
- {
   "position": 14,
   "team": "Sunderland",
   "fotmob_team_id": "8472",
-  "played": 4,
+  "played": 5,
   "won": 1,
   "drawn": 1,
-  "lost": 2,
-  "gf": 3,
-  "ga": 5,
-  "gd": -2,
+  "lost": 3,
+  "gf": 6,
+  "ga": 10,
+  "gd": -4,
   "points": 4
  },
  {
   "position": 15,
+  "team": "Crystal Palace",
+  "fotmob_team_id": "9826",
+  "played": 5,
+  "won": 1,
+  "drawn": 1,
+  "lost": 3,
+  "gf": 6,
+  "ga": 11,
+  "gd": -5,
+  "points": 4
+ },
+ {
+  "position": 16,
   "team": "Aston Villa",
   "fotmob_team_id": "10252",
   "played": 5,
@@ -195,29 +208,16 @@
   "points": 4
  },
  {
-  "position": 16,
+  "position": 17,
   "team": "Bournemouth",
   "fotmob_team_id": "8678",
-  "played": 4,
+  "played": 5,
   "won": 0,
   "drawn": 3,
-  "lost": 1,
+  "lost": 2,
   "gf": 6,
-  "ga": 7,
-  "gd": -1,
-  "points": 3
- },
- {
-  "position": 17,
-  "team": "Crystal Palace",
-  "fotmob_team_id": "9826",
-  "played": 4,
-  "won": 1,
-  "drawn": 0,
-  "lost": 3,
-  "gf": 6,
-  "ga": 11,
-  "gd": -5,
+  "ga": 8,
+  "gd": -2,
   "points": 3
  },
  {
@@ -235,6 +235,19 @@
  },
  {
   "position": 19,
+  "team": "Fulham",
+  "fotmob_team_id": "9879",
+  "played": 5,
+  "won": 0,
+  "drawn": 2,
+  "lost": 3,
+  "gf": 4,
+  "ga": 7,
+  "gd": -3,
+  "points": 2
+ },
+ {
+  "position": 20,
   "team": "Tottenham Hotspur",
   "fotmob_team_id": "8586",
   "played": 5,
@@ -245,18 +258,5 @@
   "ga": 8,
   "gd": -6,
   "points": 2
- },
- {
-  "position": 20,
-  "team": "Fulham",
-  "fotmob_team_id": "9879",
-  "played": 4,
-  "won": 0,
-  "drawn": 1,
-  "lost": 3,
-  "gf": 4,
-  "ga": 7,
-  "gd": -3,
-  "points": 1
  }
 ]
