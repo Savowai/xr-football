@@ -29,9 +29,9 @@
   "points": 11,
   "xg_for": 8.95,
   "xg_against": 5.89,
-  "xpts": 8.7,
+  "xpts": 8.71,
   "xg_diff": 3.06,
-  "luck": 2.3,
+  "luck": 2.29,
   "position": 2,
   "xposition": 3
  },
@@ -55,21 +55,21 @@
  },
  {
   "team": "Lille",
-  "played": 4,
+  "played": 5,
   "won": 3,
   "drawn": 1,
-  "lost": 0,
-  "gf": 7,
-  "ga": 2,
-  "gd": 5,
+  "lost": 1,
+  "gf": 8,
+  "ga": 4,
+  "gd": 4,
   "points": 10,
-  "xg_for": 5.37,
-  "xg_against": 7.27,
-  "xpts": 4.86,
-  "xg_diff": -1.9,
-  "luck": 5.14,
+  "xg_for": 6.95,
+  "xg_against": 8.77,
+  "xpts": 6.29,
+  "xg_diff": -1.82,
+  "luck": 3.71,
   "position": 4,
-  "xposition": 16
+  "xposition": 11
  },
  {
   "team": "Rennes",
@@ -87,7 +87,7 @@
   "xg_diff": -2.27,
   "luck": 4.13,
   "position": 5,
-  "xposition": 12
+  "xposition": 13
  },
  {
   "team": "Angers",
@@ -123,7 +123,7 @@
   "xg_diff": -3.42,
   "luck": 2.41,
   "position": 7,
-  "xposition": 17
+  "xposition": 18
  },
  {
   "team": "Le Mans",
@@ -159,7 +159,7 @@
   "xg_diff": -3.44,
   "luck": 0.25,
   "position": 9,
-  "xposition": 13
+  "xposition": 14
  },
  {
   "team": "Paris Saint-Germain",
@@ -234,6 +234,24 @@
   "xposition": 4
  },
  {
+  "team": "Nice",
+  "played": 5,
+  "won": 1,
+  "drawn": 2,
+  "lost": 2,
+  "gf": 3,
+  "ga": 6,
+  "gd": -3,
+  "points": 5,
+  "xg_for": 5.31,
+  "xg_against": 8.03,
+  "xpts": 5.16,
+  "xg_diff": -2.72,
+  "luck": -0.16,
+  "position": 14,
+  "xposition": 15
+ },
+ {
   "team": "Lens",
   "played": 5,
   "won": 1,
@@ -248,7 +266,7 @@
   "xpts": 7.38,
   "xg_diff": 1.65,
   "luck": -3.38,
-  "position": 14,
+  "position": 15,
   "xposition": 7
  },
  {
@@ -266,8 +284,8 @@
   "xpts": 4.98,
   "xg_diff": -2.92,
   "luck": -0.98,
-  "position": 15,
-  "xposition": 15
+  "position": 16,
+  "xposition": 17
  },
  {
   "team": "Marseille",
@@ -284,8 +302,8 @@
   "xpts": 5.04,
   "xg_diff": -1.41,
   "luck": -2.04,
-  "position": 16,
-  "xposition": 14
+  "position": 17,
+  "xposition": 16
  },
  {
   "team": "Le Havre",
@@ -302,25 +320,7 @@
   "xpts": 6.06,
   "xg_diff": -1.27,
   "luck": -4.06,
-  "position": 17,
-  "xposition": 11
- },
- {
-  "team": "Nice",
-  "played": 4,
-  "won": 0,
-  "drawn": 2,
-  "lost": 2,
-  "gf": 1,
-  "ga": 5,
-  "gd": -4,
-  "points": 2,
-  "xg_for": 3.81,
-  "xg_against": 6.45,
-  "xpts": 3.82,
-  "xg_diff": -2.64,
-  "luck": -1.82,
   "position": 18,
-  "xposition": 18
+  "xposition": 12
  }
 ]

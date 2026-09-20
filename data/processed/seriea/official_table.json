@@ -53,6 +53,19 @@
  },
  {
   "position": 5,
+  "team": "Milan",
+  "fotmob_team_id": "8564",
+  "played": 5,
+  "won": 3,
+  "drawn": 2,
+  "lost": 0,
+  "gf": 8,
+  "ga": 4,
+  "gd": 4,
+  "points": 11
+ },
+ {
+  "position": 6,
   "team": "Frosinone",
   "fotmob_team_id": "9891",
   "played": 5,
@@ -65,7 +78,20 @@
   "points": 10
  },
  {
-  "position": 6,
+  "position": 7,
+  "team": "Juventus",
+  "fotmob_team_id": "9885",
+  "played": 5,
+  "won": 3,
+  "drawn": 1,
+  "lost": 1,
+  "gf": 8,
+  "ga": 4,
+  "gd": 4,
+  "points": 10
+ },
+ {
+  "position": 8,
   "team": "Como",
   "fotmob_team_id": "10171",
   "played": 5,
@@ -76,32 +102,6 @@
   "ga": 6,
   "gd": 3,
   "points": 10
- },
- {
-  "position": 7,
-  "team": "Juventus",
-  "fotmob_team_id": "9885",
-  "played": 5,
-  "won": 3,
-  "drawn": 1,
-  "lost": 1,
-  "gf": 7,
-  "ga": 4,
-  "gd": 3,
-  "points": 10
- },
- {
-  "position": 8,
-  "team": "Milan",
-  "fotmob_team_id": "8564",
-  "played": 4,
-  "won": 2,
-  "drawn": 2,
-  "lost": 0,
-  "gf": 7,
-  "ga": 4,
-  "gd": 3,
-  "points": 8
  },
  {
   "position": 9,
@@ -138,21 +138,21 @@
   "drawn": 0,
   "lost": 3,
   "gf": 5,
-  "ga": 6,
-  "gd": -1,
+  "ga": 7,
+  "gd": -2,
   "points": 6
  },
  {
   "position": 12,
   "team": "Lecce",
   "fotmob_team_id": "9888",
-  "played": 4,
+  "played": 5,
   "won": 2,
   "drawn": 0,
-  "lost": 2,
+  "lost": 3,
   "gf": 5,
-  "ga": 7,
-  "gd": -2,
+  "ga": 8,
+  "gd": -3,
   "points": 6
  },
  {
