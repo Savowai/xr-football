@@ -69,7 +69,7 @@
   "xg_diff": -1.75,
   "luck": 2.72,
   "position": 4,
-  "xposition": 9
+  "xposition": 10
  },
  {
   "team": "Bayer Leverkusen",
@@ -141,7 +141,7 @@
   "xg_diff": -2.07,
   "luck": 2.86,
   "position": 8,
-  "xposition": 10
+  "xposition": 11
  },
  {
   "team": "RB Leipzig",
@@ -177,7 +177,7 @@
   "xg_diff": -0.58,
   "luck": -0.25,
   "position": 10,
-  "xposition": 8
+  "xposition": 9
  },
  {
   "team": "Schalke 04",
@@ -198,6 +198,24 @@
   "xposition": 14
  },
  {
+  "team": "Paderborn",
+  "played": 4,
+  "won": 1,
+  "drawn": 1,
+  "lost": 2,
+  "gf": 3,
+  "ga": 5,
+  "gd": -2,
+  "points": 4,
+  "xg_for": 2.62,
+  "xg_against": 5.44,
+  "xpts": 3.21,
+  "xg_diff": -2.82,
+  "luck": 0.79,
+  "position": 12,
+  "xposition": 16
+ },
+ {
   "team": "1. FC K\u00f6ln",
   "played": 4,
   "won": 1,
@@ -212,26 +230,26 @@
   "xpts": 5.78,
   "xg_diff": 0.21,
   "luck": -1.78,
-  "position": 12,
-  "xposition": 7
+  "position": 13,
+  "xposition": 8
  },
  {
   "team": "Hoffenheim",
-  "played": 3,
+  "played": 4,
   "won": 1,
   "drawn": 0,
-  "lost": 2,
-  "gf": 6,
-  "ga": 7,
-  "gd": -1,
+  "lost": 3,
+  "gf": 7,
+  "ga": 10,
+  "gd": -3,
   "points": 3,
-  "xg_for": 6.24,
-  "xg_against": 6.22,
-  "xpts": 4.13,
-  "xg_diff": 0.02,
-  "luck": -1.13,
-  "position": 13,
-  "xposition": 11
+  "xg_for": 7.66,
+  "xg_against": 6.92,
+  "xpts": 6.0,
+  "xg_diff": 0.74,
+  "luck": -3.0,
+  "position": 14,
+  "xposition": 7
  },
  {
   "team": "VfB Stuttgart",
@@ -248,7 +266,7 @@
   "xpts": 4.03,
   "xg_diff": -3.5,
   "luck": -1.03,
-  "position": 14,
+  "position": 15,
   "xposition": 13
  },
  {
@@ -266,24 +284,6 @@
   "xpts": 2.89,
   "xg_diff": -4.71,
   "luck": 0.11,
-  "position": 15,
-  "xposition": 17
- },
- {
-  "team": "Paderborn",
-  "played": 3,
-  "won": 0,
-  "drawn": 1,
-  "lost": 2,
-  "gf": 0,
-  "ga": 4,
-  "gd": -4,
-  "points": 1,
-  "xg_for": 1.92,
-  "xg_against": 4.02,
-  "xpts": 2.41,
-  "xg_diff": -2.1,
-  "luck": -1.41,
   "position": 16,
   "xposition": 18
  },
@@ -303,7 +303,7 @@
   "xg_diff": -6.2,
   "luck": -1.96,
   "position": 17,
-  "xposition": 16
+  "xposition": 17
  },
  {
   "team": "Borussia M\u00f6nchengladbach",
