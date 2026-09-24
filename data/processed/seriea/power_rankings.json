@@ -1,27 +1,27 @@
 [
  {
   "team": "Inter",
-  "attack": 1.652,
+  "attack": 1.651,
   "defence": 0.918,
   "expected_gf_per_game": 2.25,
   "expected_ga_per_game": 1.25,
-  "net_rating": 1.0,
+  "net_rating": 0.999,
   "evidence_matches": 4.6,
   "rank": 1
  },
  {
   "team": "Roma",
-  "attack": 1.396,
+  "attack": 1.395,
   "defence": 0.748,
   "expected_gf_per_game": 1.9,
   "expected_ga_per_game": 1.02,
-  "net_rating": 0.884,
+  "net_rating": 0.883,
   "evidence_matches": 4.6,
   "rank": 2
  },
  {
   "team": "Juventus",
-  "attack": 1.115,
+  "attack": 1.116,
   "defence": 0.659,
   "expected_gf_per_game": 1.52,
   "expected_ga_per_game": 0.9,
@@ -33,9 +33,9 @@
   "team": "Como",
   "attack": 1.235,
   "defence": 0.918,
-  "expected_gf_per_game": 1.69,
+  "expected_gf_per_game": 1.68,
   "expected_ga_per_game": 1.25,
-  "net_rating": 0.432,
+  "net_rating": 0.433,
   "evidence_matches": 4.6,
   "rank": 4
  },
@@ -65,7 +65,7 @@
   "defence": 0.867,
   "expected_gf_per_game": 1.35,
   "expected_ga_per_game": 1.18,
-  "net_rating": 0.163,
+  "net_rating": 0.162,
   "evidence_matches": 4.6,
   "rank": 7
  },
@@ -75,7 +75,7 @@
   "defence": 1.066,
   "expected_gf_per_game": 1.52,
   "expected_ga_per_game": 1.46,
-  "net_rating": 0.067,
+  "net_rating": 0.066,
   "evidence_matches": 4.6,
   "rank": 8
  },
@@ -91,7 +91,7 @@
  },
  {
   "team": "Bologna",
-  "attack": 0.817,
+  "attack": 0.818,
   "defence": 0.885,
   "expected_gf_per_game": 1.12,
   "expected_ga_per_game": 1.21,
@@ -101,7 +101,7 @@
  },
  {
   "team": "Monza",
-  "attack": 0.971,
+  "attack": 0.97,
   "defence": 1.061,
   "expected_gf_per_game": 1.32,
   "expected_ga_per_game": 1.45,
@@ -112,17 +112,17 @@
  {
   "team": "Atalanta",
   "attack": 0.897,
-  "defence": 1.003,
+  "defence": 1.002,
   "expected_gf_per_game": 1.22,
   "expected_ga_per_game": 1.37,
-  "net_rating": -0.145,
+  "net_rating": -0.144,
   "evidence_matches": 4.6,
   "rank": 12
  },
  {
   "team": "Cagliari",
   "attack": 0.792,
-  "defence": 0.92,
+  "defence": 0.921,
   "expected_gf_per_game": 1.08,
   "expected_ga_per_game": 1.26,
   "net_rating": -0.176,
@@ -141,7 +141,7 @@
  },
  {
   "team": "Torino",
-  "attack": 0.884,
+  "attack": 0.885,
   "defence": 1.06,
   "expected_gf_per_game": 1.21,
   "expected_ga_per_game": 1.45,
@@ -175,7 +175,7 @@
   "defence": 1.075,
   "expected_gf_per_game": 0.93,
   "expected_ga_per_game": 1.47,
-  "net_rating": -0.541,
+  "net_rating": -0.54,
   "evidence_matches": 4.6,
   "rank": 18
  },
@@ -192,10 +192,10 @@
  {
   "team": "Venezia",
   "attack": 0.831,
-  "defence": 1.413,
+  "defence": 1.412,
   "expected_gf_per_game": 1.13,
   "expected_ga_per_game": 1.93,
-  "net_rating": -0.793,
+  "net_rating": -0.792,
   "evidence_matches": 4.6,
   "rank": 20
  }
