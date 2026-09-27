@@ -6,7 +6,7 @@
   "expected_gf_per_game": 1.72,
   "expected_ga_per_game": 0.99,
   "net_rating": 0.735,
-  "evidence_matches": 4.6,
+  "evidence_matches": 4.5,
   "rank": 1
  },
  {
@@ -15,7 +15,7 @@
   "defence": 0.79,
   "expected_gf_per_game": 1.4,
   "expected_ga_per_game": 1.01,
-  "net_rating": 0.396,
+  "net_rating": 0.395,
   "evidence_matches": 4.5,
   "rank": 2
  },
@@ -25,8 +25,8 @@
   "defence": 0.761,
   "expected_gf_per_game": 1.28,
   "expected_ga_per_game": 0.97,
-  "net_rating": 0.312,
-  "evidence_matches": 4.6,
+  "net_rating": 0.311,
+  "evidence_matches": 4.5,
   "rank": 3
  },
  {
@@ -34,9 +34,9 @@
   "attack": 1.255,
   "defence": 1.064,
   "expected_gf_per_game": 1.6,
-  "expected_ga_per_game": 1.36,
+  "expected_ga_per_game": 1.35,
   "net_rating": 0.244,
-  "evidence_matches": 4.6,
+  "evidence_matches": 4.5,
   "rank": 4
  },
  {
@@ -45,8 +45,8 @@
   "defence": 0.802,
   "expected_gf_per_game": 1.26,
   "expected_ga_per_game": 1.02,
-  "net_rating": 0.243,
-  "evidence_matches": 4.6,
+  "net_rating": 0.242,
+  "evidence_matches": 4.5,
   "rank": 5
  },
  {
@@ -56,17 +56,17 @@
   "expected_gf_per_game": 1.25,
   "expected_ga_per_game": 1.1,
   "net_rating": 0.153,
-  "evidence_matches": 4.6,
+  "evidence_matches": 4.5,
   "rank": 6
  },
  {
   "team": "Brest",
   "attack": 1.017,
-  "defence": 0.93,
+  "defence": 0.931,
   "expected_gf_per_game": 1.3,
   "expected_ga_per_game": 1.19,
   "net_rating": 0.11,
-  "evidence_matches": 4.6,
+  "evidence_matches": 4.5,
   "rank": 7
  },
  {
@@ -80,23 +80,23 @@
   "rank": 8
  },
  {
-  "team": "Marseille",
-  "attack": 1.073,
-  "defence": 1.132,
-  "expected_gf_per_game": 1.37,
-  "expected_ga_per_game": 1.44,
-  "net_rating": -0.074,
-  "evidence_matches": 4.6,
-  "rank": 9
- },
- {
   "team": "Strasbourg",
   "attack": 1.036,
   "defence": 1.094,
   "expected_gf_per_game": 1.32,
   "expected_ga_per_game": 1.39,
+  "net_rating": -0.073,
+  "evidence_matches": 4.5,
+  "rank": 9
+ },
+ {
+  "team": "Marseille",
+  "attack": 1.073,
+  "defence": 1.131,
+  "expected_gf_per_game": 1.37,
+  "expected_ga_per_game": 1.44,
   "net_rating": -0.074,
-  "evidence_matches": 4.6,
+  "evidence_matches": 4.5,
   "rank": 10
  },
  {
@@ -106,17 +106,17 @@
   "expected_gf_per_game": 1.4,
   "expected_ga_per_game": 1.48,
   "net_rating": -0.081,
-  "evidence_matches": 4.6,
+  "evidence_matches": 4.5,
   "rank": 11
  },
  {
   "team": "Lorient",
-  "attack": 0.819,
+  "attack": 0.82,
   "defence": 0.902,
   "expected_gf_per_game": 1.04,
   "expected_ga_per_game": 1.15,
   "net_rating": -0.106,
-  "evidence_matches": 4.6,
+  "evidence_matches": 4.5,
   "rank": 12
  },
  {
@@ -125,8 +125,8 @@
   "defence": 0.968,
   "expected_gf_per_game": 1.06,
   "expected_ga_per_game": 1.23,
-  "net_rating": -0.178,
-  "evidence_matches": 4.6,
+  "net_rating": -0.179,
+  "evidence_matches": 4.5,
   "rank": 13
  },
  {
@@ -135,18 +135,18 @@
   "defence": 1.009,
   "expected_gf_per_game": 1.08,
   "expected_ga_per_game": 1.29,
-  "net_rating": -0.2,
-  "evidence_matches": 4.6,
+  "net_rating": -0.201,
+  "evidence_matches": 4.5,
   "rank": 14
  },
  {
   "team": "Le Mans",
   "attack": 0.962,
   "defence": 1.171,
-  "expected_gf_per_game": 1.23,
+  "expected_gf_per_game": 1.22,
   "expected_ga_per_game": 1.49,
-  "net_rating": -0.266,
-  "evidence_matches": 4.6,
+  "net_rating": -0.267,
+  "evidence_matches": 4.5,
   "rank": 15
  },
  {
@@ -155,18 +155,18 @@
   "defence": 1.154,
   "expected_gf_per_game": 1.11,
   "expected_ga_per_game": 1.47,
-  "net_rating": -0.363,
-  "evidence_matches": 4.6,
+  "net_rating": -0.362,
+  "evidence_matches": 4.5,
   "rank": 16
  },
  {
   "team": "Nice",
   "attack": 0.765,
   "defence": 1.071,
-  "expected_gf_per_game": 0.97,
+  "expected_gf_per_game": 0.98,
   "expected_ga_per_game": 1.36,
   "net_rating": -0.39,
-  "evidence_matches": 4.6,
+  "evidence_matches": 4.5,
   "rank": 17
  },
  {
@@ -176,7 +176,7 @@
   "expected_gf_per_game": 1.08,
   "expected_ga_per_game": 1.6,
   "net_rating": -0.523,
-  "evidence_matches": 4.6,
+  "evidence_matches": 4.5,
   "rank": 18
  }
 ]
