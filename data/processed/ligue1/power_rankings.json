@@ -1,7 +1,7 @@
 [
  {
   "team": "Paris Saint-Germain",
-  "attack": 1.351,
+  "attack": 1.35,
   "defence": 0.774,
   "expected_gf_per_game": 1.72,
   "expected_ga_per_game": 0.99,
@@ -11,7 +11,7 @@
  },
  {
   "team": "Lyon",
-  "attack": 1.101,
+  "attack": 1.1,
   "defence": 0.791,
   "expected_gf_per_game": 1.4,
   "expected_ga_per_game": 1.01,
@@ -35,7 +35,7 @@
   "defence": 1.063,
   "expected_gf_per_game": 1.6,
   "expected_ga_per_game": 1.35,
-  "net_rating": 0.244,
+  "net_rating": 0.245,
   "evidence_matches": 4.5,
   "rank": 4
  },
@@ -43,7 +43,7 @@
   "team": "Monaco",
   "attack": 0.993,
   "defence": 0.803,
-  "expected_gf_per_game": 1.26,
+  "expected_gf_per_game": 1.27,
   "expected_ga_per_game": 1.02,
   "net_rating": 0.242,
   "evidence_matches": 4.5,
@@ -65,7 +65,7 @@
   "defence": 0.931,
   "expected_gf_per_game": 1.29,
   "expected_ga_per_game": 1.19,
-  "net_rating": 0.109,
+  "net_rating": 0.108,
   "evidence_matches": 4.5,
   "rank": 7
  },
@@ -91,7 +91,7 @@
  },
  {
   "team": "Strasbourg",
-  "attack": 1.036,
+  "attack": 1.037,
   "defence": 1.094,
   "expected_gf_per_game": 1.32,
   "expected_ga_per_game": 1.39,
@@ -111,9 +111,9 @@
  },
  {
   "team": "Lorient",
-  "attack": 0.82,
+  "attack": 0.821,
   "defence": 0.903,
-  "expected_gf_per_game": 1.04,
+  "expected_gf_per_game": 1.05,
   "expected_ga_per_game": 1.15,
   "net_rating": -0.105,
   "evidence_matches": 4.5,
@@ -142,7 +142,7 @@
  {
   "team": "Le Mans",
   "attack": 0.961,
-  "defence": 1.171,
+  "defence": 1.17,
   "expected_gf_per_game": 1.22,
   "expected_ga_per_game": 1.49,
   "net_rating": -0.267,
@@ -155,7 +155,7 @@
   "defence": 1.153,
   "expected_gf_per_game": 1.11,
   "expected_ga_per_game": 1.47,
-  "net_rating": -0.362,
+  "net_rating": -0.361,
   "evidence_matches": 4.5,
   "rank": 16
  },
@@ -164,7 +164,7 @@
   "attack": 0.766,
   "defence": 1.071,
   "expected_gf_per_game": 0.98,
-  "expected_ga_per_game": 1.36,
+  "expected_ga_per_game": 1.37,
   "net_rating": -0.389,
   "evidence_matches": 4.5,
   "rank": 17

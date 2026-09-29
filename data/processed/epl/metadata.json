@@ -3,7 +3,7 @@
  "league": "Premier League",
  "country": "England",
  "season": "2026-27",
- "built_at": "2026-09-28T20:52:07.284207+00:00",
+ "built_at": "2026-09-29T00:39:19.979886+00:00",
  "match_count": 380,
  "played_count": 50,
  "prediction_count": 380,
@@ -38,7 +38,7 @@
  "model": {
   "name": "Dixon-Coles bivariate Poisson",
   "base_goals": 1.27,
-  "home_advantage": 1.217,
+  "home_advantage": 1.218,
   "rho": -0.0472,
   "time_decay_xi": 0.0045,
   "prior_strength": 8.0,
