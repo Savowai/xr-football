@@ -1,12 +1,12 @@
 [
  {
   "team": "Inter",
-  "attack": 1.644,
+  "attack": 1.643,
   "defence": 0.918,
   "expected_gf_per_game": 2.24,
   "expected_ga_per_game": 1.25,
-  "net_rating": 0.99,
-  "evidence_matches": 4.5,
+  "net_rating": 0.989,
+  "evidence_matches": 4.4,
   "rank": 1
  },
  {
@@ -15,18 +15,18 @@
   "defence": 0.751,
   "expected_gf_per_game": 1.9,
   "expected_ga_per_game": 1.02,
-  "net_rating": 0.874,
+  "net_rating": 0.873,
   "evidence_matches": 4.5,
   "rank": 2
  },
  {
   "team": "Juventus",
-  "attack": 1.117,
+  "attack": 1.118,
   "defence": 0.663,
   "expected_gf_per_game": 1.52,
   "expected_ga_per_game": 0.9,
   "net_rating": 0.62,
-  "evidence_matches": 4.5,
+  "evidence_matches": 4.4,
   "rank": 3
  },
  {
@@ -35,8 +35,8 @@
   "defence": 0.916,
   "expected_gf_per_game": 1.68,
   "expected_ga_per_game": 1.25,
-  "net_rating": 0.434,
-  "evidence_matches": 4.5,
+  "net_rating": 0.435,
+  "evidence_matches": 4.4,
   "rank": 4
  },
  {
@@ -46,7 +46,7 @@
   "expected_gf_per_game": 1.45,
   "expected_ga_per_game": 1.15,
   "net_rating": 0.296,
-  "evidence_matches": 4.5,
+  "evidence_matches": 4.4,
   "rank": 5
  },
  {
@@ -56,7 +56,7 @@
   "expected_gf_per_game": 1.48,
   "expected_ga_per_game": 1.18,
   "net_rating": 0.295,
-  "evidence_matches": 4.5,
+  "evidence_matches": 4.4,
   "rank": 6
  },
  {
@@ -65,18 +65,18 @@
   "defence": 0.869,
   "expected_gf_per_game": 1.34,
   "expected_ga_per_game": 1.19,
-  "net_rating": 0.16,
+  "net_rating": 0.159,
   "evidence_matches": 4.5,
   "rank": 7
  },
  {
   "team": "Sassuolo",
-  "attack": 1.112,
+  "attack": 1.111,
   "defence": 1.066,
   "expected_gf_per_game": 1.52,
   "expected_ga_per_game": 1.45,
   "net_rating": 0.062,
-  "evidence_matches": 4.5,
+  "evidence_matches": 4.4,
   "rank": 8
  },
  {
@@ -86,12 +86,12 @@
   "expected_gf_per_game": 1.35,
   "expected_ga_per_game": 1.44,
   "net_rating": -0.089,
-  "evidence_matches": 4.5,
+  "evidence_matches": 4.4,
   "rank": 9
  },
  {
   "team": "Bologna",
-  "attack": 0.82,
+  "attack": 0.821,
   "defence": 0.887,
   "expected_gf_per_game": 1.12,
   "expected_ga_per_game": 1.21,
@@ -105,8 +105,8 @@
   "defence": 1.064,
   "expected_gf_per_game": 1.32,
   "expected_ga_per_game": 1.45,
-  "net_rating": -0.129,
-  "evidence_matches": 4.5,
+  "net_rating": -0.13,
+  "evidence_matches": 4.4,
   "rank": 11
  },
  {
@@ -116,17 +116,17 @@
   "expected_gf_per_game": 1.23,
   "expected_ga_per_game": 1.37,
   "net_rating": -0.138,
-  "evidence_matches": 4.5,
+  "evidence_matches": 4.4,
   "rank": 12
  },
  {
   "team": "Cagliari",
   "attack": 0.795,
-  "defence": 0.923,
+  "defence": 0.924,
   "expected_gf_per_game": 1.08,
   "expected_ga_per_game": 1.26,
   "net_rating": -0.176,
-  "evidence_matches": 4.5,
+  "evidence_matches": 4.4,
   "rank": 13
  },
  {
@@ -136,27 +136,27 @@
   "expected_gf_per_game": 1.35,
   "expected_ga_per_game": 1.52,
   "net_rating": -0.178,
-  "evidence_matches": 4.5,
+  "evidence_matches": 4.4,
   "rank": 14
  },
  {
   "team": "Torino",
   "attack": 0.886,
-  "defence": 1.061,
+  "defence": 1.062,
   "expected_gf_per_game": 1.21,
   "expected_ga_per_game": 1.45,
   "net_rating": -0.239,
-  "evidence_matches": 4.5,
+  "evidence_matches": 4.4,
   "rank": 15
  },
  {
   "team": "Frosinone",
-  "attack": 0.949,
+  "attack": 0.948,
   "defence": 1.128,
   "expected_gf_per_game": 1.29,
   "expected_ga_per_game": 1.54,
   "net_rating": -0.245,
-  "evidence_matches": 4.5,
+  "evidence_matches": 4.4,
   "rank": 16
  },
  {
@@ -165,8 +165,8 @@
   "defence": 1.043,
   "expected_gf_per_game": 1.06,
   "expected_ga_per_game": 1.42,
-  "net_rating": -0.368,
-  "evidence_matches": 4.5,
+  "net_rating": -0.367,
+  "evidence_matches": 4.4,
   "rank": 17
  },
  {
@@ -176,7 +176,7 @@
   "expected_gf_per_game": 0.93,
   "expected_ga_per_game": 1.46,
   "net_rating": -0.536,
-  "evidence_matches": 4.5,
+  "evidence_matches": 4.4,
   "rank": 18
  },
  {
@@ -195,8 +195,8 @@
   "defence": 1.407,
   "expected_gf_per_game": 1.14,
   "expected_ga_per_game": 1.92,
-  "net_rating": -0.785,
-  "evidence_matches": 4.5,
+  "net_rating": -0.784,
+  "evidence_matches": 4.4,
   "rank": 20
  }
 ]
