@@ -2,20 +2,20 @@
  {
   "team": "Arsenal",
   "attack": 1.098,
-  "defence": 0.644,
+  "defence": 0.645,
   "expected_gf_per_game": 1.39,
   "expected_ga_per_game": 0.82,
-  "net_rating": 0.576,
+  "net_rating": 0.575,
   "evidence_matches": 4.4,
   "rank": 1
  },
  {
   "team": "Brighton",
-  "attack": 1.366,
+  "attack": 1.365,
   "defence": 0.987,
   "expected_gf_per_game": 1.73,
   "expected_ga_per_game": 1.25,
-  "net_rating": 0.48,
+  "net_rating": 0.479,
   "evidence_matches": 4.4,
   "rank": 2
  },
@@ -25,7 +25,7 @@
   "defence": 0.926,
   "expected_gf_per_game": 1.65,
   "expected_ga_per_game": 1.18,
-  "net_rating": 0.478,
+  "net_rating": 0.477,
   "evidence_matches": 4.4,
   "rank": 3
  },
@@ -35,7 +35,7 @@
   "defence": 0.923,
   "expected_gf_per_game": 1.47,
   "expected_ga_per_game": 1.17,
-  "net_rating": 0.301,
+  "net_rating": 0.3,
   "evidence_matches": 4.4,
   "rank": 4
  },
@@ -62,10 +62,10 @@
  {
   "team": "Leeds United",
   "attack": 0.981,
-  "defence": 0.846,
+  "defence": 0.847,
   "expected_gf_per_game": 1.25,
   "expected_ga_per_game": 1.07,
-  "net_rating": 0.172,
+  "net_rating": 0.171,
   "evidence_matches": 4.4,
   "rank": 7
  },
@@ -102,7 +102,7 @@
  {
   "team": "Everton",
   "attack": 0.909,
-  "defence": 0.916,
+  "defence": 0.917,
   "expected_gf_per_game": 1.15,
   "expected_ga_per_game": 1.16,
   "net_rating": -0.01,
@@ -131,21 +131,21 @@
  },
  {
   "team": "Newcastle United",
-  "attack": 0.98,
+  "attack": 0.981,
   "defence": 1.156,
   "expected_gf_per_game": 1.24,
   "expected_ga_per_game": 1.47,
-  "net_rating": -0.223,
+  "net_rating": -0.222,
   "evidence_matches": 4.4,
   "rank": 14
  },
  {
   "team": "Aston Villa",
-  "attack": 0.865,
-  "defence": 1.087,
+  "attack": 0.866,
+  "defence": 1.086,
   "expected_gf_per_game": 1.1,
   "expected_ga_per_game": 1.38,
-  "net_rating": -0.281,
+  "net_rating": -0.28,
   "evidence_matches": 4.4,
   "rank": 15
  },
@@ -165,7 +165,7 @@
   "defence": 1.153,
   "expected_gf_per_game": 1.16,
   "expected_ga_per_game": 1.46,
-  "net_rating": -0.307,
+  "net_rating": -0.306,
   "evidence_matches": 4.4,
   "rank": 17
  },
@@ -175,17 +175,17 @@
   "defence": 1.196,
   "expected_gf_per_game": 1.19,
   "expected_ga_per_game": 1.52,
-  "net_rating": -0.331,
+  "net_rating": -0.332,
   "evidence_matches": 4.4,
   "rank": 18
  },
  {
   "team": "Tottenham Hotspur",
-  "attack": 0.707,
+  "attack": 0.708,
   "defence": 1.054,
   "expected_gf_per_game": 0.9,
   "expected_ga_per_game": 1.34,
-  "net_rating": -0.44,
+  "net_rating": -0.439,
   "evidence_matches": 4.4,
   "rank": 19
  },
