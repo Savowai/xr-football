@@ -11,17 +11,17 @@
  },
  {
   "team": "Brighton",
-  "attack": 1.365,
+  "attack": 1.364,
   "defence": 0.987,
   "expected_gf_per_game": 1.73,
   "expected_ga_per_game": 1.25,
-  "net_rating": 0.479,
+  "net_rating": 0.478,
   "evidence_matches": 4.4,
   "rank": 2
  },
  {
   "team": "Manchester City",
-  "attack": 1.303,
+  "attack": 1.302,
   "defence": 0.926,
   "expected_gf_per_game": 1.65,
   "expected_ga_per_game": 1.18,
@@ -32,10 +32,10 @@
  {
   "team": "Brentford",
   "attack": 1.16,
-  "defence": 0.923,
+  "defence": 0.924,
   "expected_gf_per_game": 1.47,
   "expected_ga_per_game": 1.17,
-  "net_rating": 0.3,
+  "net_rating": 0.299,
   "evidence_matches": 4.4,
   "rank": 4
  },
@@ -55,7 +55,7 @@
   "defence": 0.869,
   "expected_gf_per_game": 1.34,
   "expected_ga_per_game": 1.1,
-  "net_rating": 0.233,
+  "net_rating": 0.232,
   "evidence_matches": 4.4,
   "rank": 6
  },
@@ -81,11 +81,11 @@
  },
  {
   "team": "Sunderland",
-  "attack": 1.065,
+  "attack": 1.064,
   "defence": 1.06,
   "expected_gf_per_game": 1.35,
-  "expected_ga_per_game": 1.35,
-  "net_rating": 0.006,
+  "expected_ga_per_game": 1.34,
+  "net_rating": 0.005,
   "evidence_matches": 4.4,
   "rank": 9
  },
@@ -132,7 +132,7 @@
  {
   "team": "Newcastle United",
   "attack": 0.981,
-  "defence": 1.156,
+  "defence": 1.155,
   "expected_gf_per_game": 1.24,
   "expected_ga_per_game": 1.47,
   "net_rating": -0.222,
@@ -145,14 +145,14 @@
   "defence": 1.086,
   "expected_gf_per_game": 1.1,
   "expected_ga_per_game": 1.38,
-  "net_rating": -0.28,
+  "net_rating": -0.279,
   "evidence_matches": 4.4,
   "rank": 15
  },
  {
   "team": "Hull City",
   "attack": 0.781,
-  "defence": 1.005,
+  "defence": 1.006,
   "expected_gf_per_game": 0.99,
   "expected_ga_per_game": 1.28,
   "net_rating": -0.285,
@@ -161,8 +161,8 @@
  },
  {
   "team": "Crystal Palace",
-  "attack": 0.911,
-  "defence": 1.153,
+  "attack": 0.912,
+  "defence": 1.152,
   "expected_gf_per_game": 1.16,
   "expected_ga_per_game": 1.46,
   "net_rating": -0.306,
@@ -171,7 +171,7 @@
  },
  {
   "team": "Ipswich Town",
-  "attack": 0.935,
+  "attack": 0.934,
   "defence": 1.196,
   "expected_gf_per_game": 1.19,
   "expected_ga_per_game": 1.52,
@@ -185,17 +185,17 @@
   "defence": 1.054,
   "expected_gf_per_game": 0.9,
   "expected_ga_per_game": 1.34,
-  "net_rating": -0.439,
+  "net_rating": -0.438,
   "evidence_matches": 4.4,
   "rank": 19
  },
  {
   "team": "Coventry City",
-  "attack": 0.719,
+  "attack": 0.72,
   "defence": 1.124,
   "expected_gf_per_game": 0.91,
   "expected_ga_per_game": 1.43,
-  "net_rating": -0.514,
+  "net_rating": -0.513,
   "evidence_matches": 4.4,
   "rank": 20
  }
