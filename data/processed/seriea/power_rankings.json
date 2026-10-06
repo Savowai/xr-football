@@ -1,11 +1,11 @@
 [
  {
   "team": "Inter",
-  "attack": 1.64,
+  "attack": 1.639,
   "defence": 0.918,
   "expected_gf_per_game": 2.24,
   "expected_ga_per_game": 1.25,
-  "net_rating": 0.985,
+  "net_rating": 0.984,
   "evidence_matches": 4.4,
   "rank": 1
  },
@@ -15,7 +15,7 @@
   "defence": 0.752,
   "expected_gf_per_game": 1.89,
   "expected_ga_per_game": 1.03,
-  "net_rating": 0.869,
+  "net_rating": 0.868,
   "evidence_matches": 4.4,
   "rank": 2
  },
@@ -25,7 +25,7 @@
   "defence": 0.665,
   "expected_gf_per_game": 1.53,
   "expected_ga_per_game": 0.91,
-  "net_rating": 0.619,
+  "net_rating": 0.618,
   "evidence_matches": 4.4,
   "rank": 3
  },
@@ -42,10 +42,10 @@
  {
   "team": "Napoli",
   "attack": 1.063,
-  "defence": 0.846,
+  "defence": 0.847,
   "expected_gf_per_game": 1.45,
   "expected_ga_per_game": 1.15,
-  "net_rating": 0.296,
+  "net_rating": 0.295,
   "evidence_matches": 4.4,
   "rank": 5
  },
@@ -71,7 +71,7 @@
  },
  {
   "team": "Sassuolo",
-  "attack": 1.11,
+  "attack": 1.109,
   "defence": 1.066,
   "expected_gf_per_game": 1.51,
   "expected_ga_per_game": 1.45,
@@ -105,17 +105,17 @@
   "defence": 1.065,
   "expected_gf_per_game": 1.32,
   "expected_ga_per_game": 1.45,
-  "net_rating": -0.132,
+  "net_rating": -0.133,
   "evidence_matches": 4.4,
   "rank": 11
  },
  {
   "team": "Atalanta",
-  "attack": 0.901,
-  "defence": 1.001,
+  "attack": 0.902,
+  "defence": 1.0,
   "expected_gf_per_game": 1.23,
   "expected_ga_per_game": 1.36,
-  "net_rating": -0.135,
+  "net_rating": -0.134,
   "evidence_matches": 4.4,
   "rank": 12
  },
@@ -161,11 +161,11 @@
  },
  {
   "team": "Genoa",
-  "attack": 0.775,
+  "attack": 0.776,
   "defence": 1.043,
   "expected_gf_per_game": 1.06,
   "expected_ga_per_game": 1.42,
-  "net_rating": -0.365,
+  "net_rating": -0.364,
   "evidence_matches": 4.4,
   "rank": 17
  },
@@ -175,14 +175,14 @@
   "defence": 1.073,
   "expected_gf_per_game": 0.93,
   "expected_ga_per_game": 1.46,
-  "net_rating": -0.534,
+  "net_rating": -0.533,
   "evidence_matches": 4.4,
   "rank": 18
  },
  {
   "team": "Lecce",
   "attack": 0.767,
-  "defence": 1.254,
+  "defence": 1.253,
   "expected_gf_per_game": 1.05,
   "expected_ga_per_game": 1.71,
   "net_rating": -0.663,
@@ -192,10 +192,10 @@
  {
   "team": "Venezia",
   "attack": 0.833,
-  "defence": 1.405,
+  "defence": 1.404,
   "expected_gf_per_game": 1.14,
-  "expected_ga_per_game": 1.92,
-  "net_rating": -0.78,
+  "expected_ga_per_game": 1.91,
+  "net_rating": -0.779,
   "evidence_matches": 4.4,
   "rank": 20
  }
