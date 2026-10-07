@@ -1,21 +1,21 @@
 [
  {
   "team": "Paris Saint-Germain",
-  "attack": 1.349,
+  "attack": 1.348,
   "defence": 0.775,
   "expected_gf_per_game": 1.72,
   "expected_ga_per_game": 0.99,
-  "net_rating": 0.731,
-  "evidence_matches": 4.4,
+  "net_rating": 0.73,
+  "evidence_matches": 4.3,
   "rank": 1
  },
  {
   "team": "Lyon",
   "attack": 1.1,
-  "defence": 0.795,
+  "defence": 0.796,
   "expected_gf_per_game": 1.4,
   "expected_ga_per_game": 1.01,
-  "net_rating": 0.389,
+  "net_rating": 0.388,
   "evidence_matches": 4.3,
   "rank": 2
  },
@@ -25,8 +25,8 @@
   "defence": 0.767,
   "expected_gf_per_game": 1.28,
   "expected_ga_per_game": 0.98,
-  "net_rating": 0.304,
-  "evidence_matches": 4.4,
+  "net_rating": 0.303,
+  "evidence_matches": 4.3,
   "rank": 3
  },
  {
@@ -36,7 +36,7 @@
   "expected_gf_per_game": 1.6,
   "expected_ga_per_game": 1.35,
   "net_rating": 0.248,
-  "evidence_matches": 4.4,
+  "evidence_matches": 4.3,
   "rank": 4
  },
  {
@@ -46,7 +46,7 @@
   "expected_gf_per_game": 1.27,
   "expected_ga_per_game": 1.03,
   "net_rating": 0.24,
-  "evidence_matches": 4.4,
+  "evidence_matches": 4.3,
   "rank": 5
  },
  {
@@ -56,17 +56,17 @@
   "expected_gf_per_game": 1.26,
   "expected_ga_per_game": 1.1,
   "net_rating": 0.155,
-  "evidence_matches": 4.4,
+  "evidence_matches": 4.3,
   "rank": 6
  },
  {
   "team": "Brest",
-  "attack": 1.016,
+  "attack": 1.015,
   "defence": 0.934,
   "expected_gf_per_game": 1.29,
   "expected_ga_per_game": 1.19,
   "net_rating": 0.104,
-  "evidence_matches": 4.4,
+  "evidence_matches": 4.3,
   "rank": 7
  },
  {
@@ -80,23 +80,23 @@
   "rank": 8
  },
  {
+  "team": "Strasbourg",
+  "attack": 1.037,
+  "defence": 1.092,
+  "expected_gf_per_game": 1.32,
+  "expected_ga_per_game": 1.39,
+  "net_rating": -0.069,
+  "evidence_matches": 4.3,
+  "rank": 9
+ },
+ {
   "team": "Marseille",
   "attack": 1.074,
   "defence": 1.129,
   "expected_gf_per_game": 1.37,
   "expected_ga_per_game": 1.44,
   "net_rating": -0.07,
-  "evidence_matches": 4.4,
-  "rank": 9
- },
- {
-  "team": "Strasbourg",
-  "attack": 1.037,
-  "defence": 1.092,
-  "expected_gf_per_game": 1.32,
-  "expected_ga_per_game": 1.39,
-  "net_rating": -0.07,
-  "evidence_matches": 4.4,
+  "evidence_matches": 4.3,
   "rank": 10
  },
  {
@@ -106,27 +106,27 @@
   "expected_gf_per_game": 1.4,
   "expected_ga_per_game": 1.48,
   "net_rating": -0.078,
-  "evidence_matches": 4.4,
+  "evidence_matches": 4.3,
   "rank": 11
  },
  {
   "team": "Lorient",
   "attack": 0.824,
-  "defence": 0.904,
+  "defence": 0.905,
   "expected_gf_per_game": 1.05,
   "expected_ga_per_game": 1.15,
-  "net_rating": -0.103,
-  "evidence_matches": 4.4,
+  "net_rating": -0.102,
+  "evidence_matches": 4.3,
   "rank": 12
  },
  {
   "team": "Angers",
   "attack": 0.829,
-  "defence": 0.97,
+  "defence": 0.971,
   "expected_gf_per_game": 1.06,
   "expected_ga_per_game": 1.24,
-  "net_rating": -0.18,
-  "evidence_matches": 4.4,
+  "net_rating": -0.181,
+  "evidence_matches": 4.3,
   "rank": 13
  },
  {
@@ -136,7 +136,7 @@
   "expected_gf_per_game": 1.08,
   "expected_ga_per_game": 1.29,
   "net_rating": -0.201,
-  "evidence_matches": 4.4,
+  "evidence_matches": 4.3,
   "rank": 14
  },
  {
@@ -146,17 +146,17 @@
   "expected_gf_per_game": 1.22,
   "expected_ga_per_game": 1.49,
   "net_rating": -0.267,
-  "evidence_matches": 4.4,
+  "evidence_matches": 4.3,
   "rank": 15
  },
  {
   "team": "Auxerre",
   "attack": 0.869,
-  "defence": 1.15,
+  "defence": 1.149,
   "expected_gf_per_game": 1.11,
   "expected_ga_per_game": 1.46,
-  "net_rating": -0.358,
-  "evidence_matches": 4.4,
+  "net_rating": -0.357,
+  "evidence_matches": 4.3,
   "rank": 16
  },
  {
@@ -166,7 +166,7 @@
   "expected_gf_per_game": 0.98,
   "expected_ga_per_game": 1.37,
   "net_rating": -0.386,
-  "evidence_matches": 4.4,
+  "evidence_matches": 4.3,
   "rank": 17
  },
  {
@@ -175,8 +175,8 @@
   "defence": 1.255,
   "expected_gf_per_game": 1.08,
   "expected_ga_per_game": 1.6,
-  "net_rating": -0.519,
-  "evidence_matches": 4.4,
+  "net_rating": -0.518,
+  "evidence_matches": 4.3,
   "rank": 18
  }
 ]
