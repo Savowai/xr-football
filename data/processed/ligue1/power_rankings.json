@@ -15,24 +15,24 @@
   "defence": 0.796,
   "expected_gf_per_game": 1.4,
   "expected_ga_per_game": 1.01,
-  "net_rating": 0.388,
+  "net_rating": 0.387,
   "evidence_matches": 4.3,
   "rank": 2
  },
  {
   "team": "Paris FC",
   "attack": 1.005,
-  "defence": 0.767,
+  "defence": 0.768,
   "expected_gf_per_game": 1.28,
   "expected_ga_per_game": 0.98,
-  "net_rating": 0.303,
+  "net_rating": 0.302,
   "evidence_matches": 4.3,
   "rank": 3
  },
  {
   "team": "Lens",
   "attack": 1.254,
-  "defence": 1.06,
+  "defence": 1.059,
   "expected_gf_per_game": 1.6,
   "expected_ga_per_game": 1.35,
   "net_rating": 0.248,
@@ -42,7 +42,7 @@
  {
   "team": "Monaco",
   "attack": 0.996,
-  "defence": 0.807,
+  "defence": 0.808,
   "expected_gf_per_game": 1.27,
   "expected_ga_per_game": 1.03,
   "net_rating": 0.24,
@@ -52,7 +52,7 @@
  {
   "team": "Lille",
   "attack": 0.986,
-  "defence": 0.865,
+  "defence": 0.864,
   "expected_gf_per_game": 1.26,
   "expected_ga_per_game": 1.1,
   "net_rating": 0.155,
@@ -62,22 +62,32 @@
  {
   "team": "Brest",
   "attack": 1.015,
-  "defence": 0.934,
+  "defence": 0.935,
   "expected_gf_per_game": 1.29,
   "expected_ga_per_game": 1.19,
-  "net_rating": 0.104,
+  "net_rating": 0.103,
   "evidence_matches": 4.3,
   "rank": 7
  },
  {
   "team": "Toulouse",
-  "attack": 1.102,
-  "defence": 1.052,
+  "attack": 1.101,
+  "defence": 1.051,
   "expected_gf_per_game": 1.4,
   "expected_ga_per_game": 1.34,
   "net_rating": 0.064,
   "evidence_matches": 4.3,
   "rank": 8
+ },
+ {
+  "team": "Marseille",
+  "attack": 1.074,
+  "defence": 1.128,
+  "expected_gf_per_game": 1.37,
+  "expected_ga_per_game": 1.44,
+  "net_rating": -0.069,
+  "evidence_matches": 4.3,
+  "rank": 9
  },
  {
   "team": "Strasbourg",
@@ -86,16 +96,6 @@
   "expected_gf_per_game": 1.32,
   "expected_ga_per_game": 1.39,
   "net_rating": -0.069,
-  "evidence_matches": 4.3,
-  "rank": 9
- },
- {
-  "team": "Marseille",
-  "attack": 1.074,
-  "defence": 1.129,
-  "expected_gf_per_game": 1.37,
-  "expected_ga_per_game": 1.44,
-  "net_rating": -0.07,
   "evidence_matches": 4.3,
   "rank": 10
  },
@@ -111,7 +111,7 @@
  },
  {
   "team": "Lorient",
-  "attack": 0.824,
+  "attack": 0.825,
   "defence": 0.905,
   "expected_gf_per_game": 1.05,
   "expected_ga_per_game": 1.15,
@@ -135,7 +135,7 @@
   "defence": 1.009,
   "expected_gf_per_game": 1.08,
   "expected_ga_per_game": 1.29,
-  "net_rating": -0.201,
+  "net_rating": -0.202,
   "evidence_matches": 4.3,
   "rank": 14
  },
@@ -145,7 +145,7 @@
   "defence": 1.169,
   "expected_gf_per_game": 1.22,
   "expected_ga_per_game": 1.49,
-  "net_rating": -0.267,
+  "net_rating": -0.268,
   "evidence_matches": 4.3,
   "rank": 15
  },
@@ -161,18 +161,18 @@
  },
  {
   "team": "Nice",
-  "attack": 0.769,
+  "attack": 0.77,
   "defence": 1.072,
   "expected_gf_per_game": 0.98,
   "expected_ga_per_game": 1.37,
-  "net_rating": -0.386,
+  "net_rating": -0.385,
   "evidence_matches": 4.3,
   "rank": 17
  },
  {
   "team": "Troyes",
   "attack": 0.848,
-  "defence": 1.255,
+  "defence": 1.254,
   "expected_gf_per_game": 1.08,
   "expected_ga_per_game": 1.6,
   "net_rating": -0.518,
