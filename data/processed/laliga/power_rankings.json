@@ -1,17 +1,17 @@
 [
  {
   "team": "Barcelona",
-  "attack": 2.071,
+  "attack": 2.07,
   "defence": 0.833,
-  "expected_gf_per_game": 2.69,
+  "expected_gf_per_game": 2.68,
   "expected_ga_per_game": 1.08,
-  "net_rating": 1.606,
-  "evidence_matches": 6.1,
+  "net_rating": 1.604,
+  "evidence_matches": 6.0,
   "rank": 1
  },
  {
   "team": "Real Madrid",
-  "attack": 1.484,
+  "attack": 1.483,
   "defence": 0.811,
   "expected_gf_per_game": 1.92,
   "expected_ga_per_game": 1.05,
@@ -22,16 +22,16 @@
  {
   "team": "Atl\u00e9tico Madrid",
   "attack": 1.208,
-  "defence": 0.853,
+  "defence": 0.854,
   "expected_gf_per_game": 1.57,
   "expected_ga_per_game": 1.11,
-  "net_rating": 0.46,
+  "net_rating": 0.459,
   "evidence_matches": 6.0,
   "rank": 3
  },
  {
   "team": "Villarreal",
-  "attack": 1.284,
+  "attack": 1.283,
   "defence": 0.975,
   "expected_gf_per_game": 1.66,
   "expected_ga_per_game": 1.26,
@@ -45,7 +45,7 @@
   "defence": 0.84,
   "expected_gf_per_game": 1.28,
   "expected_ga_per_game": 1.09,
-  "net_rating": 0.193,
+  "net_rating": 0.192,
   "evidence_matches": 5.1,
   "rank": 5
  },
@@ -111,11 +111,11 @@
  },
  {
   "team": "Celta Vigo",
-  "attack": 0.809,
+  "attack": 0.81,
   "defence": 0.953,
   "expected_gf_per_game": 1.05,
   "expected_ga_per_game": 1.24,
-  "net_rating": -0.187,
+  "net_rating": -0.186,
   "evidence_matches": 6.0,
   "rank": 12
  },
@@ -152,37 +152,37 @@
  {
   "team": "Osasuna",
   "attack": 0.832,
-  "defence": 1.071,
+  "defence": 1.07,
   "expected_gf_per_game": 1.08,
   "expected_ga_per_game": 1.39,
-  "net_rating": -0.31,
-  "evidence_matches": 6.1,
+  "net_rating": -0.309,
+  "evidence_matches": 6.0,
   "rank": 16
  },
  {
   "team": "Getafe",
   "attack": 0.573,
-  "defence": 0.879,
+  "defence": 0.878,
   "expected_gf_per_game": 0.74,
   "expected_ga_per_game": 1.14,
-  "net_rating": -0.397,
+  "net_rating": -0.396,
   "evidence_matches": 6.0,
   "rank": 17
  },
  {
   "team": "Valencia",
   "attack": 0.752,
-  "defence": 1.061,
-  "expected_gf_per_game": 0.97,
+  "defence": 1.06,
+  "expected_gf_per_game": 0.98,
   "expected_ga_per_game": 1.38,
-  "net_rating": -0.4,
+  "net_rating": -0.399,
   "evidence_matches": 6.0,
   "rank": 18
  },
  {
   "team": "Racing Santander",
   "attack": 0.931,
-  "defence": 1.335,
+  "defence": 1.334,
   "expected_gf_per_game": 1.21,
   "expected_ga_per_game": 1.73,
   "net_rating": -0.524,
@@ -191,7 +191,7 @@
  },
  {
   "team": "M\u00e1laga",
-  "attack": 0.689,
+  "attack": 0.69,
   "defence": 1.143,
   "expected_gf_per_game": 0.89,
   "expected_ga_per_game": 1.48,
