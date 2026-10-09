@@ -1,21 +1,21 @@
 [
  {
   "team": "Borussia Dortmund",
-  "played": 4,
+  "played": 5,
   "won": 4,
-  "drawn": 0,
+  "drawn": 1,
   "lost": 0,
-  "gf": 9,
-  "ga": 2,
+  "gf": 11,
+  "ga": 4,
   "gd": 7,
-  "points": 12,
-  "xg_for": 6.44,
-  "xg_against": 3.96,
-  "xpts": 7.18,
-  "xg_diff": 2.48,
-  "luck": 4.82,
+  "points": 13,
+  "xg_for": 8.86,
+  "xg_against": 5.09,
+  "xpts": 9.31,
+  "xg_diff": 3.77,
+  "luck": 3.69,
   "position": 1,
-  "xposition": 5
+  "xposition": 2
  },
  {
   "team": "Bayern M\u00fcnchen",
@@ -51,7 +51,25 @@
   "xg_diff": 5.76,
   "luck": 1.05,
   "position": 3,
-  "xposition": 2
+  "xposition": 3
+ },
+ {
+  "team": "Werder Bremen",
+  "played": 5,
+  "won": 2,
+  "drawn": 2,
+  "lost": 1,
+  "gf": 10,
+  "ga": 10,
+  "gd": 0,
+  "points": 8,
+  "xg_for": 5.66,
+  "xg_against": 9.02,
+  "xpts": 4.79,
+  "xg_diff": -3.36,
+  "luck": 3.21,
+  "position": 4,
+  "xposition": 10
  },
  {
   "team": "Augsburg",
@@ -68,8 +86,8 @@
   "xpts": 4.28,
   "xg_diff": -1.75,
   "luck": 2.72,
-  "position": 4,
-  "xposition": 10
+  "position": 5,
+  "xposition": 11
  },
  {
   "team": "Bayer Leverkusen",
@@ -86,8 +104,8 @@
   "xpts": 8.86,
   "xg_diff": 5.98,
   "luck": -1.86,
-  "position": 5,
-  "xposition": 3
+  "position": 6,
+  "xposition": 4
  },
  {
   "team": "Mainz 05",
@@ -104,7 +122,7 @@
   "xpts": 6.96,
   "xg_diff": 2.37,
   "luck": 0.04,
-  "position": 6,
+  "position": 7,
   "xposition": 6
  },
  {
@@ -122,26 +140,8 @@
   "xpts": 4.08,
   "xg_diff": -2.3,
   "luck": 2.92,
-  "position": 7,
-  "xposition": 12
- },
- {
-  "team": "Werder Bremen",
-  "played": 4,
-  "won": 2,
-  "drawn": 1,
-  "lost": 1,
-  "gf": 8,
-  "ga": 8,
-  "gd": 0,
-  "points": 7,
-  "xg_for": 4.53,
-  "xg_against": 6.6,
-  "xpts": 4.14,
-  "xg_diff": -2.07,
-  "luck": 2.86,
   "position": 8,
-  "xposition": 11
+  "xposition": 12
  },
  {
   "team": "RB Leipzig",
@@ -159,7 +159,7 @@
   "xg_diff": 3.52,
   "luck": -1.18,
   "position": 9,
-  "xposition": 4
+  "xposition": 5
  },
  {
   "team": "Eintracht Frankfurt",

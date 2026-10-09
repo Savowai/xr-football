@@ -137,8 +137,8 @@
   "won": 2,
   "drawn": 2,
   "lost": 4,
-  "gf": 10,
-  "ga": 10,
+  "gf": 11,
+  "ga": 11,
   "gd": 0,
   "points": 8
  },
@@ -235,6 +235,19 @@
  },
  {
   "position": 19,
+  "team": "M\u00e1laga",
+  "fotmob_team_id": "9864",
+  "played": 8,
+  "won": 0,
+  "drawn": 4,
+  "lost": 4,
+  "gf": 4,
+  "ga": 13,
+  "gd": -9,
+  "points": 4
+ },
+ {
+  "position": 20,
   "team": "Valencia",
   "fotmob_team_id": "10267",
   "played": 7,
@@ -243,19 +256,6 @@
   "lost": 5,
   "gf": 4,
   "ga": 13,
-  "gd": -9,
-  "points": 4
- },
- {
-  "position": 20,
-  "team": "M\u00e1laga",
-  "fotmob_team_id": "9864",
-  "played": 8,
-  "won": 0,
-  "drawn": 4,
-  "lost": 4,
-  "gf": 3,
-  "ga": 12,
   "gd": -9,
   "points": 4
  }
