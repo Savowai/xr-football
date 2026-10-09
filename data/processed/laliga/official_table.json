@@ -131,6 +131,19 @@
  },
  {
   "position": 11,
+  "team": "Espanyol",
+  "fotmob_team_id": "8558",
+  "played": 8,
+  "won": 2,
+  "drawn": 2,
+  "lost": 4,
+  "gf": 10,
+  "ga": 10,
+  "gd": 0,
+  "points": 8
+ },
+ {
+  "position": 12,
   "team": "Getafe",
   "fotmob_team_id": "8305",
   "played": 7,
@@ -143,7 +156,7 @@
   "points": 8
  },
  {
-  "position": 12,
+  "position": 13,
   "team": "Rayo Vallecano",
   "fotmob_team_id": "8370",
   "played": 7,
@@ -156,7 +169,7 @@
   "points": 8
  },
  {
-  "position": 13,
+  "position": 14,
   "team": "Osasuna",
   "fotmob_team_id": "8371",
   "played": 7,
@@ -169,7 +182,7 @@
   "points": 8
  },
  {
-  "position": 14,
+  "position": 15,
   "team": "Celta Vigo",
   "fotmob_team_id": "9910",
   "played": 7,
@@ -179,19 +192,6 @@
   "gf": 8,
   "ga": 6,
   "gd": 2,
-  "points": 7
- },
- {
-  "position": 15,
-  "team": "Espanyol",
-  "fotmob_team_id": "8558",
-  "played": 7,
-  "won": 2,
-  "drawn": 1,
-  "lost": 4,
-  "gf": 10,
-  "ga": 10,
-  "gd": 0,
   "points": 7
  },
  {
@@ -250,13 +250,13 @@
   "position": 20,
   "team": "M\u00e1laga",
   "fotmob_team_id": "9864",
-  "played": 7,
+  "played": 8,
   "won": 0,
-  "drawn": 3,
+  "drawn": 4,
   "lost": 4,
   "gf": 3,
   "ga": 12,
   "gd": -9,
-  "points": 3
+  "points": 4
  }
 ]

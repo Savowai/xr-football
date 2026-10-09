@@ -6377,7 +6377,7 @@
   "round": 5,
   "home": "Borussia Dortmund",
   "away": "Werder Bremen",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 4,
    "goals": 2.25,
@@ -6404,8 +6404,8 @@
    "form": "LWDW",
    "possession_pct": 48.8
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 2.278,
   "pred_xg_away": 0.829,

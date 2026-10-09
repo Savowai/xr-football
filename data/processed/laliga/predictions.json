@@ -12175,7 +12175,7 @@
   "round": 8,
   "home": "M\u00e1laga",
   "away": "Espanyol",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 6,
    "goals": 0.5,
@@ -12202,8 +12202,8 @@
    "form": "LLDWLL",
    "possession_pct": 48.8
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.175,
   "pred_xg_away": 1.299,

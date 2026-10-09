@@ -3,14 +3,14 @@
   "position": 1,
   "team": "Borussia Dortmund",
   "fotmob_team_id": "9789",
-  "played": 4,
+  "played": 5,
   "won": 4,
-  "drawn": 0,
+  "drawn": 1,
   "lost": 0,
   "gf": 9,
   "ga": 2,
   "gd": 7,
-  "points": 12
+  "points": 13
  },
  {
   "position": 2,
@@ -40,6 +40,19 @@
  },
  {
   "position": 4,
+  "team": "Werder Bremen",
+  "fotmob_team_id": "8697",
+  "played": 5,
+  "won": 2,
+  "drawn": 2,
+  "lost": 1,
+  "gf": 8,
+  "ga": 8,
+  "gd": 0,
+  "points": 8
+ },
+ {
+  "position": 5,
   "team": "Augsburg",
   "fotmob_team_id": "8406",
   "played": 4,
@@ -52,7 +65,7 @@
   "points": 7
  },
  {
-  "position": 5,
+  "position": 6,
   "team": "Bayer Leverkusen",
   "fotmob_team_id": "8178",
   "played": 4,
@@ -65,7 +78,7 @@
   "points": 7
  },
  {
-  "position": 6,
+  "position": 7,
   "team": "Mainz 05",
   "fotmob_team_id": "9905",
   "played": 4,
@@ -78,7 +91,7 @@
   "points": 7
  },
  {
-  "position": 7,
+  "position": 8,
   "team": "Elversberg",
   "fotmob_team_id": "8232",
   "played": 4,
@@ -88,19 +101,6 @@
   "gf": 8,
   "ga": 7,
   "gd": 1,
-  "points": 7
- },
- {
-  "position": 8,
-  "team": "Werder Bremen",
-  "fotmob_team_id": "8697",
-  "played": 4,
-  "won": 2,
-  "drawn": 1,
-  "lost": 1,
-  "gf": 8,
-  "ga": 8,
-  "gd": 0,
   "points": 7
  },
  {
