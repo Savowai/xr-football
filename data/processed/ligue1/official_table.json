@@ -1,6 +1,19 @@
 [
  {
   "position": 1,
+  "team": "Lille",
+  "fotmob_team_id": "8639",
+  "played": 6,
+  "won": 4,
+  "drawn": 1,
+  "lost": 1,
+  "gf": 9,
+  "ga": 4,
+  "gd": 5,
+  "points": 13
+ },
+ {
+  "position": 2,
   "team": "Monaco",
   "fotmob_team_id": "9829",
   "played": 5,
@@ -13,7 +26,7 @@
   "points": 13
  },
  {
-  "position": 2,
+  "position": 3,
   "team": "Lyon",
   "fotmob_team_id": "9748",
   "played": 6,
@@ -26,7 +39,7 @@
   "points": 11
  },
  {
-  "position": 3,
+  "position": 4,
   "team": "Paris FC",
   "fotmob_team_id": "6379",
   "played": 5,
@@ -37,19 +50,6 @@
   "ga": 3,
   "gd": 5,
   "points": 11
- },
- {
-  "position": 4,
-  "team": "Lille",
-  "fotmob_team_id": "8639",
-  "played": 5,
-  "won": 3,
-  "drawn": 1,
-  "lost": 1,
-  "gf": 8,
-  "ga": 4,
-  "gd": 4,
-  "points": 10
  },
  {
   "position": 5,
@@ -224,13 +224,13 @@
   "position": 18,
   "team": "Le Havre",
   "fotmob_team_id": "9746",
-  "played": 5,
+  "played": 6,
   "won": 0,
   "drawn": 2,
-  "lost": 3,
+  "lost": 4,
   "gf": 4,
-  "ga": 7,
-  "gd": -3,
+  "ga": 8,
+  "gd": -4,
   "points": 2
  }
 ]

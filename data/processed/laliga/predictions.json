@@ -12352,7 +12352,7 @@
   "round": 8,
   "home": "Rayo Vallecano",
   "away": "Athletic Club",
-  "status": "scheduled",
+  "status": "cancelled",
   "home_form": {
    "matches": 6,
    "goals": 1.67,
@@ -12379,8 +12379,8 @@
    "form": "LLWWDD",
    "possession_pct": 52.5
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.405,
   "pred_xg_away": 1.411,
@@ -12506,7 +12506,7 @@
   "round": 8,
   "home": "Deportivo Alav\u00e9s",
   "away": "Atl\u00e9tico Madrid",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 6,
    "goals": 1.33,
@@ -12533,8 +12533,8 @@
    "form": "DWLWWW",
    "possession_pct": 58.0
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 1,
+  "away_goals": 1,
   "season": "2026-27",
   "pred_xg_home": 1.33,
   "pred_xg_away": 1.382,

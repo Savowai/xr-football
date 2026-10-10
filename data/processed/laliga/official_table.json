@@ -16,14 +16,14 @@
   "position": 2,
   "team": "Atl\u00e9tico Madrid",
   "fotmob_team_id": "9906",
-  "played": 7,
+  "played": 8,
   "won": 5,
-  "drawn": 1,
+  "drawn": 2,
   "lost": 1,
-  "gf": 16,
-  "ga": 7,
+  "gf": 17,
+  "ga": 8,
   "gd": 9,
-  "points": 16
+  "points": 17
  },
  {
   "position": 3,
@@ -68,14 +68,14 @@
   "position": 6,
   "team": "Deportivo Alav\u00e9s",
   "fotmob_team_id": "9866",
-  "played": 7,
+  "played": 8,
   "won": 3,
-  "drawn": 2,
+  "drawn": 3,
   "lost": 2,
-  "gf": 11,
-  "ga": 6,
+  "gf": 12,
+  "ga": 7,
   "gd": 5,
-  "points": 11
+  "points": 12
  },
  {
   "position": 7,

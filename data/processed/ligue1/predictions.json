@@ -8147,7 +8147,7 @@
   "round": 6,
   "home": "Lille",
   "away": "Le Havre",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 5,
    "goals": 1.6,
@@ -8174,8 +8174,8 @@
    "form": "LDLDL",
    "possession_pct": 48.4
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 1,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.62,
   "pred_xg_away": 0.935,
