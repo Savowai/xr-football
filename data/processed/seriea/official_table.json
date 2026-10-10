@@ -1,6 +1,19 @@
 [
  {
   "position": 1,
+  "team": "Inter",
+  "fotmob_team_id": "8636",
+  "played": 6,
+  "won": 5,
+  "drawn": 1,
+  "lost": 0,
+  "gf": 18,
+  "ga": 8,
+  "gd": 10,
+  "points": 16
+ },
+ {
+  "position": 2,
   "team": "Roma",
   "fotmob_team_id": "8686",
   "played": 5,
@@ -10,19 +23,6 @@
   "gf": 14,
   "ga": 3,
   "gd": 11,
-  "points": 13
- },
- {
-  "position": 2,
-  "team": "Inter",
-  "fotmob_team_id": "8636",
-  "played": 5,
-  "won": 4,
-  "drawn": 1,
-  "lost": 0,
-  "gf": 15,
-  "ga": 8,
-  "gd": 7,
   "points": 13
  },
  {
@@ -66,19 +66,6 @@
  },
  {
   "position": 6,
-  "team": "Frosinone",
-  "fotmob_team_id": "9891",
-  "played": 5,
-  "won": 3,
-  "drawn": 1,
-  "lost": 1,
-  "gf": 9,
-  "ga": 4,
-  "gd": 5,
-  "points": 10
- },
- {
-  "position": 7,
   "team": "Juventus",
   "fotmob_team_id": "9885",
   "played": 5,
@@ -91,7 +78,33 @@
   "points": 10
  },
  {
+  "position": 7,
+  "team": "Frosinone",
+  "fotmob_team_id": "9891",
+  "played": 6,
+  "won": 3,
+  "drawn": 1,
+  "lost": 2,
+  "gf": 9,
+  "ga": 6,
+  "gd": 3,
+  "points": 10
+ },
+ {
   "position": 8,
+  "team": "Napoli",
+  "fotmob_team_id": "9875",
+  "played": 6,
+  "won": 3,
+  "drawn": 1,
+  "lost": 2,
+  "gf": 9,
+  "ga": 6,
+  "gd": 3,
+  "points": 10
+ },
+ {
+  "position": 9,
   "team": "Como",
   "fotmob_team_id": "10171",
   "played": 5,
@@ -102,19 +115,6 @@
   "ga": 6,
   "gd": 3,
   "points": 10
- },
- {
-  "position": 9,
-  "team": "Napoli",
-  "fotmob_team_id": "9875",
-  "played": 5,
-  "won": 2,
-  "drawn": 1,
-  "lost": 2,
-  "gf": 7,
-  "ga": 6,
-  "gd": 1,
-  "points": 7
  },
  {
   "position": 10,
@@ -183,19 +183,6 @@
  },
  {
   "position": 15,
-  "team": "Parma",
-  "fotmob_team_id": "10167",
-  "played": 5,
-  "won": 1,
-  "drawn": 1,
-  "lost": 3,
-  "gf": 4,
-  "ga": 7,
-  "gd": -3,
-  "points": 4
- },
- {
-  "position": 16,
   "team": "Monza",
   "fotmob_team_id": "6504",
   "played": 5,
@@ -208,7 +195,7 @@
   "points": 4
  },
  {
-  "position": 17,
+  "position": 16,
   "team": "Genoa",
   "fotmob_team_id": "10233",
   "played": 6,
@@ -217,6 +204,19 @@
   "lost": 4,
   "gf": 5,
   "ga": 11,
+  "gd": -6,
+  "points": 4
+ },
+ {
+  "position": 17,
+  "team": "Parma",
+  "fotmob_team_id": "10167",
+  "played": 6,
+  "won": 1,
+  "drawn": 1,
+  "lost": 4,
+  "gf": 4,
+  "ga": 10,
   "gd": -6,
   "points": 4
  },

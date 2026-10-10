@@ -1,5 +1,23 @@
 [
  {
+  "team": "Inter",
+  "played": 6,
+  "won": 5,
+  "drawn": 1,
+  "lost": 0,
+  "gf": 18,
+  "ga": 8,
+  "gd": 10,
+  "points": 16,
+  "xg_for": 16.42,
+  "xg_against": 7.03,
+  "xpts": 13.12,
+  "xg_diff": 9.39,
+  "luck": 2.88,
+  "position": 1,
+  "xposition": 1
+ },
+ {
   "team": "Roma",
   "played": 5,
   "won": 4,
@@ -14,26 +32,8 @@
   "xpts": 11.11,
   "xg_diff": 7.82,
   "luck": 1.89,
-  "position": 1,
-  "xposition": 1
- },
- {
-  "team": "Inter",
-  "played": 5,
-  "won": 4,
-  "drawn": 1,
-  "lost": 0,
-  "gf": 15,
-  "ga": 8,
-  "gd": 7,
-  "points": 13,
-  "xg_for": 14.06,
-  "xg_against": 6.73,
-  "xpts": 10.47,
-  "xg_diff": 7.33,
-  "luck": 2.53,
   "position": 2,
-  "xposition": 3
+  "xposition": 2
  },
  {
   "team": "Lazio",
@@ -123,7 +123,7 @@
   "xg_diff": 5.38,
   "luck": -0.76,
   "position": 7,
-  "xposition": 2
+  "xposition": 3
  },
  {
   "team": "Como",
@@ -252,24 +252,6 @@
   "xposition": 17
  },
  {
-  "team": "Parma",
-  "played": 5,
-  "won": 1,
-  "drawn": 1,
-  "lost": 3,
-  "gf": 4,
-  "ga": 7,
-  "gd": -3,
-  "points": 4,
-  "xg_for": 3.27,
-  "xg_against": 8.24,
-  "xpts": 3.61,
-  "xg_diff": -4.97,
-  "luck": 0.39,
-  "position": 15,
-  "xposition": 18
- },
- {
   "team": "Monza",
   "played": 5,
   "won": 1,
@@ -284,7 +266,7 @@
   "xpts": 9.13,
   "xg_diff": 3.47,
   "luck": -5.13,
-  "position": 16,
+  "position": 15,
   "xposition": 5
  },
  {
@@ -302,8 +284,26 @@
   "xpts": 7.23,
   "xg_diff": -1.54,
   "luck": -3.23,
-  "position": 17,
+  "position": 16,
   "xposition": 12
+ },
+ {
+  "team": "Parma",
+  "played": 6,
+  "won": 1,
+  "drawn": 1,
+  "lost": 4,
+  "gf": 4,
+  "ga": 10,
+  "gd": -6,
+  "points": 4,
+  "xg_for": 3.57,
+  "xg_against": 10.6,
+  "xpts": 3.85,
+  "xg_diff": -7.03,
+  "luck": 0.15,
+  "position": 17,
+  "xposition": 18
  },
  {
   "team": "Fiorentina",
