@@ -183,6 +183,19 @@
  },
  {
   "position": 15,
+  "team": "Racing Santander",
+  "fotmob_team_id": "8696",
+  "played": 8,
+  "won": 2,
+  "drawn": 2,
+  "lost": 4,
+  "gf": 13,
+  "ga": 23,
+  "gd": -10,
+  "points": 8
+ },
+ {
+  "position": 16,
   "team": "Osasuna",
   "fotmob_team_id": "8371",
   "played": 8,
@@ -195,33 +208,7 @@
   "points": 8
  },
  {
-  "position": 16,
-  "team": "Valencia",
-  "fotmob_team_id": "10267",
-  "played": 8,
-  "won": 2,
-  "drawn": 1,
-  "lost": 5,
-  "gf": 5,
-  "ga": 13,
-  "gd": -8,
-  "points": 7
- },
- {
   "position": 17,
-  "team": "Racing Santander",
-  "fotmob_team_id": "8696",
-  "played": 8,
-  "won": 2,
-  "drawn": 1,
-  "lost": 5,
-  "gf": 11,
-  "ga": 22,
-  "gd": -11,
-  "points": 7
- },
- {
-  "position": 18,
   "team": "Elche",
   "fotmob_team_id": "10268",
   "played": 8,
@@ -234,7 +221,7 @@
   "points": 6
  },
  {
-  "position": 19,
+  "position": 18,
   "team": "Levante",
   "fotmob_team_id": "8581",
   "played": 6,
@@ -244,6 +231,19 @@
   "gf": 8,
   "ga": 12,
   "gd": -4,
+  "points": 5
+ },
+ {
+  "position": 19,
+  "team": "Valencia",
+  "fotmob_team_id": "10267",
+  "played": 8,
+  "won": 1,
+  "drawn": 2,
+  "lost": 5,
+  "gf": 6,
+  "ga": 15,
+  "gd": -9,
   "points": 5
  },
  {

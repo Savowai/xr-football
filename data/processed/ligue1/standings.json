@@ -83,9 +83,9 @@
   "points": 11,
   "xg_for": 9.56,
   "xg_against": 3.8,
-  "xpts": 11.75,
+  "xpts": 11.76,
   "xg_diff": 5.76,
-  "luck": -0.75,
+  "luck": -0.76,
   "position": 5,
   "xposition": 2
  },
@@ -195,7 +195,7 @@
   "xg_diff": -4.04,
   "luck": 1.53,
   "position": 11,
-  "xposition": 17
+  "xposition": 18
  },
  {
   "team": "Angers",
@@ -209,11 +209,29 @@
   "points": 7,
   "xg_for": 9.4,
   "xg_against": 10.42,
-  "xpts": 8.02,
+  "xpts": 8.03,
   "xg_diff": -1.02,
-  "luck": -1.02,
+  "luck": -1.03,
   "position": 12,
   "xposition": 8
+ },
+ {
+  "team": "Marseille",
+  "played": 6,
+  "won": 2,
+  "drawn": 0,
+  "lost": 4,
+  "gf": 9,
+  "ga": 8,
+  "gd": 1,
+  "points": 6,
+  "xg_for": 8.69,
+  "xg_against": 12.51,
+  "xpts": 6.96,
+  "xg_diff": -3.82,
+  "luck": -0.96,
+  "position": 13,
+  "xposition": 15
  },
  {
   "team": "Le Mans",
@@ -230,7 +248,7 @@
   "xpts": 6.97,
   "xg_diff": -3.37,
   "luck": -0.97,
-  "position": 13,
+  "position": 14,
   "xposition": 14
  },
  {
@@ -248,7 +266,7 @@
   "xpts": 9.99,
   "xg_diff": 2.7,
   "luck": -3.99,
-  "position": 14,
+  "position": 15,
   "xposition": 4
  },
  {
@@ -263,47 +281,29 @@
   "points": 6,
   "xg_for": 8.01,
   "xg_against": 12.13,
-  "xpts": 6.78,
+  "xpts": 6.79,
   "xg_diff": -4.12,
-  "luck": -0.78,
-  "position": 15,
-  "xposition": 15
+  "luck": -0.79,
+  "position": 16,
+  "xposition": 16
  },
  {
   "team": "Troyes",
-  "played": 5,
+  "played": 6,
   "won": 1,
   "drawn": 1,
-  "lost": 3,
-  "gf": 4,
-  "ga": 11,
-  "gd": -7,
-  "points": 4,
-  "xg_for": 6.88,
-  "xg_against": 9.8,
-  "xpts": 5.01,
-  "xg_diff": -2.92,
-  "luck": -1.01,
-  "position": 16,
-  "xposition": 18
- },
- {
-  "team": "Marseille",
-  "played": 5,
-  "won": 1,
-  "drawn": 0,
   "lost": 4,
-  "gf": 7,
-  "ga": 8,
-  "gd": -1,
-  "points": 3,
-  "xg_for": 7.43,
-  "xg_against": 11.37,
-  "xpts": 5.49,
-  "xg_diff": -3.94,
-  "luck": -2.49,
+  "gf": 4,
+  "ga": 13,
+  "gd": -9,
+  "points": 4,
+  "xg_for": 8.02,
+  "xg_against": 11.06,
+  "xpts": 6.3,
+  "xg_diff": -3.04,
+  "luck": -2.3,
   "position": 17,
-  "xposition": 16
+  "xposition": 17
  },
  {
   "team": "Le Havre",
