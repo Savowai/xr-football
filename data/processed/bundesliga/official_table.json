@@ -1,6 +1,19 @@
 [
  {
   "position": 1,
+  "team": "Freiburg",
+  "fotmob_team_id": "8358",
+  "played": 5,
+  "won": 4,
+  "drawn": 1,
+  "lost": 0,
+  "gf": 14,
+  "ga": 4,
+  "gd": 10,
+  "points": 13
+ },
+ {
+  "position": 2,
   "team": "Borussia Dortmund",
   "fotmob_team_id": "9789",
   "played": 5,
@@ -13,7 +26,7 @@
   "points": 13
  },
  {
-  "position": 2,
+  "position": 3,
   "team": "Bayern M\u00fcnchen",
   "fotmob_team_id": "9823",
   "played": 5,
@@ -24,19 +37,6 @@
   "ga": 4,
   "gd": 12,
   "points": 11
- },
- {
-  "position": 3,
-  "team": "Freiburg",
-  "fotmob_team_id": "8358",
-  "played": 4,
-  "won": 3,
-  "drawn": 1,
-  "lost": 0,
-  "gf": 12,
-  "ga": 3,
-  "gd": 9,
-  "points": 10
  },
  {
   "position": 4,
@@ -118,6 +118,19 @@
  },
  {
   "position": 10,
+  "team": "1. FC K\u00f6ln",
+  "fotmob_team_id": "8722",
+  "played": 5,
+  "won": 2,
+  "drawn": 1,
+  "lost": 2,
+  "gf": 8,
+  "ga": 10,
+  "gd": -2,
+  "points": 7
+ },
+ {
+  "position": 11,
   "team": "VfB Stuttgart",
   "fotmob_team_id": "10269",
   "played": 5,
@@ -130,7 +143,7 @@
   "points": 6
  },
  {
-  "position": 11,
+  "position": 12,
   "team": "Hamburger SV",
   "fotmob_team_id": "9790",
   "played": 5,
@@ -143,29 +156,16 @@
   "points": 6
  },
  {
-  "position": 12,
+  "position": 13,
   "team": "Schalke 04",
   "fotmob_team_id": "10189",
-  "played": 4,
-  "won": 1,
-  "drawn": 2,
-  "lost": 1,
-  "gf": 3,
-  "ga": 4,
-  "gd": -1,
-  "points": 5
- },
- {
-  "position": 13,
-  "team": "1. FC K\u00f6ln",
-  "fotmob_team_id": "8722",
   "played": 5,
   "won": 1,
   "drawn": 2,
   "lost": 2,
-  "gf": 7,
-  "ga": 10,
-  "gd": -3,
+  "gf": 4,
+  "ga": 6,
+  "gd": -2,
   "points": 5
  },
  {
@@ -226,11 +226,11 @@
   "fotmob_team_id": "9788",
   "played": 5,
   "won": 0,
-  "drawn": 1,
-  "lost": 4,
+  "drawn": 0,
+  "lost": 5,
   "gf": 7,
-  "ga": 17,
-  "gd": -10,
-  "points": 1
+  "ga": 18,
+  "gd": -11,
+  "points": 0
  }
 ]

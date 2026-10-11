@@ -5,14 +5,14 @@
   "country": "England",
   "season": "2026-27",
   "teams": 20,
-  "played": 56,
+  "played": 59,
   "matches": 380,
   "current_round": 6,
   "next_round": 6,
   "total_rounds": 38,
-  "xg_coverage": 56,
+  "xg_coverage": 59,
   "leader": "Manchester City",
-  "built_at": "2026-10-11T14:25:42.246939+00:00"
+  "built_at": "2026-10-11T19:13:51.820932+00:00"
  },
  {
   "key": "laliga",
@@ -20,14 +20,14 @@
   "country": "Spain",
   "season": "2026-27",
   "teams": 20,
-  "played": 74,
+  "played": 76,
   "matches": 380,
   "current_round": 8,
   "next_round": 6,
   "total_rounds": 38,
-  "xg_coverage": 73,
+  "xg_coverage": 75,
   "leader": "Barcelona",
-  "built_at": "2026-10-11T14:25:49.742388+00:00"
+  "built_at": "2026-10-11T19:14:02.077946+00:00"
  },
  {
   "key": "seriea",
@@ -35,14 +35,14 @@
   "country": "Italy",
   "season": "2026-27",
   "teams": 20,
-  "played": 54,
+  "played": 57,
   "matches": 380,
   "current_round": 6,
   "next_round": 6,
   "total_rounds": 38,
-  "xg_coverage": 54,
+  "xg_coverage": 57,
   "leader": "Inter",
-  "built_at": "2026-10-11T14:25:53.448528+00:00"
+  "built_at": "2026-10-11T19:14:11.924793+00:00"
  },
  {
   "key": "bundesliga",
@@ -50,14 +50,14 @@
   "country": "Germany",
   "season": "2026-27",
   "teams": 18,
-  "played": 43,
+  "played": 45,
   "matches": 306,
   "current_round": 5,
-  "next_round": 5,
+  "next_round": 6,
   "total_rounds": 34,
-  "xg_coverage": 43,
-  "leader": "Borussia Dortmund",
-  "built_at": "2026-10-11T14:25:55.816377+00:00"
+  "xg_coverage": 45,
+  "leader": "Freiburg",
+  "built_at": "2026-10-11T19:14:20.043626+00:00"
  },
  {
   "key": "ligue1",
@@ -65,13 +65,13 @@
   "country": "France",
   "season": "2026-27",
   "teams": 18,
-  "played": 51,
+  "played": 53,
   "matches": 306,
   "current_round": 6,
-  "next_round": 6,
+  "next_round": 7,
   "total_rounds": 34,
-  "xg_coverage": 51,
+  "xg_coverage": 53,
   "leader": "Monaco",
-  "built_at": "2026-10-11T14:25:58.302713+00:00"
+  "built_at": "2026-10-11T19:14:26.950381+00:00"
  }
 ]
