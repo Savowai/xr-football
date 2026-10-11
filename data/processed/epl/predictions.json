@@ -9917,7 +9917,7 @@
   "round": 6,
   "home": "Crystal Palace",
   "away": "Nottingham Forest",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 5,
    "goals": 1.2,
@@ -9944,8 +9944,8 @@
    "form": "LDDWL",
    "possession_pct": 47.6
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 3,
+  "away_goals": 1,
   "season": "2026-27",
   "pred_xg_home": 1.253,
   "pred_xg_away": 1.341,
@@ -10069,7 +10069,7 @@
   "round": 6,
   "home": "Hull City",
   "away": "Everton",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 5,
    "goals": 1.2,
@@ -10096,8 +10096,8 @@
    "form": "WDDDW",
    "possession_pct": 43.6
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 1,
+  "away_goals": 1,
   "season": "2026-27",
   "pred_xg_home": 1.163,
   "pred_xg_away": 1.142,
