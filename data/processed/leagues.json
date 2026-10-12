@@ -12,7 +12,7 @@
   "total_rounds": 38,
   "xg_coverage": 59,
   "leader": "Manchester City",
-  "built_at": "2026-10-12T02:46:58.759842+00:00"
+  "built_at": "2026-10-12T09:51:12.144946+00:00"
  },
  {
   "key": "laliga",
@@ -27,7 +27,7 @@
   "total_rounds": 38,
   "xg_coverage": 76,
   "leader": "Barcelona",
-  "built_at": "2026-10-12T02:47:03.658992+00:00"
+  "built_at": "2026-10-12T09:51:17.334455+00:00"
  },
  {
   "key": "seriea",
@@ -42,7 +42,7 @@
   "total_rounds": 38,
   "xg_coverage": 58,
   "leader": "Inter",
-  "built_at": "2026-10-12T02:47:06.285127+00:00"
+  "built_at": "2026-10-12T09:51:20.117839+00:00"
  },
  {
   "key": "bundesliga",
@@ -57,7 +57,7 @@
   "total_rounds": 34,
   "xg_coverage": 45,
   "leader": "Freiburg",
-  "built_at": "2026-10-12T02:47:08.535042+00:00"
+  "built_at": "2026-10-12T09:51:22.665336+00:00"
  },
  {
   "key": "ligue1",
@@ -72,6 +72,6 @@
   "total_rounds": 34,
   "xg_coverage": 54,
   "leader": "Monaco",
-  "built_at": "2026-10-12T02:47:10.738745+00:00"
+  "built_at": "2026-10-12T09:51:25.173523+00:00"
  }
 ]
