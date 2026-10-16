@@ -13922,7 +13922,7 @@
   "round": 9,
   "home": "Deportivo A Coru\u00f1a",
   "away": "Levante",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 6,
    "goals": 1.67,
@@ -13949,8 +13949,8 @@
    "form": "DWDLLD",
    "possession_pct": 41.8
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.811,
   "pred_xg_away": 1.408,

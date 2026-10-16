@@ -144,6 +144,32 @@
  },
  {
   "position": 12,
+  "team": "Le Mans",
+  "fotmob_team_id": "8682",
+  "played": 7,
+  "won": 1,
+  "drawn": 4,
+  "lost": 2,
+  "gf": 10,
+  "ga": 12,
+  "gd": -2,
+  "points": 7
+ },
+ {
+  "position": 13,
+  "team": "Toulouse",
+  "fotmob_team_id": "9941",
+  "played": 7,
+  "won": 1,
+  "drawn": 4,
+  "lost": 2,
+  "gf": 9,
+  "ga": 11,
+  "gd": -2,
+  "points": 7
+ },
+ {
+  "position": 14,
   "team": "Angers",
   "fotmob_team_id": "8121",
   "played": 6,
@@ -156,7 +182,7 @@
   "points": 7
  },
  {
-  "position": 13,
+  "position": 15,
   "team": "Marseille",
   "fotmob_team_id": "8592",
   "played": 6,
@@ -166,32 +192,6 @@
   "gf": 9,
   "ga": 8,
   "gd": 1,
-  "points": 6
- },
- {
-  "position": 14,
-  "team": "Le Mans",
-  "fotmob_team_id": "8682",
-  "played": 6,
-  "won": 1,
-  "drawn": 3,
-  "lost": 2,
-  "gf": 10,
-  "ga": 12,
-  "gd": -2,
-  "points": 6
- },
- {
-  "position": 15,
-  "team": "Toulouse",
-  "fotmob_team_id": "9941",
-  "played": 6,
-  "won": 1,
-  "drawn": 3,
-  "lost": 2,
-  "gf": 9,
-  "ga": 11,
-  "gd": -2,
   "points": 6
  },
  {

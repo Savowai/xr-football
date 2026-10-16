@@ -7970,7 +7970,7 @@
   "round": 6,
   "home": "Eintracht Frankfurt",
   "away": "1. FC K\u00f6ln",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 5,
    "goals": 1.8,
@@ -7997,8 +7997,8 @@
    "form": "WLDLW",
    "possession_pct": 49.2
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 2.313,
   "pred_xg_away": 1.628,
