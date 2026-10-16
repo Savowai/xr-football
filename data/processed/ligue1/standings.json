@@ -33,7 +33,7 @@
   "xg_diff": -1.93,
   "luck": 5.36,
   "position": 2,
-  "xposition": 10
+  "xposition": 11
  },
  {
   "team": "Rennes",
@@ -51,7 +51,7 @@
   "xg_diff": -1.59,
   "luck": 5.28,
   "position": 3,
-  "xposition": 9
+  "xposition": 10
  },
  {
   "team": "Lyon",
@@ -87,7 +87,7 @@
   "xg_diff": 5.76,
   "luck": -0.76,
   "position": 5,
-  "xposition": 2
+  "xposition": 3
  },
  {
   "team": "Paris Saint-Germain",
@@ -108,6 +108,24 @@
   "xposition": 1
  },
  {
+  "team": "Toulouse",
+  "played": 7,
+  "won": 2,
+  "drawn": 3,
+  "lost": 2,
+  "gf": 12,
+  "ga": 11,
+  "gd": 1,
+  "points": 9,
+  "xg_for": 13.85,
+  "xg_against": 10.29,
+  "xpts": 11.96,
+  "xg_diff": 3.56,
+  "luck": -2.96,
+  "position": 7,
+  "xposition": 2
+ },
+ {
   "team": "Brest",
   "played": 6,
   "won": 2,
@@ -122,8 +140,8 @@
   "xpts": 11.34,
   "xg_diff": 6.31,
   "luck": -3.34,
-  "position": 7,
-  "xposition": 3
+  "position": 8,
+  "xposition": 4
  },
  {
   "team": "Lorient",
@@ -140,8 +158,8 @@
   "xpts": 7.48,
   "xg_diff": -1.02,
   "luck": 0.52,
-  "position": 8,
-  "xposition": 12
+  "position": 9,
+  "xposition": 13
  },
  {
   "team": "Nice",
@@ -158,8 +176,8 @@
   "xpts": 7.06,
   "xg_diff": -2.1,
   "luck": 0.94,
-  "position": 9,
-  "xposition": 13
+  "position": 10,
+  "xposition": 14
  },
  {
   "team": "Lens",
@@ -176,7 +194,7 @@
   "xpts": 9.09,
   "xg_diff": 2.03,
   "luck": -2.09,
-  "position": 10,
+  "position": 11,
   "xposition": 6
  },
  {
@@ -194,7 +212,7 @@
   "xpts": 5.47,
   "xg_diff": -4.04,
   "luck": 1.53,
-  "position": 11,
+  "position": 12,
   "xposition": 18
  },
  {
@@ -212,7 +230,7 @@
   "xpts": 8.03,
   "xg_diff": -1.02,
   "luck": -1.03,
-  "position": 12,
+  "position": 13,
   "xposition": 8
  },
  {
@@ -230,44 +248,26 @@
   "xpts": 6.96,
   "xg_diff": -3.82,
   "luck": -0.96,
-  "position": 13,
+  "position": 14,
   "xposition": 15
  },
  {
   "team": "Le Mans",
-  "played": 6,
+  "played": 7,
   "won": 1,
   "drawn": 3,
-  "lost": 2,
+  "lost": 3,
   "gf": 10,
-  "ga": 12,
-  "gd": -2,
+  "ga": 15,
+  "gd": -5,
   "points": 6,
-  "xg_for": 9.93,
-  "xg_against": 13.3,
-  "xpts": 6.97,
-  "xg_diff": -3.37,
-  "luck": -0.97,
-  "position": 14,
-  "xposition": 14
- },
- {
-  "team": "Toulouse",
-  "played": 6,
-  "won": 1,
-  "drawn": 3,
-  "lost": 2,
-  "gf": 9,
-  "ga": 11,
-  "gd": -2,
-  "points": 6,
-  "xg_for": 12.04,
-  "xg_against": 9.34,
-  "xpts": 9.99,
-  "xg_diff": 2.7,
-  "luck": -3.99,
+  "xg_for": 10.88,
+  "xg_against": 15.11,
+  "xpts": 7.79,
+  "xg_diff": -4.23,
+  "luck": -1.79,
   "position": 15,
-  "xposition": 4
+  "xposition": 9
  },
  {
   "team": "Auxerre",
@@ -321,6 +321,6 @@
   "xg_diff": -1.16,
   "luck": -5.56,
   "position": 18,
-  "xposition": 11
+  "xposition": 12
  }
 ]

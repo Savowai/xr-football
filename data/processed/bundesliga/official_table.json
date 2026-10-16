@@ -92,15 +92,15 @@
  },
  {
   "position": 8,
-  "team": "1. FC K\u00f6ln",
-  "fotmob_team_id": "8722",
+  "team": "Eintracht Frankfurt",
+  "fotmob_team_id": "9810",
   "played": 6,
   "won": 2,
   "drawn": 2,
   "lost": 2,
-  "gf": 8,
-  "ga": 10,
-  "gd": -2,
+  "gf": 10,
+  "ga": 16,
+  "gd": -6,
   "points": 8
  },
  {
@@ -131,6 +131,19 @@
  },
  {
   "position": 11,
+  "team": "1. FC K\u00f6ln",
+  "fotmob_team_id": "8722",
+  "played": 6,
+  "won": 2,
+  "drawn": 1,
+  "lost": 3,
+  "gf": 8,
+  "ga": 11,
+  "gd": -3,
+  "points": 7
+ },
+ {
+  "position": 12,
   "team": "VfB Stuttgart",
   "fotmob_team_id": "10269",
   "played": 5,
@@ -140,19 +153,6 @@
   "gf": 8,
   "ga": 9,
   "gd": -1,
-  "points": 6
- },
- {
-  "position": 12,
-  "team": "Eintracht Frankfurt",
-  "fotmob_team_id": "9810",
-  "played": 6,
-  "won": 1,
-  "drawn": 3,
-  "lost": 2,
-  "gf": 9,
-  "ga": 16,
-  "gd": -7,
   "points": 6
  },
  {
