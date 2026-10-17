@@ -40,6 +40,19 @@
  },
  {
   "position": 4,
+  "team": "Chelsea",
+  "fotmob_team_id": "8455",
+  "played": 7,
+  "won": 4,
+  "drawn": 1,
+  "lost": 2,
+  "gf": 16,
+  "ga": 13,
+  "gd": 3,
+  "points": 13
+ },
+ {
+  "position": 5,
   "team": "Brentford",
   "fotmob_team_id": "9937",
   "played": 6,
@@ -52,28 +65,15 @@
   "points": 10
  },
  {
-  "position": 5,
+  "position": 6,
   "team": "Everton",
   "fotmob_team_id": "8668",
-  "played": 6,
+  "played": 7,
   "won": 2,
   "drawn": 4,
-  "lost": 0,
+  "lost": 1,
   "gf": 8,
-  "ga": 5,
-  "gd": 3,
-  "points": 10
- },
- {
-  "position": 6,
-  "team": "Chelsea",
-  "fotmob_team_id": "8455",
-  "played": 6,
-  "won": 3,
-  "drawn": 1,
-  "lost": 2,
-  "gf": 15,
-  "ga": 13,
+  "ga": 6,
   "gd": 2,
   "points": 10
  },

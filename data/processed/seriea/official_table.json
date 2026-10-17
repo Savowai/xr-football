@@ -79,6 +79,19 @@
  },
  {
   "position": 7,
+  "team": "Napoli",
+  "fotmob_team_id": "9875",
+  "played": 7,
+  "won": 3,
+  "drawn": 2,
+  "lost": 2,
+  "gf": 10,
+  "ga": 6,
+  "gd": 4,
+  "points": 11
+ },
+ {
+  "position": 8,
   "team": "Juventus",
   "fotmob_team_id": "9885",
   "played": 6,
@@ -91,7 +104,7 @@
   "points": 11
  },
  {
-  "position": 8,
+  "position": 9,
   "team": "Como",
   "fotmob_team_id": "10171",
   "played": 6,
@@ -102,19 +115,6 @@
   "ga": 6,
   "gd": 3,
   "points": 11
- },
- {
-  "position": 9,
-  "team": "Napoli",
-  "fotmob_team_id": "9875",
-  "played": 6,
-  "won": 3,
-  "drawn": 1,
-  "lost": 2,
-  "gf": 10,
-  "ga": 6,
-  "gd": 4,
-  "points": 10
  },
  {
   "position": 10,
@@ -250,13 +250,13 @@
   "position": 20,
   "team": "Venezia",
   "fotmob_team_id": "7881",
-  "played": 6,
+  "played": 7,
   "won": 0,
-  "drawn": 0,
+  "drawn": 1,
   "lost": 6,
   "gf": 5,
   "ga": 16,
   "gd": -11,
-  "points": 0
+  "points": 1
  }
 ]
