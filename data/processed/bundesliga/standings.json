@@ -1,5 +1,23 @@
 [
  {
+  "team": "Bayern M\u00fcnchen",
+  "played": 6,
+  "won": 4,
+  "drawn": 2,
+  "lost": 0,
+  "gf": 22,
+  "ga": 5,
+  "gd": 17,
+  "points": 14,
+  "xg_for": 20.97,
+  "xg_against": 5.49,
+  "xpts": 15.65,
+  "xg_diff": 15.48,
+  "luck": -1.65,
+  "position": 1,
+  "xposition": 1
+ },
+ {
   "team": "Borussia Dortmund",
   "played": 6,
   "won": 4,
@@ -14,7 +32,7 @@
   "xpts": 11.19,
   "xg_diff": 4.31,
   "luck": 2.81,
-  "position": 1,
+  "position": 2,
   "xposition": 3
  },
  {
@@ -29,29 +47,11 @@
   "points": 13,
   "xg_for": 9.69,
   "xg_against": 3.19,
-  "xpts": 11.02,
+  "xpts": 11.01,
   "xg_diff": 6.5,
-  "luck": 1.98,
-  "position": 2,
-  "xposition": 4
- },
- {
-  "team": "Bayern M\u00fcnchen",
-  "played": 5,
-  "won": 3,
-  "drawn": 2,
-  "lost": 0,
-  "gf": 16,
-  "ga": 4,
-  "gd": 12,
-  "points": 11,
-  "xg_for": 17.21,
-  "xg_against": 4.65,
-  "xpts": 12.93,
-  "xg_diff": 12.56,
-  "luck": -1.93,
+  "luck": 1.99,
   "position": 3,
-  "xposition": 1
+  "xposition": 4
  },
  {
   "team": "Bayer Leverkusen",
@@ -69,7 +69,7 @@
   "xg_diff": 4.78,
   "luck": 0.27,
   "position": 4,
-  "xposition": 5
+  "xposition": 6
  },
  {
   "team": "Mainz 05",
@@ -101,29 +101,29 @@
   "points": 10,
   "xg_for": 9.33,
   "xg_against": 12.76,
-  "xpts": 6.05,
+  "xpts": 6.04,
   "xg_diff": -3.43,
-  "luck": 3.95,
+  "luck": 3.96,
   "position": 6,
   "xposition": 14
  },
  {
   "team": "RB Leipzig",
-  "played": 5,
+  "played": 6,
   "won": 3,
   "drawn": 0,
-  "lost": 2,
-  "gf": 15,
-  "ga": 5,
-  "gd": 10,
+  "lost": 3,
+  "gf": 16,
+  "ga": 11,
+  "gd": 5,
   "points": 9,
-  "xg_for": 11.97,
-  "xg_against": 6.61,
-  "xpts": 9.59,
-  "xg_diff": 5.36,
-  "luck": -0.59,
+  "xg_for": 12.81,
+  "xg_against": 10.37,
+  "xpts": 9.8,
+  "xg_diff": 2.44,
+  "luck": -0.8,
   "position": 7,
-  "xposition": 6
+  "xposition": 5
  },
  {
   "team": "Werder Bremen",
@@ -263,9 +263,9 @@
   "points": 5,
   "xg_for": 5.4,
   "xg_against": 10.62,
-  "xpts": 4.85,
+  "xpts": 4.84,
   "xg_diff": -5.22,
-  "luck": 0.15,
+  "luck": 0.16,
   "position": 15,
   "xposition": 18
  },

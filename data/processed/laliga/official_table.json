@@ -4,13 +4,13 @@
   "team": "Barcelona",
   "fotmob_team_id": "8634",
   "played": 9,
-  "won": 8,
-  "drawn": 1,
+  "won": 9,
+  "drawn": 0,
   "lost": 0,
-  "gf": 34,
-  "ga": 7,
-  "gd": 27,
-  "points": 25
+  "gf": 39,
+  "ga": 9,
+  "gd": 30,
+  "points": 27
  },
  {
   "position": 2,
@@ -31,12 +31,12 @@
   "fotmob_team_id": "8603",
   "played": 9,
   "won": 6,
-  "drawn": 2,
-  "lost": 1,
-  "gf": 14,
-  "ga": 9,
-  "gd": 5,
-  "points": 20
+  "drawn": 1,
+  "lost": 2,
+  "gf": 16,
+  "ga": 14,
+  "gd": 2,
+  "points": 19
  },
  {
   "position": 4,

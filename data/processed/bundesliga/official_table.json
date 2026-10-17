@@ -1,6 +1,19 @@
 [
  {
   "position": 1,
+  "team": "Bayern M\u00fcnchen",
+  "fotmob_team_id": "9823",
+  "played": 6,
+  "won": 4,
+  "drawn": 2,
+  "lost": 0,
+  "gf": 22,
+  "ga": 5,
+  "gd": 17,
+  "points": 14
+ },
+ {
+  "position": 2,
   "team": "Borussia Dortmund",
   "fotmob_team_id": "9789",
   "played": 6,
@@ -13,7 +26,7 @@
   "points": 14
  },
  {
-  "position": 2,
+  "position": 3,
   "team": "Freiburg",
   "fotmob_team_id": "8358",
   "played": 5,
@@ -26,33 +39,7 @@
   "points": 13
  },
  {
-  "position": 3,
-  "team": "Bayern M\u00fcnchen",
-  "fotmob_team_id": "9823",
-  "played": 6,
-  "won": 3,
-  "drawn": 3,
-  "lost": 0,
-  "gf": 16,
-  "ga": 4,
-  "gd": 12,
-  "points": 12
- },
- {
   "position": 4,
-  "team": "RB Leipzig",
-  "fotmob_team_id": "178475",
-  "played": 6,
-  "won": 3,
-  "drawn": 1,
-  "lost": 2,
-  "gf": 15,
-  "ga": 5,
-  "gd": 10,
-  "points": 10
- },
- {
-  "position": 5,
   "team": "Bayer Leverkusen",
   "fotmob_team_id": "8178",
   "played": 5,
@@ -65,7 +52,7 @@
   "points": 10
  },
  {
-  "position": 6,
+  "position": 5,
   "team": "Mainz 05",
   "fotmob_team_id": "9905",
   "played": 6,
@@ -78,7 +65,7 @@
   "points": 10
  },
  {
-  "position": 7,
+  "position": 6,
   "team": "Elversberg",
   "fotmob_team_id": "8232",
   "played": 6,
@@ -89,6 +76,19 @@
   "ga": 11,
   "gd": 1,
   "points": 10
+ },
+ {
+  "position": 7,
+  "team": "RB Leipzig",
+  "fotmob_team_id": "178475",
+  "played": 6,
+  "won": 3,
+  "drawn": 0,
+  "lost": 3,
+  "gf": 16,
+  "ga": 11,
+  "gd": 5,
+  "points": 9
  },
  {
   "position": 8,
