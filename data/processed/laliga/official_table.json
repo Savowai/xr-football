@@ -27,6 +27,19 @@
  },
  {
   "position": 3,
+  "team": "Real Madrid",
+  "fotmob_team_id": "8633",
+  "played": 9,
+  "won": 7,
+  "drawn": 0,
+  "lost": 2,
+  "gf": 21,
+  "ga": 8,
+  "gd": 13,
+  "points": 21
+ },
+ {
+  "position": 4,
   "team": "Real Betis",
   "fotmob_team_id": "8603",
   "played": 9,
@@ -39,19 +52,6 @@
   "points": 19
  },
  {
-  "position": 4,
-  "team": "Real Madrid",
-  "fotmob_team_id": "8633",
-  "played": 8,
-  "won": 6,
-  "drawn": 0,
-  "lost": 2,
-  "gf": 19,
-  "ga": 8,
-  "gd": 11,
-  "points": 18
- },
- {
   "position": 5,
   "team": "Real Sociedad",
   "fotmob_team_id": "8560",
@@ -59,22 +59,22 @@
   "won": 5,
   "drawn": 1,
   "lost": 3,
-  "gf": 14,
-  "ga": 15,
-  "gd": -1,
+  "gf": 17,
+  "ga": 17,
+  "gd": 0,
   "points": 16
  },
  {
   "position": 6,
   "team": "Sevilla",
   "fotmob_team_id": "8302",
-  "played": 8,
+  "played": 9,
   "won": 4,
   "drawn": 2,
-  "lost": 2,
+  "lost": 3,
   "gf": 13,
-  "ga": 12,
-  "gd": 1,
+  "ga": 14,
+  "gd": -1,
   "points": 14
  },
  {
@@ -254,9 +254,9 @@
   "won": 0,
   "drawn": 4,
   "lost": 5,
-  "gf": 4,
-  "ga": 15,
-  "gd": -11,
+  "gf": 6,
+  "ga": 18,
+  "gd": -12,
   "points": 4
  }
 ]

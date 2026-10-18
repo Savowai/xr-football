@@ -51,7 +51,25 @@
   "xg_diff": 1.52,
   "luck": 6.61,
   "position": 3,
-  "xposition": 9
+  "xposition": 10
+ },
+ {
+  "team": "Milan",
+  "played": 7,
+  "won": 4,
+  "drawn": 3,
+  "lost": 0,
+  "gf": 14,
+  "ga": 7,
+  "gd": 7,
+  "points": 15,
+  "xg_for": 11.05,
+  "xg_against": 8.69,
+  "xpts": 11.06,
+  "xg_diff": 2.36,
+  "luck": 3.94,
+  "position": 4,
+  "xposition": 5
  },
  {
   "team": "Como",
@@ -68,8 +86,8 @@
   "xpts": 10.95,
   "xg_diff": 2.16,
   "luck": 3.05,
-  "position": 4,
-  "xposition": 5
+  "position": 5,
+  "xposition": 6
  },
  {
   "team": "Frosinone",
@@ -86,7 +104,7 @@
   "xpts": 7.06,
   "xg_diff": -4.8,
   "luck": 5.94,
-  "position": 5,
+  "position": 6,
   "xposition": 15
  },
  {
@@ -104,26 +122,8 @@
   "xpts": 6.29,
   "xg_diff": -4.47,
   "luck": 6.71,
-  "position": 6,
-  "xposition": 17
- },
- {
-  "team": "Milan",
-  "played": 6,
-  "won": 3,
-  "drawn": 3,
-  "lost": 0,
-  "gf": 11,
-  "ga": 5,
-  "gd": 6,
-  "points": 12,
-  "xg_for": 8.64,
-  "xg_against": 7.04,
-  "xpts": 9.23,
-  "xg_diff": 1.6,
-  "luck": 2.77,
   "position": 7,
-  "xposition": 10
+  "xposition": 17
  },
  {
   "team": "Juventus",
@@ -163,19 +163,19 @@
  },
  {
   "team": "Atalanta",
-  "played": 6,
+  "played": 7,
   "won": 3,
   "drawn": 0,
-  "lost": 3,
-  "gf": 8,
-  "ga": 8,
-  "gd": 0,
+  "lost": 4,
+  "gf": 10,
+  "ga": 11,
+  "gd": -1,
   "points": 9,
-  "xg_for": 5.73,
-  "xg_against": 11.75,
-  "xpts": 4.7,
-  "xg_diff": -6.02,
-  "luck": 4.3,
+  "xg_for": 7.38,
+  "xg_against": 14.16,
+  "xpts": 5.68,
+  "xg_diff": -6.78,
+  "luck": 3.32,
   "position": 10,
   "xposition": 19
  },
@@ -213,7 +213,7 @@
   "xg_diff": 2.0,
   "luck": -2.82,
   "position": 12,
-  "xposition": 7
+  "xposition": 8
  },
  {
   "team": "Torino",
@@ -267,7 +267,7 @@
   "xg_diff": 3.8,
   "luck": -6.68,
   "position": 15,
-  "xposition": 8
+  "xposition": 9
  },
  {
   "team": "Parma",
@@ -339,7 +339,7 @@
   "xg_diff": 1.73,
   "luck": -6.83,
   "position": 19,
-  "xposition": 6
+  "xposition": 7
  },
  {
   "team": "Venezia",

@@ -51,7 +51,7 @@
   "xg_diff": -3.1,
   "luck": 7.94,
   "position": 3,
-  "xposition": 10
+  "xposition": 11
  },
  {
   "team": "Real Madrid",
@@ -72,6 +72,24 @@
   "xposition": 2
  },
  {
+  "team": "Real Sociedad",
+  "played": 9,
+  "won": 5,
+  "drawn": 1,
+  "lost": 3,
+  "gf": 17,
+  "ga": 17,
+  "gd": 0,
+  "points": 16,
+  "xg_for": 12.34,
+  "xg_against": 14.56,
+  "xpts": 11.51,
+  "xg_diff": -2.22,
+  "luck": 4.49,
+  "position": 5,
+  "xposition": 8
+ },
+ {
   "team": "Sevilla",
   "played": 8,
   "won": 4,
@@ -86,26 +104,8 @@
   "xpts": 10.97,
   "xg_diff": -0.99,
   "luck": 3.03,
-  "position": 5,
-  "xposition": 11
- },
- {
-  "team": "Real Sociedad",
-  "played": 8,
-  "won": 4,
-  "drawn": 1,
-  "lost": 3,
-  "gf": 12,
-  "ga": 15,
-  "gd": -3,
-  "points": 13,
-  "xg_for": 9.93,
-  "xg_against": 13.5,
-  "xpts": 9.33,
-  "xg_diff": -3.57,
-  "luck": 3.67,
   "position": 6,
-  "xposition": 15
+  "xposition": 12
  },
  {
   "team": "Deportivo Alav\u00e9s",
@@ -119,9 +119,9 @@
   "points": 11,
   "xg_for": 11.12,
   "xg_against": 10.79,
-  "xpts": 12.46,
+  "xpts": 12.47,
   "xg_diff": 0.33,
-  "luck": -1.46,
+  "luck": -1.47,
   "position": 7,
   "xposition": 6
  },
@@ -141,7 +141,7 @@
   "xg_diff": -2.92,
   "luck": 0.55,
   "position": 8,
-  "xposition": 12
+  "xposition": 13
  },
  {
   "team": "Deportivo A Coru\u00f1a",
@@ -159,7 +159,7 @@
   "xg_diff": -0.6,
   "luck": -0.24,
   "position": 9,
-  "xposition": 8
+  "xposition": 9
  },
  {
   "team": "Osasuna",
@@ -195,7 +195,7 @@
   "xg_diff": 0.91,
   "luck": -2.19,
   "position": 11,
-  "xposition": 9
+  "xposition": 10
  },
  {
   "team": "Villarreal",
@@ -267,7 +267,7 @@
   "xg_diff": -5.73,
   "luck": 1.15,
   "position": 15,
-  "xposition": 19
+  "xposition": 20
  },
  {
   "team": "Racing Santander",
@@ -321,7 +321,7 @@
   "xg_diff": -6.89,
   "luck": -2.9,
   "position": 18,
-  "xposition": 14
+  "xposition": 15
  },
  {
   "team": "Valencia",
@@ -339,24 +339,24 @@
   "xg_diff": -4.36,
   "luck": -4.2,
   "position": 19,
-  "xposition": 13
+  "xposition": 14
  },
  {
   "team": "M\u00e1laga",
-  "played": 8,
+  "played": 9,
   "won": 0,
   "drawn": 4,
-  "lost": 4,
-  "gf": 4,
-  "ga": 13,
-  "gd": -9,
+  "lost": 5,
+  "gf": 6,
+  "ga": 18,
+  "gd": -12,
   "points": 4,
-  "xg_for": 6.34,
-  "xg_against": 11.55,
-  "xpts": 6.67,
-  "xg_diff": -5.21,
-  "luck": -2.67,
+  "xg_for": 7.4,
+  "xg_against": 13.96,
+  "xpts": 7.28,
+  "xg_diff": -6.56,
+  "luck": -3.28,
   "position": 20,
-  "xposition": 20
+  "xposition": 19
  }
 ]
