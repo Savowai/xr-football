@@ -33,43 +33,43 @@
   "xg_diff": 4.31,
   "luck": 2.81,
   "position": 2,
-  "xposition": 3
+  "xposition": 5
  },
  {
   "team": "Freiburg",
-  "played": 5,
+  "played": 6,
   "won": 4,
   "drawn": 1,
-  "lost": 0,
-  "gf": 14,
-  "ga": 4,
-  "gd": 10,
+  "lost": 1,
+  "gf": 15,
+  "ga": 6,
+  "gd": 9,
   "points": 13,
-  "xg_for": 9.69,
-  "xg_against": 3.19,
-  "xpts": 11.01,
-  "xg_diff": 6.5,
-  "luck": 1.99,
+  "xg_for": 10.75,
+  "xg_against": 4.82,
+  "xpts": 12.0,
+  "xg_diff": 5.93,
+  "luck": 1.0,
   "position": 3,
-  "xposition": 4
+  "xposition": 2
  },
  {
   "team": "Bayer Leverkusen",
-  "played": 5,
-  "won": 3,
+  "played": 6,
+  "won": 4,
   "drawn": 1,
   "lost": 1,
-  "gf": 14,
-  "ga": 8,
-  "gd": 6,
-  "points": 10,
-  "xg_for": 11.25,
-  "xg_against": 6.47,
-  "xpts": 9.73,
-  "xg_diff": 4.78,
-  "luck": 0.27,
+  "gf": 16,
+  "ga": 9,
+  "gd": 7,
+  "points": 13,
+  "xg_for": 12.88,
+  "xg_against": 7.53,
+  "xpts": 11.49,
+  "xg_diff": 5.35,
+  "luck": 1.51,
   "position": 4,
-  "xposition": 6
+  "xposition": 3
  },
  {
   "team": "Mainz 05",
@@ -87,7 +87,7 @@
   "xg_diff": 4.79,
   "luck": -1.35,
   "position": 5,
-  "xposition": 2
+  "xposition": 4
  },
  {
   "team": "Elversberg",
@@ -101,9 +101,9 @@
   "points": 10,
   "xg_for": 9.33,
   "xg_against": 12.76,
-  "xpts": 6.04,
+  "xpts": 6.05,
   "xg_diff": -3.43,
-  "luck": 3.96,
+  "luck": 3.95,
   "position": 6,
   "xposition": 14
  },
@@ -123,7 +123,7 @@
   "xg_diff": 2.44,
   "luck": -0.8,
   "position": 7,
-  "xposition": 5
+  "xposition": 6
  },
  {
   "team": "Werder Bremen",
@@ -141,7 +141,7 @@
   "xg_diff": -1.52,
   "luck": 1.69,
   "position": 8,
-  "xposition": 10
+  "xposition": 11
  },
  {
   "team": "Hamburger SV",
@@ -195,7 +195,7 @@
   "xg_diff": -1.73,
   "luck": 0.26,
   "position": 11,
-  "xposition": 8
+  "xposition": 9
  },
  {
   "team": "1. FC K\u00f6ln",
@@ -213,7 +213,7 @@
   "xg_diff": -0.33,
   "luck": -1.14,
   "position": 12,
-  "xposition": 7
+  "xposition": 8
  },
  {
   "team": "VfB Stuttgart",
@@ -231,7 +231,25 @@
   "xg_diff": -2.67,
   "luck": -1.35,
   "position": 13,
-  "xposition": 9
+  "xposition": 10
+ },
+ {
+  "team": "Hoffenheim",
+  "played": 6,
+  "won": 2,
+  "drawn": 0,
+  "lost": 4,
+  "gf": 11,
+  "ga": 14,
+  "gd": -3,
+  "points": 6,
+  "xg_for": 10.48,
+  "xg_against": 8.51,
+  "xpts": 9.68,
+  "xg_diff": 1.97,
+  "luck": -3.68,
+  "position": 14,
+  "xposition": 7
  },
  {
   "team": "Schalke 04",
@@ -248,8 +266,8 @@
   "xpts": 5.15,
   "xg_diff": -4.73,
   "luck": -0.15,
-  "position": 14,
-  "xposition": 16
+  "position": 15,
+  "xposition": 17
  },
  {
   "team": "Paderborn",
@@ -263,10 +281,10 @@
   "points": 5,
   "xg_for": 5.4,
   "xg_against": 10.62,
-  "xpts": 4.84,
+  "xpts": 4.85,
   "xg_diff": -5.22,
-  "luck": 0.16,
-  "position": 15,
+  "luck": 0.15,
+  "position": 16,
   "xposition": 18
  },
  {
@@ -284,43 +302,25 @@
   "xpts": 6.34,
   "xg_diff": -5.45,
   "luck": -1.34,
-  "position": 16,
+  "position": 17,
   "xposition": 12
  },
  {
-  "team": "Hoffenheim",
-  "played": 5,
-  "won": 1,
-  "drawn": 0,
-  "lost": 4,
-  "gf": 9,
-  "ga": 13,
-  "gd": -4,
-  "points": 3,
-  "xg_for": 8.7,
-  "xg_against": 8.17,
-  "xpts": 7.28,
-  "xg_diff": 0.53,
-  "luck": -4.28,
-  "position": 17,
-  "xposition": 11
- },
- {
   "team": "Borussia M\u00f6nchengladbach",
-  "played": 5,
+  "played": 6,
   "won": 0,
   "drawn": 0,
-  "lost": 5,
-  "gf": 7,
-  "ga": 18,
-  "gd": -11,
+  "lost": 6,
+  "gf": 8,
+  "ga": 20,
+  "gd": -12,
   "points": 0,
-  "xg_for": 8.18,
-  "xg_against": 12.6,
-  "xpts": 4.88,
-  "xg_diff": -4.42,
-  "luck": -4.88,
+  "xg_for": 8.52,
+  "xg_against": 14.38,
+  "xpts": 5.28,
+  "xg_diff": -5.86,
+  "luck": -5.28,
   "position": 18,
-  "xposition": 17
+  "xposition": 16
  }
 ]

@@ -14,6 +14,19 @@
  },
  {
   "position": 2,
+  "team": "Arsenal",
+  "fotmob_team_id": "9825",
+  "played": 7,
+  "won": 6,
+  "drawn": 0,
+  "lost": 1,
+  "gf": 11,
+  "ga": 5,
+  "gd": 6,
+  "points": 18
+ },
+ {
+  "position": 3,
   "team": "Brighton",
   "fotmob_team_id": "10204",
   "played": 7,
@@ -24,19 +37,6 @@
   "ga": 5,
   "gd": 18,
   "points": 16
- },
- {
-  "position": 3,
-  "team": "Arsenal",
-  "fotmob_team_id": "9825",
-  "played": 6,
-  "won": 5,
-  "drawn": 0,
-  "lost": 1,
-  "gf": 10,
-  "ga": 5,
-  "gd": 5,
-  "points": 15
  },
  {
   "position": 4,
@@ -224,13 +224,13 @@
   "position": 18,
   "team": "Nottingham Forest",
   "fotmob_team_id": "10203",
-  "played": 6,
+  "played": 7,
   "won": 1,
   "drawn": 2,
-  "lost": 3,
+  "lost": 4,
   "gf": 5,
-  "ga": 8,
-  "gd": -3,
+  "ga": 9,
+  "gd": -4,
   "points": 5
  },
  {

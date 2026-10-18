@@ -53,6 +53,19 @@
  },
  {
   "position": 5,
+  "team": "Real Sociedad",
+  "fotmob_team_id": "8560",
+  "played": 9,
+  "won": 5,
+  "drawn": 1,
+  "lost": 3,
+  "gf": 14,
+  "ga": 15,
+  "gd": -1,
+  "points": 16
+ },
+ {
+  "position": 6,
   "team": "Sevilla",
   "fotmob_team_id": "8302",
   "played": 8,
@@ -65,33 +78,33 @@
   "points": 14
  },
  {
-  "position": 6,
-  "team": "Real Sociedad",
-  "fotmob_team_id": "8560",
-  "played": 8,
-  "won": 4,
-  "drawn": 1,
-  "lost": 3,
-  "gf": 12,
-  "ga": 15,
-  "gd": -3,
-  "points": 13
- },
- {
   "position": 7,
   "team": "Deportivo Alav\u00e9s",
   "fotmob_team_id": "9866",
   "played": 9,
   "won": 3,
-  "drawn": 3,
-  "lost": 3,
-  "gf": 12,
-  "ga": 8,
-  "gd": 4,
-  "points": 12
+  "drawn": 2,
+  "lost": 4,
+  "gf": 13,
+  "ga": 10,
+  "gd": 3,
+  "points": 11
  },
  {
   "position": 8,
+  "team": "Celta Vigo",
+  "fotmob_team_id": "9910",
+  "played": 9,
+  "won": 2,
+  "drawn": 5,
+  "lost": 2,
+  "gf": 10,
+  "ga": 7,
+  "gd": 3,
+  "points": 11
+ },
+ {
+  "position": 9,
   "team": "Deportivo A Coru\u00f1a",
   "fotmob_team_id": "9783",
   "played": 9,
@@ -104,7 +117,7 @@
   "points": 11
  },
  {
-  "position": 9,
+  "position": 10,
   "team": "Osasuna",
   "fotmob_team_id": "8371",
   "played": 9,
@@ -115,19 +128,6 @@
   "ga": 18,
   "gd": -8,
   "points": 11
- },
- {
-  "position": 10,
-  "team": "Celta Vigo",
-  "fotmob_team_id": "9910",
-  "played": 9,
-  "won": 1,
-  "drawn": 6,
-  "lost": 2,
-  "gf": 8,
-  "ga": 6,
-  "gd": 2,
-  "points": 9
  },
  {
   "position": 11,
@@ -250,13 +250,13 @@
   "position": 20,
   "team": "M\u00e1laga",
   "fotmob_team_id": "9864",
-  "played": 8,
+  "played": 9,
   "won": 0,
   "drawn": 4,
-  "lost": 4,
+  "lost": 5,
   "gf": 4,
-  "ga": 13,
-  "gd": -9,
+  "ga": 15,
+  "gd": -11,
   "points": 4
  }
 ]
