@@ -12,10 +12,10 @@
  {
   "team": "Lyon",
   "attack": 1.08,
-  "defence": 0.799,
+  "defence": 0.8,
   "expected_gf_per_game": 1.4,
   "expected_ga_per_game": 1.04,
-  "net_rating": 0.364,
+  "net_rating": 0.363,
   "evidence_matches": 5.1,
   "rank": 2
  },
@@ -35,24 +35,24 @@
   "defence": 0.763,
   "expected_gf_per_game": 1.25,
   "expected_ga_per_game": 0.99,
-  "net_rating": 0.263,
+  "net_rating": 0.262,
   "evidence_matches": 5.1,
   "rank": 4
  },
  {
   "team": "Toulouse",
-  "attack": 1.162,
+  "attack": 1.161,
   "defence": 0.97,
   "expected_gf_per_game": 1.51,
   "expected_ga_per_game": 1.26,
-  "net_rating": 0.249,
+  "net_rating": 0.248,
   "evidence_matches": 6.1,
   "rank": 5
  },
  {
   "team": "Brest",
-  "attack": 1.131,
-  "defence": 0.945,
+  "attack": 1.13,
+  "defence": 0.946,
   "expected_gf_per_game": 1.47,
   "expected_ga_per_game": 1.23,
   "net_rating": 0.24,
@@ -61,8 +61,8 @@
  },
  {
   "team": "Monaco",
-  "attack": 0.997,
-  "defence": 0.838,
+  "attack": 0.998,
+  "defence": 0.839,
   "expected_gf_per_game": 1.29,
   "expected_ga_per_game": 1.09,
   "net_rating": 0.206,
@@ -75,7 +75,7 @@
   "defence": 0.822,
   "expected_gf_per_game": 1.24,
   "expected_ga_per_game": 1.07,
-  "net_rating": 0.176,
+  "net_rating": 0.177,
   "evidence_matches": 6.1,
   "rank": 8
  },
@@ -85,7 +85,7 @@
   "defence": 1.08,
   "expected_gf_per_game": 1.37,
   "expected_ga_per_game": 1.4,
-  "net_rating": -0.033,
+  "net_rating": -0.032,
   "evidence_matches": 5.1,
   "rank": 9
  },
@@ -121,17 +121,17 @@
  },
  {
   "team": "Strasbourg",
-  "attack": 0.983,
+  "attack": 0.984,
   "defence": 1.145,
   "expected_gf_per_game": 1.28,
   "expected_ga_per_game": 1.49,
-  "net_rating": -0.21,
+  "net_rating": -0.209,
   "evidence_matches": 6.1,
   "rank": 13
  },
  {
   "team": "Nice",
-  "attack": 0.777,
+  "attack": 0.778,
   "defence": 1.043,
   "expected_gf_per_game": 1.01,
   "expected_ga_per_game": 1.35,
@@ -145,7 +145,7 @@
   "defence": 1.13,
   "expected_gf_per_game": 1.1,
   "expected_ga_per_game": 1.47,
-  "net_rating": -0.367,
+  "net_rating": -0.366,
   "evidence_matches": 5.1,
   "rank": 15
  },
@@ -162,20 +162,20 @@
  {
   "team": "Auxerre",
   "attack": 0.862,
-  "defence": 1.176,
+  "defence": 1.175,
   "expected_gf_per_game": 1.12,
   "expected_ga_per_game": 1.53,
-  "net_rating": -0.407,
+  "net_rating": -0.406,
   "evidence_matches": 5.1,
   "rank": 17
  },
  {
   "team": "Troyes",
   "attack": 0.764,
-  "defence": 1.245,
+  "defence": 1.244,
   "expected_gf_per_game": 0.99,
-  "expected_ga_per_game": 1.62,
-  "net_rating": -0.624,
+  "expected_ga_per_game": 1.61,
+  "net_rating": -0.623,
   "evidence_matches": 6.1,
   "rank": 18
  }

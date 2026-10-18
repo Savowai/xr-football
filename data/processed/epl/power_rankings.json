@@ -2,20 +2,20 @@
  {
   "team": "Arsenal",
   "attack": 1.168,
-  "defence": 0.643,
+  "defence": 0.644,
   "expected_gf_per_game": 1.53,
   "expected_ga_per_game": 0.84,
-  "net_rating": 0.688,
+  "net_rating": 0.687,
   "evidence_matches": 5.1,
   "rank": 1
  },
  {
   "team": "Brighton",
-  "attack": 1.344,
+  "attack": 1.343,
   "defence": 0.895,
   "expected_gf_per_game": 1.76,
   "expected_ga_per_game": 1.17,
-  "net_rating": 0.589,
+  "net_rating": 0.588,
   "evidence_matches": 5.1,
   "rank": 2
  },
@@ -55,7 +55,7 @@
   "defence": 1.037,
   "expected_gf_per_game": 1.53,
   "expected_ga_per_game": 1.36,
-  "net_rating": 0.171,
+  "net_rating": 0.17,
   "evidence_matches": 6.1,
   "rank": 6
  },
@@ -72,7 +72,7 @@
  {
   "team": "Leeds United",
   "attack": 0.963,
-  "defence": 0.891,
+  "defence": 0.892,
   "expected_gf_per_game": 1.26,
   "expected_ga_per_game": 1.17,
   "net_rating": 0.094,
@@ -93,7 +93,7 @@
   "team": "Nottingham Forest",
   "attack": 0.949,
   "defence": 0.985,
-  "expected_gf_per_game": 1.25,
+  "expected_gf_per_game": 1.24,
   "expected_ga_per_game": 1.29,
   "net_rating": -0.047,
   "evidence_matches": 5.1,
@@ -131,7 +131,7 @@
  },
  {
   "team": "Aston Villa",
-  "attack": 0.891,
+  "attack": 0.892,
   "defence": 1.01,
   "expected_gf_per_game": 1.17,
   "expected_ga_per_game": 1.33,
@@ -142,7 +142,7 @@
  {
   "team": "Crystal Palace",
   "attack": 0.978,
-  "defence": 1.212,
+  "defence": 1.211,
   "expected_gf_per_game": 1.28,
   "expected_ga_per_game": 1.59,
   "net_rating": -0.306,
@@ -155,23 +155,23 @@
   "defence": 0.986,
   "expected_gf_per_game": 0.96,
   "expected_ga_per_game": 1.29,
-  "net_rating": -0.336,
+  "net_rating": -0.335,
   "evidence_matches": 5.1,
   "rank": 16
  },
  {
   "team": "Newcastle United",
   "attack": 0.932,
-  "defence": 1.202,
+  "defence": 1.201,
   "expected_gf_per_game": 1.22,
   "expected_ga_per_game": 1.58,
-  "net_rating": -0.354,
+  "net_rating": -0.353,
   "evidence_matches": 6.1,
   "rank": 17
  },
  {
   "team": "Hull City",
-  "attack": 0.751,
+  "attack": 0.752,
   "defence": 1.032,
   "expected_gf_per_game": 0.99,
   "expected_ga_per_game": 1.35,
@@ -182,7 +182,7 @@
  {
   "team": "Ipswich Town",
   "attack": 0.961,
-  "defence": 1.253,
+  "defence": 1.252,
   "expected_gf_per_game": 1.26,
   "expected_ga_per_game": 1.64,
   "net_rating": -0.383,
