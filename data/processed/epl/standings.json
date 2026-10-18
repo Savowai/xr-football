@@ -11,11 +11,29 @@
   "points": 21,
   "xg_for": 15.12,
   "xg_against": 10.3,
-  "xpts": 12.8,
+  "xpts": 12.78,
   "xg_diff": 4.82,
-  "luck": 8.2,
+  "luck": 8.22,
   "position": 1,
   "xposition": 1
+ },
+ {
+  "team": "Brighton",
+  "played": 7,
+  "won": 5,
+  "drawn": 1,
+  "lost": 1,
+  "gf": 23,
+  "ga": 5,
+  "gd": 18,
+  "points": 16,
+  "xg_for": 14.75,
+  "xg_against": 10.14,
+  "xpts": 12.14,
+  "xg_diff": 4.61,
+  "luck": 3.86,
+  "position": 2,
+  "xposition": 3
  },
  {
   "team": "Arsenal",
@@ -32,26 +50,8 @@
   "xpts": 12.62,
   "xg_diff": 6.55,
   "luck": 2.38,
-  "position": 2,
-  "xposition": 2
- },
- {
-  "team": "Brighton",
-  "played": 6,
-  "won": 4,
-  "drawn": 1,
-  "lost": 1,
-  "gf": 18,
-  "ga": 5,
-  "gd": 13,
-  "points": 13,
-  "xg_for": 12.77,
-  "xg_against": 9.39,
-  "xpts": 9.97,
-  "xg_diff": 3.38,
-  "luck": 3.03,
   "position": 3,
-  "xposition": 7
+  "xposition": 2
  },
  {
   "team": "Chelsea",
@@ -65,11 +65,11 @@
   "points": 13,
   "xg_for": 9.92,
   "xg_against": 10.84,
-  "xpts": 9.17,
+  "xpts": 9.15,
   "xg_diff": -0.92,
-  "luck": 3.83,
+  "luck": 3.85,
   "position": 4,
-  "xposition": 9
+  "xposition": 11
  },
  {
   "team": "Liverpool",
@@ -83,11 +83,11 @@
   "points": 12,
   "xg_for": 10.49,
   "xg_against": 8.25,
-  "xpts": 11.0,
+  "xpts": 10.98,
   "xg_diff": 2.24,
-  "luck": 1.0,
+  "luck": 1.02,
   "position": 5,
-  "xposition": 3
+  "xposition": 4
  },
  {
   "team": "Brentford",
@@ -101,11 +101,29 @@
   "points": 10,
   "xg_for": 12.0,
   "xg_against": 10.04,
-  "xpts": 10.14,
+  "xpts": 10.13,
   "xg_diff": 1.96,
-  "luck": -0.14,
+  "luck": -0.13,
   "position": 6,
-  "xposition": 5
+  "xposition": 6
+ },
+ {
+  "team": "Leeds United",
+  "played": 7,
+  "won": 2,
+  "drawn": 4,
+  "lost": 1,
+  "gf": 9,
+  "ga": 6,
+  "gd": 3,
+  "points": 10,
+  "xg_for": 9.81,
+  "xg_against": 9.6,
+  "xpts": 9.94,
+  "xg_diff": 0.21,
+  "luck": 0.06,
+  "position": 7,
+  "xposition": 9
  },
  {
   "team": "Everton",
@@ -119,29 +137,11 @@
   "points": 10,
   "xg_for": 9.61,
   "xg_against": 9.62,
-  "xpts": 9.64,
+  "xpts": 9.62,
   "xg_diff": -0.01,
-  "luck": 0.36,
-  "position": 7,
-  "xposition": 8
- },
- {
-  "team": "Leeds United",
-  "played": 6,
-  "won": 2,
-  "drawn": 3,
-  "lost": 1,
-  "gf": 8,
-  "ga": 5,
-  "gd": 3,
-  "points": 9,
-  "xg_for": 8.37,
-  "xg_against": 8.69,
-  "xpts": 8.21,
-  "xg_diff": -0.32,
-  "luck": 0.79,
+  "luck": 0.38,
   "position": 8,
-  "xposition": 15
+  "xposition": 10
  },
  {
   "team": "Hull City",
@@ -155,9 +155,9 @@
   "points": 9,
   "xg_for": 6.52,
   "xg_against": 10.52,
-  "xpts": 6.82,
+  "xpts": 6.79,
   "xg_diff": -4.0,
-  "luck": 2.18,
+  "luck": 2.21,
   "position": 9,
   "xposition": 18
  },
@@ -173,11 +173,11 @@
   "points": 9,
   "xg_for": 10.39,
   "xg_against": 14.39,
-  "xpts": 8.4,
+  "xpts": 8.37,
   "xg_diff": -4.0,
-  "luck": 0.6,
+  "luck": 0.63,
   "position": 10,
-  "xposition": 14
+  "xposition": 15
  },
  {
   "team": "Newcastle United",
@@ -191,9 +191,9 @@
   "points": 8,
   "xg_for": 8.19,
   "xg_against": 11.55,
-  "xpts": 7.49,
+  "xpts": 7.48,
   "xg_diff": -3.36,
-  "luck": 0.51,
+  "luck": 0.52,
   "position": 11,
   "xposition": 17
  },
@@ -209,47 +209,47 @@
   "points": 8,
   "xg_for": 7.79,
   "xg_against": 10.83,
-  "xpts": 8.47,
+  "xpts": 8.45,
   "xg_diff": -3.04,
-  "luck": -0.47,
+  "luck": -0.45,
   "position": 12,
-  "xposition": 13
- },
- {
-  "team": "Crystal Palace",
-  "played": 6,
-  "won": 2,
-  "drawn": 1,
-  "lost": 3,
-  "gf": 9,
-  "ga": 12,
-  "gd": -3,
-  "points": 7,
-  "xg_for": 8.36,
-  "xg_against": 12.84,
-  "xpts": 5.74,
-  "xg_diff": -4.48,
-  "luck": 1.26,
-  "position": 13,
-  "xposition": 20
+  "xposition": 14
  },
  {
   "team": "Manchester United",
-  "played": 6,
+  "played": 7,
   "won": 1,
-  "drawn": 3,
+  "drawn": 4,
   "lost": 2,
-  "gf": 9,
-  "ga": 9,
+  "gf": 10,
+  "ga": 10,
   "gd": 0,
-  "points": 6,
-  "xg_for": 10.6,
-  "xg_against": 8.2,
-  "xpts": 9.02,
-  "xg_diff": 2.4,
-  "luck": -3.02,
+  "points": 7,
+  "xg_for": 11.51,
+  "xg_against": 9.64,
+  "xpts": 9.97,
+  "xg_diff": 1.87,
+  "luck": -2.97,
+  "position": 13,
+  "xposition": 8
+ },
+ {
+  "team": "Crystal Palace",
+  "played": 7,
+  "won": 2,
+  "drawn": 1,
+  "lost": 4,
+  "gf": 9,
+  "ga": 17,
+  "gd": -8,
+  "points": 7,
+  "xg_for": 9.11,
+  "xg_against": 14.82,
+  "xpts": 6.33,
+  "xg_diff": -5.71,
+  "luck": 0.67,
   "position": 14,
-  "xposition": 10
+  "xposition": 19
  },
  {
   "team": "Coventry City",
@@ -263,11 +263,11 @@
   "points": 6,
   "xg_for": 6.35,
   "xg_against": 10.4,
-  "xpts": 5.82,
+  "xpts": 5.79,
   "xg_diff": -4.05,
-  "luck": 0.18,
+  "luck": 0.21,
   "position": 15,
-  "xposition": 19
+  "xposition": 20
  },
  {
   "team": "Fulham",
@@ -281,11 +281,11 @@
   "points": 5,
   "xg_for": 10.95,
   "xg_against": 10.26,
-  "xpts": 10.16,
+  "xpts": 10.14,
   "xg_diff": 0.69,
-  "luck": -5.16,
+  "luck": -5.14,
   "position": 16,
-  "xposition": 4
+  "xposition": 5
  },
  {
   "team": "Nottingham Forest",
@@ -299,11 +299,11 @@
   "points": 5,
   "xg_for": 10.29,
   "xg_against": 7.18,
-  "xpts": 10.12,
+  "xpts": 10.11,
   "xg_diff": 3.11,
-  "luck": -5.12,
+  "luck": -5.11,
   "position": 17,
-  "xposition": 6
+  "xposition": 7
  },
  {
   "team": "Sunderland",
@@ -317,11 +317,11 @@
   "points": 4,
   "xg_for": 10.9,
   "xg_against": 10.06,
-  "xpts": 8.49,
+  "xpts": 8.46,
   "xg_diff": 0.84,
-  "luck": -4.49,
+  "luck": -4.46,
   "position": 18,
-  "xposition": 12
+  "xposition": 13
  },
  {
   "team": "Bournemouth",
@@ -335,11 +335,11 @@
   "points": 3,
   "xg_for": 8.58,
   "xg_against": 7.95,
-  "xpts": 8.79,
+  "xpts": 8.76,
   "xg_diff": 0.63,
-  "luck": -5.79,
+  "luck": -5.76,
   "position": 19,
-  "xposition": 11
+  "xposition": 12
  },
  {
   "team": "Tottenham Hotspur",
@@ -353,9 +353,9 @@
   "points": 3,
   "xg_for": 6.17,
   "xg_against": 8.61,
-  "xpts": 7.52,
+  "xpts": 7.49,
   "xg_diff": -2.44,
-  "luck": -4.52,
+  "luck": -4.49,
   "position": 20,
   "xposition": 16
  }

@@ -14,6 +14,19 @@
  },
  {
   "position": 2,
+  "team": "Freiburg",
+  "fotmob_team_id": "8358",
+  "played": 6,
+  "won": 4,
+  "drawn": 2,
+  "lost": 0,
+  "gf": 15,
+  "ga": 5,
+  "gd": 10,
+  "points": 14
+ },
+ {
+  "position": 3,
   "team": "Borussia Dortmund",
   "fotmob_team_id": "9789",
   "played": 6,
@@ -26,30 +39,17 @@
   "points": 14
  },
  {
-  "position": 3,
-  "team": "Freiburg",
-  "fotmob_team_id": "8358",
-  "played": 5,
-  "won": 4,
-  "drawn": 1,
-  "lost": 0,
-  "gf": 14,
-  "ga": 4,
-  "gd": 10,
-  "points": 13
- },
- {
   "position": 4,
   "team": "Bayer Leverkusen",
   "fotmob_team_id": "8178",
-  "played": 5,
+  "played": 6,
   "won": 3,
-  "drawn": 1,
+  "drawn": 2,
   "lost": 1,
-  "gf": 14,
-  "ga": 8,
+  "gf": 15,
+  "ga": 9,
   "gd": 6,
-  "points": 10
+  "points": 11
  },
  {
   "position": 5,

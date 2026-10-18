@@ -9209,7 +9209,7 @@
   "round": 6,
   "home": "Bayer Leverkusen",
   "away": "Freiburg",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 5,
    "goals": 2.8,
@@ -9236,8 +9236,8 @@
    "form": "WWWDW",
    "possession_pct": 52.8
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 1,
+  "away_goals": 1,
   "season": "2026-27",
   "pred_xg_home": 2.019,
   "pred_xg_away": 1.353,

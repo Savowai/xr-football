@@ -40,6 +40,19 @@
  },
  {
   "position": 4,
+  "team": "Como",
+  "fotmob_team_id": "10171",
+  "played": 7,
+  "won": 4,
+  "drawn": 2,
+  "lost": 1,
+  "gf": 12,
+  "ga": 7,
+  "gd": 5,
+  "points": 14
+ },
+ {
+  "position": 5,
   "team": "Frosinone",
   "fotmob_team_id": "9891",
   "played": 7,
@@ -52,7 +65,7 @@
   "points": 13
  },
  {
-  "position": 5,
+  "position": 6,
   "team": "Cagliari",
   "fotmob_team_id": "8529",
   "played": 6,
@@ -65,7 +78,7 @@
   "points": 13
  },
  {
-  "position": 6,
+  "position": 7,
   "team": "Milan",
   "fotmob_team_id": "8564",
   "played": 6,
@@ -78,7 +91,7 @@
   "points": 12
  },
  {
-  "position": 7,
+  "position": 8,
   "team": "Juventus",
   "fotmob_team_id": "9885",
   "played": 6,
@@ -88,19 +101,6 @@
   "gf": 9,
   "ga": 5,
   "gd": 4,
-  "points": 11
- },
- {
-  "position": 8,
-  "team": "Como",
-  "fotmob_team_id": "10171",
-  "played": 6,
-  "won": 3,
-  "drawn": 2,
-  "lost": 1,
-  "gf": 9,
-  "ga": 6,
-  "gd": 3,
   "points": 11
  },
  {
@@ -137,9 +137,9 @@
   "won": 3,
   "drawn": 0,
   "lost": 4,
-  "gf": 8,
+  "gf": 9,
   "ga": 12,
-  "gd": -4,
+  "gd": -3,
   "points": 9
  },
  {
@@ -196,19 +196,6 @@
  },
  {
   "position": 16,
-  "team": "Udinese",
-  "fotmob_team_id": "8600",
-  "played": 7,
-  "won": 1,
-  "drawn": 1,
-  "lost": 5,
-  "gf": 9,
-  "ga": 15,
-  "gd": -6,
-  "points": 4
- },
- {
-  "position": 17,
   "team": "Parma",
   "fotmob_team_id": "10167",
   "played": 6,
@@ -221,20 +208,20 @@
   "points": 4
  },
  {
-  "position": 18,
-  "team": "Fiorentina",
-  "fotmob_team_id": "8535",
-  "played": 6,
+  "position": 17,
+  "team": "Udinese",
+  "fotmob_team_id": "8600",
+  "played": 7,
   "won": 1,
   "drawn": 1,
-  "lost": 4,
-  "gf": 7,
-  "ga": 14,
+  "lost": 5,
+  "gf": 9,
+  "ga": 16,
   "gd": -7,
   "points": 4
  },
  {
-  "position": 19,
+  "position": 18,
   "team": "Genoa",
   "fotmob_team_id": "10233",
   "played": 7,
@@ -244,6 +231,19 @@
   "gf": 5,
   "ga": 13,
   "gd": -8,
+  "points": 4
+ },
+ {
+  "position": 19,
+  "team": "Fiorentina",
+  "fotmob_team_id": "8535",
+  "played": 7,
+  "won": 1,
+  "drawn": 1,
+  "lost": 5,
+  "gf": 8,
+  "ga": 17,
+  "gd": -9,
   "points": 4
  },
  {

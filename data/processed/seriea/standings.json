@@ -29,9 +29,9 @@
   "points": 17,
   "xg_for": 15.41,
   "xg_against": 7.02,
-  "xpts": 14.31,
+  "xpts": 14.32,
   "xg_diff": 8.39,
-  "luck": 2.69,
+  "luck": 2.68,
   "position": 2,
   "xposition": 2
  },
@@ -69,7 +69,7 @@
   "xg_diff": -4.8,
   "luck": 5.94,
   "position": 4,
-  "xposition": 14
+  "xposition": 15
  },
  {
   "team": "Cagliari",
@@ -87,7 +87,7 @@
   "xg_diff": -4.47,
   "luck": 6.71,
   "position": 5,
-  "xposition": 16
+  "xposition": 17
  },
  {
   "team": "Milan",
@@ -155,9 +155,9 @@
   "points": 10,
   "xg_for": 13.05,
   "xg_against": 8.41,
-  "xpts": 12.87,
+  "xpts": 12.88,
   "xg_diff": 4.64,
-  "luck": -2.87,
+  "luck": -2.88,
   "position": 9,
   "xposition": 4
  },
@@ -177,7 +177,25 @@
   "xg_diff": -6.02,
   "luck": 4.3,
   "position": 10,
-  "xposition": 18
+  "xposition": 19
+ },
+ {
+  "team": "Lecce",
+  "played": 7,
+  "won": 3,
+  "drawn": 0,
+  "lost": 4,
+  "gf": 9,
+  "ga": 12,
+  "gd": -3,
+  "points": 9,
+  "xg_for": 9.79,
+  "xg_against": 13.47,
+  "xpts": 7.34,
+  "xg_diff": -3.68,
+  "luck": 1.66,
+  "position": 11,
+  "xposition": 13
  },
  {
   "team": "Sassuolo",
@@ -194,7 +212,7 @@
   "xpts": 10.82,
   "xg_diff": 2.0,
   "luck": -2.82,
-  "position": 11,
+  "position": 12,
   "xposition": 5
  },
  {
@@ -212,26 +230,8 @@
   "xpts": 7.24,
   "xg_diff": -1.45,
   "luck": -0.24,
-  "position": 12,
-  "xposition": 13
- },
- {
-  "team": "Lecce",
-  "played": 6,
-  "won": 2,
-  "drawn": 0,
-  "lost": 4,
-  "gf": 6,
-  "ga": 12,
-  "gd": -6,
-  "points": 6,
-  "xg_for": 6.39,
-  "xg_against": 12.92,
-  "xpts": 4.58,
-  "xg_diff": -6.53,
-  "luck": 1.42,
   "position": 13,
-  "xposition": 19
+  "xposition": 14
  },
  {
   "team": "Bologna",
@@ -252,24 +252,6 @@
   "xposition": 10
  },
  {
-  "team": "Udinese",
-  "played": 6,
-  "won": 1,
-  "drawn": 1,
-  "lost": 4,
-  "gf": 9,
-  "ga": 13,
-  "gd": -4,
-  "points": 4,
-  "xg_for": 7.46,
-  "xg_against": 11.94,
-  "xpts": 5.98,
-  "xg_diff": -4.48,
-  "luck": -1.98,
-  "position": 15,
-  "xposition": 17
- },
- {
   "team": "Monza",
   "played": 6,
   "won": 1,
@@ -284,7 +266,7 @@
   "xpts": 10.68,
   "xg_diff": 3.8,
   "luck": -6.68,
-  "position": 16,
+  "position": 15,
   "xposition": 6
  },
  {
@@ -302,8 +284,26 @@
   "xpts": 3.82,
   "xg_diff": -7.03,
   "luck": 0.18,
-  "position": 17,
+  "position": 16,
   "xposition": 20
+ },
+ {
+  "team": "Udinese",
+  "played": 7,
+  "won": 1,
+  "drawn": 1,
+  "lost": 5,
+  "gf": 9,
+  "ga": 16,
+  "gd": -7,
+  "points": 4,
+  "xg_for": 8.01,
+  "xg_against": 15.34,
+  "xpts": 6.15,
+  "xg_diff": -7.33,
+  "luck": -2.15,
+  "position": 17,
+  "xposition": 18
  },
  {
   "team": "Fiorentina",
@@ -357,6 +357,6 @@
   "xg_diff": -5.54,
   "luck": -4.01,
   "position": 20,
-  "xposition": 15
+  "xposition": 16
  }
 ]
