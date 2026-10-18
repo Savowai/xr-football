@@ -11333,7 +11333,7 @@
   "round": 7,
   "home": "Udinese",
   "away": "Lecce",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 6,
    "goals": 1.5,
@@ -11360,8 +11360,8 @@
    "form": "WLLWLL",
    "possession_pct": 41.7
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 2,
   "season": "2026-27",
   "pred_xg_home": 1.899,
   "pred_xg_away": 1.176,

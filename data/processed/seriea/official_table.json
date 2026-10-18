@@ -131,6 +131,19 @@
  },
  {
   "position": 11,
+  "team": "Lecce",
+  "fotmob_team_id": "9888",
+  "played": 7,
+  "won": 3,
+  "drawn": 0,
+  "lost": 4,
+  "gf": 8,
+  "ga": 12,
+  "gd": -4,
+  "points": 9
+ },
+ {
+  "position": 12,
   "team": "Sassuolo",
   "fotmob_team_id": "7943",
   "played": 7,
@@ -143,7 +156,7 @@
   "points": 8
  },
  {
-  "position": 12,
+  "position": 13,
   "team": "Torino",
   "fotmob_team_id": "9804",
   "played": 6,
@@ -154,19 +167,6 @@
   "ga": 9,
   "gd": -2,
   "points": 7
- },
- {
-  "position": 13,
-  "team": "Lecce",
-  "fotmob_team_id": "9888",
-  "played": 6,
-  "won": 2,
-  "drawn": 0,
-  "lost": 4,
-  "gf": 6,
-  "ga": 12,
-  "gd": -6,
-  "points": 6
  },
  {
   "position": 14,
@@ -183,25 +183,25 @@
  },
  {
   "position": 15,
-  "team": "Udinese",
-  "fotmob_team_id": "8600",
-  "played": 6,
-  "won": 1,
-  "drawn": 1,
-  "lost": 4,
-  "gf": 9,
-  "ga": 13,
-  "gd": -4,
-  "points": 4
- },
- {
-  "position": 16,
   "team": "Monza",
   "fotmob_team_id": "6504",
   "played": 6,
   "won": 1,
   "drawn": 1,
   "lost": 4,
+  "gf": 9,
+  "ga": 15,
+  "gd": -6,
+  "points": 4
+ },
+ {
+  "position": 16,
+  "team": "Udinese",
+  "fotmob_team_id": "8600",
+  "played": 7,
+  "won": 1,
+  "drawn": 1,
+  "lost": 5,
   "gf": 9,
   "ga": 15,
   "gd": -6,
