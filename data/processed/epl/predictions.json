@@ -12218,7 +12218,7 @@
   "round": 7,
   "home": "Tottenham Hotspur",
   "away": "Coventry City",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 6,
    "goals": 0.5,
@@ -12245,8 +12245,8 @@
    "form": "LLLLWW",
    "possession_pct": 37.8
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 2,
+  "away_goals": 1,
   "season": "2026-27",
   "pred_xg_home": 1.313,
   "pred_xg_away": 1.02,

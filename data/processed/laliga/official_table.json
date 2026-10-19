@@ -157,6 +157,32 @@
  },
  {
   "position": 13,
+  "team": "Rayo Vallecano",
+  "fotmob_team_id": "8370",
+  "played": 8,
+  "won": 2,
+  "drawn": 3,
+  "lost": 3,
+  "gf": 12,
+  "ga": 17,
+  "gd": -5,
+  "points": 9
+ },
+ {
+  "position": 14,
+  "team": "Getafe",
+  "fotmob_team_id": "8305",
+  "played": 9,
+  "won": 2,
+  "drawn": 3,
+  "lost": 4,
+  "gf": 5,
+  "ga": 11,
+  "gd": -6,
+  "points": 9
+ },
+ {
+  "position": 15,
   "team": "Espanyol",
   "fotmob_team_id": "8558",
   "played": 9,
@@ -166,32 +192,6 @@
   "gf": 11,
   "ga": 12,
   "gd": -1,
-  "points": 8
- },
- {
-  "position": 14,
-  "team": "Rayo Vallecano",
-  "fotmob_team_id": "8370",
-  "played": 7,
-  "won": 2,
-  "drawn": 2,
-  "lost": 3,
-  "gf": 11,
-  "ga": 16,
-  "gd": -5,
-  "points": 8
- },
- {
-  "position": 15,
-  "team": "Getafe",
-  "fotmob_team_id": "8305",
-  "played": 8,
-  "won": 2,
-  "drawn": 2,
-  "lost": 4,
-  "gf": 4,
-  "ga": 10,
-  "gd": -6,
   "points": 8
  },
  {
