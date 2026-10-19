@@ -2,7 +2,7 @@
  {
   "team": "Arsenal",
   "attack": 1.141,
-  "defence": 0.619,
+  "defence": 0.62,
   "expected_gf_per_game": 1.47,
   "expected_ga_per_game": 0.8,
   "net_rating": 0.67,
@@ -11,17 +11,17 @@
  },
  {
   "team": "Brighton",
-  "attack": 1.354,
+  "attack": 1.353,
   "defence": 0.863,
   "expected_gf_per_game": 1.74,
   "expected_ga_per_game": 1.11,
-  "net_rating": 0.63,
+  "net_rating": 0.629,
   "evidence_matches": 6.1,
   "rank": 2
  },
  {
   "team": "Manchester City",
-  "attack": 1.348,
+  "attack": 1.347,
   "defence": 0.911,
   "expected_gf_per_game": 1.73,
   "expected_ga_per_game": 1.17,
@@ -65,7 +65,7 @@
   "defence": 0.983,
   "expected_gf_per_game": 1.44,
   "expected_ga_per_game": 1.26,
-  "net_rating": 0.178,
+  "net_rating": 0.177,
   "evidence_matches": 6.1,
   "rank": 7
  },
@@ -82,7 +82,7 @@
  {
   "team": "Leeds United",
   "attack": 0.955,
-  "defence": 0.88,
+  "defence": 0.881,
   "expected_gf_per_game": 1.23,
   "expected_ga_per_game": 1.13,
   "net_rating": 0.096,
@@ -115,7 +115,7 @@
   "defence": 0.989,
   "expected_gf_per_game": 1.14,
   "expected_ga_per_game": 1.27,
-  "net_rating": -0.127,
+  "net_rating": -0.126,
   "evidence_matches": 6.1,
   "rank": 12
  },
@@ -145,7 +145,7 @@
   "defence": 1.196,
   "expected_gf_per_game": 1.21,
   "expected_ga_per_game": 1.54,
-  "net_rating": -0.329,
+  "net_rating": -0.328,
   "evidence_matches": 6.1,
   "rank": 15
  },
@@ -155,7 +155,7 @@
   "defence": 0.992,
   "expected_gf_per_game": 0.94,
   "expected_ga_per_game": 1.27,
-  "net_rating": -0.33,
+  "net_rating": -0.329,
   "evidence_matches": 5.1,
   "rank": 16
  },
@@ -175,7 +175,7 @@
   "defence": 1.239,
   "expected_gf_per_game": 1.21,
   "expected_ga_per_game": 1.59,
-  "net_rating": -0.379,
+  "net_rating": -0.378,
   "evidence_matches": 6.1,
   "rank": 18
  },

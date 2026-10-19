@@ -1,12 +1,12 @@
 [
  {
   "team": "Barcelona",
-  "attack": 2.064,
+  "attack": 2.062,
   "defence": 0.8,
   "expected_gf_per_game": 2.72,
   "expected_ga_per_game": 1.06,
-  "net_rating": 1.666,
-  "evidence_matches": 7.8,
+  "net_rating": 1.664,
+  "evidence_matches": 7.7,
   "rank": 1
  },
  {
@@ -25,7 +25,7 @@
   "defence": 0.794,
   "expected_gf_per_game": 1.62,
   "expected_ga_per_game": 1.05,
-  "net_rating": 0.574,
+  "net_rating": 0.573,
   "evidence_matches": 7.7,
   "rank": 3
  },
@@ -42,7 +42,7 @@
  {
   "team": "Athletic Club",
   "attack": 0.944,
-  "defence": 0.836,
+  "defence": 0.837,
   "expected_gf_per_game": 1.24,
   "expected_ga_per_game": 1.1,
   "net_rating": 0.141,
@@ -72,7 +72,7 @@
  {
   "team": "Sevilla",
   "attack": 0.938,
-  "defence": 0.978,
+  "defence": 0.979,
   "expected_gf_per_game": 1.24,
   "expected_ga_per_game": 1.29,
   "net_rating": -0.054,
@@ -111,32 +111,32 @@
  },
  {
   "team": "Celta Vigo",
-  "attack": 0.76,
+  "attack": 0.761,
   "defence": 0.894,
   "expected_gf_per_game": 1.0,
   "expected_ga_per_game": 1.18,
-  "net_rating": -0.176,
+  "net_rating": -0.175,
   "evidence_matches": 7.7,
   "rank": 12
  },
  {
   "team": "Levante",
-  "attack": 1.001,
+  "attack": 1.002,
   "defence": 1.177,
   "expected_gf_per_game": 1.32,
   "expected_ga_per_game": 1.55,
   "net_rating": -0.231,
-  "evidence_matches": 6.9,
+  "evidence_matches": 6.8,
   "rank": 13
  },
  {
   "team": "Osasuna",
   "attack": 0.912,
-  "defence": 1.1,
+  "defence": 1.099,
   "expected_gf_per_game": 1.2,
   "expected_ga_per_game": 1.45,
   "net_rating": -0.248,
-  "evidence_matches": 7.8,
+  "evidence_matches": 7.7,
   "rank": 14
  },
  {
@@ -171,7 +171,7 @@
  },
  {
   "team": "Getafe",
-  "attack": 0.542,
+  "attack": 0.543,
   "defence": 0.837,
   "expected_gf_per_game": 0.72,
   "expected_ga_per_game": 1.1,
@@ -182,10 +182,10 @@
  {
   "team": "Racing Santander",
   "attack": 0.888,
-  "defence": 1.43,
+  "defence": 1.429,
   "expected_gf_per_game": 1.17,
-  "expected_ga_per_game": 1.89,
-  "net_rating": -0.715,
+  "expected_ga_per_game": 1.88,
+  "net_rating": -0.714,
   "evidence_matches": 7.7,
   "rank": 19
  },
@@ -195,7 +195,7 @@
   "defence": 1.244,
   "expected_gf_per_game": 0.92,
   "expected_ga_per_game": 1.64,
-  "net_rating": -0.726,
+  "net_rating": -0.725,
   "evidence_matches": 7.7,
   "rank": 20
  }
