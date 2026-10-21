@@ -2,20 +2,20 @@
  {
   "team": "Arsenal",
   "attack": 1.14,
-  "defence": 0.62,
+  "defence": 0.621,
   "expected_gf_per_game": 1.47,
   "expected_ga_per_game": 0.8,
-  "net_rating": 0.672,
+  "net_rating": 0.671,
   "evidence_matches": 6.0,
   "rank": 1
  },
  {
   "team": "Brighton",
-  "attack": 1.351,
+  "attack": 1.35,
   "defence": 0.864,
-  "expected_gf_per_game": 1.75,
+  "expected_gf_per_game": 1.74,
   "expected_ga_per_game": 1.12,
-  "net_rating": 0.629,
+  "net_rating": 0.628,
   "evidence_matches": 6.0,
   "rank": 2
  },
@@ -42,7 +42,7 @@
  {
   "team": "Liverpool",
   "attack": 1.01,
-  "defence": 0.849,
+  "defence": 0.85,
   "expected_gf_per_game": 1.31,
   "expected_ga_per_game": 1.1,
   "net_rating": 0.208,
@@ -71,21 +71,21 @@
  },
  {
   "team": "Manchester United",
-  "attack": 1.088,
+  "attack": 1.089,
   "defence": 0.978,
   "expected_gf_per_game": 1.41,
   "expected_ga_per_game": 1.26,
-  "net_rating": 0.142,
+  "net_rating": 0.143,
   "evidence_matches": 6.0,
   "rank": 8
  },
  {
   "team": "Leeds United",
   "attack": 0.955,
-  "defence": 0.881,
+  "defence": 0.882,
   "expected_gf_per_game": 1.23,
   "expected_ga_per_game": 1.14,
-  "net_rating": 0.096,
+  "net_rating": 0.095,
   "evidence_matches": 6.0,
   "rank": 9
  },
@@ -102,7 +102,7 @@
  {
   "team": "Everton",
   "attack": 0.866,
-  "defence": 0.958,
+  "defence": 0.959,
   "expected_gf_per_game": 1.12,
   "expected_ga_per_game": 1.24,
   "net_rating": -0.119,
@@ -152,10 +152,10 @@
  {
   "team": "Newcastle United",
   "attack": 0.94,
-  "defence": 1.195,
+  "defence": 1.194,
   "expected_gf_per_game": 1.22,
   "expected_ga_per_game": 1.54,
-  "net_rating": -0.329,
+  "net_rating": -0.328,
   "evidence_matches": 6.0,
   "rank": 16
  },
@@ -175,7 +175,7 @@
   "defence": 1.238,
   "expected_gf_per_game": 1.22,
   "expected_ga_per_game": 1.6,
-  "net_rating": -0.38,
+  "net_rating": -0.379,
   "evidence_matches": 6.0,
   "rank": 18
  },
@@ -191,7 +191,7 @@
  },
  {
   "team": "Coventry City",
-  "attack": 0.789,
+  "attack": 0.79,
   "defence": 1.136,
   "expected_gf_per_game": 1.02,
   "expected_ga_per_game": 1.47,
