@@ -5,7 +5,7 @@
   "defence": 0.709,
   "expected_gf_per_game": 2.68,
   "expected_ga_per_game": 1.1,
-  "net_rating": 1.584,
+  "net_rating": 1.583,
   "evidence_matches": 5.2,
   "rank": 1
  },
@@ -15,7 +15,7 @@
   "defence": 0.824,
   "expected_gf_per_game": 1.89,
   "expected_ga_per_game": 1.28,
-  "net_rating": 0.609,
+  "net_rating": 0.608,
   "evidence_matches": 5.2,
   "rank": 2
  },
@@ -42,11 +42,11 @@
  {
   "team": "Freiburg",
   "attack": 1.026,
-  "defence": 0.763,
+  "defence": 0.764,
   "expected_gf_per_game": 1.59,
   "expected_ga_per_game": 1.18,
   "net_rating": 0.406,
-  "evidence_matches": 5.3,
+  "evidence_matches": 5.2,
   "rank": 5
  },
  {
@@ -65,7 +65,7 @@
   "defence": 1.037,
   "expected_gf_per_game": 1.7,
   "expected_ga_per_game": 1.61,
-  "net_rating": 0.091,
+  "net_rating": 0.092,
   "evidence_matches": 5.2,
   "rank": 7
  },
@@ -81,7 +81,7 @@
  },
  {
   "team": "Augsburg",
-  "attack": 1.193,
+  "attack": 1.192,
   "defence": 1.259,
   "expected_gf_per_game": 1.85,
   "expected_ga_per_game": 1.95,
@@ -105,7 +105,7 @@
   "defence": 1.055,
   "expected_gf_per_game": 1.36,
   "expected_ga_per_game": 1.63,
-  "net_rating": -0.277,
+  "net_rating": -0.276,
   "evidence_matches": 5.2,
   "rank": 11
  },
@@ -115,7 +115,7 @@
   "defence": 1.105,
   "expected_gf_per_game": 1.43,
   "expected_ga_per_game": 1.71,
-  "net_rating": -0.279,
+  "net_rating": -0.278,
   "evidence_matches": 5.2,
   "rank": 12
  },
@@ -125,7 +125,7 @@
   "defence": 1.129,
   "expected_gf_per_game": 1.42,
   "expected_ga_per_game": 1.75,
-  "net_rating": -0.332,
+  "net_rating": -0.333,
   "evidence_matches": 5.2,
   "rank": 13
  },
@@ -142,10 +142,10 @@
  {
   "team": "Hamburger SV",
   "attack": 0.745,
-  "defence": 1.066,
+  "defence": 1.065,
   "expected_gf_per_game": 1.15,
   "expected_ga_per_game": 1.65,
-  "net_rating": -0.497,
+  "net_rating": -0.496,
   "evidence_matches": 5.2,
   "rank": 15
  },
@@ -165,17 +165,17 @@
   "defence": 1.103,
   "expected_gf_per_game": 1.17,
   "expected_ga_per_game": 1.71,
-  "net_rating": -0.538,
+  "net_rating": -0.537,
   "evidence_matches": 5.2,
   "rank": 17
  },
  {
   "team": "Borussia M\u00f6nchengladbach",
   "attack": 0.824,
-  "defence": 1.231,
+  "defence": 1.23,
   "expected_gf_per_game": 1.28,
   "expected_ga_per_game": 1.91,
-  "net_rating": -0.63,
+  "net_rating": -0.629,
   "evidence_matches": 5.2,
   "rank": 18
  }
