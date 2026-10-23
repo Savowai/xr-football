@@ -157,19 +157,6 @@
  },
  {
   "position": 13,
-  "team": "VfB Stuttgart",
-  "fotmob_team_id": "10269",
-  "played": 6,
-  "won": 2,
-  "drawn": 0,
-  "lost": 4,
-  "gf": 8,
-  "ga": 10,
-  "gd": -2,
-  "points": 6
- },
- {
-  "position": 14,
   "team": "Hoffenheim",
   "fotmob_team_id": "8226",
   "played": 6,
@@ -178,6 +165,19 @@
   "lost": 4,
   "gf": 11,
   "ga": 14,
+  "gd": -3,
+  "points": 6
+ },
+ {
+  "position": 14,
+  "team": "VfB Stuttgart",
+  "fotmob_team_id": "10269",
+  "played": 7,
+  "won": 2,
+  "drawn": 0,
+  "lost": 5,
+  "gf": 10,
+  "ga": 13,
   "gd": -3,
   "points": 6
  },
@@ -224,13 +224,13 @@
   "position": 18,
   "team": "Borussia M\u00f6nchengladbach",
   "fotmob_team_id": "9788",
-  "played": 6,
-  "won": 0,
+  "played": 7,
+  "won": 1,
   "drawn": 0,
   "lost": 6,
-  "gf": 8,
-  "ga": 20,
-  "gd": -12,
-  "points": 0
+  "gf": 11,
+  "ga": 22,
+  "gd": -11,
+  "points": 3
  }
 ]

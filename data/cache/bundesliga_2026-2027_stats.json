@@ -970,5 +970,23 @@
   "home_xg": 2.79,
   "home_xg_set_play": 0.05,
   "home_xgot": 3.52
+ },
+ "5881205": {
+  "away_big_chances": 3,
+  "away_corners": 5,
+  "away_possession": 30,
+  "away_shots": 16,
+  "away_sot": 6,
+  "away_xg": 2.6,
+  "away_xg_set_play": 0.48,
+  "away_xgot": 2.67,
+  "home_big_chances": 2,
+  "home_corners": 6,
+  "home_possession": 70,
+  "home_shots": 15,
+  "home_sot": 5,
+  "home_xg": 1.55,
+  "home_xg_set_play": 0.38,
+  "home_xgot": 1.77
  }
 }

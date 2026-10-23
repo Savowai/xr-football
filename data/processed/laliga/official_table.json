@@ -81,14 +81,14 @@
   "position": 7,
   "team": "Deportivo Alav\u00e9s",
   "fotmob_team_id": "9866",
-  "played": 9,
+  "played": 10,
   "won": 3,
-  "drawn": 2,
+  "drawn": 3,
   "lost": 4,
-  "gf": 13,
-  "ga": 10,
+  "gf": 14,
+  "ga": 11,
   "gd": 3,
-  "points": 11
+  "points": 12
  },
  {
   "position": 8,
@@ -250,13 +250,13 @@
   "position": 20,
   "team": "M\u00e1laga",
   "fotmob_team_id": "9864",
-  "played": 9,
+  "played": 10,
   "won": 0,
-  "drawn": 4,
+  "drawn": 5,
   "lost": 5,
-  "gf": 6,
-  "ga": 18,
+  "gf": 7,
+  "ga": 19,
   "gd": -12,
-  "points": 4
+  "points": 5
  }
 ]
