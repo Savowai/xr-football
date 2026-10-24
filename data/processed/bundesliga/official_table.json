@@ -1,6 +1,19 @@
 [
  {
   "position": 1,
+  "team": "Borussia Dortmund",
+  "fotmob_team_id": "9789",
+  "played": 7,
+  "won": 5,
+  "drawn": 2,
+  "lost": 0,
+  "gf": 12,
+  "ga": 4,
+  "gd": 8,
+  "points": 17
+ },
+ {
+  "position": 2,
   "team": "Bayern M\u00fcnchen",
   "fotmob_team_id": "9823",
   "played": 6,
@@ -10,19 +23,6 @@
   "gf": 22,
   "ga": 5,
   "gd": 17,
-  "points": 14
- },
- {
-  "position": 2,
-  "team": "Borussia Dortmund",
-  "fotmob_team_id": "9789",
-  "played": 6,
-  "won": 4,
-  "drawn": 2,
-  "lost": 0,
-  "gf": 11,
-  "ga": 4,
-  "gd": 7,
   "points": 14
  },
  {
@@ -159,13 +159,13 @@
   "position": 13,
   "team": "Eintracht Frankfurt",
   "fotmob_team_id": "9810",
-  "played": 6,
+  "played": 7,
   "won": 2,
   "drawn": 2,
-  "lost": 2,
+  "lost": 3,
   "gf": 10,
-  "ga": 16,
-  "gd": -6,
+  "ga": 17,
+  "gd": -7,
   "points": 8
  },
  {
