@@ -1,19 +1,6 @@
 [
  {
   "position": 1,
-  "team": "Paris FC",
-  "fotmob_team_id": "6379",
-  "played": 8,
-  "won": 4,
-  "drawn": 3,
-  "lost": 1,
-  "gf": 12,
-  "ga": 7,
-  "gd": 5,
-  "points": 15
- },
- {
-  "position": 2,
   "team": "Lyon",
   "fotmob_team_id": "9748",
   "played": 7,
@@ -26,7 +13,7 @@
   "points": 14
  },
  {
-  "position": 3,
+  "position": 2,
   "team": "Paris Saint-Germain",
   "fotmob_team_id": "9847",
   "played": 7,
@@ -39,7 +26,7 @@
   "points": 14
  },
  {
-  "position": 4,
+  "position": 3,
   "team": "Lille",
   "fotmob_team_id": "8639",
   "played": 7,
@@ -49,6 +36,19 @@
   "gf": 10,
   "ga": 5,
   "gd": 5,
+  "points": 14
+ },
+ {
+  "position": 4,
+  "team": "Paris FC",
+  "fotmob_team_id": "6379",
+  "played": 8,
+  "won": 4,
+  "drawn": 2,
+  "lost": 2,
+  "gf": 13,
+  "ga": 9,
+  "gd": 4,
   "points": 14
  },
  {
@@ -66,6 +66,19 @@
  },
  {
   "position": 6,
+  "team": "Lens",
+  "fotmob_team_id": "8588",
+  "played": 8,
+  "won": 4,
+  "drawn": 1,
+  "lost": 3,
+  "gf": 16,
+  "ga": 12,
+  "gd": 4,
+  "points": 13
+ },
+ {
+  "position": 7,
   "team": "Rennes",
   "fotmob_team_id": "9851",
   "played": 7,
@@ -76,19 +89,6 @@
   "ga": 14,
   "gd": 1,
   "points": 13
- },
- {
-  "position": 7,
-  "team": "Lens",
-  "fotmob_team_id": "8588",
-  "played": 8,
-  "won": 3,
-  "drawn": 2,
-  "lost": 3,
-  "gf": 14,
-  "ga": 11,
-  "gd": 3,
-  "points": 11
  },
  {
   "position": 8,

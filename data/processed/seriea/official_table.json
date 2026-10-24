@@ -4,13 +4,13 @@
   "team": "Lazio",
   "fotmob_team_id": "8543",
   "played": 8,
-  "won": 6,
-  "drawn": 2,
+  "won": 7,
+  "drawn": 1,
   "lost": 0,
-  "gf": 14,
-  "ga": 4,
-  "gd": 10,
-  "points": 20
+  "gf": 16,
+  "ga": 5,
+  "gd": 11,
+  "points": 22
  },
  {
   "position": 2,
@@ -196,19 +196,6 @@
  },
  {
   "position": 16,
-  "team": "Parma",
-  "fotmob_team_id": "10167",
-  "played": 8,
-  "won": 1,
-  "drawn": 2,
-  "lost": 5,
-  "gf": 4,
-  "ga": 13,
-  "gd": -9,
-  "points": 5
- },
- {
-  "position": 17,
   "team": "Udinese",
   "fotmob_team_id": "8600",
   "played": 7,
@@ -221,7 +208,7 @@
   "points": 4
  },
  {
-  "position": 18,
+  "position": 17,
   "team": "Genoa",
   "fotmob_team_id": "10233",
   "played": 7,
@@ -234,7 +221,7 @@
   "points": 4
  },
  {
-  "position": 19,
+  "position": 18,
   "team": "Fiorentina",
   "fotmob_team_id": "8535",
   "played": 7,
@@ -244,6 +231,19 @@
   "gf": 8,
   "ga": 17,
   "gd": -9,
+  "points": 4
+ },
+ {
+  "position": 19,
+  "team": "Parma",
+  "fotmob_team_id": "10167",
+  "played": 8,
+  "won": 1,
+  "drawn": 1,
+  "lost": 6,
+  "gf": 5,
+  "ga": 15,
+  "gd": -10,
   "points": 4
  },
  {

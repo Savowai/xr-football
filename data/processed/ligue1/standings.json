@@ -15,7 +15,7 @@
   "xg_diff": 2.64,
   "luck": 2.82,
   "position": 1,
-  "xposition": 5
+  "xposition": 6
  },
  {
   "team": "Paris Saint-Germain",
@@ -29,29 +29,11 @@
   "points": 14,
   "xg_for": 18.12,
   "xg_against": 8.21,
-  "xpts": 14.86,
+  "xpts": 14.87,
   "xg_diff": 9.91,
-  "luck": -0.86,
+  "luck": -0.87,
   "position": 2,
   "xposition": 1
- },
- {
-  "team": "Paris FC",
-  "played": 7,
-  "won": 4,
-  "drawn": 2,
-  "lost": 1,
-  "gf": 12,
-  "ga": 7,
-  "gd": 5,
-  "points": 14,
-  "xg_for": 13.23,
-  "xg_against": 6.86,
-  "xpts": 13.44,
-  "xg_diff": 6.37,
-  "luck": 0.56,
-  "position": 3,
-  "xposition": 3
  },
  {
   "team": "Lille",
@@ -68,8 +50,26 @@
   "xpts": 9.71,
   "xg_diff": -0.9,
   "luck": 4.29,
-  "position": 4,
+  "position": 3,
   "xposition": 7
+ },
+ {
+  "team": "Paris FC",
+  "played": 8,
+  "won": 4,
+  "drawn": 2,
+  "lost": 2,
+  "gf": 13,
+  "ga": 9,
+  "gd": 4,
+  "points": 14,
+  "xg_for": 13.64,
+  "xg_against": 7.75,
+  "xpts": 14.32,
+  "xg_diff": 5.89,
+  "luck": -0.32,
+  "position": 4,
+  "xposition": 3
  },
  {
   "team": "Monaco",
@@ -83,11 +83,29 @@
   "points": 14,
   "xg_for": 7.88,
   "xg_against": 9.36,
-  "xpts": 8.79,
+  "xpts": 8.82,
   "xg_diff": -1.48,
-  "luck": 5.21,
+  "luck": 5.18,
   "position": 5,
   "xposition": 12
+ },
+ {
+  "team": "Lens",
+  "played": 8,
+  "won": 4,
+  "drawn": 1,
+  "lost": 3,
+  "gf": 16,
+  "ga": 12,
+  "gd": 4,
+  "points": 13,
+  "xg_for": 14.67,
+  "xg_against": 11.5,
+  "xpts": 12.67,
+  "xg_diff": 3.17,
+  "luck": 0.33,
+  "position": 6,
+  "xposition": 4
  },
  {
   "team": "Rennes",
@@ -101,10 +119,10 @@
   "points": 13,
   "xg_for": 13.95,
   "xg_against": 16.15,
-  "xpts": 8.84,
+  "xpts": 8.85,
   "xg_diff": -2.2,
-  "luck": 4.16,
-  "position": 6,
+  "luck": 4.15,
+  "position": 7,
   "xposition": 11
  },
  {
@@ -119,10 +137,10 @@
   "points": 11,
   "xg_for": 7.87,
   "xg_against": 7.95,
-  "xpts": 9.5,
+  "xpts": 9.51,
   "xg_diff": -0.08,
-  "luck": 1.5,
-  "position": 7,
+  "luck": 1.49,
+  "position": 8,
   "xposition": 8
  },
  {
@@ -140,26 +158,8 @@
   "xpts": 8.74,
   "xg_diff": -4.05,
   "luck": 2.26,
-  "position": 8,
-  "xposition": 13
- },
- {
-  "team": "Lens",
-  "played": 7,
-  "won": 3,
-  "drawn": 1,
-  "lost": 3,
-  "gf": 14,
-  "ga": 11,
-  "gd": 3,
-  "points": 10,
-  "xg_for": 13.78,
-  "xg_against": 11.09,
-  "xpts": 10.92,
-  "xg_diff": 2.69,
-  "luck": -0.92,
   "position": 9,
-  "xposition": 6
+  "xposition": 13
  },
  {
   "team": "Marseille",
@@ -173,9 +173,9 @@
   "points": 9,
   "xg_for": 11.43,
   "xg_against": 14.53,
-  "xpts": 8.72,
+  "xpts": 8.73,
   "xg_diff": -3.1,
-  "luck": 0.28,
+  "luck": 0.27,
   "position": 10,
   "xposition": 14
  },
@@ -213,7 +213,7 @@
   "xg_diff": 3.56,
   "luck": -2.94,
   "position": 12,
-  "xposition": 4
+  "xposition": 5
  },
  {
   "team": "Auxerre",
@@ -281,9 +281,9 @@
   "points": 6,
   "xg_for": 10.88,
   "xg_against": 15.11,
-  "xpts": 7.76,
+  "xpts": 7.77,
   "xg_diff": -4.23,
-  "luck": -1.76,
+  "luck": -1.77,
   "position": 16,
   "xposition": 16
  },
