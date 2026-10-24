@@ -2,22 +2,12 @@
  {
   "team": "Paris Saint-Germain",
   "attack": 1.413,
-  "defence": 0.759,
+  "defence": 0.76,
   "expected_gf_per_game": 1.96,
   "expected_ga_per_game": 1.05,
   "net_rating": 0.908,
-  "evidence_matches": 6.0,
-  "rank": 1
- },
- {
-  "team": "Lyon",
-  "attack": 1.032,
-  "defence": 0.8,
-  "expected_gf_per_game": 1.43,
-  "expected_ga_per_game": 1.11,
-  "net_rating": 0.323,
   "evidence_matches": 5.9,
-  "rank": 2
+  "rank": 1
  },
  {
   "team": "Lens",
@@ -25,6 +15,16 @@
   "defence": 0.996,
   "expected_gf_per_game": 1.7,
   "expected_ga_per_game": 1.38,
+  "net_rating": 0.322,
+  "evidence_matches": 5.9,
+  "rank": 2
+ },
+ {
+  "team": "Lyon",
+  "attack": 1.032,
+  "defence": 0.8,
+  "expected_gf_per_game": 1.43,
+  "expected_ga_per_game": 1.11,
   "net_rating": 0.322,
   "evidence_matches": 5.9,
   "rank": 3
@@ -35,8 +35,8 @@
   "defence": 0.852,
   "expected_gf_per_game": 1.46,
   "expected_ga_per_game": 1.18,
-  "net_rating": 0.28,
-  "evidence_matches": 6.0,
+  "net_rating": 0.279,
+  "evidence_matches": 5.9,
   "rank": 4
  },
  {
@@ -45,17 +45,17 @@
   "defence": 0.926,
   "expected_gf_per_game": 1.52,
   "expected_ga_per_game": 1.29,
-  "net_rating": 0.237,
-  "evidence_matches": 7.0,
+  "net_rating": 0.236,
+  "evidence_matches": 6.9,
   "rank": 5
  },
  {
   "team": "Toulouse",
   "attack": 1.134,
-  "defence": 0.966,
+  "defence": 0.965,
   "expected_gf_per_game": 1.57,
   "expected_ga_per_game": 1.34,
-  "net_rating": 0.234,
+  "net_rating": 0.233,
   "evidence_matches": 5.9,
   "rank": 6
  },
@@ -65,18 +65,18 @@
   "defence": 0.811,
   "expected_gf_per_game": 1.3,
   "expected_ga_per_game": 1.13,
-  "net_rating": 0.171,
+  "net_rating": 0.172,
   "evidence_matches": 5.9,
   "rank": 7
  },
  {
   "team": "Monaco",
-  "attack": 0.941,
-  "defence": 0.838,
+  "attack": 0.942,
+  "defence": 0.839,
   "expected_gf_per_game": 1.31,
   "expected_ga_per_game": 1.16,
   "net_rating": 0.143,
-  "evidence_matches": 6.0,
+  "evidence_matches": 5.9,
   "rank": 8
  },
  {
@@ -86,7 +86,7 @@
   "expected_gf_per_game": 1.56,
   "expected_ga_per_game": 1.5,
   "net_rating": 0.066,
-  "evidence_matches": 6.0,
+  "evidence_matches": 5.9,
   "rank": 9
  },
  {
@@ -96,7 +96,7 @@
   "expected_gf_per_game": 1.13,
   "expected_ga_per_game": 1.12,
   "net_rating": 0.004,
-  "evidence_matches": 6.0,
+  "evidence_matches": 5.9,
   "rank": 10
  },
  {
@@ -105,8 +105,8 @@
   "defence": 1.222,
   "expected_gf_per_game": 1.67,
   "expected_ga_per_game": 1.7,
-  "net_rating": -0.027,
-  "evidence_matches": 6.0,
+  "net_rating": -0.026,
+  "evidence_matches": 5.9,
   "rank": 11
  },
  {
@@ -115,8 +115,8 @@
   "defence": 1.111,
   "expected_gf_per_game": 1.34,
   "expected_ga_per_game": 1.54,
-  "net_rating": -0.203,
-  "evidence_matches": 6.0,
+  "net_rating": -0.202,
+  "evidence_matches": 5.9,
   "rank": 12
  },
  {
@@ -126,7 +126,7 @@
   "expected_gf_per_game": 1.29,
   "expected_ga_per_game": 1.57,
   "net_rating": -0.28,
-  "evidence_matches": 6.0,
+  "evidence_matches": 5.9,
   "rank": 13
  },
  {
@@ -136,7 +136,7 @@
   "expected_gf_per_game": 1.1,
   "expected_ga_per_game": 1.39,
   "net_rating": -0.288,
-  "evidence_matches": 7.0,
+  "evidence_matches": 6.9,
   "rank": 14
  },
  {
@@ -146,7 +146,7 @@
   "expected_gf_per_game": 1.1,
   "expected_ga_per_game": 1.46,
   "net_rating": -0.36,
-  "evidence_matches": 6.0,
+  "evidence_matches": 5.9,
   "rank": 15
  },
  {
@@ -156,7 +156,7 @@
   "expected_gf_per_game": 1.28,
   "expected_ga_per_game": 1.67,
   "net_rating": -0.392,
-  "evidence_matches": 6.0,
+  "evidence_matches": 5.9,
   "rank": 16
  },
  {
@@ -165,8 +165,8 @@
   "defence": 1.204,
   "expected_gf_per_game": 1.18,
   "expected_ga_per_game": 1.67,
-  "net_rating": -0.491,
-  "evidence_matches": 6.0,
+  "net_rating": -0.49,
+  "evidence_matches": 5.9,
   "rank": 17
  },
  {
@@ -174,9 +174,9 @@
   "attack": 0.746,
   "defence": 1.206,
   "expected_gf_per_game": 1.04,
-  "expected_ga_per_game": 1.68,
-  "net_rating": -0.639,
-  "evidence_matches": 6.0,
+  "expected_ga_per_game": 1.67,
+  "net_rating": -0.638,
+  "evidence_matches": 5.9,
   "rank": 18
  }
 ]
