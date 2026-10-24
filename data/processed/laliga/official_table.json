@@ -131,6 +131,19 @@
  },
  {
   "position": 11,
+  "team": "Racing Santander",
+  "fotmob_team_id": "8696",
+  "played": 10,
+  "won": 3,
+  "drawn": 2,
+  "lost": 5,
+  "gf": 15,
+  "ga": 26,
+  "gd": -11,
+  "points": 11
+ },
+ {
+  "position": 12,
   "team": "Levante",
   "fotmob_team_id": "8581",
   "played": 9,
@@ -143,20 +156,20 @@
   "points": 10
  },
  {
-  "position": 12,
-  "team": "Rayo Vallecano",
-  "fotmob_team_id": "8370",
-  "played": 9,
+  "position": 13,
+  "team": "Elche",
+  "fotmob_team_id": "10268",
+  "played": 10,
   "won": 2,
   "drawn": 4,
-  "lost": 3,
-  "gf": 12,
+  "lost": 4,
+  "gf": 14,
   "ga": 17,
-  "gd": -5,
+  "gd": -3,
   "points": 10
  },
  {
-  "position": 13,
+  "position": 14,
   "team": "Villarreal",
   "fotmob_team_id": "10205",
   "played": 9,
@@ -169,7 +182,7 @@
   "points": 9
  },
  {
-  "position": 14,
+  "position": 15,
   "team": "Athletic Club",
   "fotmob_team_id": "8315",
   "played": 8,
@@ -182,7 +195,7 @@
   "points": 9
  },
  {
-  "position": 15,
+  "position": 16,
   "team": "Getafe",
   "fotmob_team_id": "8305",
   "played": 9,
@@ -195,42 +208,29 @@
   "points": 9
  },
  {
-  "position": 16,
-  "team": "Espanyol",
-  "fotmob_team_id": "8558",
+  "position": 17,
+  "team": "Rayo Vallecano",
+  "fotmob_team_id": "8370",
   "played": 9,
   "won": 2,
-  "drawn": 2,
-  "lost": 5,
-  "gf": 11,
-  "ga": 12,
-  "gd": -1,
-  "points": 8
- },
- {
-  "position": 17,
-  "team": "Elche",
-  "fotmob_team_id": "10268",
-  "played": 10,
-  "won": 1,
-  "drawn": 5,
+  "drawn": 3,
   "lost": 4,
-  "gf": 11,
-  "ga": 17,
-  "gd": -6,
-  "points": 8
+  "gf": 12,
+  "ga": 20,
+  "gd": -8,
+  "points": 9
  },
  {
   "position": 18,
-  "team": "Racing Santander",
-  "fotmob_team_id": "8696",
-  "played": 9,
+  "team": "Espanyol",
+  "fotmob_team_id": "8558",
+  "played": 10,
   "won": 2,
   "drawn": 2,
-  "lost": 5,
-  "gf": 13,
-  "ga": 25,
-  "gd": -12,
+  "lost": 6,
+  "gf": 12,
+  "ga": 14,
+  "gd": -2,
   "points": 8
  },
  {
