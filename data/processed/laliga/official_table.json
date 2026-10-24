@@ -144,6 +144,19 @@
  },
  {
   "position": 12,
+  "team": "Rayo Vallecano",
+  "fotmob_team_id": "8370",
+  "played": 9,
+  "won": 2,
+  "drawn": 4,
+  "lost": 3,
+  "gf": 12,
+  "ga": 17,
+  "gd": -5,
+  "points": 10
+ },
+ {
+  "position": 13,
   "team": "Villarreal",
   "fotmob_team_id": "10205",
   "played": 9,
@@ -156,7 +169,7 @@
   "points": 9
  },
  {
-  "position": 13,
+  "position": 14,
   "team": "Athletic Club",
   "fotmob_team_id": "8315",
   "played": 8,
@@ -166,19 +179,6 @@
   "gf": 8,
   "ga": 9,
   "gd": -1,
-  "points": 9
- },
- {
-  "position": 14,
-  "team": "Rayo Vallecano",
-  "fotmob_team_id": "8370",
-  "played": 8,
-  "won": 2,
-  "drawn": 3,
-  "lost": 3,
-  "gf": 12,
-  "ga": 17,
-  "gd": -5,
   "points": 9
  },
  {
@@ -209,6 +209,19 @@
  },
  {
   "position": 17,
+  "team": "Elche",
+  "fotmob_team_id": "10268",
+  "played": 10,
+  "won": 1,
+  "drawn": 5,
+  "lost": 4,
+  "gf": 11,
+  "ga": 17,
+  "gd": -6,
+  "points": 8
+ },
+ {
+  "position": 18,
   "team": "Racing Santander",
   "fotmob_team_id": "8696",
   "played": 9,
@@ -219,19 +232,6 @@
   "ga": 25,
   "gd": -12,
   "points": 8
- },
- {
-  "position": 18,
-  "team": "Elche",
-  "fotmob_team_id": "10268",
-  "played": 9,
-  "won": 1,
-  "drawn": 4,
-  "lost": 4,
-  "gf": 11,
-  "ga": 17,
-  "gd": -6,
-  "points": 7
  },
  {
   "position": 19,

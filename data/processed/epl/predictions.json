@@ -12572,7 +12572,7 @@
   "round": 8,
   "home": "Aston Villa",
   "away": "Manchester City",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 6,
    "goals": 1.17,
@@ -12599,8 +12599,8 @@
    "form": "WWWWWW",
    "possession_pct": 64.2
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 1,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.337,
   "pred_xg_away": 1.751,
