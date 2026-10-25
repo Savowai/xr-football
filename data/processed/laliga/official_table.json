@@ -56,13 +56,13 @@
   "team": "Real Sociedad",
   "fotmob_team_id": "8560",
   "played": 10,
-  "won": 5,
-  "drawn": 2,
+  "won": 6,
+  "drawn": 1,
   "lost": 3,
-  "gf": 18,
+  "gf": 19,
   "ga": 18,
-  "gd": 0,
-  "points": 17
+  "gd": 1,
+  "points": 19
  },
  {
   "position": 6,
@@ -144,19 +144,6 @@
  },
  {
   "position": 12,
-  "team": "Levante",
-  "fotmob_team_id": "8581",
-  "played": 10,
-  "won": 2,
-  "drawn": 5,
-  "lost": 3,
-  "gf": 16,
-  "ga": 18,
-  "gd": -2,
-  "points": 11
- },
- {
-  "position": 13,
   "team": "Osasuna",
   "fotmob_team_id": "8371",
   "played": 9,
@@ -169,7 +156,7 @@
   "points": 11
  },
  {
-  "position": 14,
+  "position": 13,
   "team": "Racing Santander",
   "fotmob_team_id": "8696",
   "played": 10,
@@ -180,6 +167,19 @@
   "ga": 26,
   "gd": -11,
   "points": 11
+ },
+ {
+  "position": 14,
+  "team": "Levante",
+  "fotmob_team_id": "8581",
+  "played": 10,
+  "won": 2,
+  "drawn": 4,
+  "lost": 4,
+  "gf": 16,
+  "ga": 19,
+  "gd": -3,
+  "points": 10
  },
  {
   "position": 15,

@@ -5,14 +5,14 @@
   "country": "England",
   "season": "2026-27",
   "teams": 20,
-  "played": 79,
+  "played": 80,
   "matches": 380,
   "current_round": 8,
   "next_round": 9,
   "total_rounds": 38,
-  "xg_coverage": 79,
+  "xg_coverage": 80,
   "leader": "Manchester City",
-  "built_at": "2026-10-25T17:54:36.479530+00:00"
+  "built_at": "2026-10-25T20:02:37.765828+00:00"
  },
  {
   "key": "laliga",
@@ -20,14 +20,14 @@
   "country": "Spain",
   "season": "2026-27",
   "teams": 20,
-  "played": 96,
+  "played": 97,
   "matches": 380,
   "current_round": 10,
   "next_round": 10,
   "total_rounds": 38,
-  "xg_coverage": 95,
+  "xg_coverage": 96,
   "leader": "Barcelona",
-  "built_at": "2026-10-25T17:54:48.311007+00:00"
+  "built_at": "2026-10-25T20:02:45.143036+00:00"
  },
  {
   "key": "seriea",
@@ -35,14 +35,14 @@
   "country": "Italy",
   "season": "2026-27",
   "teams": 20,
-  "played": 78,
+  "played": 79,
   "matches": 380,
   "current_round": 8,
-  "next_round": 8,
+  "next_round": 9,
   "total_rounds": 38,
-  "xg_coverage": 78,
+  "xg_coverage": 79,
   "leader": "Inter",
-  "built_at": "2026-10-25T17:54:56.533594+00:00"
+  "built_at": "2026-10-25T20:02:49.780901+00:00"
  },
  {
   "key": "bundesliga",
@@ -50,14 +50,14 @@
   "country": "Germany",
   "season": "2026-27",
   "teams": 18,
-  "played": 62,
+  "played": 63,
   "matches": 306,
   "current_round": 7,
   "next_round": 8,
   "total_rounds": 34,
-  "xg_coverage": 62,
-  "leader": "Borussia Dortmund",
-  "built_at": "2026-10-25T17:55:01.651483+00:00"
+  "xg_coverage": 63,
+  "leader": "Bayern M\u00fcnchen",
+  "built_at": "2026-10-25T20:02:54.794075+00:00"
  },
  {
   "key": "ligue1",
@@ -65,13 +65,13 @@
   "country": "France",
   "season": "2026-27",
   "teams": 18,
-  "played": 66,
+  "played": 71,
   "matches": 306,
   "current_round": 8,
   "next_round": 8,
   "total_rounds": 34,
-  "xg_coverage": 66,
-  "leader": "Lille",
-  "built_at": "2026-10-25T17:55:06.972607+00:00"
+  "xg_coverage": 71,
+  "leader": "Rennes",
+  "built_at": "2026-10-25T20:03:09.766441+00:00"
  }
 ]

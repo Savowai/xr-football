@@ -69,25 +69,25 @@
   "xg_diff": -2.85,
   "luck": 7.45,
   "position": 4,
-  "xposition": 9
+  "xposition": 10
  },
  {
   "team": "Real Sociedad",
-  "played": 9,
-  "won": 5,
+  "played": 10,
+  "won": 6,
   "drawn": 1,
   "lost": 3,
-  "gf": 17,
-  "ga": 17,
-  "gd": 0,
-  "points": 16,
-  "xg_for": 12.34,
-  "xg_against": 14.56,
-  "xpts": 11.5,
-  "xg_diff": -2.22,
-  "luck": 4.5,
+  "gf": 19,
+  "ga": 18,
+  "gd": 1,
+  "points": 19,
+  "xg_for": 14.79,
+  "xg_against": 15.2,
+  "xpts": 13.95,
+  "xg_diff": -0.41,
+  "luck": 5.05,
   "position": 5,
-  "xposition": 13
+  "xposition": 7
  },
  {
   "team": "Sevilla",
@@ -159,7 +159,7 @@
   "xg_diff": -3.17,
   "luck": 0.45,
   "position": 9,
-  "xposition": 12
+  "xposition": 13
  },
  {
   "team": "Villarreal",
@@ -195,7 +195,7 @@
   "xg_diff": -0.02,
   "luck": -1.93,
   "position": 11,
-  "xposition": 7
+  "xposition": 8
  },
  {
   "team": "Osasuna",
@@ -213,7 +213,7 @@
   "xg_diff": 0.46,
   "luck": -1.76,
   "position": 12,
-  "xposition": 8
+  "xposition": 9
  },
  {
   "team": "Racing Santander",
@@ -235,19 +235,19 @@
  },
  {
   "team": "Levante",
-  "played": 9,
+  "played": 10,
   "won": 2,
   "drawn": 4,
-  "lost": 3,
-  "gf": 15,
-  "ga": 17,
-  "gd": -2,
+  "lost": 4,
+  "gf": 16,
+  "ga": 19,
+  "gd": -3,
   "points": 10,
-  "xg_for": 12.72,
-  "xg_against": 17.71,
-  "xpts": 9.85,
-  "xg_diff": -4.99,
-  "luck": 0.15,
+  "xg_for": 13.36,
+  "xg_against": 20.16,
+  "xpts": 10.22,
+  "xg_diff": -6.8,
+  "luck": -0.22,
   "position": 14,
   "xposition": 18
  },
@@ -267,7 +267,7 @@
   "xg_diff": -5.84,
   "luck": -1.86,
   "position": 15,
-  "xposition": 11
+  "xposition": 12
  },
  {
   "team": "Rayo Vallecano",
@@ -321,7 +321,7 @@
   "xg_diff": -2.97,
   "luck": -4.21,
   "position": 18,
-  "xposition": 10
+  "xposition": 11
  },
  {
   "team": "Valencia",
@@ -335,9 +335,9 @@
   "points": 6,
   "xg_for": 10.4,
   "xg_against": 15.13,
-  "xpts": 11.25,
+  "xpts": 11.26,
   "xg_diff": -4.73,
-  "luck": -5.25,
+  "luck": -5.26,
   "position": 19,
   "xposition": 15
  },
@@ -353,9 +353,9 @@
   "points": 5,
   "xg_for": 8.0,
   "xg_against": 15.8,
-  "xpts": 7.78,
+  "xpts": 7.79,
   "xg_diff": -7.8,
-  "luck": -2.78,
+  "luck": -2.79,
   "position": 20,
   "xposition": 20
  }
