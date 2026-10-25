@@ -13280,7 +13280,7 @@
   "round": 8,
   "home": "Crystal Palace",
   "away": "Newcastle United",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 6,
    "goals": 1.5,
@@ -13307,8 +13307,8 @@
    "form": "WDLWLL",
    "possession_pct": 53.5
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.806,
   "pred_xg_away": 1.557,
@@ -13429,7 +13429,7 @@
   "round": 8,
   "home": "Hull City",
   "away": "Brentford",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 6,
    "goals": 1.0,
@@ -13456,8 +13456,8 @@
    "form": "DDDWDL",
    "possession_pct": 45.7
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 1,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.202,
   "pred_xg_away": 1.526,
@@ -13566,7 +13566,7 @@
   "round": 8,
   "home": "Liverpool",
   "away": "Brighton",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 6,
    "goals": 1.17,
@@ -13593,8 +13593,8 @@
    "form": "LDWWWW",
    "possession_pct": 57.5
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 2,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.422,
   "pred_xg_away": 1.4,
@@ -13730,7 +13730,7 @@
   "round": 8,
   "home": "Manchester United",
   "away": "Bournemouth",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 6,
    "goals": 1.67,
@@ -13757,8 +13757,8 @@
    "form": "DDDLLW",
    "possession_pct": 53.2
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.667,
   "pred_xg_away": 1.395,

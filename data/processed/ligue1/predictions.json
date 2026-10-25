@@ -11510,7 +11510,7 @@
   "round": 8,
   "home": "Monaco",
   "away": "Lille",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 6,
    "goals": 1.5,
@@ -11537,8 +11537,8 @@
    "form": "DWWLWD",
    "possession_pct": 51.5
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 1,
   "season": "2026-27",
   "pred_xg_home": 1.244,
   "pred_xg_away": 1.098,

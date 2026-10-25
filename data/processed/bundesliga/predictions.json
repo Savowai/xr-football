@@ -10802,7 +10802,7 @@
   "round": 7,
   "home": "Hoffenheim",
   "away": "Bayer Leverkusen",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 6,
    "goals": 1.83,
@@ -10829,8 +10829,8 @@
    "form": "LWDWWW",
    "possession_pct": 57.8
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.64,
   "pred_xg_away": 1.946,

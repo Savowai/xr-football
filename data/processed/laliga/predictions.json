@@ -16754,7 +16754,7 @@
   "round": 10,
   "home": "Athletic Club",
   "away": "Getafe",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 6,
    "goals": 1.17,
@@ -16781,8 +16781,8 @@
    "form": "DDLWLD",
    "possession_pct": 30.7
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 3,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.492,
   "pred_xg_away": 0.575,
