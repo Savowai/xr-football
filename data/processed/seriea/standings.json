@@ -11,9 +11,9 @@
   "points": 22,
   "xg_for": 22.67,
   "xg_against": 8.17,
-  "xpts": 18.53,
+  "xpts": 18.52,
   "xg_diff": 14.5,
-  "luck": 3.47,
+  "luck": 3.48,
   "position": 1,
   "xposition": 1
  },
@@ -33,7 +33,7 @@
   "xg_diff": 2.25,
   "luck": 9.42,
   "position": 2,
-  "xposition": 7
+  "xposition": 8
  },
  {
   "team": "Roma",
@@ -54,6 +54,24 @@
   "xposition": 3
  },
  {
+  "team": "Milan",
+  "played": 8,
+  "won": 5,
+  "drawn": 3,
+  "lost": 0,
+  "gf": 16,
+  "ga": 7,
+  "gd": 9,
+  "points": 18,
+  "xg_for": 14.17,
+  "xg_against": 9.11,
+  "xpts": 13.86,
+  "xg_diff": 5.06,
+  "luck": 4.14,
+  "position": 4,
+  "xposition": 5
+ },
+ {
   "team": "Como",
   "played": 8,
   "won": 5,
@@ -68,26 +86,8 @@
   "xpts": 13.37,
   "xg_diff": 3.57,
   "luck": 3.63,
-  "position": 4,
-  "xposition": 5
- },
- {
-  "team": "Milan",
-  "played": 7,
-  "won": 4,
-  "drawn": 3,
-  "lost": 0,
-  "gf": 14,
-  "ga": 7,
-  "gd": 7,
-  "points": 15,
-  "xg_for": 11.05,
-  "xg_against": 8.69,
-  "xpts": 11.1,
-  "xg_diff": 2.36,
-  "luck": 3.9,
   "position": 5,
-  "xposition": 10
+  "xposition": 6
  },
  {
   "team": "Frosinone",
@@ -231,7 +231,7 @@
   "xg_diff": -0.45,
   "luck": -3.5,
   "position": 13,
-  "xposition": 8
+  "xposition": 9
  },
  {
   "team": "Sassuolo",
@@ -245,11 +245,11 @@
   "points": 8,
   "xg_for": 11.97,
   "xg_against": 11.38,
-  "xpts": 11.22,
+  "xpts": 11.21,
   "xg_diff": 0.59,
-  "luck": -3.22,
+  "luck": -3.21,
   "position": 14,
-  "xposition": 9
+  "xposition": 10
  },
  {
   "team": "Monza",
@@ -267,7 +267,7 @@
   "xg_diff": 3.3,
   "luck": -6.03,
   "position": 15,
-  "xposition": 6
+  "xposition": 7
  },
  {
   "team": "Genoa",
@@ -289,19 +289,19 @@
  },
  {
   "team": "Udinese",
-  "played": 7,
+  "played": 8,
   "won": 1,
   "drawn": 1,
-  "lost": 5,
+  "lost": 6,
   "gf": 9,
-  "ga": 16,
-  "gd": -7,
+  "ga": 18,
+  "gd": -9,
   "points": 4,
-  "xg_for": 8.01,
-  "xg_against": 15.34,
-  "xpts": 6.18,
-  "xg_diff": -7.33,
-  "luck": -2.18,
+  "xg_for": 8.43,
+  "xg_against": 18.46,
+  "xpts": 6.34,
+  "xg_diff": -10.03,
+  "luck": -2.34,
   "position": 17,
   "xposition": 19
  },
