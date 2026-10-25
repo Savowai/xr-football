@@ -1,5 +1,41 @@
 [
  {
+  "team": "Lille",
+  "played": 8,
+  "won": 4,
+  "drawn": 3,
+  "lost": 1,
+  "gf": 11,
+  "ga": 6,
+  "gd": 5,
+  "points": 15,
+  "xg_for": 10.61,
+  "xg_against": 13.04,
+  "xpts": 10.17,
+  "xg_diff": -2.43,
+  "luck": 4.83,
+  "position": 1,
+  "xposition": 8
+ },
+ {
+  "team": "Monaco",
+  "played": 8,
+  "won": 4,
+  "drawn": 3,
+  "lost": 1,
+  "gf": 11,
+  "ga": 7,
+  "gd": 4,
+  "points": 15,
+  "xg_for": 10.09,
+  "xg_against": 10.04,
+  "xpts": 11.12,
+  "xg_diff": 0.05,
+  "luck": 3.88,
+  "position": 2,
+  "xposition": 7
+ },
+ {
   "team": "Lyon",
   "played": 7,
   "won": 4,
@@ -11,10 +47,10 @@
   "points": 14,
   "xg_for": 11.4,
   "xg_against": 8.76,
-  "xpts": 11.18,
+  "xpts": 11.16,
   "xg_diff": 2.64,
-  "luck": 2.82,
-  "position": 1,
+  "luck": 2.84,
+  "position": 3,
   "xposition": 6
  },
  {
@@ -29,29 +65,11 @@
   "points": 14,
   "xg_for": 18.12,
   "xg_against": 8.21,
-  "xpts": 14.87,
+  "xpts": 14.85,
   "xg_diff": 9.91,
-  "luck": -0.87,
-  "position": 2,
+  "luck": -0.85,
+  "position": 4,
   "xposition": 1
- },
- {
-  "team": "Lille",
-  "played": 7,
-  "won": 4,
-  "drawn": 2,
-  "lost": 1,
-  "gf": 10,
-  "ga": 5,
-  "gd": 5,
-  "points": 14,
-  "xg_for": 9.93,
-  "xg_against": 10.83,
-  "xpts": 9.71,
-  "xg_diff": -0.9,
-  "luck": 4.29,
-  "position": 3,
-  "xposition": 7
  },
  {
   "team": "Paris FC",
@@ -65,29 +83,11 @@
   "points": 14,
   "xg_for": 13.64,
   "xg_against": 7.75,
-  "xpts": 14.32,
+  "xpts": 14.29,
   "xg_diff": 5.89,
-  "luck": -0.32,
-  "position": 4,
-  "xposition": 3
- },
- {
-  "team": "Monaco",
-  "played": 7,
-  "won": 4,
-  "drawn": 2,
-  "lost": 1,
-  "gf": 10,
-  "ga": 6,
-  "gd": 4,
-  "points": 14,
-  "xg_for": 7.88,
-  "xg_against": 9.36,
-  "xpts": 8.82,
-  "xg_diff": -1.48,
-  "luck": 5.18,
+  "luck": -0.29,
   "position": 5,
-  "xposition": 12
+  "xposition": 3
  },
  {
   "team": "Lens",
@@ -101,9 +101,9 @@
   "points": 13,
   "xg_for": 14.67,
   "xg_against": 11.5,
-  "xpts": 12.67,
+  "xpts": 12.63,
   "xg_diff": 3.17,
-  "luck": 0.33,
+  "luck": 0.37,
   "position": 6,
   "xposition": 4
  },
@@ -119,11 +119,11 @@
   "points": 13,
   "xg_for": 13.95,
   "xg_against": 16.15,
-  "xpts": 8.85,
+  "xpts": 8.83,
   "xg_diff": -2.2,
-  "luck": 4.15,
+  "luck": 4.17,
   "position": 7,
-  "xposition": 11
+  "xposition": 12
  },
  {
   "team": "Lorient",
@@ -137,11 +137,11 @@
   "points": 11,
   "xg_for": 7.87,
   "xg_against": 7.95,
-  "xpts": 9.51,
+  "xpts": 9.47,
   "xg_diff": -0.08,
-  "luck": 1.49,
+  "luck": 1.53,
   "position": 8,
-  "xposition": 8
+  "xposition": 9
  },
  {
   "team": "Nice",
@@ -155,11 +155,11 @@
   "points": 11,
   "xg_for": 8.53,
   "xg_against": 12.58,
-  "xpts": 8.74,
+  "xpts": 8.7,
   "xg_diff": -4.05,
-  "luck": 2.26,
+  "luck": 2.3,
   "position": 9,
-  "xposition": 13
+  "xposition": 14
  },
  {
   "team": "Marseille",
@@ -173,11 +173,11 @@
   "points": 9,
   "xg_for": 11.43,
   "xg_against": 14.53,
-  "xpts": 8.73,
+  "xpts": 8.71,
   "xg_diff": -3.1,
-  "luck": 0.27,
+  "luck": 0.29,
   "position": 10,
-  "xposition": 14
+  "xposition": 13
  },
  {
   "team": "Brest",
@@ -191,9 +191,9 @@
   "points": 9,
   "xg_for": 16.56,
   "xg_against": 9.29,
-  "xpts": 14.59,
+  "xpts": 14.57,
   "xg_diff": 7.27,
-  "luck": -5.59,
+  "luck": -5.57,
   "position": 11,
   "xposition": 2
  },
@@ -209,9 +209,9 @@
   "points": 9,
   "xg_for": 13.85,
   "xg_against": 10.29,
-  "xpts": 11.94,
+  "xpts": 11.91,
   "xg_diff": 3.56,
-  "luck": -2.94,
+  "luck": -2.91,
   "position": 12,
   "xposition": 5
  },
@@ -231,7 +231,7 @@
   "xg_diff": -2.8,
   "luck": 0.1,
   "position": 13,
-  "xposition": 10
+  "xposition": 11
  },
  {
   "team": "Strasbourg",
@@ -245,9 +245,9 @@
   "points": 7,
   "xg_for": 7.69,
   "xg_against": 13.37,
-  "xpts": 5.98,
+  "xpts": 5.96,
   "xg_diff": -5.68,
-  "luck": 1.02,
+  "luck": 1.04,
   "position": 14,
   "xposition": 18
  },
@@ -263,11 +263,11 @@
   "points": 7,
   "xg_for": 11.42,
   "xg_against": 13.16,
-  "xpts": 9.04,
+  "xpts": 9.02,
   "xg_diff": -1.74,
-  "luck": -2.04,
+  "luck": -2.02,
   "position": 15,
-  "xposition": 9
+  "xposition": 10
  },
  {
   "team": "Le Mans",
@@ -281,9 +281,9 @@
   "points": 6,
   "xg_for": 10.88,
   "xg_against": 15.11,
-  "xpts": 7.77,
+  "xpts": 7.75,
   "xg_diff": -4.23,
-  "luck": -1.77,
+  "luck": -1.75,
   "position": 16,
   "xposition": 16
  },
@@ -299,9 +299,9 @@
   "points": 4,
   "xg_for": 8.9,
   "xg_against": 12.6,
-  "xpts": 7.19,
+  "xpts": 7.17,
   "xg_diff": -3.7,
-  "luck": -3.19,
+  "luck": -3.17,
   "position": 17,
   "xposition": 17
  },
@@ -317,9 +317,9 @@
   "points": 2,
   "xg_for": 9.63,
   "xg_against": 12.11,
-  "xpts": 8.23,
+  "xpts": 8.21,
   "xg_diff": -2.48,
-  "luck": -6.23,
+  "luck": -6.21,
   "position": 18,
   "xposition": 15
  }

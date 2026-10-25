@@ -5,14 +5,14 @@
   "country": "England",
   "season": "2026-27",
   "teams": 20,
-  "played": 75,
+  "played": 79,
   "matches": 380,
   "current_round": 8,
-  "next_round": 8,
+  "next_round": 9,
   "total_rounds": 38,
-  "xg_coverage": 75,
+  "xg_coverage": 79,
   "leader": "Manchester City",
-  "built_at": "2026-10-25T14:36:46.360534+00:00"
+  "built_at": "2026-10-25T17:54:36.479530+00:00"
  },
  {
   "key": "laliga",
@@ -20,14 +20,14 @@
   "country": "Spain",
   "season": "2026-27",
   "teams": 20,
-  "played": 94,
+  "played": 96,
   "matches": 380,
   "current_round": 10,
   "next_round": 10,
   "total_rounds": 38,
-  "xg_coverage": 93,
+  "xg_coverage": 95,
   "leader": "Barcelona",
-  "built_at": "2026-10-25T14:36:52.071881+00:00"
+  "built_at": "2026-10-25T17:54:48.311007+00:00"
  },
  {
   "key": "seriea",
@@ -35,14 +35,14 @@
   "country": "Italy",
   "season": "2026-27",
   "teams": 20,
-  "played": 76,
+  "played": 78,
   "matches": 380,
   "current_round": 8,
   "next_round": 8,
   "total_rounds": 38,
-  "xg_coverage": 76,
+  "xg_coverage": 78,
   "leader": "Inter",
-  "built_at": "2026-10-25T14:36:57.814691+00:00"
+  "built_at": "2026-10-25T17:54:56.533594+00:00"
  },
  {
   "key": "bundesliga",
@@ -50,14 +50,14 @@
   "country": "Germany",
   "season": "2026-27",
   "teams": 18,
-  "played": 61,
+  "played": 62,
   "matches": 306,
   "current_round": 7,
-  "next_round": 7,
+  "next_round": 8,
   "total_rounds": 34,
-  "xg_coverage": 61,
+  "xg_coverage": 62,
   "leader": "Borussia Dortmund",
-  "built_at": "2026-10-25T14:37:00.652088+00:00"
+  "built_at": "2026-10-25T17:55:01.651483+00:00"
  },
  {
   "key": "ligue1",
@@ -65,13 +65,13 @@
   "country": "France",
   "season": "2026-27",
   "teams": 18,
-  "played": 65,
+  "played": 66,
   "matches": 306,
   "current_round": 8,
   "next_round": 8,
   "total_rounds": 34,
-  "xg_coverage": 65,
-  "leader": "Lyon",
-  "built_at": "2026-10-25T14:37:03.430575+00:00"
+  "xg_coverage": 66,
+  "leader": "Lille",
+  "built_at": "2026-10-25T17:55:06.972607+00:00"
  }
 ]
