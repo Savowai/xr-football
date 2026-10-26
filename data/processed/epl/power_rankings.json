@@ -5,17 +5,17 @@
   "defence": 0.617,
   "expected_gf_per_game": 1.45,
   "expected_ga_per_game": 0.76,
-  "net_rating": 0.688,
+  "net_rating": 0.687,
   "evidence_matches": 6.9,
   "rank": 1
  },
  {
   "team": "Brighton",
-  "attack": 1.352,
+  "attack": 1.351,
   "defence": 0.888,
   "expected_gf_per_game": 1.67,
   "expected_ga_per_game": 1.1,
-  "net_rating": 0.574,
+  "net_rating": 0.573,
   "evidence_matches": 6.9,
   "rank": 2
  },
@@ -42,7 +42,7 @@
  {
   "team": "Liverpool",
   "attack": 1.022,
-  "defence": 0.826,
+  "defence": 0.827,
   "expected_gf_per_game": 1.27,
   "expected_ga_per_game": 1.02,
   "net_rating": 0.242,
@@ -101,7 +101,7 @@
  },
  {
   "team": "Fulham",
-  "attack": 0.87,
+  "attack": 0.871,
   "defence": 0.964,
   "expected_gf_per_game": 1.08,
   "expected_ga_per_game": 1.19,
@@ -111,7 +111,7 @@
  },
  {
   "team": "Aston Villa",
-  "attack": 0.909,
+  "attack": 0.91,
   "defence": 1.007,
   "expected_gf_per_game": 1.13,
   "expected_ga_per_game": 1.25,
@@ -152,16 +152,16 @@
  {
   "team": "Newcastle United",
   "attack": 0.955,
-  "defence": 1.174,
+  "defence": 1.173,
   "expected_gf_per_game": 1.18,
   "expected_ga_per_game": 1.45,
-  "net_rating": -0.271,
+  "net_rating": -0.27,
   "evidence_matches": 6.9,
   "rank": 16
  },
  {
   "team": "Hull City",
-  "attack": 0.787,
+  "attack": 0.788,
   "defence": 1.063,
   "expected_gf_per_game": 0.98,
   "expected_ga_per_game": 1.32,
@@ -171,11 +171,11 @@
  },
  {
   "team": "Crystal Palace",
-  "attack": 0.923,
-  "defence": 1.254,
+  "attack": 0.924,
+  "defence": 1.253,
   "expected_gf_per_game": 1.14,
   "expected_ga_per_game": 1.55,
-  "net_rating": -0.409,
+  "net_rating": -0.408,
   "evidence_matches": 6.9,
   "rank": 18
  },
@@ -192,7 +192,7 @@
  {
   "team": "Ipswich Town",
   "attack": 0.929,
-  "defence": 1.311,
+  "defence": 1.31,
   "expected_gf_per_game": 1.15,
   "expected_ga_per_game": 1.62,
   "net_rating": -0.473,
