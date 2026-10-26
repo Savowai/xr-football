@@ -68,14 +68,14 @@
   "position": 6,
   "team": "Sevilla",
   "fotmob_team_id": "8302",
-  "played": 9,
-  "won": 4,
+  "played": 10,
+  "won": 5,
   "drawn": 2,
   "lost": 3,
-  "gf": 14,
+  "gf": 16,
   "ga": 16,
-  "gd": -2,
-  "points": 14
+  "gd": 0,
+  "points": 17
  },
  {
   "position": 7,
@@ -146,13 +146,13 @@
   "position": 12,
   "team": "Osasuna",
   "fotmob_team_id": "8371",
-  "played": 9,
+  "played": 10,
   "won": 3,
   "drawn": 2,
-  "lost": 4,
+  "lost": 5,
   "gf": 10,
-  "ga": 18,
-  "gd": -8,
+  "ga": 20,
+  "gd": -10,
   "points": 11
  },
  {
