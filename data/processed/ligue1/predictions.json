@@ -12893,6 +12893,157 @@
  },
  {
   "date": "2026-10-30",
+  "kickoff_datetime": "2026-10-30T18:00:00Z",
+  "round": 9,
+  "home": "Nice",
+  "away": "Rennes",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 1.33,
+   "goals_against": 1.17,
+   "xg_for": 1.12,
+   "xg_against": 1.49,
+   "xg_diff_per_game": -0.37,
+   "finishing_delta": 0.21,
+   "points": 10,
+   "ppg": 1.67,
+   "form": "DLWWLW",
+   "possession_pct": 52.5
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 2.17,
+   "goals_against": 1.67,
+   "xg_for": 1.93,
+   "xg_against": 1.97,
+   "xg_diff_per_game": -0.04,
+   "finishing_delta": 0.24,
+   "points": 12,
+   "ppg": 2.0,
+   "form": "WWLWLW",
+   "possession_pct": 52.0
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.786,
+  "pred_xg_away": 1.674,
+  "win_home_pct": 40.1,
+  "draw_pct": 24.4,
+  "win_away_pct": 35.5,
+  "xpts_home": 1.45,
+  "xpts_away": 1.31,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    10.39
+   ],
+   [
+    2,
+    1,
+    8.39
+   ],
+   [
+    1,
+    2,
+    7.87
+   ],
+   [
+    2,
+    2,
+    7.02
+   ],
+   [
+    2,
+    0,
+    5.01
+   ]
+  ],
+  "over_2_5_pct": 67.2,
+  "btts_pct": 68.6,
+  "reasoning": {
+   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.11 goals, and the most likely single outcome is a draw at 24%. Rennes are without Samba, which the model treats as a marginal cost given the cover behind them. Projected 1.79-1.67 on expected goals, with 1-1 the single most likely scoreline at 10.4%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 6.8,
+    "effective_matches_away": 6.8
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Nice attack",
+     "detail": "poor (0.81x league average)",
+     "delta_goals": -0.249
+    },
+    {
+     "side": "home",
+     "label": "Rennes defence",
+     "detail": "poor (1.20x league average conceded)",
+     "delta_goals": 0.215
+    },
+    {
+     "side": "home",
+     "label": "Rennes defence weakened",
+     "detail": "Samba out (1.11x conceded)",
+     "delta_goals": 0.139
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.24x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.344
+    },
+    {
+     "side": "away",
+     "label": "Rennes attack",
+     "detail": "strong (1.21x league average)",
+     "delta_goals": 0.286
+    },
+    {
+     "side": "away",
+     "label": "Rennes unavailable",
+     "detail": "Samba out (1.00x attack)",
+     "delta_goals": 0.0
+    },
+    {
+     "side": "away",
+     "label": "Nice defence",
+     "detail": "solid (1.03x league average conceded)",
+     "delta_goals": 0.052
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 0.814,
+    "home_defence": 1.032,
+    "away_attack": 1.214,
+    "away_defence": 1.198,
+    "league_base": 1.336,
+    "home_advantage": 1.239
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.107,
+    "home_missing": [
+     "Laurent Abergel",
+     "Mo\u00efse Bombito"
+    ],
+    "away_missing": [
+     "Brice Samba"
+    ]
+   }
+  }
+ },
+ {
+  "date": "2026-10-30",
   "kickoff_datetime": "2026-10-30T20:05:00Z",
   "round": 9,
   "home": "Lille",
@@ -13042,157 +13193,6 @@
      "Matthieu Udol",
      "Saud Abdulhamid",
      "Yacine Titraoui"
-    ]
-   }
-  }
- },
- {
-  "date": "2026-10-31",
-  "kickoff_datetime": "2026-10-31T16:15:00Z",
-  "round": 9,
-  "home": "Nice",
-  "away": "Rennes",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 1.33,
-   "goals_against": 1.17,
-   "xg_for": 1.12,
-   "xg_against": 1.49,
-   "xg_diff_per_game": -0.37,
-   "finishing_delta": 0.21,
-   "points": 10,
-   "ppg": 1.67,
-   "form": "DLWWLW",
-   "possession_pct": 52.5
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 2.17,
-   "goals_against": 1.67,
-   "xg_for": 1.93,
-   "xg_against": 1.97,
-   "xg_diff_per_game": -0.04,
-   "finishing_delta": 0.24,
-   "points": 12,
-   "ppg": 2.0,
-   "form": "WWLWLW",
-   "possession_pct": 52.0
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.786,
-  "pred_xg_away": 1.674,
-  "win_home_pct": 40.1,
-  "draw_pct": 24.4,
-  "win_away_pct": 35.5,
-  "xpts_home": 1.45,
-  "xpts_away": 1.31,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    10.39
-   ],
-   [
-    2,
-    1,
-    8.39
-   ],
-   [
-    1,
-    2,
-    7.87
-   ],
-   [
-    2,
-    2,
-    7.02
-   ],
-   [
-    2,
-    0,
-    5.01
-   ]
-  ],
-  "over_2_5_pct": 67.2,
-  "btts_pct": 68.6,
-  "reasoning": {
-   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.11 goals, and the most likely single outcome is a draw at 24%. Rennes are without Samba, which the model treats as a marginal cost given the cover behind them. Projected 1.79-1.67 on expected goals, with 1-1 the single most likely scoreline at 10.4%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 6.8,
-    "effective_matches_away": 6.8
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Nice attack",
-     "detail": "poor (0.81x league average)",
-     "delta_goals": -0.249
-    },
-    {
-     "side": "home",
-     "label": "Rennes defence",
-     "detail": "poor (1.20x league average conceded)",
-     "delta_goals": 0.215
-    },
-    {
-     "side": "home",
-     "label": "Rennes defence weakened",
-     "detail": "Samba out (1.11x conceded)",
-     "delta_goals": 0.139
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.24x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.344
-    },
-    {
-     "side": "away",
-     "label": "Rennes attack",
-     "detail": "strong (1.21x league average)",
-     "delta_goals": 0.286
-    },
-    {
-     "side": "away",
-     "label": "Rennes unavailable",
-     "detail": "Samba out (1.00x attack)",
-     "delta_goals": 0.0
-    },
-    {
-     "side": "away",
-     "label": "Nice defence",
-     "detail": "solid (1.03x league average conceded)",
-     "delta_goals": 0.052
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 0.814,
-    "home_defence": 1.032,
-    "away_attack": 1.214,
-    "away_defence": 1.198,
-    "league_base": 1.336,
-    "home_advantage": 1.239
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.107,
-    "home_missing": [
-     "Laurent Abergel",
-     "Mo\u00efse Bombito"
-    ],
-    "away_missing": [
-     "Brice Samba"
     ]
    }
   }
