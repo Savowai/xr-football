@@ -2,31 +2,31 @@
  {
   "team": "Arsenal",
   "attack": 1.172,
-  "defence": 0.617,
+  "defence": 0.618,
   "expected_gf_per_game": 1.45,
   "expected_ga_per_game": 0.76,
-  "net_rating": 0.687,
-  "evidence_matches": 6.9,
+  "net_rating": 0.686,
+  "evidence_matches": 6.8,
   "rank": 1
  },
  {
   "team": "Brighton",
-  "attack": 1.351,
+  "attack": 1.35,
   "defence": 0.888,
   "expected_gf_per_game": 1.67,
   "expected_ga_per_game": 1.1,
-  "net_rating": 0.573,
-  "evidence_matches": 6.9,
+  "net_rating": 0.572,
+  "evidence_matches": 6.8,
   "rank": 2
  },
  {
   "team": "Manchester City",
-  "attack": 1.357,
+  "attack": 1.356,
   "defence": 0.922,
   "expected_gf_per_game": 1.68,
   "expected_ga_per_game": 1.14,
-  "net_rating": 0.539,
-  "evidence_matches": 6.9,
+  "net_rating": 0.538,
+  "evidence_matches": 6.8,
   "rank": 3
  },
  {
@@ -35,8 +35,8 @@
   "defence": 0.921,
   "expected_gf_per_game": 1.46,
   "expected_ga_per_game": 1.14,
-  "net_rating": 0.32,
-  "evidence_matches": 6.9,
+  "net_rating": 0.319,
+  "evidence_matches": 6.8,
   "rank": 4
  },
  {
@@ -45,34 +45,34 @@
   "defence": 0.827,
   "expected_gf_per_game": 1.27,
   "expected_ga_per_game": 1.02,
-  "net_rating": 0.242,
-  "evidence_matches": 6.9,
+  "net_rating": 0.241,
+  "evidence_matches": 6.8,
   "rank": 5
  },
  {
   "team": "Brentford",
-  "attack": 1.153,
+  "attack": 1.152,
   "defence": 1.019,
   "expected_gf_per_game": 1.43,
   "expected_ga_per_game": 1.26,
   "net_rating": 0.166,
-  "evidence_matches": 6.9,
+  "evidence_matches": 6.8,
   "rank": 6
  },
  {
   "team": "Chelsea",
   "attack": 1.117,
-  "defence": 1.051,
+  "defence": 1.05,
   "expected_gf_per_game": 1.38,
   "expected_ga_per_game": 1.3,
   "net_rating": 0.082,
-  "evidence_matches": 6.9,
+  "evidence_matches": 6.8,
   "rank": 7
  },
  {
   "team": "Leeds United",
   "attack": 0.912,
-  "defence": 0.858,
+  "defence": 0.859,
   "expected_gf_per_game": 1.13,
   "expected_ga_per_game": 1.06,
   "net_rating": 0.067,
@@ -86,7 +86,7 @@
   "expected_gf_per_game": 1.18,
   "expected_ga_per_game": 1.16,
   "net_rating": 0.024,
-  "evidence_matches": 6.9,
+  "evidence_matches": 6.8,
   "rank": 9
  },
  {
@@ -95,7 +95,7 @@
   "defence": 1.055,
   "expected_gf_per_game": 1.32,
   "expected_ga_per_game": 1.31,
-  "net_rating": 0.011,
+  "net_rating": 0.012,
   "evidence_matches": 6.9,
   "rank": 10
  },
@@ -106,17 +106,17 @@
   "expected_gf_per_game": 1.08,
   "expected_ga_per_game": 1.19,
   "net_rating": -0.116,
-  "evidence_matches": 6.9,
+  "evidence_matches": 6.8,
   "rank": 11
  },
  {
   "team": "Aston Villa",
   "attack": 0.91,
-  "defence": 1.007,
+  "defence": 1.008,
   "expected_gf_per_game": 1.13,
   "expected_ga_per_game": 1.25,
   "net_rating": -0.121,
-  "evidence_matches": 6.9,
+  "evidence_matches": 6.8,
   "rank": 12
  },
  {
@@ -125,8 +125,8 @@
   "defence": 0.981,
   "expected_gf_per_game": 1.06,
   "expected_ga_per_game": 1.21,
-  "net_rating": -0.155,
-  "evidence_matches": 6.9,
+  "net_rating": -0.154,
+  "evidence_matches": 6.8,
   "rank": 13
  },
  {
@@ -136,7 +136,7 @@
   "expected_gf_per_game": 0.96,
   "expected_ga_per_game": 1.13,
   "net_rating": -0.172,
-  "evidence_matches": 6.9,
+  "evidence_matches": 6.8,
   "rank": 14
  },
  {
@@ -146,7 +146,7 @@
   "expected_gf_per_game": 1.1,
   "expected_ga_per_game": 1.35,
   "net_rating": -0.253,
-  "evidence_matches": 6.9,
+  "evidence_matches": 6.8,
   "rank": 15
  },
  {
@@ -166,7 +166,7 @@
   "expected_gf_per_game": 0.98,
   "expected_ga_per_game": 1.32,
   "net_rating": -0.341,
-  "evidence_matches": 6.9,
+  "evidence_matches": 6.8,
   "rank": 17
  },
  {
@@ -176,7 +176,7 @@
   "expected_gf_per_game": 1.14,
   "expected_ga_per_game": 1.55,
   "net_rating": -0.408,
-  "evidence_matches": 6.9,
+  "evidence_matches": 6.8,
   "rank": 18
  },
  {
@@ -186,7 +186,7 @@
   "expected_gf_per_game": 0.94,
   "expected_ga_per_game": 1.38,
   "net_rating": -0.441,
-  "evidence_matches": 6.9,
+  "evidence_matches": 6.8,
   "rank": 19
  },
  {
@@ -195,8 +195,8 @@
   "defence": 1.31,
   "expected_gf_per_game": 1.15,
   "expected_ga_per_game": 1.62,
-  "net_rating": -0.473,
-  "evidence_matches": 6.9,
+  "net_rating": -0.472,
+  "evidence_matches": 6.8,
   "rank": 20
  }
 ]
