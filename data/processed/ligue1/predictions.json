@@ -13201,156 +13201,6 @@
   "date": "2026-10-31",
   "kickoff_datetime": "2026-10-31T19:45:00Z",
   "round": 9,
-  "home": "Lyon",
-  "away": "Angers",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 1.67,
-   "goals_against": 1.0,
-   "xg_for": 1.59,
-   "xg_against": 1.03,
-   "xg_diff_per_game": 0.57,
-   "finishing_delta": 0.07,
-   "points": 10,
-   "ppg": 1.67,
-   "form": "WDWLWL",
-   "possession_pct": 47.5
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 1.0,
-   "goals_against": 2.0,
-   "xg_for": 1.36,
-   "xg_against": 1.77,
-   "xg_diff_per_game": -0.41,
-   "finishing_delta": -0.36,
-   "points": 5,
-   "ppg": 0.83,
-   "form": "LDWLLD",
-   "possession_pct": 49.2
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.976,
-  "pred_xg_away": 0.845,
-  "win_home_pct": 62.8,
-  "draw_pct": 23.0,
-  "win_away_pct": 14.2,
-  "xpts_home": 2.11,
-  "xpts_away": 0.66,
-  "most_likely_scoreline": [
-   2,
-   0
-  ],
-  "top_5_scorelines": [
-   [
-    2,
-    0,
-    11.62
-   ],
-   [
-    1,
-    1,
-    11.0
-   ],
-   [
-    1,
-    0,
-    10.71
-   ],
-   [
-    2,
-    1,
-    9.82
-   ],
-   [
-    3,
-    0,
-    7.66
-   ]
-  ],
-  "over_2_5_pct": 53.6,
-  "btts_pct": 50.2,
-  "reasoning": {
-   "thesis": "Lyon should win comfortably. The model has them 1.13 goals clear of Angers, a 63% win probability. Angers are without Mouton, which the model treats as a marginal cost given the cover behind them. Projected 1.98-0.84 on expected goals, with 2-0 the single most likely scoreline at 11.6%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 6.8,
-    "effective_matches_away": 6.8
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Lyon attack",
-     "detail": "solid (1.02x league average)",
-     "delta_goals": 0.028
-    },
-    {
-     "side": "home",
-     "label": "Angers defence",
-     "detail": "leaky (1.16x league average conceded)",
-     "delta_goals": 0.221
-    },
-    {
-     "side": "home",
-     "label": "Angers defence weakened",
-     "detail": "Mouton out (1.01x conceded)",
-     "delta_goals": 0.01
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.24x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.381
-    },
-    {
-     "side": "away",
-     "label": "Angers attack",
-     "detail": "poor (0.81x league average)",
-     "delta_goals": -0.252
-    },
-    {
-     "side": "away",
-     "label": "Angers unavailable",
-     "detail": "Mouton out (0.99x attack)",
-     "delta_goals": -0.012
-    },
-    {
-     "side": "away",
-     "label": "Lyon defence",
-     "detail": "excellent (0.79x league average conceded)",
-     "delta_goals": -0.227
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 1.021,
-    "home_defence": 0.788,
-    "away_attack": 0.812,
-    "away_defence": 1.162,
-    "league_base": 1.336,
-    "home_advantage": 1.239
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 0.989,
-    "away_defence_mult": 1.006,
-    "home_missing": [
-     "Julien Duranville"
-    ],
-    "away_missing": [
-     "Louis Mouton"
-    ]
-   }
-  }
- },
- {
-  "date": "2026-10-31",
-  "kickoff_datetime": "2026-10-31T19:45:00Z",
-  "round": 9,
   "home": "Troyes",
   "away": "Le Mans",
   "status": "scheduled",
@@ -13645,6 +13495,156 @@
      "Axel Tuanzebe",
      "Bryan Okoh",
      "Fredrik Oppeg\u00e5rd"
+    ]
+   }
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "kickoff_datetime": "2026-11-01T16:15:00Z",
+  "round": 9,
+  "home": "Lyon",
+  "away": "Angers",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 1.67,
+   "goals_against": 1.0,
+   "xg_for": 1.59,
+   "xg_against": 1.03,
+   "xg_diff_per_game": 0.57,
+   "finishing_delta": 0.07,
+   "points": 10,
+   "ppg": 1.67,
+   "form": "WDWLWL",
+   "possession_pct": 47.5
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 1.0,
+   "goals_against": 2.0,
+   "xg_for": 1.36,
+   "xg_against": 1.77,
+   "xg_diff_per_game": -0.41,
+   "finishing_delta": -0.36,
+   "points": 5,
+   "ppg": 0.83,
+   "form": "LDWLLD",
+   "possession_pct": 49.2
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.976,
+  "pred_xg_away": 0.845,
+  "win_home_pct": 62.8,
+  "draw_pct": 23.0,
+  "win_away_pct": 14.2,
+  "xpts_home": 2.11,
+  "xpts_away": 0.66,
+  "most_likely_scoreline": [
+   2,
+   0
+  ],
+  "top_5_scorelines": [
+   [
+    2,
+    0,
+    11.62
+   ],
+   [
+    1,
+    1,
+    11.0
+   ],
+   [
+    1,
+    0,
+    10.71
+   ],
+   [
+    2,
+    1,
+    9.82
+   ],
+   [
+    3,
+    0,
+    7.66
+   ]
+  ],
+  "over_2_5_pct": 53.6,
+  "btts_pct": 50.2,
+  "reasoning": {
+   "thesis": "Lyon should win comfortably. The model has them 1.13 goals clear of Angers, a 63% win probability. Angers are without Mouton, which the model treats as a marginal cost given the cover behind them. Projected 1.98-0.84 on expected goals, with 2-0 the single most likely scoreline at 11.6%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 6.8,
+    "effective_matches_away": 6.8
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Lyon attack",
+     "detail": "solid (1.02x league average)",
+     "delta_goals": 0.028
+    },
+    {
+     "side": "home",
+     "label": "Angers defence",
+     "detail": "leaky (1.16x league average conceded)",
+     "delta_goals": 0.221
+    },
+    {
+     "side": "home",
+     "label": "Angers defence weakened",
+     "detail": "Mouton out (1.01x conceded)",
+     "delta_goals": 0.01
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.24x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.381
+    },
+    {
+     "side": "away",
+     "label": "Angers attack",
+     "detail": "poor (0.81x league average)",
+     "delta_goals": -0.252
+    },
+    {
+     "side": "away",
+     "label": "Angers unavailable",
+     "detail": "Mouton out (0.99x attack)",
+     "delta_goals": -0.012
+    },
+    {
+     "side": "away",
+     "label": "Lyon defence",
+     "detail": "excellent (0.79x league average conceded)",
+     "delta_goals": -0.227
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 1.021,
+    "home_defence": 0.788,
+    "away_attack": 0.812,
+    "away_defence": 1.162,
+    "league_base": 1.336,
+    "home_advantage": 1.239
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 0.989,
+    "away_defence_mult": 1.006,
+    "home_missing": [
+     "Julien Duranville"
+    ],
+    "away_missing": [
+     "Louis Mouton"
     ]
    }
   }

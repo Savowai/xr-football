@@ -1,6 +1,19 @@
 [
  {
   "position": 1,
+  "team": "Lazio",
+  "fotmob_team_id": "8543",
+  "played": 9,
+  "won": 8,
+  "drawn": 1,
+  "lost": 0,
+  "gf": 20,
+  "ga": 7,
+  "gd": 13,
+  "points": 25
+ },
+ {
+  "position": 2,
   "team": "Inter",
   "fotmob_team_id": "8636",
   "played": 8,
@@ -10,19 +23,6 @@
   "gf": 23,
   "ga": 10,
   "gd": 13,
-  "points": 22
- },
- {
-  "position": 2,
-  "team": "Lazio",
-  "fotmob_team_id": "8543",
-  "played": 8,
-  "won": 7,
-  "drawn": 1,
-  "lost": 0,
-  "gf": 16,
-  "ga": 5,
-  "gd": 11,
   "points": 22
  },
  {
@@ -172,13 +172,13 @@
   "position": 14,
   "team": "Sassuolo",
   "fotmob_team_id": "7943",
-  "played": 8,
+  "played": 9,
   "won": 2,
   "drawn": 2,
-  "lost": 4,
-  "gf": 12,
-  "ga": 16,
-  "gd": -4,
+  "lost": 5,
+  "gf": 14,
+  "ga": 20,
+  "gd": -6,
   "points": 8
  },
  {
