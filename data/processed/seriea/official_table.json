@@ -66,6 +66,19 @@
  },
  {
   "position": 6,
+  "team": "Frosinone",
+  "fotmob_team_id": "9891",
+  "played": 9,
+  "won": 5,
+  "drawn": 2,
+  "lost": 2,
+  "gf": 22,
+  "ga": 14,
+  "gd": 8,
+  "points": 17
+ },
+ {
+  "position": 7,
   "team": "Napoli",
   "fotmob_team_id": "9875",
   "played": 9,
@@ -75,19 +88,6 @@
   "gf": 17,
   "ga": 11,
   "gd": 6,
-  "points": 14
- },
- {
-  "position": 7,
-  "team": "Frosinone",
-  "fotmob_team_id": "9891",
-  "played": 8,
-  "won": 4,
-  "drawn": 2,
-  "lost": 2,
-  "gf": 17,
-  "ga": 13,
-  "gd": 4,
   "points": 14
  },
  {
@@ -146,14 +146,14 @@
   "position": 12,
   "team": "Atalanta",
   "fotmob_team_id": "8524",
-  "played": 8,
+  "played": 9,
   "won": 3,
-  "drawn": 1,
+  "drawn": 2,
   "lost": 4,
-  "gf": 14,
-  "ga": 15,
+  "gf": 16,
+  "ga": 17,
   "gd": -1,
-  "points": 10
+  "points": 11
  },
  {
   "position": 13,
@@ -172,13 +172,13 @@
   "position": 14,
   "team": "Lecce",
   "fotmob_team_id": "9888",
-  "played": 8,
+  "played": 9,
   "won": 3,
   "drawn": 0,
-  "lost": 5,
-  "gf": 9,
-  "ga": 14,
-  "gd": -5,
+  "lost": 6,
+  "gf": 10,
+  "ga": 19,
+  "gd": -9,
   "points": 9
  },
  {
@@ -222,6 +222,19 @@
  },
  {
   "position": 18,
+  "team": "Fiorentina",
+  "fotmob_team_id": "8535",
+  "played": 9,
+  "won": 1,
+  "drawn": 2,
+  "lost": 6,
+  "gf": 11,
+  "ga": 21,
+  "gd": -10,
+  "points": 5
+ },
+ {
+  "position": 19,
   "team": "Parma",
   "fotmob_team_id": "10167",
   "played": 9,
@@ -232,19 +245,6 @@
   "ga": 15,
   "gd": -10,
   "points": 5
- },
- {
-  "position": 19,
-  "team": "Fiorentina",
-  "fotmob_team_id": "8535",
-  "played": 8,
-  "won": 1,
-  "drawn": 1,
-  "lost": 6,
-  "gf": 9,
-  "ga": 19,
-  "gd": -10,
-  "points": 4
  },
  {
   "position": 20,
