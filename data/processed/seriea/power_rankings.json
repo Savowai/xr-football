@@ -5,8 +5,8 @@
   "defence": 0.803,
   "expected_gf_per_game": 2.35,
   "expected_ga_per_game": 1.21,
-  "net_rating": 1.141,
-  "evidence_matches": 7.8,
+  "net_rating": 1.14,
+  "evidence_matches": 7.7,
   "rank": 1
  },
  {
@@ -15,8 +15,8 @@
   "defence": 0.813,
   "expected_gf_per_game": 2.07,
   "expected_ga_per_game": 1.22,
-  "net_rating": 0.843,
-  "evidence_matches": 7.8,
+  "net_rating": 0.842,
+  "evidence_matches": 7.7,
   "rank": 2
  },
  {
@@ -26,7 +26,7 @@
   "expected_gf_per_game": 1.79,
   "expected_ga_per_game": 1.18,
   "net_rating": 0.605,
-  "evidence_matches": 7.8,
+  "evidence_matches": 7.7,
   "rank": 3
  },
  {
@@ -35,8 +35,8 @@
   "defence": 0.793,
   "expected_gf_per_game": 1.76,
   "expected_ga_per_game": 1.19,
-  "net_rating": 0.568,
-  "evidence_matches": 7.8,
+  "net_rating": 0.567,
+  "evidence_matches": 7.7,
   "rank": 4
  },
  {
@@ -45,17 +45,17 @@
   "defence": 0.836,
   "expected_gf_per_game": 1.72,
   "expected_ga_per_game": 1.26,
-  "net_rating": 0.459,
+  "net_rating": 0.458,
   "evidence_matches": 7.8,
   "rank": 5
  },
  {
   "team": "Juventus",
-  "attack": 0.961,
+  "attack": 0.962,
   "defence": 0.669,
   "expected_gf_per_game": 1.45,
   "expected_ga_per_game": 1.01,
-  "net_rating": 0.44,
+  "net_rating": 0.441,
   "evidence_matches": 7.8,
   "rank": 6
  },
@@ -66,7 +66,7 @@
   "expected_gf_per_game": 1.7,
   "expected_ga_per_game": 1.35,
   "net_rating": 0.353,
-  "evidence_matches": 7.8,
+  "evidence_matches": 7.7,
   "rank": 7
  },
  {
@@ -75,7 +75,7 @@
   "defence": 0.881,
   "expected_gf_per_game": 1.38,
   "expected_ga_per_game": 1.33,
-  "net_rating": 0.051,
+  "net_rating": 0.05,
   "evidence_matches": 7.8,
   "rank": 8
  },
@@ -86,7 +86,7 @@
   "expected_gf_per_game": 1.44,
   "expected_ga_per_game": 1.56,
   "net_rating": -0.123,
-  "evidence_matches": 7.8,
+  "evidence_matches": 7.7,
   "rank": 9
  },
  {
@@ -94,19 +94,19 @@
   "attack": 1.035,
   "defence": 1.126,
   "expected_gf_per_game": 1.56,
-  "expected_ga_per_game": 1.7,
-  "net_rating": -0.137,
+  "expected_ga_per_game": 1.69,
+  "net_rating": -0.136,
   "evidence_matches": 7.8,
   "rank": 10
  },
  {
   "team": "Torino",
-  "attack": 0.923,
+  "attack": 0.924,
   "defence": 1.031,
   "expected_gf_per_game": 1.39,
   "expected_ga_per_game": 1.55,
   "net_rating": -0.162,
-  "evidence_matches": 7.8,
+  "evidence_matches": 7.7,
   "rank": 11
  },
  {
@@ -116,27 +116,27 @@
   "expected_gf_per_game": 1.45,
   "expected_ga_per_game": 1.66,
   "net_rating": -0.213,
-  "evidence_matches": 7.8,
+  "evidence_matches": 7.7,
   "rank": 12
  },
  {
   "team": "Frosinone",
-  "attack": 1.116,
+  "attack": 1.115,
   "defence": 1.279,
   "expected_gf_per_game": 1.68,
   "expected_ga_per_game": 1.93,
   "net_rating": -0.246,
-  "evidence_matches": 7.8,
+  "evidence_matches": 7.7,
   "rank": 13
  },
  {
   "team": "Genoa",
-  "attack": 0.734,
+  "attack": 0.735,
   "defence": 0.916,
   "expected_gf_per_game": 1.11,
   "expected_ga_per_game": 1.38,
   "net_rating": -0.274,
-  "evidence_matches": 7.8,
+  "evidence_matches": 7.7,
   "rank": 14
  },
  {
@@ -146,27 +146,27 @@
   "expected_gf_per_game": 1.46,
   "expected_ga_per_game": 1.74,
   "net_rating": -0.278,
-  "evidence_matches": 7.8,
+  "evidence_matches": 7.7,
   "rank": 15
  },
  {
   "team": "Cagliari",
-  "attack": 0.79,
+  "attack": 0.791,
   "defence": 1.097,
   "expected_gf_per_game": 1.19,
   "expected_ga_per_game": 1.65,
-  "net_rating": -0.462,
-  "evidence_matches": 7.8,
+  "net_rating": -0.461,
+  "evidence_matches": 7.7,
   "rank": 16
  },
  {
   "team": "Venezia",
-  "attack": 0.814,
+  "attack": 0.815,
   "defence": 1.195,
   "expected_gf_per_game": 1.23,
   "expected_ga_per_game": 1.8,
   "net_rating": -0.573,
-  "evidence_matches": 7.8,
+  "evidence_matches": 7.7,
   "rank": 17
  },
  {
@@ -175,7 +175,7 @@
   "defence": 1.22,
   "expected_gf_per_game": 1.24,
   "expected_ga_per_game": 1.84,
-  "net_rating": -0.599,
+  "net_rating": -0.598,
   "evidence_matches": 7.8,
   "rank": 18
  },
@@ -185,7 +185,7 @@
   "defence": 1.063,
   "expected_gf_per_game": 0.91,
   "expected_ga_per_game": 1.6,
-  "net_rating": -0.69,
+  "net_rating": -0.689,
   "evidence_matches": 7.8,
   "rank": 19
  },
@@ -195,7 +195,7 @@
   "defence": 1.237,
   "expected_gf_per_game": 1.17,
   "expected_ga_per_game": 1.86,
-  "net_rating": -0.691,
+  "net_rating": -0.69,
   "evidence_matches": 7.8,
   "rank": 20
  }
