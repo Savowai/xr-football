@@ -17485,7 +17485,7 @@
   "round": 11,
   "home": "Villarreal",
   "away": "Espanyol",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 6,
    "goals": 1.5,
@@ -17512,8 +17512,8 @@
    "form": "WLLDLL",
    "possession_pct": 44.5
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 2.017,
   "pred_xg_away": 0.876,

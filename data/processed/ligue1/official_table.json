@@ -3,40 +3,40 @@
   "position": 1,
   "team": "Paris Saint-Germain",
   "fotmob_team_id": "9847",
-  "played": 8,
-  "won": 5,
+  "played": 9,
+  "won": 6,
   "drawn": 2,
   "lost": 1,
-  "gf": 16,
-  "ga": 9,
-  "gd": 7,
-  "points": 17
+  "gf": 21,
+  "ga": 10,
+  "gd": 11,
+  "points": 20
  },
  {
   "position": 2,
-  "team": "Rennes",
-  "fotmob_team_id": "9851",
-  "played": 8,
-  "won": 5,
-  "drawn": 1,
-  "lost": 2,
-  "gf": 18,
-  "ga": 14,
-  "gd": 4,
-  "points": 16
- },
- {
-  "position": 3,
   "team": "Lille",
   "fotmob_team_id": "8639",
-  "played": 8,
+  "played": 9,
   "won": 4,
-  "drawn": 3,
+  "drawn": 4,
   "lost": 1,
   "gf": 11,
   "ga": 6,
   "gd": 5,
-  "points": 15
+  "points": 16
+ },
+ {
+  "position": 3,
+  "team": "Rennes",
+  "fotmob_team_id": "9851",
+  "played": 9,
+  "won": 5,
+  "drawn": 1,
+  "lost": 3,
+  "gf": 20,
+  "ga": 19,
+  "gd": 1,
+  "points": 16
  },
  {
   "position": 4,
@@ -66,6 +66,19 @@
  },
  {
   "position": 6,
+  "team": "Lens",
+  "fotmob_team_id": "8588",
+  "played": 9,
+  "won": 4,
+  "drawn": 2,
+  "lost": 3,
+  "gf": 16,
+  "ga": 12,
+  "gd": 4,
+  "points": 14
+ },
+ {
+  "position": 7,
   "team": "Paris FC",
   "fotmob_team_id": "6379",
   "played": 8,
@@ -78,20 +91,20 @@
   "points": 14
  },
  {
-  "position": 7,
-  "team": "Lens",
-  "fotmob_team_id": "8588",
-  "played": 8,
+  "position": 8,
+  "team": "Nice",
+  "fotmob_team_id": "9831",
+  "played": 9,
   "won": 4,
-  "drawn": 1,
+  "drawn": 2,
   "lost": 3,
-  "gf": 16,
+  "gf": 13,
   "ga": 12,
-  "gd": 4,
-  "points": 13
+  "gd": 1,
+  "points": 14
  },
  {
-  "position": 8,
+  "position": 9,
   "team": "Marseille",
   "fotmob_team_id": "8592",
   "played": 8,
@@ -104,7 +117,7 @@
   "points": 12
  },
  {
-  "position": 9,
+  "position": 10,
   "team": "Lorient",
   "fotmob_team_id": "8689",
   "played": 8,
@@ -115,19 +128,6 @@
   "ga": 6,
   "gd": 1,
   "points": 12
- },
- {
-  "position": 10,
-  "team": "Nice",
-  "fotmob_team_id": "9831",
-  "played": 8,
-  "won": 3,
-  "drawn": 2,
-  "lost": 3,
-  "gf": 8,
-  "ga": 10,
-  "gd": -2,
-  "points": 11
  },
  {
   "position": 11,
@@ -224,13 +224,13 @@
   "position": 18,
   "team": "Le Havre",
   "fotmob_team_id": "9746",
-  "played": 8,
+  "played": 9,
   "won": 0,
   "drawn": 2,
-  "lost": 6,
-  "gf": 8,
-  "ga": 15,
-  "gd": -7,
+  "lost": 7,
+  "gf": 9,
+  "ga": 20,
+  "gd": -11,
   "points": 2
  }
 ]

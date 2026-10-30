@@ -79,6 +79,19 @@
  },
  {
   "position": 7,
+  "team": "Villarreal",
+  "fotmob_team_id": "10205",
+  "played": 11,
+  "won": 3,
+  "drawn": 4,
+  "lost": 4,
+  "gf": 15,
+  "ga": 14,
+  "gd": 1,
+  "points": 13
+ },
+ {
+  "position": 8,
   "team": "Deportivo Alav\u00e9s",
   "fotmob_team_id": "9866",
   "played": 10,
@@ -91,7 +104,7 @@
   "points": 12
  },
  {
-  "position": 8,
+  "position": 9,
   "team": "Athletic Club",
   "fotmob_team_id": "8315",
   "played": 9,
@@ -104,7 +117,7 @@
   "points": 12
  },
  {
-  "position": 9,
+  "position": 10,
   "team": "Celta Vigo",
   "fotmob_team_id": "9910",
   "played": 10,
@@ -114,19 +127,6 @@
   "gf": 10,
   "ga": 7,
   "gd": 3,
-  "points": 12
- },
- {
-  "position": 10,
-  "team": "Villarreal",
-  "fotmob_team_id": "10205",
-  "played": 10,
-  "won": 3,
-  "drawn": 3,
-  "lost": 4,
-  "gf": 15,
-  "ga": 14,
-  "gd": 1,
   "points": 12
  },
  {
@@ -196,6 +196,19 @@
  },
  {
   "position": 16,
+  "team": "Espanyol",
+  "fotmob_team_id": "8558",
+  "played": 11,
+  "won": 2,
+  "drawn": 3,
+  "lost": 6,
+  "gf": 12,
+  "ga": 14,
+  "gd": -2,
+  "points": 9
+ },
+ {
+  "position": 17,
   "team": "Rayo Vallecano",
   "fotmob_team_id": "8370",
   "played": 9,
@@ -208,7 +221,7 @@
   "points": 9
  },
  {
-  "position": 17,
+  "position": 18,
   "team": "Getafe",
   "fotmob_team_id": "8305",
   "played": 10,
@@ -219,19 +232,6 @@
   "ga": 15,
   "gd": -10,
   "points": 9
- },
- {
-  "position": 18,
-  "team": "Espanyol",
-  "fotmob_team_id": "8558",
-  "played": 10,
-  "won": 2,
-  "drawn": 2,
-  "lost": 6,
-  "gf": 12,
-  "ga": 14,
-  "gd": -2,
-  "points": 8
  },
  {
   "position": 19,
