@@ -12348,160 +12348,6 @@
  },
  {
   "date": "2026-10-10",
-  "kickoff_datetime": "2026-10-10T12:00:00Z",
-  "round": 8,
-  "home": "Rayo Vallecano",
-  "away": "Athletic Club",
-  "status": "cancelled",
-  "home_form": {
-   "matches": 6,
-   "goals": 1.67,
-   "goals_against": 2.33,
-   "xg_for": 1.18,
-   "xg_against": 1.71,
-   "xg_diff_per_game": -0.53,
-   "finishing_delta": 0.49,
-   "points": 8,
-   "ppg": 1.33,
-   "form": "DLWLWD",
-   "possession_pct": 48.3
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 1.17,
-   "goals_against": 1.0,
-   "xg_for": 1.65,
-   "xg_against": 1.36,
-   "xg_diff_per_game": 0.29,
-   "finishing_delta": -0.48,
-   "points": 8,
-   "ppg": 1.33,
-   "form": "LLWWDD",
-   "possession_pct": 52.5
-  },
-  "home_goals": 0,
-  "away_goals": 0,
-  "season": "2026-27",
-  "pred_xg_home": 1.449,
-  "pred_xg_away": 1.512,
-  "win_home_pct": 33.9,
-  "draw_pct": 29.5,
-  "win_away_pct": 36.7,
-  "xpts_home": 1.31,
-  "xpts_away": 1.39,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    13.84
-   ],
-   [
-    1,
-    2,
-    8.57
-   ],
-   [
-    2,
-    1,
-    8.22
-   ],
-   [
-    0,
-    0,
-    7.67
-   ],
-   [
-    2,
-    2,
-    6.21
-   ]
-  ],
-  "over_2_5_pct": 56.8,
-  "btts_pct": 62.1,
-  "reasoning": {
-   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.06 goals, and the most likely single outcome is a draw at 30%. Rayo Vallecano are scoring 0.49 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Athletic Club are converting 0.48 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Rayo Vallecano are without Batalla, Palaz\u00f3n, Kumbulla, which the model treats as a marginal cost given the cover behind them. Projected 1.45-1.51 on expected goals, with 1-1 the single most likely scoreline at 13.8%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 7.4,
-    "effective_matches_away": 7.5
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Rayo Vallecano attack",
-     "detail": "solid (0.96x league average)",
-     "delta_goals": -0.047
-    },
-    {
-     "side": "home",
-     "label": "Rayo Vallecano unavailable",
-     "detail": "Batalla, Palaz\u00f3n, Kumbulla out (0.99x attack)",
-     "delta_goals": -0.015
-    },
-    {
-     "side": "home",
-     "label": "Athletic Club defence",
-     "detail": "strong (0.88x league average conceded)",
-     "delta_goals": -0.149
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.34x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.364
-    },
-    {
-     "side": "away",
-     "label": "Athletic Club attack",
-     "detail": "solid (0.98x league average)",
-     "delta_goals": -0.02
-    },
-    {
-     "side": "away",
-     "label": "Rayo Vallecano defence",
-     "detail": "leaky (1.10x league average conceded)",
-     "delta_goals": 0.128
-    },
-    {
-     "side": "away",
-     "label": "Rayo Vallecano defence weakened",
-     "detail": "Batalla, Palaz\u00f3n, Kumbulla out (1.08x conceded)",
-     "delta_goals": 0.109
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 0.964,
-    "home_defence": 1.1,
-    "away_attack": 0.984,
-    "away_defence": 0.88,
-    "league_base": 1.295,
-    "home_advantage": 1.335
-   },
-   "availability": {
-    "home_attack_mult": 0.988,
-    "home_defence_mult": 1.078,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [
-     "Augusto Batalla",
-     "Isi Palaz\u00f3n",
-     "Marash Kumbulla"
-    ],
-    "away_missing": [
-     "Nico Serrano",
-     "Unai Eguiluz",
-     "Yeray \u00c1lvarez"
-    ]
-   }
-  }
- },
- {
-  "date": "2026-10-10",
   "kickoff_datetime": "2026-10-10T14:15:00Z",
   "round": 8,
   "home": "Deportivo Alav\u00e9s",
@@ -24835,6 +24681,156 @@
     "home_missing": [],
     "away_missing": [
      "Pablo Mar\u00edn"
+    ]
+   }
+  }
+ },
+ {
+  "date": "2026-12-09",
+  "kickoff_datetime": "2026-12-09T19:00:00Z",
+  "round": 8,
+  "home": "Rayo Vallecano",
+  "away": "Athletic Club",
+  "status": "cancelled",
+  "home_form": {
+   "matches": 6,
+   "goals": 1.33,
+   "goals_against": 2.0,
+   "xg_for": 1.52,
+   "xg_against": 1.4,
+   "xg_diff_per_game": 0.11,
+   "finishing_delta": -0.18,
+   "points": 8,
+   "ppg": 1.33,
+   "form": "WLWDDL",
+   "possession_pct": 55.8
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 1.5,
+   "goals_against": 0.67,
+   "xg_for": 1.45,
+   "xg_against": 0.95,
+   "xg_diff_per_game": 0.5,
+   "finishing_delta": 0.05,
+   "points": 9,
+   "ppg": 1.5,
+   "form": "WDDDLW",
+   "possession_pct": 60.2
+  },
+  "home_goals": 0,
+  "away_goals": 0,
+  "season": "2026-27",
+  "pred_xg_home": 1.466,
+  "pred_xg_away": 1.498,
+  "win_home_pct": 34.6,
+  "draw_pct": 29.4,
+  "win_away_pct": 36.0,
+  "xpts_home": 1.33,
+  "xpts_away": 1.37,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    13.83
+   ],
+   [
+    1,
+    2,
+    8.49
+   ],
+   [
+    2,
+    1,
+    8.31
+   ],
+   [
+    0,
+    0,
+    7.65
+   ],
+   [
+    2,
+    2,
+    6.22
+   ]
+  ],
+  "over_2_5_pct": 56.9,
+  "btts_pct": 62.2,
+  "reasoning": {
+   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.03 goals, and the most likely single outcome is a draw at 29%. Rayo Vallecano are without Batalla, which the model treats as a marginal cost given the cover behind them. Projected 1.47-1.50 on expected goals, with 1-1 the single most likely scoreline at 13.8%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 7.4,
+    "effective_matches_away": 7.5
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Rayo Vallecano attack",
+     "detail": "solid (0.96x league average)",
+     "delta_goals": -0.047
+    },
+    {
+     "side": "home",
+     "label": "Rayo Vallecano unavailable",
+     "detail": "Batalla out (1.00x attack)",
+     "delta_goals": 0.0
+    },
+    {
+     "side": "home",
+     "label": "Athletic Club defence",
+     "detail": "strong (0.88x league average conceded)",
+     "delta_goals": -0.15
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.34x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.368
+    },
+    {
+     "side": "away",
+     "label": "Athletic Club attack",
+     "detail": "solid (0.98x league average)",
+     "delta_goals": -0.02
+    },
+    {
+     "side": "away",
+     "label": "Rayo Vallecano defence",
+     "detail": "leaky (1.10x league average conceded)",
+     "delta_goals": 0.128
+    },
+    {
+     "side": "away",
+     "label": "Rayo Vallecano defence weakened",
+     "detail": "Batalla out (1.07x conceded)",
+     "delta_goals": 0.096
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 0.964,
+    "home_defence": 1.1,
+    "away_attack": 0.984,
+    "away_defence": 0.88,
+    "league_base": 1.295,
+    "home_advantage": 1.335
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.068,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Augusto Batalla"
+    ],
+    "away_missing": [
+     "Unai Eguiluz"
     ]
    }
   }
