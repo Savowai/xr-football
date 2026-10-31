@@ -1,6 +1,19 @@
 [
  {
   "position": 1,
+  "team": "Atl\u00e9tico Madrid",
+  "fotmob_team_id": "9906",
+  "played": 11,
+  "won": 9,
+  "drawn": 1,
+  "lost": 1,
+  "gf": 21,
+  "ga": 8,
+  "gd": 13,
+  "points": 28
+ },
+ {
+  "position": 2,
   "team": "Barcelona",
   "fotmob_team_id": "8634",
   "played": 10,
@@ -11,19 +24,6 @@
   "ga": 11,
   "gd": 29,
   "points": 27
- },
- {
-  "position": 2,
-  "team": "Atl\u00e9tico Madrid",
-  "fotmob_team_id": "9906",
-  "played": 10,
-  "won": 8,
-  "drawn": 1,
-  "lost": 1,
-  "gf": 20,
-  "ga": 8,
-  "gd": 12,
-  "points": 25
  },
  {
   "position": 3,
@@ -183,19 +183,6 @@
  },
  {
   "position": 15,
-  "team": "Levante",
-  "fotmob_team_id": "8581",
-  "played": 10,
-  "won": 2,
-  "drawn": 4,
-  "lost": 4,
-  "gf": 16,
-  "ga": 19,
-  "gd": -3,
-  "points": 10
- },
- {
-  "position": 16,
   "team": "Elche",
   "fotmob_team_id": "10268",
   "played": 10,
@@ -205,6 +192,19 @@
   "gf": 14,
   "ga": 17,
   "gd": -3,
+  "points": 10
+ },
+ {
+  "position": 16,
+  "team": "Levante",
+  "fotmob_team_id": "8581",
+  "played": 11,
+  "won": 2,
+  "drawn": 4,
+  "lost": 5,
+  "gf": 16,
+  "ga": 20,
+  "gd": -4,
   "points": 10
  },
  {

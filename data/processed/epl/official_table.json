@@ -40,6 +40,19 @@
  },
  {
   "position": 4,
+  "team": "Chelsea",
+  "fotmob_team_id": "8455",
+  "played": 9,
+  "won": 5,
+  "drawn": 1,
+  "lost": 3,
+  "gf": 19,
+  "ga": 15,
+  "gd": 4,
+  "points": 16
+ },
+ {
+  "position": 5,
   "team": "Liverpool",
   "fotmob_team_id": "8650",
   "played": 8,
@@ -50,19 +63,6 @@
   "ga": 8,
   "gd": 3,
   "points": 15
- },
- {
-  "position": 5,
-  "team": "Chelsea",
-  "fotmob_team_id": "8455",
-  "played": 8,
-  "won": 4,
-  "drawn": 1,
-  "lost": 3,
-  "gf": 17,
-  "ga": 15,
-  "gd": 2,
-  "points": 13
  },
  {
   "position": 6,
@@ -198,13 +198,13 @@
   "position": 16,
   "team": "Manchester United",
   "fotmob_team_id": "10260",
-  "played": 8,
+  "played": 9,
   "won": 1,
   "drawn": 4,
-  "lost": 3,
+  "lost": 4,
   "gf": 10,
-  "ga": 13,
-  "gd": -3,
+  "ga": 15,
+  "gd": -5,
   "points": 7
  },
  {
