@@ -29,14 +29,14 @@
   "position": 3,
   "team": "Roma",
   "fotmob_team_id": "8686",
-  "played": 9,
-  "won": 6,
+  "played": 10,
+  "won": 7,
   "drawn": 3,
   "lost": 0,
-  "gf": 23,
+  "gf": 27,
   "ga": 8,
-  "gd": 15,
-  "points": 21
+  "gd": 19,
+  "points": 24
  },
  {
   "position": 4,
@@ -92,6 +92,19 @@
  },
  {
   "position": 8,
+  "team": "Bologna",
+  "fotmob_team_id": "9857",
+  "played": 10,
+  "won": 4,
+  "drawn": 2,
+  "lost": 4,
+  "gf": 14,
+  "ga": 13,
+  "gd": 1,
+  "points": 14
+ },
+ {
+  "position": 9,
   "team": "Juventus",
   "fotmob_team_id": "9885",
   "played": 9,
@@ -104,7 +117,7 @@
   "points": 14
  },
  {
-  "position": 9,
+  "position": 10,
   "team": "Torino",
   "fotmob_team_id": "9804",
   "played": 9,
@@ -117,7 +130,7 @@
   "points": 13
  },
  {
-  "position": 10,
+  "position": 11,
   "team": "Cagliari",
   "fotmob_team_id": "8529",
   "played": 9,
@@ -128,19 +141,6 @@
   "ga": 13,
   "gd": -5,
   "points": 13
- },
- {
-  "position": 11,
-  "team": "Bologna",
-  "fotmob_team_id": "9857",
-  "played": 9,
-  "won": 3,
-  "drawn": 2,
-  "lost": 4,
-  "gf": 12,
-  "ga": 12,
-  "gd": 0,
-  "points": 11
  },
  {
   "position": 12,
@@ -198,30 +198,17 @@
   "position": 16,
   "team": "Monza",
   "fotmob_team_id": "6504",
-  "played": 9,
+  "played": 10,
   "won": 2,
   "drawn": 1,
-  "lost": 6,
-  "gf": 16,
-  "ga": 22,
-  "gd": -6,
+  "lost": 7,
+  "gf": 17,
+  "ga": 24,
+  "gd": -7,
   "points": 7
  },
  {
   "position": 17,
-  "team": "Udinese",
-  "fotmob_team_id": "8600",
-  "played": 9,
-  "won": 1,
-  "drawn": 2,
-  "lost": 6,
-  "gf": 9,
-  "ga": 18,
-  "gd": -9,
-  "points": 5
- },
- {
-  "position": 18,
   "team": "Fiorentina",
   "fotmob_team_id": "8535",
   "played": 9,
@@ -234,7 +221,7 @@
   "points": 5
  },
  {
-  "position": 19,
+  "position": 18,
   "team": "Parma",
   "fotmob_team_id": "10167",
   "played": 9,
@@ -244,6 +231,19 @@
   "gf": 5,
   "ga": 15,
   "gd": -10,
+  "points": 5
+ },
+ {
+  "position": 19,
+  "team": "Udinese",
+  "fotmob_team_id": "8600",
+  "played": 10,
+  "won": 1,
+  "drawn": 2,
+  "lost": 7,
+  "gf": 9,
+  "ga": 22,
+  "gd": -13,
   "points": 5
  },
  {

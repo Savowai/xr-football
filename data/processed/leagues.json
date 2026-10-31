@@ -5,14 +5,14 @@
   "country": "England",
   "season": "2026-27",
   "teams": 20,
-  "played": 80,
+  "played": 86,
   "matches": 380,
-  "current_round": 8,
+  "current_round": 9,
   "next_round": 9,
   "total_rounds": 38,
-  "xg_coverage": 80,
+  "xg_coverage": 86,
   "leader": "Manchester City",
-  "built_at": "2026-10-31T13:55:54.742813+00:00"
+  "built_at": "2026-10-31T18:01:40.207980+00:00"
  },
  {
   "key": "laliga",
@@ -20,14 +20,14 @@
   "country": "Spain",
   "season": "2026-27",
   "teams": 20,
-  "played": 100,
+  "played": 102,
   "matches": 380,
   "current_round": 11,
   "next_round": 11,
   "total_rounds": 38,
-  "xg_coverage": 99,
-  "leader": "Barcelona",
-  "built_at": "2026-10-31T13:56:00.250128+00:00"
+  "xg_coverage": 101,
+  "leader": "Atl\u00e9tico Madrid",
+  "built_at": "2026-10-31T18:01:50.382985+00:00"
  },
  {
   "key": "seriea",
@@ -35,14 +35,14 @@
   "country": "Italy",
   "season": "2026-27",
   "teams": 20,
-  "played": 90,
+  "played": 91,
   "matches": 380,
-  "current_round": 9,
+  "current_round": 10,
   "next_round": 10,
   "total_rounds": 38,
-  "xg_coverage": 90,
+  "xg_coverage": 91,
   "leader": "Inter",
-  "built_at": "2026-10-31T13:56:02.741071+00:00"
+  "built_at": "2026-10-31T18:01:54.938119+00:00"
  },
  {
   "key": "bundesliga",
@@ -50,14 +50,14 @@
   "country": "Germany",
   "season": "2026-27",
   "teams": 18,
-  "played": 64,
+  "played": 69,
   "matches": 306,
   "current_round": 8,
   "next_round": 8,
   "total_rounds": 34,
-  "xg_coverage": 64,
+  "xg_coverage": 69,
   "leader": "Bayern M\u00fcnchen",
-  "built_at": "2026-10-31T13:56:05.643612+00:00"
+  "built_at": "2026-10-31T18:02:09.802174+00:00"
  },
  {
   "key": "ligue1",
@@ -72,6 +72,6 @@
   "total_rounds": 34,
   "xg_coverage": 75,
   "leader": "Paris Saint-Germain",
-  "built_at": "2026-10-31T13:56:07.972839+00:00"
+  "built_at": "2026-10-31T18:02:12.226150+00:00"
  }
 ]
