@@ -183,16 +183,16 @@
  },
  {
   "position": 15,
-  "team": "Le Mans",
-  "fotmob_team_id": "8682",
-  "played": 8,
-  "won": 1,
-  "drawn": 4,
-  "lost": 3,
-  "gf": 11,
+  "team": "Troyes",
+  "fotmob_team_id": "10242",
+  "played": 9,
+  "won": 2,
+  "drawn": 2,
+  "lost": 5,
+  "gf": 7,
   "ga": 16,
-  "gd": -5,
-  "points": 7
+  "gd": -9,
+  "points": 8
  },
  {
   "position": 16,
@@ -209,16 +209,16 @@
  },
  {
   "position": 17,
-  "team": "Troyes",
-  "fotmob_team_id": "10242",
-  "played": 8,
+  "team": "Le Mans",
+  "fotmob_team_id": "8682",
+  "played": 9,
   "won": 1,
-  "drawn": 2,
-  "lost": 5,
-  "gf": 5,
-  "ga": 16,
-  "gd": -11,
-  "points": 5
+  "drawn": 4,
+  "lost": 4,
+  "gf": 11,
+  "ga": 18,
+  "gd": -7,
+  "points": 7
  },
  {
   "position": 18,

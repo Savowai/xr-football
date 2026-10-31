@@ -5,14 +5,14 @@
   "country": "England",
   "season": "2026-27",
   "teams": 20,
-  "played": 86,
+  "played": 88,
   "matches": 380,
   "current_round": 9,
   "next_round": 9,
   "total_rounds": 38,
-  "xg_coverage": 86,
+  "xg_coverage": 88,
   "leader": "Manchester City",
-  "built_at": "2026-10-31T18:01:40.207980+00:00"
+  "built_at": "2026-10-31T21:57:56.480247+00:00"
  },
  {
   "key": "laliga",
@@ -20,14 +20,14 @@
   "country": "Spain",
   "season": "2026-27",
   "teams": 20,
-  "played": 102,
+  "played": 103,
   "matches": 380,
   "current_round": 11,
   "next_round": 11,
   "total_rounds": 38,
-  "xg_coverage": 101,
+  "xg_coverage": 102,
   "leader": "Atl\u00e9tico Madrid",
-  "built_at": "2026-10-31T18:01:50.382985+00:00"
+  "built_at": "2026-10-31T21:58:03.442805+00:00"
  },
  {
   "key": "seriea",
@@ -35,14 +35,14 @@
   "country": "Italy",
   "season": "2026-27",
   "teams": 20,
-  "played": 91,
+  "played": 93,
   "matches": 380,
   "current_round": 10,
   "next_round": 10,
   "total_rounds": 38,
-  "xg_coverage": 91,
-  "leader": "Inter",
-  "built_at": "2026-10-31T18:01:54.938119+00:00"
+  "xg_coverage": 93,
+  "leader": "Lazio",
+  "built_at": "2026-10-31T21:58:10.841903+00:00"
  },
  {
   "key": "bundesliga",
@@ -50,14 +50,14 @@
   "country": "Germany",
   "season": "2026-27",
   "teams": 18,
-  "played": 69,
+  "played": 70,
   "matches": 306,
   "current_round": 8,
   "next_round": 8,
   "total_rounds": 34,
-  "xg_coverage": 69,
+  "xg_coverage": 70,
   "leader": "Bayern M\u00fcnchen",
-  "built_at": "2026-10-31T18:02:09.802174+00:00"
+  "built_at": "2026-10-31T21:58:15.733967+00:00"
  },
  {
   "key": "ligue1",
@@ -65,13 +65,13 @@
   "country": "France",
   "season": "2026-27",
   "teams": 18,
-  "played": 75,
+  "played": 76,
   "matches": 306,
   "current_round": 9,
   "next_round": 9,
   "total_rounds": 34,
-  "xg_coverage": 75,
+  "xg_coverage": 76,
   "leader": "Paris Saint-Germain",
-  "built_at": "2026-10-31T18:02:12.226150+00:00"
+  "built_at": "2026-10-31T21:58:20.958368+00:00"
  }
 ]

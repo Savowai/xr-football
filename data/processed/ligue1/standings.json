@@ -47,9 +47,9 @@
   "points": 16,
   "xg_for": 18.14,
   "xg_against": 20.4,
-  "xpts": 11.69,
+  "xpts": 11.7,
   "xg_diff": -2.26,
-  "luck": 4.31,
+  "luck": 4.3,
   "position": 3,
   "xposition": 8
  },
@@ -123,7 +123,7 @@
   "xg_diff": -3.27,
   "luck": 3.57,
   "position": 7,
-  "xposition": 12
+  "xposition": 13
  },
  {
   "team": "Lens",
@@ -159,7 +159,7 @@
   "xg_diff": -4.59,
   "luck": 2.67,
   "position": 9,
-  "xposition": 16
+  "xposition": 17
  },
  {
   "team": "Lorient",
@@ -209,11 +209,11 @@
   "points": 10,
   "xg_for": 11.61,
   "xg_against": 14.95,
-  "xpts": 9.8,
+  "xpts": 9.81,
   "xg_diff": -3.34,
-  "luck": 0.2,
+  "luck": 0.19,
   "position": 12,
-  "xposition": 14
+  "xposition": 16
  },
  {
   "team": "Brest",
@@ -249,25 +249,25 @@
   "xg_diff": -2.0,
   "luck": -1.93,
   "position": 14,
-  "xposition": 13
+  "xposition": 14
  },
  {
-  "team": "Le Mans",
-  "played": 8,
-  "won": 1,
-  "drawn": 4,
-  "lost": 3,
-  "gf": 11,
+  "team": "Troyes",
+  "played": 9,
+  "won": 2,
+  "drawn": 2,
+  "lost": 5,
+  "gf": 7,
   "ga": 16,
-  "gd": -5,
-  "points": 7,
-  "xg_for": 12.29,
-  "xg_against": 15.98,
-  "xpts": 9.45,
-  "xg_diff": -3.69,
-  "luck": -2.45,
+  "gd": -9,
+  "points": 8,
+  "xg_for": 10.96,
+  "xg_against": 13.53,
+  "xpts": 10.5,
+  "xg_diff": -2.57,
+  "luck": -2.5,
   "position": 15,
-  "xposition": 15
+  "xposition": 12
  },
  {
   "team": "Strasbourg",
@@ -288,22 +288,22 @@
   "xposition": 18
  },
  {
-  "team": "Troyes",
-  "played": 8,
+  "team": "Le Mans",
+  "played": 9,
   "won": 1,
-  "drawn": 2,
-  "lost": 5,
-  "gf": 5,
-  "ga": 16,
-  "gd": -11,
-  "points": 5,
-  "xg_for": 9.26,
-  "xg_against": 13.25,
-  "xpts": 8.1,
-  "xg_diff": -3.99,
-  "luck": -3.1,
+  "drawn": 4,
+  "lost": 4,
+  "gf": 11,
+  "ga": 18,
+  "gd": -7,
+  "points": 7,
+  "xg_for": 12.57,
+  "xg_against": 17.68,
+  "xpts": 9.83,
+  "xg_diff": -5.11,
+  "luck": -2.83,
   "position": 17,
-  "xposition": 17
+  "xposition": 15
  },
  {
   "team": "Le Havre",
@@ -317,9 +317,9 @@
   "points": 2,
   "xg_for": 14.55,
   "xg_against": 16.77,
-  "xpts": 11.13,
+  "xpts": 11.14,
   "xg_diff": -2.22,
-  "luck": -9.13,
+  "luck": -9.14,
   "position": 18,
   "xposition": 9
  }
