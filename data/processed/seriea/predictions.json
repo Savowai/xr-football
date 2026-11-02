@@ -17351,7 +17351,7 @@
   "round": 10,
   "home": "Sassuolo",
   "away": "Fiorentina",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 6,
    "goals": 1.5,
@@ -17378,8 +17378,8 @@
    "form": "WDLLLD",
    "possession_pct": 46.0
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 1,
+  "away_goals": 2,
   "season": "2026-27",
   "pred_xg_home": 1.674,
   "pred_xg_away": 1.722,
