@@ -33,7 +33,7 @@
   "xg_diff": -0.99,
   "luck": 5.43,
   "position": 2,
-  "xposition": 7
+  "xposition": 8
  },
  {
   "team": "Lyon",
@@ -47,11 +47,11 @@
   "points": 17,
   "xg_for": 14.12,
   "xg_against": 10.01,
-  "xpts": 14.69,
+  "xpts": 14.7,
   "xg_diff": 4.11,
-  "luck": 2.31,
+  "luck": 2.3,
   "position": 3,
-  "xposition": 4
+  "xposition": 5
  },
  {
   "team": "Paris FC",
@@ -87,7 +87,7 @@
   "xg_diff": -2.26,
   "luck": 4.3,
   "position": 5,
-  "xposition": 8
+  "xposition": 9
  },
  {
   "team": "Marseille",
@@ -123,7 +123,7 @@
   "xg_diff": -1.24,
   "luck": 3.39,
   "position": 7,
-  "xposition": 9
+  "xposition": 10
  },
  {
   "team": "Nice",
@@ -162,22 +162,40 @@
   "xposition": 6
  },
  {
-  "team": "Lorient",
-  "played": 8,
+  "team": "Brest",
+  "played": 9,
   "won": 3,
   "drawn": 3,
-  "lost": 2,
-  "gf": 7,
-  "ga": 6,
-  "gd": 1,
+  "lost": 3,
+  "gf": 16,
+  "ga": 12,
+  "gd": 4,
   "points": 12,
-  "xg_for": 8.41,
-  "xg_against": 8.23,
-  "xpts": 10.92,
-  "xg_diff": 0.18,
-  "luck": 1.08,
+  "xg_for": 17.87,
+  "xg_against": 11.03,
+  "xpts": 15.63,
+  "xg_diff": 6.84,
+  "luck": -3.63,
   "position": 10,
-  "xposition": 11
+  "xposition": 3
+ },
+ {
+  "team": "Lorient",
+  "played": 9,
+  "won": 3,
+  "drawn": 3,
+  "lost": 3,
+  "gf": 7,
+  "ga": 8,
+  "gd": -1,
+  "points": 12,
+  "xg_for": 10.15,
+  "xg_against": 9.54,
+  "xpts": 12.6,
+  "xg_diff": 0.61,
+  "luck": -0.6,
+  "position": 11,
+  "xposition": 7
  },
  {
   "team": "Toulouse",
@@ -194,8 +212,8 @@
   "xpts": 15.13,
   "xg_diff": 4.35,
   "luck": -5.13,
-  "position": 11,
-  "xposition": 3
+  "position": 12,
+  "xposition": 4
  },
  {
   "team": "Strasbourg",
@@ -212,7 +230,7 @@
   "xpts": 9.51,
   "xg_diff": -3.77,
   "luck": 0.49,
-  "position": 12,
+  "position": 13,
   "xposition": 18
  },
  {
@@ -230,26 +248,8 @@
   "xpts": 9.98,
   "xg_diff": -5.97,
   "luck": 0.02,
-  "position": 13,
-  "xposition": 16
- },
- {
-  "team": "Brest",
-  "played": 8,
-  "won": 2,
-  "drawn": 3,
-  "lost": 3,
-  "gf": 14,
-  "ga": 12,
-  "gd": 2,
-  "points": 9,
-  "xg_for": 16.56,
-  "xg_against": 9.29,
-  "xpts": 14.53,
-  "xg_diff": 7.27,
-  "luck": -5.53,
   "position": 14,
-  "xposition": 5
+  "xposition": 16
  },
  {
   "team": "Angers",
@@ -281,9 +281,9 @@
   "points": 8,
   "xg_for": 10.96,
   "xg_against": 13.53,
-  "xpts": 10.51,
+  "xpts": 10.52,
   "xg_diff": -2.57,
-  "luck": -2.51,
+  "luck": -2.52,
   "position": 16,
   "xposition": 12
  },
@@ -321,6 +321,6 @@
   "xg_diff": -2.22,
   "luck": -9.15,
   "position": 18,
-  "xposition": 10
+  "xposition": 11
  }
 ]

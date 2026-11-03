@@ -159,13 +159,13 @@
   "position": 13,
   "team": "Atalanta",
   "fotmob_team_id": "8524",
-  "played": 9,
+  "played": 10,
   "won": 3,
   "drawn": 2,
-  "lost": 4,
+  "lost": 5,
   "gf": 16,
-  "ga": 17,
-  "gd": -1,
+  "ga": 20,
+  "gd": -4,
   "points": 11
  },
  {
@@ -183,15 +183,15 @@
  },
  {
   "position": 15,
-  "team": "Sassuolo",
-  "fotmob_team_id": "7943",
+  "team": "Parma",
+  "fotmob_team_id": "10167",
   "played": 10,
   "won": 2,
   "drawn": 2,
   "lost": 6,
-  "gf": 15,
-  "ga": 24,
-  "gd": -9,
+  "gf": 8,
+  "ga": 15,
+  "gd": -7,
   "points": 8
  },
  {
@@ -202,13 +202,26 @@
   "won": 2,
   "drawn": 2,
   "lost": 6,
-  "gf": 13,
-  "ga": 22,
-  "gd": -9,
+  "gf": 15,
+  "ga": 23,
+  "gd": -8,
   "points": 8
  },
  {
   "position": 17,
+  "team": "Sassuolo",
+  "fotmob_team_id": "7943",
+  "played": 10,
+  "won": 2,
+  "drawn": 2,
+  "lost": 6,
+  "gf": 16,
+  "ga": 26,
+  "gd": -10,
+  "points": 8
+ },
+ {
+  "position": 18,
   "team": "Monza",
   "fotmob_team_id": "6504",
   "played": 10,
@@ -219,19 +232,6 @@
   "ga": 24,
   "gd": -7,
   "points": 7
- },
- {
-  "position": 18,
-  "team": "Parma",
-  "fotmob_team_id": "10167",
-  "played": 9,
-  "won": 1,
-  "drawn": 2,
-  "lost": 6,
-  "gf": 5,
-  "ga": 15,
-  "gd": -10,
-  "points": 5
  },
  {
   "position": 19,
