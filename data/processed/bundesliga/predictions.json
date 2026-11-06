@@ -16649,6 +16649,142 @@
   }
  },
  {
+  "date": "2026-12-04",
+  "kickoff_datetime": "2026-12-04T19:30:00Z",
+  "round": 12,
+  "home": "Bayern M\u00fcnchen",
+  "away": "Paderborn",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 3.67,
+   "goals_against": 1.17,
+   "xg_for": 3.69,
+   "xg_against": 1.0,
+   "xg_diff_per_game": 2.69,
+   "finishing_delta": -0.02,
+   "points": 14,
+   "ppg": 2.33,
+   "form": "WWDWWD",
+   "possession_pct": 64.0
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 1.0,
+   "goals_against": 1.33,
+   "xg_for": 1.01,
+   "xg_against": 1.6,
+   "xg_diff_per_game": -0.59,
+   "finishing_delta": -0.01,
+   "points": 8,
+   "ppg": 1.33,
+   "form": "LWLDWD",
+   "possession_pct": 48.2
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 3.531,
+  "pred_xg_away": 0.699,
+  "win_home_pct": 87.9,
+  "draw_pct": 8.6,
+  "win_away_pct": 3.5,
+  "xpts_home": 2.72,
+  "xpts_away": 0.19,
+  "most_likely_scoreline": [
+   3,
+   0
+  ],
+  "top_5_scorelines": [
+   [
+    3,
+    0,
+    10.69
+   ],
+   [
+    4,
+    0,
+    9.43
+   ],
+   [
+    2,
+    0,
+    9.08
+   ],
+   [
+    3,
+    1,
+    7.47
+   ],
+   [
+    5,
+    0,
+    6.66
+   ]
+  ],
+  "over_2_5_pct": 79.4,
+  "btts_pct": 49.1,
+  "reasoning": {
+   "thesis": "Bayern M\u00fcnchen should win comfortably. The model has them 2.83 goals clear of Paderborn, a 88% win probability. Bayern M\u00fcnchen are creating +2.69 xG per game more than they concede over their last 6, the profile of a side controlling matches. Projected 3.53-0.70 on expected goals, with 3-0 the single most likely scoreline at 10.7%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 6.8,
+    "effective_matches_away": 6.8
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Bayern M\u00fcnchen attack",
+     "detail": "excellent (1.86x league average)",
+     "delta_goals": 1.268
+    },
+    {
+     "side": "home",
+     "label": "Paderborn defence",
+     "detail": "solid (0.95x league average conceded)",
+     "delta_goals": -0.146
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.928
+    },
+    {
+     "side": "away",
+     "label": "Paderborn attack",
+     "detail": "poor (0.66x league average)",
+     "delta_goals": -0.498
+    },
+    {
+     "side": "away",
+     "label": "Bayern M\u00fcnchen defence",
+     "detail": "excellent (0.71x league average conceded)",
+     "delta_goals": -0.285
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 1.856,
+    "home_defence": 0.711,
+    "away_attack": 0.664,
+    "away_defence": 0.947,
+    "league_base": 1.482,
+    "home_advantage": 1.356
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Timur Gayret"
+    ]
+   }
+  }
+ },
+ {
   "date": "2026-12-05",
   "kickoff_datetime": "2026-12-05T14:30:00Z",
   "round": 12,
@@ -16915,424 +17051,6 @@
     "away_missing": [
      "Enzo Leopold"
     ]
-   }
-  }
- },
- {
-  "date": "2026-12-05",
-  "kickoff_datetime": "2026-12-05T14:30:00Z",
-  "round": 12,
-  "home": "Bayern M\u00fcnchen",
-  "away": "Paderborn",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 3.67,
-   "goals_against": 1.17,
-   "xg_for": 3.69,
-   "xg_against": 1.0,
-   "xg_diff_per_game": 2.69,
-   "finishing_delta": -0.02,
-   "points": 14,
-   "ppg": 2.33,
-   "form": "WWDWWD",
-   "possession_pct": 64.0
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 1.0,
-   "goals_against": 1.33,
-   "xg_for": 1.01,
-   "xg_against": 1.6,
-   "xg_diff_per_game": -0.59,
-   "finishing_delta": -0.01,
-   "points": 8,
-   "ppg": 1.33,
-   "form": "LWLDWD",
-   "possession_pct": 48.2
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 3.531,
-  "pred_xg_away": 0.699,
-  "win_home_pct": 87.9,
-  "draw_pct": 8.6,
-  "win_away_pct": 3.5,
-  "xpts_home": 2.72,
-  "xpts_away": 0.19,
-  "most_likely_scoreline": [
-   3,
-   0
-  ],
-  "top_5_scorelines": [
-   [
-    3,
-    0,
-    10.69
-   ],
-   [
-    4,
-    0,
-    9.43
-   ],
-   [
-    2,
-    0,
-    9.08
-   ],
-   [
-    3,
-    1,
-    7.47
-   ],
-   [
-    5,
-    0,
-    6.66
-   ]
-  ],
-  "over_2_5_pct": 79.4,
-  "btts_pct": 49.1,
-  "reasoning": {
-   "thesis": "Bayern M\u00fcnchen should win comfortably. The model has them 2.83 goals clear of Paderborn, a 88% win probability. Bayern M\u00fcnchen are creating +2.69 xG per game more than they concede over their last 6, the profile of a side controlling matches. Projected 3.53-0.70 on expected goals, with 3-0 the single most likely scoreline at 10.7%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 6.8,
-    "effective_matches_away": 6.8
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Bayern M\u00fcnchen attack",
-     "detail": "excellent (1.86x league average)",
-     "delta_goals": 1.268
-    },
-    {
-     "side": "home",
-     "label": "Paderborn defence",
-     "detail": "solid (0.95x league average conceded)",
-     "delta_goals": -0.146
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.928
-    },
-    {
-     "side": "away",
-     "label": "Paderborn attack",
-     "detail": "poor (0.66x league average)",
-     "delta_goals": -0.498
-    },
-    {
-     "side": "away",
-     "label": "Bayern M\u00fcnchen defence",
-     "detail": "excellent (0.71x league average conceded)",
-     "delta_goals": -0.285
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 1.856,
-    "home_defence": 0.711,
-    "away_attack": 0.664,
-    "away_defence": 0.947,
-    "league_base": 1.482,
-    "home_advantage": 1.356
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
-    "away_missing": [
-     "Timur Gayret"
-    ]
-   }
-  }
- },
- {
-  "date": "2026-12-05",
-  "kickoff_datetime": "2026-12-05T14:30:00Z",
-  "round": 12,
-  "home": "Eintracht Frankfurt",
-  "away": "Werder Bremen",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 1.5,
-   "goals_against": 1.83,
-   "xg_for": 1.51,
-   "xg_against": 1.89,
-   "xg_diff_per_game": -0.38,
-   "finishing_delta": -0.01,
-   "points": 10,
-   "ppg": 1.67,
-   "form": "WDLWLW",
-   "possession_pct": 48.3
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 2.17,
-   "goals_against": 1.5,
-   "xg_for": 1.78,
-   "xg_against": 1.49,
-   "xg_diff_per_game": 0.29,
-   "finishing_delta": 0.39,
-   "points": 12,
-   "ppg": 2.0,
-   "form": "DWDDWW",
-   "possession_pct": 49.3
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.841,
-  "pred_xg_away": 1.529,
-  "win_home_pct": 44.4,
-  "draw_pct": 24.1,
-  "win_away_pct": 31.4,
-  "xpts_home": 1.57,
-  "xpts_away": 1.18,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    10.51
-   ],
-   [
-    2,
-    1,
-    8.91
-   ],
-   [
-    1,
-    2,
-    7.4
-   ],
-   [
-    2,
-    2,
-    6.81
-   ],
-   [
-    2,
-    0,
-    5.83
-   ]
-  ],
-  "over_2_5_pct": 65.4,
-  "btts_pct": 66.7,
-  "reasoning": {
-   "thesis": "Eintracht Frankfurt are marginal favourites, worth about 0.31 goals of edge and a 44% win probability -- a lean, not a call. Werder Bremen are missing Topp; weighting the absentees by value against the depth behind them, the model marks their attack down 2% for this fixture. Projected 1.84-1.53 on expected goals, with 1-1 the single most likely scoreline at 10.5%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 6.8,
-    "effective_matches_away": 6.8
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Eintracht Frankfurt attack",
-     "detail": "modest (0.94x league average)",
-     "delta_goals": -0.087
-    },
-    {
-     "side": "home",
-     "label": "Werder Bremen defence",
-     "detail": "solid (0.97x league average conceded)",
-     "delta_goals": -0.041
-    },
-    {
-     "side": "home",
-     "label": "Werder Bremen defence weakened",
-     "detail": "Topp out (1.00x conceded)",
-     "delta_goals": 0.003
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.484
-    },
-    {
-     "side": "away",
-     "label": "Werder Bremen attack",
-     "detail": "solid (0.98x league average)",
-     "delta_goals": -0.036
-    },
-    {
-     "side": "away",
-     "label": "Werder Bremen unavailable",
-     "detail": "Topp out (0.98x attack)",
-     "delta_goals": -0.033
-    },
-    {
-     "side": "away",
-     "label": "Eintracht Frankfurt defence",
-     "detail": "leaky (1.08x league average conceded)",
-     "delta_goals": 0.117
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 0.941,
-    "home_defence": 1.083,
-    "away_attack": 0.976,
-    "away_defence": 0.971,
-    "league_base": 1.482,
-    "home_advantage": 1.356
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 0.977,
-    "away_defence_mult": 1.002,
-    "home_missing": [],
-    "away_missing": [
-     "Keke Topp"
-    ]
-   }
-  }
- },
- {
-  "date": "2026-12-05",
-  "kickoff_datetime": "2026-12-05T14:30:00Z",
-  "round": 12,
-  "home": "Elversberg",
-  "away": "VfB Stuttgart",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 1.5,
-   "goals_against": 1.83,
-   "xg_for": 1.22,
-   "xg_against": 2.09,
-   "xg_diff_per_game": -0.87,
-   "finishing_delta": 0.28,
-   "points": 7,
-   "ppg": 1.17,
-   "form": "LDLWLW",
-   "possession_pct": 47.2
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 1.5,
-   "goals_against": 1.5,
-   "xg_for": 1.92,
-   "xg_against": 1.96,
-   "xg_diff_per_game": -0.04,
-   "finishing_delta": -0.42,
-   "points": 6,
-   "ppg": 1.0,
-   "form": "LLWLLW",
-   "possession_pct": 55.7
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.951,
-  "pred_xg_away": 1.978,
-  "win_home_pct": 38.4,
-  "draw_pct": 22.2,
-  "win_away_pct": 39.4,
-  "xpts_home": 1.37,
-  "xpts_away": 1.41,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    8.24
-   ],
-   [
-    1,
-    2,
-    7.51
-   ],
-   [
-    2,
-    1,
-    7.4
-   ],
-   [
-    2,
-    2,
-    7.32
-   ],
-   [
-    1,
-    3,
-    4.95
-   ]
-  ],
-  "over_2_5_pct": 75.1,
-  "btts_pct": 74.6,
-  "reasoning": {
-   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.03 goals, and the most likely single outcome is a draw at 22%. Elversberg are being outcreated by 0.87 xG per game over their last 6, which is why the model is cautious regardless of recent results. Projected 1.95-1.98 on expected goals, with 1-1 the single most likely scoreline at 8.2%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 6.8,
-    "effective_matches_away": 6.8
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Elversberg attack",
-     "detail": "modest (0.88x league average)",
-     "delta_goals": -0.175
-    },
-    {
-     "side": "home",
-     "label": "VfB Stuttgart defence",
-     "detail": "leaky (1.10x league average conceded)",
-     "delta_goals": 0.132
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.513
-    },
-    {
-     "side": "away",
-     "label": "VfB Stuttgart attack",
-     "detail": "strong (1.17x league average)",
-     "delta_goals": 0.255
-    },
-    {
-     "side": "away",
-     "label": "Elversberg defence",
-     "detail": "leaky (1.14x league average conceded)",
-     "delta_goals": 0.242
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 0.882,
-    "home_defence": 1.139,
-    "away_attack": 1.172,
-    "away_defence": 1.101,
-    "league_base": 1.482,
-    "home_advantage": 1.356
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
-    "away_missing": []
    }
   }
  },
@@ -17610,6 +17328,290 @@
   "date": "2026-12-05",
   "kickoff_datetime": "2026-12-05T14:30:00Z",
   "round": 12,
+  "home": "Union Berlin",
+  "away": "Hamburger SV",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 0.67,
+   "goals_against": 2.0,
+   "xg_for": 1.12,
+   "xg_against": 1.81,
+   "xg_diff_per_game": -0.68,
+   "finishing_delta": -0.46,
+   "points": 6,
+   "ppg": 1.0,
+   "form": "LLWDDD",
+   "possession_pct": 41.5
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 1.17,
+   "goals_against": 2.0,
+   "xg_for": 1.13,
+   "xg_against": 1.66,
+   "xg_diff_per_game": -0.53,
+   "finishing_delta": 0.03,
+   "points": 9,
+   "ppg": 1.5,
+   "form": "LWWWLL",
+   "possession_pct": 37.3
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.559,
+  "pred_xg_away": 1.13,
+  "win_home_pct": 46.2,
+  "draw_pct": 27.2,
+  "win_away_pct": 26.5,
+  "xpts_home": 1.66,
+  "xpts_away": 1.07,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    12.99
+   ],
+   [
+    1,
+    0,
+    9.57
+   ],
+   [
+    2,
+    1,
+    9.33
+   ],
+   [
+    2,
+    0,
+    8.26
+   ],
+   [
+    0,
+    0,
+    7.82
+   ]
+  ],
+  "over_2_5_pct": 50.4,
+  "btts_pct": 54.5,
+  "reasoning": {
+   "thesis": "Union Berlin are marginal favourites, worth about 0.43 goals of edge and a 46% win probability -- a lean, not a call. Union Berlin are converting 0.46 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Projected 1.56-1.13 on expected goals, with 1-1 the single most likely scoreline at 13.0%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 6.8,
+    "effective_matches_away": 6.8
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Union Berlin attack",
+     "detail": "poor (0.72x league average)",
+     "delta_goals": -0.413
+    },
+    {
+     "side": "home",
+     "label": "Hamburger SV defence",
+     "detail": "leaky (1.08x league average conceded)",
+     "delta_goals": 0.081
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.41
+    },
+    {
+     "side": "away",
+     "label": "Hamburger SV attack",
+     "detail": "poor (0.71x league average)",
+     "delta_goals": -0.425
+    },
+    {
+     "side": "away",
+     "label": "Union Berlin defence",
+     "detail": "leaky (1.07x league average conceded)",
+     "delta_goals": 0.074
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 0.721,
+    "home_defence": 1.07,
+    "away_attack": 0.713,
+    "away_defence": 1.075,
+    "league_base": 1.482,
+    "home_advantage": 1.356
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Andrik Markgraf"
+    ],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2026-12-05",
+  "kickoff_datetime": "2026-12-05T17:30:00Z",
+  "round": 12,
+  "home": "Eintracht Frankfurt",
+  "away": "Werder Bremen",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 1.5,
+   "goals_against": 1.83,
+   "xg_for": 1.51,
+   "xg_against": 1.89,
+   "xg_diff_per_game": -0.38,
+   "finishing_delta": -0.01,
+   "points": 10,
+   "ppg": 1.67,
+   "form": "WDLWLW",
+   "possession_pct": 48.3
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 2.17,
+   "goals_against": 1.5,
+   "xg_for": 1.78,
+   "xg_against": 1.49,
+   "xg_diff_per_game": 0.29,
+   "finishing_delta": 0.39,
+   "points": 12,
+   "ppg": 2.0,
+   "form": "DWDDWW",
+   "possession_pct": 49.3
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.841,
+  "pred_xg_away": 1.529,
+  "win_home_pct": 44.4,
+  "draw_pct": 24.1,
+  "win_away_pct": 31.4,
+  "xpts_home": 1.57,
+  "xpts_away": 1.18,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    10.51
+   ],
+   [
+    2,
+    1,
+    8.91
+   ],
+   [
+    1,
+    2,
+    7.4
+   ],
+   [
+    2,
+    2,
+    6.81
+   ],
+   [
+    2,
+    0,
+    5.83
+   ]
+  ],
+  "over_2_5_pct": 65.4,
+  "btts_pct": 66.7,
+  "reasoning": {
+   "thesis": "Eintracht Frankfurt are marginal favourites, worth about 0.31 goals of edge and a 44% win probability -- a lean, not a call. Werder Bremen are missing Topp; weighting the absentees by value against the depth behind them, the model marks their attack down 2% for this fixture. Projected 1.84-1.53 on expected goals, with 1-1 the single most likely scoreline at 10.5%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 6.8,
+    "effective_matches_away": 6.8
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Eintracht Frankfurt attack",
+     "detail": "modest (0.94x league average)",
+     "delta_goals": -0.087
+    },
+    {
+     "side": "home",
+     "label": "Werder Bremen defence",
+     "detail": "solid (0.97x league average conceded)",
+     "delta_goals": -0.041
+    },
+    {
+     "side": "home",
+     "label": "Werder Bremen defence weakened",
+     "detail": "Topp out (1.00x conceded)",
+     "delta_goals": 0.003
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.484
+    },
+    {
+     "side": "away",
+     "label": "Werder Bremen attack",
+     "detail": "solid (0.98x league average)",
+     "delta_goals": -0.036
+    },
+    {
+     "side": "away",
+     "label": "Werder Bremen unavailable",
+     "detail": "Topp out (0.98x attack)",
+     "delta_goals": -0.033
+    },
+    {
+     "side": "away",
+     "label": "Eintracht Frankfurt defence",
+     "detail": "leaky (1.08x league average conceded)",
+     "delta_goals": 0.117
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 0.941,
+    "home_defence": 1.083,
+    "away_attack": 0.976,
+    "away_defence": 0.971,
+    "league_base": 1.482,
+    "home_advantage": 1.356
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 0.977,
+    "away_defence_mult": 1.002,
+    "home_missing": [],
+    "away_missing": [
+     "Keke Topp"
+    ]
+   }
+  }
+ },
+ {
+  "date": "2026-12-06",
+  "kickoff_datetime": "2026-12-06T14:30:00Z",
+  "round": 12,
   "home": "Schalke 04",
   "away": "Borussia Dortmund",
   "status": "scheduled",
@@ -17743,26 +17745,147 @@
   }
  },
  {
-  "date": "2026-12-05",
-  "kickoff_datetime": "2026-12-05T14:30:00Z",
+  "date": "2026-12-06",
+  "kickoff_datetime": "2026-12-06T16:30:00Z",
   "round": 12,
-  "home": "Union Berlin",
-  "away": "Hamburger SV",
+  "home": "Elversberg",
+  "away": "VfB Stuttgart",
   "status": "scheduled",
   "home_form": {
    "matches": 6,
-   "goals": 0.67,
-   "goals_against": 2.0,
-   "xg_for": 1.12,
-   "xg_against": 1.81,
-   "xg_diff_per_game": -0.68,
-   "finishing_delta": -0.46,
-   "points": 6,
-   "ppg": 1.0,
-   "form": "LLWDDD",
-   "possession_pct": 41.5
+   "goals": 1.5,
+   "goals_against": 1.83,
+   "xg_for": 1.22,
+   "xg_against": 2.09,
+   "xg_diff_per_game": -0.87,
+   "finishing_delta": 0.28,
+   "points": 7,
+   "ppg": 1.17,
+   "form": "LDLWLW",
+   "possession_pct": 47.2
   },
   "away_form": {
+   "matches": 6,
+   "goals": 1.5,
+   "goals_against": 1.5,
+   "xg_for": 1.92,
+   "xg_against": 1.96,
+   "xg_diff_per_game": -0.04,
+   "finishing_delta": -0.42,
+   "points": 6,
+   "ppg": 1.0,
+   "form": "LLWLLW",
+   "possession_pct": 55.7
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.951,
+  "pred_xg_away": 1.978,
+  "win_home_pct": 38.4,
+  "draw_pct": 22.2,
+  "win_away_pct": 39.4,
+  "xpts_home": 1.37,
+  "xpts_away": 1.41,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    8.24
+   ],
+   [
+    1,
+    2,
+    7.51
+   ],
+   [
+    2,
+    1,
+    7.4
+   ],
+   [
+    2,
+    2,
+    7.32
+   ],
+   [
+    1,
+    3,
+    4.95
+   ]
+  ],
+  "over_2_5_pct": 75.1,
+  "btts_pct": 74.6,
+  "reasoning": {
+   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.03 goals, and the most likely single outcome is a draw at 22%. Elversberg are being outcreated by 0.87 xG per game over their last 6, which is why the model is cautious regardless of recent results. Projected 1.95-1.98 on expected goals, with 1-1 the single most likely scoreline at 8.2%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 6.8,
+    "effective_matches_away": 6.8
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Elversberg attack",
+     "detail": "modest (0.88x league average)",
+     "delta_goals": -0.175
+    },
+    {
+     "side": "home",
+     "label": "VfB Stuttgart defence",
+     "detail": "leaky (1.10x league average conceded)",
+     "delta_goals": 0.132
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.513
+    },
+    {
+     "side": "away",
+     "label": "VfB Stuttgart attack",
+     "detail": "strong (1.17x league average)",
+     "delta_goals": 0.255
+    },
+    {
+     "side": "away",
+     "label": "Elversberg defence",
+     "detail": "leaky (1.14x league average conceded)",
+     "delta_goals": 0.242
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 0.882,
+    "home_defence": 1.139,
+    "away_attack": 1.172,
+    "away_defence": 1.101,
+    "league_base": 1.482,
+    "home_advantage": 1.356
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2026-12-11",
+  "kickoff_datetime": "2026-12-11T19:30:00Z",
+  "round": 13,
+  "home": "Hamburger SV",
+  "away": "Schalke 04",
+  "status": "scheduled",
+  "home_form": {
    "matches": 6,
    "goals": 1.17,
    "goals_against": 2.0,
@@ -17775,16 +17898,29 @@
    "form": "LWWWLL",
    "possession_pct": 37.3
   },
+  "away_form": {
+   "matches": 6,
+   "goals": 0.67,
+   "goals_against": 1.0,
+   "xg_for": 0.87,
+   "xg_against": 1.66,
+   "xg_diff_per_game": -0.79,
+   "finishing_delta": -0.2,
+   "points": 5,
+   "ppg": 0.83,
+   "form": "WDLLDL",
+   "possession_pct": 41.3
+  },
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 1.559,
-  "pred_xg_away": 1.13,
-  "win_home_pct": 46.2,
-  "draw_pct": 27.2,
-  "win_away_pct": 26.5,
-  "xpts_home": 1.66,
-  "xpts_away": 1.07,
+  "pred_xg_home": 1.409,
+  "pred_xg_away": 0.975,
+  "win_home_pct": 45.9,
+  "draw_pct": 29.1,
+  "win_away_pct": 25.0,
+  "xpts_home": 1.67,
+  "xpts_away": 1.04,
   "most_likely_scoreline": [
    1,
    1
@@ -17793,33 +17929,33 @@
    [
     1,
     1,
-    12.99
+    13.75
    ],
    [
     1,
     0,
-    9.57
+    11.91
+   ],
+   [
+    0,
+    0,
+    10.31
+   ],
+   [
+    2,
+    0,
+    9.15
    ],
    [
     2,
     1,
-    9.33
-   ],
-   [
-    2,
-    0,
-    8.26
-   ],
-   [
-    0,
-    0,
-    7.82
+    8.92
    ]
   ],
-  "over_2_5_pct": 50.4,
-  "btts_pct": 54.5,
+  "over_2_5_pct": 42.6,
+  "btts_pct": 48.1,
   "reasoning": {
-   "thesis": "Union Berlin are marginal favourites, worth about 0.43 goals of edge and a 46% win probability -- a lean, not a call. Union Berlin are converting 0.46 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Projected 1.56-1.13 on expected goals, with 1-1 the single most likely scoreline at 13.0%.",
+   "thesis": "Hamburger SV are marginal favourites, worth about 0.43 goals of edge and a 46% win probability -- a lean, not a call. Schalke 04 are being outcreated by 0.79 xG per game over their last 6, which is why the model is cautious regardless of recent results. Projected 1.41-0.97 on expected goals, with 1-1 the single most likely scoreline at 13.8%.",
    "confidence": {
     "level": "medium",
     "note": "ratings are mostly driven by this season, with last season still contributing",
@@ -17829,40 +17965,40 @@
    "factors": [
     {
      "side": "home",
-     "label": "Union Berlin attack",
-     "detail": "poor (0.72x league average)",
-     "delta_goals": -0.413
-    },
-    {
-     "side": "home",
-     "label": "Hamburger SV defence",
-     "detail": "leaky (1.08x league average conceded)",
-     "delta_goals": 0.081
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.41
-    },
-    {
-     "side": "away",
      "label": "Hamburger SV attack",
      "detail": "poor (0.71x league average)",
      "delta_goals": -0.425
     },
     {
+     "side": "home",
+     "label": "Schalke 04 defence",
+     "detail": "solid (0.98x league average conceded)",
+     "delta_goals": -0.017
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.37
+    },
+    {
      "side": "away",
-     "label": "Union Berlin defence",
-     "detail": "leaky (1.07x league average conceded)",
-     "delta_goals": 0.074
+     "label": "Schalke 04 attack",
+     "detail": "poor (0.61x league average)",
+     "delta_goals": -0.575
+    },
+    {
+     "side": "away",
+     "label": "Hamburger SV defence",
+     "detail": "leaky (1.08x league average conceded)",
+     "delta_goals": 0.068
     }
    ],
    "rating_snapshot": {
-    "home_attack": 0.721,
-    "home_defence": 1.07,
-    "away_attack": 0.713,
-    "away_defence": 1.075,
+    "home_attack": 0.713,
+    "home_defence": 1.075,
+    "away_attack": 0.612,
+    "away_defence": 0.983,
     "league_base": 1.482,
     "home_advantage": 1.356
    },
@@ -17871,9 +18007,7 @@
     "home_defence_mult": 1.0,
     "away_attack_mult": 1.0,
     "away_defence_mult": 1.0,
-    "home_missing": [
-     "Andrik Markgraf"
-    ],
+    "home_missing": [],
     "away_missing": []
    }
   }
@@ -18152,546 +18286,6 @@
   "date": "2026-12-12",
   "kickoff_datetime": "2026-12-12T14:30:00Z",
   "round": 13,
-  "home": "Borussia M\u00f6nchengladbach",
-  "away": "Eintracht Frankfurt",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 1.33,
-   "goals_against": 2.5,
-   "xg_for": 1.45,
-   "xg_against": 1.78,
-   "xg_diff_per_game": -0.33,
-   "finishing_delta": -0.12,
-   "points": 4,
-   "ppg": 0.67,
-   "form": "LLLLWD",
-   "possession_pct": 43.2
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 1.5,
-   "goals_against": 1.83,
-   "xg_for": 1.51,
-   "xg_against": 1.89,
-   "xg_diff_per_game": -0.38,
-   "finishing_delta": -0.01,
-   "points": 10,
-   "ppg": 1.67,
-   "form": "WDLWLW",
-   "possession_pct": 48.3
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.888,
-  "pred_xg_away": 1.625,
-  "win_home_pct": 43.6,
-  "draw_pct": 23.6,
-  "win_away_pct": 32.8,
-  "xpts_home": 1.54,
-  "xpts_away": 1.22,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    9.93
-   ],
-   [
-    2,
-    1,
-    8.63
-   ],
-   [
-    1,
-    2,
-    7.43
-   ],
-   [
-    2,
-    2,
-    7.01
-   ],
-   [
-    3,
-    1,
-    5.43
-   ]
-  ],
-  "over_2_5_pct": 68.1,
-  "btts_pct": 68.9,
-  "reasoning": {
-   "thesis": "Borussia M\u00f6nchengladbach are marginal favourites, worth about 0.26 goals of edge and a 44% win probability -- a lean, not a call. Projected 1.89-1.62 on expected goals, with 1-1 the single most likely scoreline at 9.9%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 6.8,
-    "effective_matches_away": 6.8
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Borussia M\u00f6nchengladbach attack",
-     "detail": "modest (0.87x league average)",
-     "delta_goals": -0.197
-    },
-    {
-     "side": "home",
-     "label": "Eintracht Frankfurt defence",
-     "detail": "leaky (1.08x league average conceded)",
-     "delta_goals": 0.106
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.496
-    },
-    {
-     "side": "away",
-     "label": "Eintracht Frankfurt attack",
-     "detail": "modest (0.94x league average)",
-     "delta_goals": -0.087
-    },
-    {
-     "side": "away",
-     "label": "Borussia M\u00f6nchengladbach defence",
-     "detail": "leaky (1.16x league average conceded)",
-     "delta_goals": 0.23
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 0.867,
-    "home_defence": 1.165,
-    "away_attack": 0.941,
-    "away_defence": 1.083,
-    "league_base": 1.482,
-    "home_advantage": 1.356
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [
-     "Enzo Leopold"
-    ],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2026-12-12",
-  "kickoff_datetime": "2026-12-12T14:30:00Z",
-  "round": 13,
-  "home": "Hamburger SV",
-  "away": "Schalke 04",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 1.17,
-   "goals_against": 2.0,
-   "xg_for": 1.13,
-   "xg_against": 1.66,
-   "xg_diff_per_game": -0.53,
-   "finishing_delta": 0.03,
-   "points": 9,
-   "ppg": 1.5,
-   "form": "LWWWLL",
-   "possession_pct": 37.3
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 0.67,
-   "goals_against": 1.0,
-   "xg_for": 0.87,
-   "xg_against": 1.66,
-   "xg_diff_per_game": -0.79,
-   "finishing_delta": -0.2,
-   "points": 5,
-   "ppg": 0.83,
-   "form": "WDLLDL",
-   "possession_pct": 41.3
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.409,
-  "pred_xg_away": 0.975,
-  "win_home_pct": 45.9,
-  "draw_pct": 29.1,
-  "win_away_pct": 25.0,
-  "xpts_home": 1.67,
-  "xpts_away": 1.04,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    13.75
-   ],
-   [
-    1,
-    0,
-    11.91
-   ],
-   [
-    0,
-    0,
-    10.31
-   ],
-   [
-    2,
-    0,
-    9.15
-   ],
-   [
-    2,
-    1,
-    8.92
-   ]
-  ],
-  "over_2_5_pct": 42.6,
-  "btts_pct": 48.1,
-  "reasoning": {
-   "thesis": "Hamburger SV are marginal favourites, worth about 0.43 goals of edge and a 46% win probability -- a lean, not a call. Schalke 04 are being outcreated by 0.79 xG per game over their last 6, which is why the model is cautious regardless of recent results. Projected 1.41-0.97 on expected goals, with 1-1 the single most likely scoreline at 13.8%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 6.8,
-    "effective_matches_away": 6.8
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Hamburger SV attack",
-     "detail": "poor (0.71x league average)",
-     "delta_goals": -0.425
-    },
-    {
-     "side": "home",
-     "label": "Schalke 04 defence",
-     "detail": "solid (0.98x league average conceded)",
-     "delta_goals": -0.017
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.37
-    },
-    {
-     "side": "away",
-     "label": "Schalke 04 attack",
-     "detail": "poor (0.61x league average)",
-     "delta_goals": -0.575
-    },
-    {
-     "side": "away",
-     "label": "Hamburger SV defence",
-     "detail": "leaky (1.08x league average conceded)",
-     "delta_goals": 0.068
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 0.713,
-    "home_defence": 1.075,
-    "away_attack": 0.612,
-    "away_defence": 0.983,
-    "league_base": 1.482,
-    "home_advantage": 1.356
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2026-12-12",
-  "kickoff_datetime": "2026-12-12T14:30:00Z",
-  "round": 13,
-  "home": "Hoffenheim",
-  "away": "Bayern M\u00fcnchen",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 1.67,
-   "goals_against": 1.67,
-   "xg_for": 1.91,
-   "xg_against": 1.05,
-   "xg_diff_per_game": 0.86,
-   "finishing_delta": -0.24,
-   "points": 9,
-   "ppg": 1.5,
-   "form": "WLLWWL",
-   "possession_pct": 54.3
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 3.67,
-   "goals_against": 1.17,
-   "xg_for": 3.69,
-   "xg_against": 1.0,
-   "xg_diff_per_game": 2.69,
-   "finishing_delta": -0.02,
-   "points": 14,
-   "ppg": 2.33,
-   "form": "WWDWWD",
-   "possession_pct": 64.0
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.513,
-  "pred_xg_away": 2.609,
-  "win_home_pct": 20.4,
-  "draw_pct": 19.0,
-  "win_away_pct": 60.6,
-  "xpts_home": 0.8,
-  "xpts_away": 2.01,
-  "most_likely_scoreline": [
-   1,
-   2
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    2,
-    8.35
-   ],
-   [
-    1,
-    3,
-    7.26
-   ],
-   [
-    1,
-    1,
-    6.95
-   ],
-   [
-    2,
-    2,
-    6.32
-   ],
-   [
-    0,
-    2,
-    5.52
-   ]
-  ],
-  "over_2_5_pct": 77.9,
-  "btts_pct": 72.8,
-  "reasoning": {
-   "thesis": "Bayern M\u00fcnchen should win comfortably. The model has them 1.10 goals clear of Hoffenheim, a 61% win probability. Hoffenheim are creating +0.86 xG per game more than they concede over their last 6, the profile of a side controlling matches. Bayern M\u00fcnchen are creating +2.69 xG per game more than they concede over their last 6, the profile of a side controlling matches. Projected 1.51-2.61 on expected goals, with 1-2 the single most likely scoreline at 8.3%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 6.8,
-    "effective_matches_away": 6.8
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Hoffenheim attack",
-     "detail": "solid (1.06x league average)",
-     "delta_goals": 0.088
-    },
-    {
-     "side": "home",
-     "label": "Bayern M\u00fcnchen defence",
-     "detail": "excellent (0.71x league average conceded)",
-     "delta_goals": -0.454
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.398
-    },
-    {
-     "side": "away",
-     "label": "Bayern M\u00fcnchen attack",
-     "detail": "excellent (1.86x league average)",
-     "delta_goals": 1.268
-    },
-    {
-     "side": "away",
-     "label": "Hoffenheim defence",
-     "detail": "solid (0.95x league average conceded)",
-     "delta_goals": -0.14
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 1.059,
-    "home_defence": 0.949,
-    "away_attack": 1.856,
-    "away_defence": 0.711,
-    "league_base": 1.482,
-    "home_advantage": 1.356
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2026-12-12",
-  "kickoff_datetime": "2026-12-12T14:30:00Z",
-  "round": 13,
-  "home": "Mainz 05",
-  "away": "Freiburg",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 2.0,
-   "goals_against": 2.83,
-   "xg_for": 1.99,
-   "xg_against": 1.82,
-   "xg_diff_per_game": 0.18,
-   "finishing_delta": 0.01,
-   "points": 6,
-   "ppg": 1.0,
-   "form": "LWLWLL",
-   "possession_pct": 51.3
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 2.17,
-   "goals_against": 1.5,
-   "xg_for": 1.57,
-   "xg_against": 1.28,
-   "xg_diff_per_game": 0.3,
-   "finishing_delta": 0.6,
-   "points": 10,
-   "ppg": 1.67,
-   "form": "WDWLLW",
-   "possession_pct": 52.2
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.744,
-  "pred_xg_away": 1.625,
-  "win_home_pct": 40.3,
-  "draw_pct": 24.4,
-  "win_away_pct": 35.3,
-  "xpts_home": 1.45,
-  "xpts_away": 1.3,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    10.59
-   ],
-   [
-    2,
-    1,
-    8.51
-   ],
-   [
-    1,
-    2,
-    7.93
-   ],
-   [
-    2,
-    2,
-    6.91
-   ],
-   [
-    2,
-    0,
-    5.23
-   ]
-  ],
-  "over_2_5_pct": 65.4,
-  "btts_pct": 67.1,
-  "reasoning": {
-   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.12 goals, and the most likely single outcome is a draw at 24%. Freiburg are scoring 0.60 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Projected 1.74-1.62 on expected goals, with 1-1 the single most likely scoreline at 10.6%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 6.8,
-    "effective_matches_away": 6.8
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Mainz 05 attack",
-     "detail": "solid (1.08x league average)",
-     "delta_goals": 0.125
-    },
-    {
-     "side": "home",
-     "label": "Freiburg defence",
-     "detail": "strong (0.80x league average conceded)",
-     "delta_goals": -0.321
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.458
-    },
-    {
-     "side": "away",
-     "label": "Freiburg attack",
-     "detail": "solid (1.00x league average)",
-     "delta_goals": -0.002
-    },
-    {
-     "side": "away",
-     "label": "Mainz 05 defence",
-     "detail": "leaky (1.10x league average conceded)",
-     "delta_goals": 0.146
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 1.085,
-    "home_defence": 1.099,
-    "away_attack": 0.998,
-    "away_defence": 0.8,
-    "league_base": 1.482,
-    "home_advantage": 1.356
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
-    "away_missing": [
-     "Florent Muslija"
-    ]
-   }
-  }
- },
- {
-  "date": "2026-12-12",
-  "kickoff_datetime": "2026-12-12T14:30:00Z",
-  "round": 13,
   "home": "Paderborn",
   "away": "Elversberg",
   "status": "scheduled",
@@ -18962,7 +18556,413 @@
  },
  {
   "date": "2026-12-12",
-  "kickoff_datetime": "2026-12-12T14:30:00Z",
+  "kickoff_datetime": "2026-12-12T17:30:00Z",
+  "round": 13,
+  "home": "Borussia M\u00f6nchengladbach",
+  "away": "Eintracht Frankfurt",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 1.33,
+   "goals_against": 2.5,
+   "xg_for": 1.45,
+   "xg_against": 1.78,
+   "xg_diff_per_game": -0.33,
+   "finishing_delta": -0.12,
+   "points": 4,
+   "ppg": 0.67,
+   "form": "LLLLWD",
+   "possession_pct": 43.2
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 1.5,
+   "goals_against": 1.83,
+   "xg_for": 1.51,
+   "xg_against": 1.89,
+   "xg_diff_per_game": -0.38,
+   "finishing_delta": -0.01,
+   "points": 10,
+   "ppg": 1.67,
+   "form": "WDLWLW",
+   "possession_pct": 48.3
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.888,
+  "pred_xg_away": 1.625,
+  "win_home_pct": 43.6,
+  "draw_pct": 23.6,
+  "win_away_pct": 32.8,
+  "xpts_home": 1.54,
+  "xpts_away": 1.22,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    9.93
+   ],
+   [
+    2,
+    1,
+    8.63
+   ],
+   [
+    1,
+    2,
+    7.43
+   ],
+   [
+    2,
+    2,
+    7.01
+   ],
+   [
+    3,
+    1,
+    5.43
+   ]
+  ],
+  "over_2_5_pct": 68.1,
+  "btts_pct": 68.9,
+  "reasoning": {
+   "thesis": "Borussia M\u00f6nchengladbach are marginal favourites, worth about 0.26 goals of edge and a 44% win probability -- a lean, not a call. Projected 1.89-1.62 on expected goals, with 1-1 the single most likely scoreline at 9.9%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 6.8,
+    "effective_matches_away": 6.8
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Borussia M\u00f6nchengladbach attack",
+     "detail": "modest (0.87x league average)",
+     "delta_goals": -0.197
+    },
+    {
+     "side": "home",
+     "label": "Eintracht Frankfurt defence",
+     "detail": "leaky (1.08x league average conceded)",
+     "delta_goals": 0.106
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.496
+    },
+    {
+     "side": "away",
+     "label": "Eintracht Frankfurt attack",
+     "detail": "modest (0.94x league average)",
+     "delta_goals": -0.087
+    },
+    {
+     "side": "away",
+     "label": "Borussia M\u00f6nchengladbach defence",
+     "detail": "leaky (1.16x league average conceded)",
+     "delta_goals": 0.23
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 0.867,
+    "home_defence": 1.165,
+    "away_attack": 0.941,
+    "away_defence": 1.083,
+    "league_base": 1.482,
+    "home_advantage": 1.356
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Enzo Leopold"
+    ],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2026-12-13",
+  "kickoff_datetime": "2026-12-13T14:30:00Z",
+  "round": 13,
+  "home": "Mainz 05",
+  "away": "Freiburg",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 2.0,
+   "goals_against": 2.83,
+   "xg_for": 1.99,
+   "xg_against": 1.82,
+   "xg_diff_per_game": 0.18,
+   "finishing_delta": 0.01,
+   "points": 6,
+   "ppg": 1.0,
+   "form": "LWLWLL",
+   "possession_pct": 51.3
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 2.17,
+   "goals_against": 1.5,
+   "xg_for": 1.57,
+   "xg_against": 1.28,
+   "xg_diff_per_game": 0.3,
+   "finishing_delta": 0.6,
+   "points": 10,
+   "ppg": 1.67,
+   "form": "WDWLLW",
+   "possession_pct": 52.2
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.744,
+  "pred_xg_away": 1.625,
+  "win_home_pct": 40.3,
+  "draw_pct": 24.4,
+  "win_away_pct": 35.3,
+  "xpts_home": 1.45,
+  "xpts_away": 1.3,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    10.59
+   ],
+   [
+    2,
+    1,
+    8.51
+   ],
+   [
+    1,
+    2,
+    7.93
+   ],
+   [
+    2,
+    2,
+    6.91
+   ],
+   [
+    2,
+    0,
+    5.23
+   ]
+  ],
+  "over_2_5_pct": 65.4,
+  "btts_pct": 67.1,
+  "reasoning": {
+   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.12 goals, and the most likely single outcome is a draw at 24%. Freiburg are scoring 0.60 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Projected 1.74-1.62 on expected goals, with 1-1 the single most likely scoreline at 10.6%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 6.8,
+    "effective_matches_away": 6.8
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Mainz 05 attack",
+     "detail": "solid (1.08x league average)",
+     "delta_goals": 0.125
+    },
+    {
+     "side": "home",
+     "label": "Freiburg defence",
+     "detail": "strong (0.80x league average conceded)",
+     "delta_goals": -0.321
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.458
+    },
+    {
+     "side": "away",
+     "label": "Freiburg attack",
+     "detail": "solid (1.00x league average)",
+     "delta_goals": -0.002
+    },
+    {
+     "side": "away",
+     "label": "Mainz 05 defence",
+     "detail": "leaky (1.10x league average conceded)",
+     "delta_goals": 0.146
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 1.085,
+    "home_defence": 1.099,
+    "away_attack": 0.998,
+    "away_defence": 0.8,
+    "league_base": 1.482,
+    "home_advantage": 1.356
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Florent Muslija"
+    ]
+   }
+  }
+ },
+ {
+  "date": "2026-12-13",
+  "kickoff_datetime": "2026-12-13T16:30:00Z",
+  "round": 13,
+  "home": "Hoffenheim",
+  "away": "Bayern M\u00fcnchen",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 1.67,
+   "goals_against": 1.67,
+   "xg_for": 1.91,
+   "xg_against": 1.05,
+   "xg_diff_per_game": 0.86,
+   "finishing_delta": -0.24,
+   "points": 9,
+   "ppg": 1.5,
+   "form": "WLLWWL",
+   "possession_pct": 54.3
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 3.67,
+   "goals_against": 1.17,
+   "xg_for": 3.69,
+   "xg_against": 1.0,
+   "xg_diff_per_game": 2.69,
+   "finishing_delta": -0.02,
+   "points": 14,
+   "ppg": 2.33,
+   "form": "WWDWWD",
+   "possession_pct": 64.0
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.513,
+  "pred_xg_away": 2.609,
+  "win_home_pct": 20.4,
+  "draw_pct": 19.0,
+  "win_away_pct": 60.6,
+  "xpts_home": 0.8,
+  "xpts_away": 2.01,
+  "most_likely_scoreline": [
+   1,
+   2
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    2,
+    8.35
+   ],
+   [
+    1,
+    3,
+    7.26
+   ],
+   [
+    1,
+    1,
+    6.95
+   ],
+   [
+    2,
+    2,
+    6.32
+   ],
+   [
+    0,
+    2,
+    5.52
+   ]
+  ],
+  "over_2_5_pct": 77.9,
+  "btts_pct": 72.8,
+  "reasoning": {
+   "thesis": "Bayern M\u00fcnchen should win comfortably. The model has them 1.10 goals clear of Hoffenheim, a 61% win probability. Hoffenheim are creating +0.86 xG per game more than they concede over their last 6, the profile of a side controlling matches. Bayern M\u00fcnchen are creating +2.69 xG per game more than they concede over their last 6, the profile of a side controlling matches. Projected 1.51-2.61 on expected goals, with 1-2 the single most likely scoreline at 8.3%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 6.8,
+    "effective_matches_away": 6.8
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Hoffenheim attack",
+     "detail": "solid (1.06x league average)",
+     "delta_goals": 0.088
+    },
+    {
+     "side": "home",
+     "label": "Bayern M\u00fcnchen defence",
+     "detail": "excellent (0.71x league average conceded)",
+     "delta_goals": -0.454
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.398
+    },
+    {
+     "side": "away",
+     "label": "Bayern M\u00fcnchen attack",
+     "detail": "excellent (1.86x league average)",
+     "delta_goals": 1.268
+    },
+    {
+     "side": "away",
+     "label": "Hoffenheim defence",
+     "detail": "solid (0.95x league average conceded)",
+     "delta_goals": -0.14
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 1.059,
+    "home_defence": 0.949,
+    "away_attack": 1.856,
+    "away_defence": 0.711,
+    "league_base": 1.482,
+    "home_advantage": 1.356
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2026-12-13",
+  "kickoff_datetime": "2026-12-13T18:30:00Z",
   "round": 13,
   "home": "Werder Bremen",
   "away": "Bayer Leverkusen",
@@ -19105,6 +19105,154 @@
      "Keke Topp"
     ],
     "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2026-12-18",
+  "kickoff_datetime": "2026-12-18T19:30:00Z",
+  "round": 14,
+  "home": "Bayern M\u00fcnchen",
+  "away": "Werder Bremen",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 3.67,
+   "goals_against": 1.17,
+   "xg_for": 3.69,
+   "xg_against": 1.0,
+   "xg_diff_per_game": 2.69,
+   "finishing_delta": -0.02,
+   "points": 14,
+   "ppg": 2.33,
+   "form": "WWDWWD",
+   "possession_pct": 64.0
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 2.17,
+   "goals_against": 1.5,
+   "xg_for": 1.78,
+   "xg_against": 1.49,
+   "xg_diff_per_game": 0.29,
+   "finishing_delta": 0.39,
+   "points": 12,
+   "ppg": 2.0,
+   "form": "DWDDWW",
+   "possession_pct": 49.3
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 3.628,
+  "pred_xg_away": 1.003,
+  "win_home_pct": 84.1,
+  "draw_pct": 10.0,
+  "win_away_pct": 5.8,
+  "xpts_home": 2.62,
+  "xpts_away": 0.28,
+  "most_likely_scoreline": [
+   3,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    3,
+    1,
+    7.79
+   ],
+   [
+    3,
+    0,
+    7.76
+   ],
+   [
+    4,
+    1,
+    7.07
+   ],
+   [
+    4,
+    0,
+    7.04
+   ],
+   [
+    2,
+    1,
+    6.44
+   ]
+  ],
+  "over_2_5_pct": 84.0,
+  "btts_pct": 62.0,
+  "reasoning": {
+   "thesis": "Bayern M\u00fcnchen should win comfortably. The model has them 2.62 goals clear of Werder Bremen, a 84% win probability. Bayern M\u00fcnchen are creating +2.69 xG per game more than they concede over their last 6, the profile of a side controlling matches. Werder Bremen are missing Topp; weighting the absentees by value against the depth behind them, the model marks their attack down 2% for this fixture. Projected 3.63-1.00 on expected goals, with 3-1 the single most likely scoreline at 7.8%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 6.8,
+    "effective_matches_away": 6.8
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Bayern M\u00fcnchen attack",
+     "detail": "excellent (1.86x league average)",
+     "delta_goals": 1.268
+    },
+    {
+     "side": "home",
+     "label": "Werder Bremen defence",
+     "detail": "solid (0.97x league average conceded)",
+     "delta_goals": -0.08
+    },
+    {
+     "side": "home",
+     "label": "Werder Bremen defence weakened",
+     "detail": "Topp out (1.00x conceded)",
+     "delta_goals": 0.006
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.953
+    },
+    {
+     "side": "away",
+     "label": "Werder Bremen attack",
+     "detail": "solid (0.98x league average)",
+     "delta_goals": -0.036
+    },
+    {
+     "side": "away",
+     "label": "Werder Bremen unavailable",
+     "detail": "Topp out (0.98x attack)",
+     "delta_goals": -0.033
+    },
+    {
+     "side": "away",
+     "label": "Bayern M\u00fcnchen defence",
+     "detail": "excellent (0.71x league average conceded)",
+     "delta_goals": -0.409
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 1.856,
+    "home_defence": 0.711,
+    "away_attack": 0.976,
+    "away_defence": 0.971,
+    "league_base": 1.482,
+    "home_advantage": 1.356
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 0.977,
+    "away_defence_mult": 1.002,
+    "home_missing": [],
+    "away_missing": [
+     "Keke Topp"
+    ]
    }
   }
  },
@@ -19382,154 +19530,6 @@
   "date": "2026-12-19",
   "kickoff_datetime": "2026-12-19T14:30:00Z",
   "round": 14,
-  "home": "Bayern M\u00fcnchen",
-  "away": "Werder Bremen",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 3.67,
-   "goals_against": 1.17,
-   "xg_for": 3.69,
-   "xg_against": 1.0,
-   "xg_diff_per_game": 2.69,
-   "finishing_delta": -0.02,
-   "points": 14,
-   "ppg": 2.33,
-   "form": "WWDWWD",
-   "possession_pct": 64.0
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 2.17,
-   "goals_against": 1.5,
-   "xg_for": 1.78,
-   "xg_against": 1.49,
-   "xg_diff_per_game": 0.29,
-   "finishing_delta": 0.39,
-   "points": 12,
-   "ppg": 2.0,
-   "form": "DWDDWW",
-   "possession_pct": 49.3
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 3.628,
-  "pred_xg_away": 1.003,
-  "win_home_pct": 84.1,
-  "draw_pct": 10.0,
-  "win_away_pct": 5.8,
-  "xpts_home": 2.62,
-  "xpts_away": 0.28,
-  "most_likely_scoreline": [
-   3,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    3,
-    1,
-    7.79
-   ],
-   [
-    3,
-    0,
-    7.76
-   ],
-   [
-    4,
-    1,
-    7.07
-   ],
-   [
-    4,
-    0,
-    7.04
-   ],
-   [
-    2,
-    1,
-    6.44
-   ]
-  ],
-  "over_2_5_pct": 84.0,
-  "btts_pct": 62.0,
-  "reasoning": {
-   "thesis": "Bayern M\u00fcnchen should win comfortably. The model has them 2.62 goals clear of Werder Bremen, a 84% win probability. Bayern M\u00fcnchen are creating +2.69 xG per game more than they concede over their last 6, the profile of a side controlling matches. Werder Bremen are missing Topp; weighting the absentees by value against the depth behind them, the model marks their attack down 2% for this fixture. Projected 3.63-1.00 on expected goals, with 3-1 the single most likely scoreline at 7.8%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 6.8,
-    "effective_matches_away": 6.8
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Bayern M\u00fcnchen attack",
-     "detail": "excellent (1.86x league average)",
-     "delta_goals": 1.268
-    },
-    {
-     "side": "home",
-     "label": "Werder Bremen defence",
-     "detail": "solid (0.97x league average conceded)",
-     "delta_goals": -0.08
-    },
-    {
-     "side": "home",
-     "label": "Werder Bremen defence weakened",
-     "detail": "Topp out (1.00x conceded)",
-     "delta_goals": 0.006
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.953
-    },
-    {
-     "side": "away",
-     "label": "Werder Bremen attack",
-     "detail": "solid (0.98x league average)",
-     "delta_goals": -0.036
-    },
-    {
-     "side": "away",
-     "label": "Werder Bremen unavailable",
-     "detail": "Topp out (0.98x attack)",
-     "delta_goals": -0.033
-    },
-    {
-     "side": "away",
-     "label": "Bayern M\u00fcnchen defence",
-     "detail": "excellent (0.71x league average conceded)",
-     "delta_goals": -0.409
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 1.856,
-    "home_defence": 0.711,
-    "away_attack": 0.976,
-    "away_defence": 0.971,
-    "league_base": 1.482,
-    "home_advantage": 1.356
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 0.977,
-    "away_defence_mult": 1.002,
-    "home_missing": [],
-    "away_missing": [
-     "Keke Topp"
-    ]
-   }
-  }
- },
- {
-  "date": "2026-12-19",
-  "kickoff_datetime": "2026-12-19T14:30:00Z",
-  "round": 14,
   "home": "Elversberg",
   "away": "Hamburger SV",
   "status": "scheduled",
@@ -19656,142 +19656,6 @@
     "away_attack_mult": 1.0,
     "away_defence_mult": 1.0,
     "home_missing": [],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2026-12-19",
-  "kickoff_datetime": "2026-12-19T14:30:00Z",
-  "round": 14,
-  "home": "Freiburg",
-  "away": "VfB Stuttgart",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 2.17,
-   "goals_against": 1.5,
-   "xg_for": 1.57,
-   "xg_against": 1.28,
-   "xg_diff_per_game": 0.3,
-   "finishing_delta": 0.6,
-   "points": 10,
-   "ppg": 1.67,
-   "form": "WDWLLW",
-   "possession_pct": 52.2
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 1.5,
-   "goals_against": 1.5,
-   "xg_for": 1.92,
-   "xg_against": 1.96,
-   "xg_diff_per_game": -0.04,
-   "finishing_delta": -0.42,
-   "points": 6,
-   "ppg": 1.0,
-   "form": "LLWLLW",
-   "possession_pct": 55.7
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 2.209,
-  "pred_xg_away": 1.39,
-  "win_home_pct": 55.3,
-  "draw_pct": 21.7,
-  "win_away_pct": 23.0,
-  "xpts_home": 1.88,
-  "xpts_away": 0.91,
-  "most_likely_scoreline": [
-   2,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    2,
-    1,
-    9.28
-   ],
-   [
-    1,
-    1,
-    9.12
-   ],
-   [
-    3,
-    1,
-    6.83
-   ],
-   [
-    2,
-    0,
-    6.67
-   ],
-   [
-    2,
-    2,
-    6.45
-   ]
-  ],
-  "over_2_5_pct": 69.7,
-  "btts_pct": 67.6,
-  "reasoning": {
-   "thesis": "Freiburg are clear favourites, projected 0.82 goals better than VfB Stuttgart on the day, which prices the win at 55%. Freiburg are scoring 0.60 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Projected 2.21-1.39 on expected goals, with 2-1 the single most likely scoreline at 9.3%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 6.8,
-    "effective_matches_away": 6.8
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Freiburg attack",
-     "detail": "solid (1.00x league average)",
-     "delta_goals": -0.002
-    },
-    {
-     "side": "home",
-     "label": "VfB Stuttgart defence",
-     "detail": "leaky (1.10x league average conceded)",
-     "delta_goals": 0.149
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.58
-    },
-    {
-     "side": "away",
-     "label": "VfB Stuttgart attack",
-     "detail": "strong (1.17x league average)",
-     "delta_goals": 0.255
-    },
-    {
-     "side": "away",
-     "label": "Freiburg defence",
-     "detail": "strong (0.80x league average conceded)",
-     "delta_goals": -0.347
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 0.998,
-    "home_defence": 0.8,
-    "away_attack": 1.172,
-    "away_defence": 1.101,
-    "league_base": 1.482,
-    "home_advantage": 1.356
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [
-     "Florent Muslija"
-    ],
     "away_missing": []
    }
   }
@@ -19932,7 +19796,7 @@
  },
  {
   "date": "2026-12-19",
-  "kickoff_datetime": "2026-12-19T14:30:00Z",
+  "kickoff_datetime": "2026-12-19T17:30:00Z",
   "round": 14,
   "home": "RB Leipzig",
   "away": "Borussia Dortmund",
@@ -20067,8 +19931,280 @@
   }
  },
  {
-  "date": "2026-12-19",
-  "kickoff_datetime": "2026-12-19T14:30:00Z",
+  "date": "2026-12-20",
+  "kickoff_datetime": "2026-12-20T14:30:00Z",
+  "round": 14,
+  "home": "Freiburg",
+  "away": "VfB Stuttgart",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 2.17,
+   "goals_against": 1.5,
+   "xg_for": 1.57,
+   "xg_against": 1.28,
+   "xg_diff_per_game": 0.3,
+   "finishing_delta": 0.6,
+   "points": 10,
+   "ppg": 1.67,
+   "form": "WDWLLW",
+   "possession_pct": 52.2
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 1.5,
+   "goals_against": 1.5,
+   "xg_for": 1.92,
+   "xg_against": 1.96,
+   "xg_diff_per_game": -0.04,
+   "finishing_delta": -0.42,
+   "points": 6,
+   "ppg": 1.0,
+   "form": "LLWLLW",
+   "possession_pct": 55.7
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 2.209,
+  "pred_xg_away": 1.39,
+  "win_home_pct": 55.3,
+  "draw_pct": 21.7,
+  "win_away_pct": 23.0,
+  "xpts_home": 1.88,
+  "xpts_away": 0.91,
+  "most_likely_scoreline": [
+   2,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    2,
+    1,
+    9.28
+   ],
+   [
+    1,
+    1,
+    9.12
+   ],
+   [
+    3,
+    1,
+    6.83
+   ],
+   [
+    2,
+    0,
+    6.67
+   ],
+   [
+    2,
+    2,
+    6.45
+   ]
+  ],
+  "over_2_5_pct": 69.7,
+  "btts_pct": 67.6,
+  "reasoning": {
+   "thesis": "Freiburg are clear favourites, projected 0.82 goals better than VfB Stuttgart on the day, which prices the win at 55%. Freiburg are scoring 0.60 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Projected 2.21-1.39 on expected goals, with 2-1 the single most likely scoreline at 9.3%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 6.8,
+    "effective_matches_away": 6.8
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Freiburg attack",
+     "detail": "solid (1.00x league average)",
+     "delta_goals": -0.002
+    },
+    {
+     "side": "home",
+     "label": "VfB Stuttgart defence",
+     "detail": "leaky (1.10x league average conceded)",
+     "delta_goals": 0.149
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.58
+    },
+    {
+     "side": "away",
+     "label": "VfB Stuttgart attack",
+     "detail": "strong (1.17x league average)",
+     "delta_goals": 0.255
+    },
+    {
+     "side": "away",
+     "label": "Freiburg defence",
+     "detail": "strong (0.80x league average conceded)",
+     "delta_goals": -0.347
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 0.998,
+    "home_defence": 0.8,
+    "away_attack": 1.172,
+    "away_defence": 1.101,
+    "league_base": 1.482,
+    "home_advantage": 1.356
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Florent Muslija"
+    ],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2026-12-20",
+  "kickoff_datetime": "2026-12-20T16:30:00Z",
+  "round": 14,
+  "home": "Union Berlin",
+  "away": "Hoffenheim",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 0.67,
+   "goals_against": 2.0,
+   "xg_for": 1.12,
+   "xg_against": 1.81,
+   "xg_diff_per_game": -0.68,
+   "finishing_delta": -0.46,
+   "points": 6,
+   "ppg": 1.0,
+   "form": "LLWDDD",
+   "possession_pct": 41.5
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 1.67,
+   "goals_against": 1.67,
+   "xg_for": 1.91,
+   "xg_against": 1.05,
+   "xg_diff_per_game": 0.86,
+   "finishing_delta": -0.24,
+   "points": 9,
+   "ppg": 1.5,
+   "form": "WLLWWL",
+   "possession_pct": 54.3
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.376,
+  "pred_xg_away": 1.679,
+  "win_home_pct": 30.6,
+  "draw_pct": 25.6,
+  "win_away_pct": 43.8,
+  "xpts_home": 1.17,
+  "xpts_away": 1.57,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    11.82
+   ],
+   [
+    1,
+    2,
+    9.14
+   ],
+   [
+    2,
+    1,
+    7.49
+   ],
+   [
+    0,
+    1,
+    6.98
+   ],
+   [
+    0,
+    2,
+    6.64
+   ]
+  ],
+  "over_2_5_pct": 58.9,
+  "btts_pct": 61.7,
+  "reasoning": {
+   "thesis": "Hoffenheim are marginal favourites, worth about 0.30 goals of edge and a 44% win probability -- a lean, not a call. Union Berlin are converting 0.46 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Hoffenheim are creating +0.86 xG per game more than they concede over their last 6, the profile of a side controlling matches. Projected 1.38-1.68 on expected goals, with 1-1 the single most likely scoreline at 11.8%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 6.8,
+    "effective_matches_away": 6.8
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Union Berlin attack",
+     "detail": "poor (0.72x league average)",
+     "delta_goals": -0.413
+    },
+    {
+     "side": "home",
+     "label": "Hoffenheim defence",
+     "detail": "solid (0.95x league average conceded)",
+     "delta_goals": -0.054
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.362
+    },
+    {
+     "side": "away",
+     "label": "Hoffenheim attack",
+     "detail": "solid (1.06x league average)",
+     "delta_goals": 0.088
+    },
+    {
+     "side": "away",
+     "label": "Union Berlin defence",
+     "detail": "leaky (1.07x league average conceded)",
+     "delta_goals": 0.109
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 0.721,
+    "home_defence": 1.07,
+    "away_attack": 1.059,
+    "away_defence": 0.949,
+    "league_base": 1.482,
+    "home_advantage": 1.356
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Andrik Markgraf"
+    ],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2026-12-20",
+  "kickoff_datetime": "2026-12-20T18:30:00Z",
   "round": 14,
   "home": "Schalke 04",
   "away": "Borussia M\u00f6nchengladbach",
@@ -20203,83 +20339,83 @@
   }
  },
  {
-  "date": "2026-12-19",
-  "kickoff_datetime": "2026-12-19T14:30:00Z",
-  "round": 14,
-  "home": "Union Berlin",
-  "away": "Hoffenheim",
+  "date": "2027-01-08",
+  "kickoff_datetime": "2027-01-08T19:30:00Z",
+  "round": 15,
+  "home": "Borussia Dortmund",
+  "away": "Mainz 05",
   "status": "scheduled",
   "home_form": {
    "matches": 6,
-   "goals": 0.67,
-   "goals_against": 2.0,
-   "xg_for": 1.12,
-   "xg_against": 1.81,
-   "xg_diff_per_game": -0.68,
-   "finishing_delta": -0.46,
-   "points": 6,
-   "ppg": 1.0,
-   "form": "LLWDDD",
-   "possession_pct": 41.5
+   "goals": 1.5,
+   "goals_against": 0.67,
+   "xg_for": 1.47,
+   "xg_against": 1.37,
+   "xg_diff_per_game": 0.1,
+   "finishing_delta": 0.03,
+   "points": 12,
+   "ppg": 2.0,
+   "form": "WWDDWD",
+   "possession_pct": 56.0
   },
   "away_form": {
    "matches": 6,
-   "goals": 1.67,
-   "goals_against": 1.67,
-   "xg_for": 1.91,
-   "xg_against": 1.05,
-   "xg_diff_per_game": 0.86,
-   "finishing_delta": -0.24,
-   "points": 9,
-   "ppg": 1.5,
-   "form": "WLLWWL",
-   "possession_pct": 54.3
+   "goals": 2.0,
+   "goals_against": 2.83,
+   "xg_for": 1.99,
+   "xg_against": 1.82,
+   "xg_diff_per_game": 0.18,
+   "finishing_delta": 0.01,
+   "points": 6,
+   "ppg": 1.0,
+   "form": "LWLWLL",
+   "possession_pct": 51.3
   },
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 1.376,
-  "pred_xg_away": 1.679,
-  "win_home_pct": 30.6,
-  "draw_pct": 25.6,
-  "win_away_pct": 43.8,
-  "xpts_home": 1.17,
-  "xpts_away": 1.57,
+  "pred_xg_home": 2.247,
+  "pred_xg_away": 1.164,
+  "win_home_pct": 61.1,
+  "draw_pct": 21.0,
+  "win_away_pct": 17.9,
+  "xpts_home": 2.04,
+  "xpts_away": 0.75,
   "most_likely_scoreline": [
-   1,
+   2,
    1
   ],
   "top_5_scorelines": [
    [
-    1,
-    1,
-    11.82
-   ],
-   [
-    1,
-    2,
-    9.14
-   ],
-   [
     2,
     1,
-    7.49
+    9.7
    ],
    [
+    1,
+    1,
+    9.37
+   ],
+   [
+    2,
     0,
-    1,
-    6.98
+    8.34
    ],
    [
+    3,
+    1,
+    7.26
+   ],
+   [
+    1,
     0,
-    2,
-    6.64
+    6.68
    ]
   ],
-  "over_2_5_pct": 58.9,
-  "btts_pct": 61.7,
+  "over_2_5_pct": 66.2,
+  "btts_pct": 62.2,
   "reasoning": {
-   "thesis": "Hoffenheim are marginal favourites, worth about 0.30 goals of edge and a 44% win probability -- a lean, not a call. Union Berlin are converting 0.46 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Hoffenheim are creating +0.86 xG per game more than they concede over their last 6, the profile of a side controlling matches. Projected 1.38-1.68 on expected goals, with 1-1 the single most likely scoreline at 11.8%.",
+   "thesis": "Borussia Dortmund should win comfortably. The model has them 1.08 goals clear of Mainz 05, a 61% win probability. Projected 2.25-1.16 on expected goals, with 2-1 the single most likely scoreline at 9.7%.",
    "confidence": {
     "level": "medium",
     "note": "ratings are mostly driven by this season, with last season still contributing",
@@ -20289,40 +20425,40 @@
    "factors": [
     {
      "side": "home",
-     "label": "Union Berlin attack",
-     "detail": "poor (0.72x league average)",
-     "delta_goals": -0.413
+     "label": "Borussia Dortmund attack",
+     "detail": "solid (1.02x league average)",
+     "delta_goals": 0.026
     },
     {
      "side": "home",
-     "label": "Hoffenheim defence",
-     "detail": "solid (0.95x league average conceded)",
-     "delta_goals": -0.054
+     "label": "Mainz 05 defence",
+     "detail": "leaky (1.10x league average conceded)",
+     "delta_goals": 0.149
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.362
+     "delta_goals": 0.59
     },
     {
      "side": "away",
-     "label": "Hoffenheim attack",
-     "detail": "solid (1.06x league average)",
-     "delta_goals": 0.088
+     "label": "Mainz 05 attack",
+     "detail": "solid (1.08x league average)",
+     "delta_goals": 0.125
     },
     {
      "side": "away",
-     "label": "Union Berlin defence",
-     "detail": "leaky (1.07x league average conceded)",
-     "delta_goals": 0.109
+     "label": "Borussia Dortmund defence",
+     "detail": "excellent (0.72x league average conceded)",
+     "delta_goals": -0.443
     }
    ],
    "rating_snapshot": {
-    "home_attack": 0.721,
-    "home_defence": 1.07,
-    "away_attack": 1.059,
-    "away_defence": 0.949,
+    "home_attack": 1.017,
+    "home_defence": 0.724,
+    "away_attack": 1.085,
+    "away_defence": 1.099,
     "league_base": 1.482,
     "home_advantage": 1.356
    },
@@ -20332,7 +20468,7 @@
     "away_attack_mult": 1.0,
     "away_defence_mult": 1.0,
     "home_missing": [
-     "Andrik Markgraf"
+     "Giannis Konstantelias"
     ],
     "away_missing": []
    }
@@ -20476,278 +20612,6 @@
   "date": "2027-01-09",
   "kickoff_datetime": "2027-01-09T14:30:00Z",
   "round": 15,
-  "home": "Borussia Dortmund",
-  "away": "Mainz 05",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 1.5,
-   "goals_against": 0.67,
-   "xg_for": 1.47,
-   "xg_against": 1.37,
-   "xg_diff_per_game": 0.1,
-   "finishing_delta": 0.03,
-   "points": 12,
-   "ppg": 2.0,
-   "form": "WWDDWD",
-   "possession_pct": 56.0
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 2.0,
-   "goals_against": 2.83,
-   "xg_for": 1.99,
-   "xg_against": 1.82,
-   "xg_diff_per_game": 0.18,
-   "finishing_delta": 0.01,
-   "points": 6,
-   "ppg": 1.0,
-   "form": "LWLWLL",
-   "possession_pct": 51.3
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 2.247,
-  "pred_xg_away": 1.164,
-  "win_home_pct": 61.1,
-  "draw_pct": 21.0,
-  "win_away_pct": 17.9,
-  "xpts_home": 2.04,
-  "xpts_away": 0.75,
-  "most_likely_scoreline": [
-   2,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    2,
-    1,
-    9.7
-   ],
-   [
-    1,
-    1,
-    9.37
-   ],
-   [
-    2,
-    0,
-    8.34
-   ],
-   [
-    3,
-    1,
-    7.26
-   ],
-   [
-    1,
-    0,
-    6.68
-   ]
-  ],
-  "over_2_5_pct": 66.2,
-  "btts_pct": 62.2,
-  "reasoning": {
-   "thesis": "Borussia Dortmund should win comfortably. The model has them 1.08 goals clear of Mainz 05, a 61% win probability. Projected 2.25-1.16 on expected goals, with 2-1 the single most likely scoreline at 9.7%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 6.8,
-    "effective_matches_away": 6.8
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Borussia Dortmund attack",
-     "detail": "solid (1.02x league average)",
-     "delta_goals": 0.026
-    },
-    {
-     "side": "home",
-     "label": "Mainz 05 defence",
-     "detail": "leaky (1.10x league average conceded)",
-     "delta_goals": 0.149
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.59
-    },
-    {
-     "side": "away",
-     "label": "Mainz 05 attack",
-     "detail": "solid (1.08x league average)",
-     "delta_goals": 0.125
-    },
-    {
-     "side": "away",
-     "label": "Borussia Dortmund defence",
-     "detail": "excellent (0.72x league average conceded)",
-     "delta_goals": -0.443
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 1.017,
-    "home_defence": 0.724,
-    "away_attack": 1.085,
-    "away_defence": 1.099,
-    "league_base": 1.482,
-    "home_advantage": 1.356
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [
-     "Giannis Konstantelias"
-    ],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2027-01-09",
-  "kickoff_datetime": "2027-01-09T14:30:00Z",
-  "round": 15,
-  "home": "Borussia M\u00f6nchengladbach",
-  "away": "Bayern M\u00fcnchen",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 1.33,
-   "goals_against": 2.5,
-   "xg_for": 1.45,
-   "xg_against": 1.78,
-   "xg_diff_per_game": -0.33,
-   "finishing_delta": -0.12,
-   "points": 4,
-   "ppg": 0.67,
-   "form": "LLLLWD",
-   "possession_pct": 43.2
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 3.67,
-   "goals_against": 1.17,
-   "xg_for": 3.69,
-   "xg_against": 1.0,
-   "xg_diff_per_game": 2.69,
-   "finishing_delta": -0.02,
-   "points": 14,
-   "ppg": 2.33,
-   "form": "WWDWWD",
-   "possession_pct": 64.0
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.239,
-  "pred_xg_away": 3.203,
-  "win_home_pct": 10.8,
-  "draw_pct": 13.9,
-  "win_away_pct": 75.3,
-  "xpts_home": 0.46,
-  "xpts_away": 2.4,
-  "most_likely_scoreline": [
-   1,
-   3
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    3,
-    7.99
-   ],
-   [
-    1,
-    2,
-    7.49
-   ],
-   [
-    0,
-    3,
-    6.45
-   ],
-   [
-    1,
-    4,
-    6.4
-   ],
-   [
-    0,
-    2,
-    6.04
-   ]
-  ],
-  "over_2_5_pct": 82.0,
-  "btts_pct": 68.5,
-  "reasoning": {
-   "thesis": "Bayern M\u00fcnchen should win comfortably. The model has them 1.96 goals clear of Borussia M\u00f6nchengladbach, a 75% win probability. Bayern M\u00fcnchen are creating +2.69 xG per game more than they concede over their last 6, the profile of a side controlling matches. Projected 1.24-3.20 on expected goals, with 1-3 the single most likely scoreline at 8.0%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 6.8,
-    "effective_matches_away": 6.8
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Borussia M\u00f6nchengladbach attack",
-     "detail": "modest (0.87x league average)",
-     "delta_goals": -0.197
-    },
-    {
-     "side": "home",
-     "label": "Bayern M\u00fcnchen defence",
-     "detail": "excellent (0.71x league average conceded)",
-     "delta_goals": -0.372
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.325
-    },
-    {
-     "side": "away",
-     "label": "Bayern M\u00fcnchen attack",
-     "detail": "excellent (1.86x league average)",
-     "delta_goals": 1.268
-    },
-    {
-     "side": "away",
-     "label": "Borussia M\u00f6nchengladbach defence",
-     "detail": "leaky (1.16x league average conceded)",
-     "delta_goals": 0.454
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 0.867,
-    "home_defence": 1.165,
-    "away_attack": 1.856,
-    "away_defence": 0.711,
-    "league_base": 1.482,
-    "home_advantage": 1.356
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [
-     "Enzo Leopold"
-    ],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2027-01-09",
-  "kickoff_datetime": "2027-01-09T14:30:00Z",
-  "round": 15,
   "home": "Eintracht Frankfurt",
   "away": "Schalke 04",
   "status": "scheduled",
@@ -20865,140 +20729,6 @@
     "home_defence": 1.083,
     "away_attack": 0.612,
     "away_defence": 0.983,
-    "league_base": 1.482,
-    "home_advantage": 1.356
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2027-01-09",
-  "kickoff_datetime": "2027-01-09T14:30:00Z",
-  "round": 15,
-  "home": "Hamburger SV",
-  "away": "Bayer Leverkusen",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 1.17,
-   "goals_against": 2.0,
-   "xg_for": 1.13,
-   "xg_against": 1.66,
-   "xg_diff_per_game": -0.53,
-   "finishing_delta": 0.03,
-   "points": 9,
-   "ppg": 1.5,
-   "form": "LWWWLL",
-   "possession_pct": 37.3
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 2.0,
-   "goals_against": 2.17,
-   "xg_for": 1.75,
-   "xg_against": 2.02,
-   "xg_diff_per_game": -0.27,
-   "finishing_delta": 0.25,
-   "points": 10,
-   "ppg": 1.67,
-   "form": "DWWWLL",
-   "possession_pct": 56.2
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.448,
-  "pred_xg_away": 1.817,
-  "win_home_pct": 30.0,
-  "draw_pct": 24.5,
-  "win_away_pct": 45.5,
-  "xpts_home": 1.14,
-  "xpts_away": 1.61,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    10.91
-   ],
-   [
-    1,
-    2,
-    9.13
-   ],
-   [
-    2,
-    1,
-    7.28
-   ],
-   [
-    2,
-    2,
-    6.61
-   ],
-   [
-    0,
-    2,
-    6.3
-   ]
-  ],
-  "over_2_5_pct": 63.4,
-  "btts_pct": 64.9,
-  "reasoning": {
-   "thesis": "Bayer Leverkusen are marginal favourites, worth about 0.37 goals of edge and a 46% win probability -- a lean, not a call. Projected 1.45-1.82 on expected goals, with 1-1 the single most likely scoreline at 10.9%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 6.8,
-    "effective_matches_away": 6.8
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Hamburger SV attack",
-     "detail": "poor (0.71x league average)",
-     "delta_goals": -0.425
-    },
-    {
-     "side": "home",
-     "label": "Bayer Leverkusen defence",
-     "detail": "solid (1.01x league average conceded)",
-     "delta_goals": 0.012
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.381
-    },
-    {
-     "side": "away",
-     "label": "Bayer Leverkusen attack",
-     "detail": "strong (1.14x league average)",
-     "delta_goals": 0.208
-    },
-    {
-     "side": "away",
-     "label": "Hamburger SV defence",
-     "detail": "leaky (1.08x league average conceded)",
-     "delta_goals": 0.128
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 0.713,
-    "home_defence": 1.075,
-    "away_attack": 1.14,
-    "away_defence": 1.011,
     "league_base": 1.482,
     "home_advantage": 1.356
    },
@@ -21416,7 +21146,143 @@
  },
  {
   "date": "2027-01-09",
-  "kickoff_datetime": "2027-01-09T14:30:00Z",
+  "kickoff_datetime": "2027-01-09T17:30:00Z",
+  "round": 15,
+  "home": "Borussia M\u00f6nchengladbach",
+  "away": "Bayern M\u00fcnchen",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 1.33,
+   "goals_against": 2.5,
+   "xg_for": 1.45,
+   "xg_against": 1.78,
+   "xg_diff_per_game": -0.33,
+   "finishing_delta": -0.12,
+   "points": 4,
+   "ppg": 0.67,
+   "form": "LLLLWD",
+   "possession_pct": 43.2
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 3.67,
+   "goals_against": 1.17,
+   "xg_for": 3.69,
+   "xg_against": 1.0,
+   "xg_diff_per_game": 2.69,
+   "finishing_delta": -0.02,
+   "points": 14,
+   "ppg": 2.33,
+   "form": "WWDWWD",
+   "possession_pct": 64.0
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.239,
+  "pred_xg_away": 3.203,
+  "win_home_pct": 10.8,
+  "draw_pct": 13.9,
+  "win_away_pct": 75.3,
+  "xpts_home": 0.46,
+  "xpts_away": 2.4,
+  "most_likely_scoreline": [
+   1,
+   3
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    3,
+    7.99
+   ],
+   [
+    1,
+    2,
+    7.49
+   ],
+   [
+    0,
+    3,
+    6.45
+   ],
+   [
+    1,
+    4,
+    6.4
+   ],
+   [
+    0,
+    2,
+    6.04
+   ]
+  ],
+  "over_2_5_pct": 82.0,
+  "btts_pct": 68.5,
+  "reasoning": {
+   "thesis": "Bayern M\u00fcnchen should win comfortably. The model has them 1.96 goals clear of Borussia M\u00f6nchengladbach, a 75% win probability. Bayern M\u00fcnchen are creating +2.69 xG per game more than they concede over their last 6, the profile of a side controlling matches. Projected 1.24-3.20 on expected goals, with 1-3 the single most likely scoreline at 8.0%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 6.8,
+    "effective_matches_away": 6.8
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Borussia M\u00f6nchengladbach attack",
+     "detail": "modest (0.87x league average)",
+     "delta_goals": -0.197
+    },
+    {
+     "side": "home",
+     "label": "Bayern M\u00fcnchen defence",
+     "detail": "excellent (0.71x league average conceded)",
+     "delta_goals": -0.372
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.325
+    },
+    {
+     "side": "away",
+     "label": "Bayern M\u00fcnchen attack",
+     "detail": "excellent (1.86x league average)",
+     "delta_goals": 1.268
+    },
+    {
+     "side": "away",
+     "label": "Borussia M\u00f6nchengladbach defence",
+     "detail": "leaky (1.16x league average conceded)",
+     "delta_goals": 0.454
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 0.867,
+    "home_defence": 1.165,
+    "away_attack": 1.856,
+    "away_defence": 0.711,
+    "league_base": 1.482,
+    "home_advantage": 1.356
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Enzo Leopold"
+    ],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2027-01-10",
+  "kickoff_datetime": "2027-01-10T14:30:00Z",
   "round": 15,
   "home": "Werder Bremen",
   "away": "Union Berlin",
@@ -21547,6 +21413,274 @@
     "away_missing": [
      "Andrik Markgraf"
     ]
+   }
+  }
+ },
+ {
+  "date": "2027-01-10",
+  "kickoff_datetime": "2027-01-10T16:30:00Z",
+  "round": 15,
+  "home": "Hamburger SV",
+  "away": "Bayer Leverkusen",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 1.17,
+   "goals_against": 2.0,
+   "xg_for": 1.13,
+   "xg_against": 1.66,
+   "xg_diff_per_game": -0.53,
+   "finishing_delta": 0.03,
+   "points": 9,
+   "ppg": 1.5,
+   "form": "LWWWLL",
+   "possession_pct": 37.3
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 2.0,
+   "goals_against": 2.17,
+   "xg_for": 1.75,
+   "xg_against": 2.02,
+   "xg_diff_per_game": -0.27,
+   "finishing_delta": 0.25,
+   "points": 10,
+   "ppg": 1.67,
+   "form": "DWWWLL",
+   "possession_pct": 56.2
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.448,
+  "pred_xg_away": 1.817,
+  "win_home_pct": 30.0,
+  "draw_pct": 24.5,
+  "win_away_pct": 45.5,
+  "xpts_home": 1.14,
+  "xpts_away": 1.61,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    10.91
+   ],
+   [
+    1,
+    2,
+    9.13
+   ],
+   [
+    2,
+    1,
+    7.28
+   ],
+   [
+    2,
+    2,
+    6.61
+   ],
+   [
+    0,
+    2,
+    6.3
+   ]
+  ],
+  "over_2_5_pct": 63.4,
+  "btts_pct": 64.9,
+  "reasoning": {
+   "thesis": "Bayer Leverkusen are marginal favourites, worth about 0.37 goals of edge and a 46% win probability -- a lean, not a call. Projected 1.45-1.82 on expected goals, with 1-1 the single most likely scoreline at 10.9%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 6.8,
+    "effective_matches_away": 6.8
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Hamburger SV attack",
+     "detail": "poor (0.71x league average)",
+     "delta_goals": -0.425
+    },
+    {
+     "side": "home",
+     "label": "Bayer Leverkusen defence",
+     "detail": "solid (1.01x league average conceded)",
+     "delta_goals": 0.012
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.381
+    },
+    {
+     "side": "away",
+     "label": "Bayer Leverkusen attack",
+     "detail": "strong (1.14x league average)",
+     "delta_goals": 0.208
+    },
+    {
+     "side": "away",
+     "label": "Hamburger SV defence",
+     "detail": "leaky (1.08x league average conceded)",
+     "delta_goals": 0.128
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 0.713,
+    "home_defence": 1.075,
+    "away_attack": 1.14,
+    "away_defence": 1.011,
+    "league_base": 1.482,
+    "home_advantage": 1.356
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2027-01-12",
+  "kickoff_datetime": "2027-01-12T17:30:00Z",
+  "round": 16,
+  "home": "RB Leipzig",
+  "away": "VfB Stuttgart",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 3.0,
+   "goals_against": 1.33,
+   "xg_for": 2.24,
+   "xg_against": 1.58,
+   "xg_diff_per_game": 0.66,
+   "finishing_delta": 0.76,
+   "points": 12,
+   "ppg": 2.0,
+   "form": "WLWLWW",
+   "possession_pct": 52.2
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 1.5,
+   "goals_against": 1.5,
+   "xg_for": 1.92,
+   "xg_against": 1.96,
+   "xg_diff_per_game": -0.04,
+   "finishing_delta": -0.42,
+   "points": 6,
+   "ppg": 1.0,
+   "form": "LLWLLW",
+   "possession_pct": 55.7
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 2.899,
+  "pred_xg_away": 1.525,
+  "win_home_pct": 65.4,
+  "draw_pct": 17.1,
+  "win_away_pct": 17.5,
+  "xpts_home": 2.13,
+  "xpts_away": 0.7,
+  "most_likely_scoreline": [
+   2,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    2,
+    1,
+    7.68
+   ],
+   [
+    3,
+    1,
+    7.42
+   ],
+   [
+    2,
+    2,
+    5.86
+   ],
+   [
+    1,
+    1,
+    5.75
+   ],
+   [
+    3,
+    2,
+    5.66
+   ]
+  ],
+  "over_2_5_pct": 81.8,
+  "btts_pct": 74.4,
+  "reasoning": {
+   "thesis": "RB Leipzig should win comfortably. The model has them 1.37 goals clear of VfB Stuttgart, a 65% win probability. RB Leipzig are scoring 0.76 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Projected 2.90-1.52 on expected goals, with 2-1 the single most likely scoreline at 7.7%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 6.8,
+    "effective_matches_away": 6.8
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "RB Leipzig attack",
+     "detail": "excellent (1.31x league average)",
+     "delta_goals": 0.46
+    },
+    {
+     "side": "home",
+     "label": "VfB Stuttgart defence",
+     "detail": "leaky (1.10x league average conceded)",
+     "delta_goals": 0.196
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.762
+    },
+    {
+     "side": "away",
+     "label": "VfB Stuttgart attack",
+     "detail": "strong (1.17x league average)",
+     "delta_goals": 0.255
+    },
+    {
+     "side": "away",
+     "label": "RB Leipzig defence",
+     "detail": "strong (0.88x league average conceded)",
+     "delta_goals": -0.212
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 1.311,
+    "home_defence": 0.878,
+    "away_attack": 1.172,
+    "away_defence": 1.101,
+    "league_base": 1.482,
+    "home_advantage": 1.356
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
    }
   }
  },
@@ -21826,80 +21960,80 @@
   "date": "2027-01-12",
   "kickoff_datetime": "2027-01-12T19:30:00Z",
   "round": 16,
-  "home": "Bayern M\u00fcnchen",
-  "away": "Bayer Leverkusen",
+  "home": "Mainz 05",
+  "away": "Hoffenheim",
   "status": "scheduled",
   "home_form": {
    "matches": 6,
-   "goals": 3.67,
-   "goals_against": 1.17,
-   "xg_for": 3.69,
-   "xg_against": 1.0,
-   "xg_diff_per_game": 2.69,
-   "finishing_delta": -0.02,
-   "points": 14,
-   "ppg": 2.33,
-   "form": "WWDWWD",
-   "possession_pct": 64.0
+   "goals": 2.0,
+   "goals_against": 2.83,
+   "xg_for": 1.99,
+   "xg_against": 1.82,
+   "xg_diff_per_game": 0.18,
+   "finishing_delta": 0.01,
+   "points": 6,
+   "ppg": 1.0,
+   "form": "LWLWLL",
+   "possession_pct": 51.3
   },
   "away_form": {
    "matches": 6,
-   "goals": 2.0,
-   "goals_against": 2.17,
-   "xg_for": 1.75,
-   "xg_against": 2.02,
-   "xg_diff_per_game": -0.27,
-   "finishing_delta": 0.25,
-   "points": 10,
-   "ppg": 1.67,
-   "form": "DWWWLL",
-   "possession_pct": 56.2
+   "goals": 1.67,
+   "goals_against": 1.67,
+   "xg_for": 1.91,
+   "xg_against": 1.05,
+   "xg_diff_per_game": 0.86,
+   "finishing_delta": -0.24,
+   "points": 9,
+   "ppg": 1.5,
+   "form": "WLLWWL",
+   "possession_pct": 54.3
   },
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 3.77,
-  "pred_xg_away": 1.201,
-  "win_home_pct": 82.5,
-  "draw_pct": 10.3,
-  "win_away_pct": 7.1,
-  "xpts_home": 2.58,
-  "xpts_away": 0.32,
+  "pred_xg_home": 2.069,
+  "pred_xg_away": 1.725,
+  "win_home_pct": 45.6,
+  "draw_pct": 22.4,
+  "win_away_pct": 32.0,
+  "xpts_home": 1.59,
+  "xpts_away": 1.18,
   "most_likely_scoreline": [
-   3,
+   1,
    1
   ],
   "top_5_scorelines": [
    [
-    3,
     1,
-    7.45
-   ],
-   [
-    4,
     1,
-    7.02
-   ],
-   [
-    3,
-    0,
-    6.21
+    8.72
    ],
    [
     2,
     1,
-    5.93
+    8.31
    ],
    [
-    4,
-    0,
-    5.85
+    2,
+    2,
+    7.17
+   ],
+   [
+    1,
+    2,
+    6.93
+   ],
+   [
+    3,
+    1,
+    5.73
    ]
   ],
-  "over_2_5_pct": 87.3,
-  "btts_pct": 68.6,
+  "over_2_5_pct": 73.0,
+  "btts_pct": 72.5,
   "reasoning": {
-   "thesis": "Bayern M\u00fcnchen should win comfortably. The model has them 2.57 goals clear of Bayer Leverkusen, a 82% win probability. Bayern M\u00fcnchen are creating +2.69 xG per game more than they concede over their last 6, the profile of a side controlling matches. Projected 3.77-1.20 on expected goals, with 3-1 the single most likely scoreline at 7.5%.",
+   "thesis": "Mainz 05 are marginal favourites, worth about 0.34 goals of edge and a 46% win probability -- a lean, not a call. Hoffenheim are creating +0.86 xG per game more than they concede over their last 6, the profile of a side controlling matches. Projected 2.07-1.73 on expected goals, with 1-1 the single most likely scoreline at 8.7%.",
    "confidence": {
     "level": "medium",
     "note": "ratings are mostly driven by this season, with last season still contributing",
@@ -21909,40 +22043,40 @@
    "factors": [
     {
      "side": "home",
-     "label": "Bayern M\u00fcnchen attack",
-     "detail": "excellent (1.86x league average)",
-     "delta_goals": 1.268
+     "label": "Mainz 05 attack",
+     "detail": "solid (1.08x league average)",
+     "delta_goals": 0.125
     },
     {
      "side": "home",
-     "label": "Bayer Leverkusen defence",
-     "detail": "solid (1.01x league average conceded)",
-     "delta_goals": 0.03
+     "label": "Hoffenheim defence",
+     "detail": "solid (0.95x league average conceded)",
+     "delta_goals": -0.082
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.991
+     "delta_goals": 0.544
     },
     {
      "side": "away",
-     "label": "Bayer Leverkusen attack",
-     "detail": "strong (1.14x league average)",
-     "delta_goals": 0.208
+     "label": "Hoffenheim attack",
+     "detail": "solid (1.06x league average)",
+     "delta_goals": 0.088
     },
     {
      "side": "away",
-     "label": "Bayern M\u00fcnchen defence",
-     "detail": "excellent (0.71x league average conceded)",
-     "delta_goals": -0.489
+     "label": "Mainz 05 defence",
+     "detail": "leaky (1.10x league average conceded)",
+     "delta_goals": 0.155
     }
    ],
    "rating_snapshot": {
-    "home_attack": 1.856,
-    "home_defence": 0.711,
-    "away_attack": 1.14,
-    "away_defence": 1.011,
+    "home_attack": 1.085,
+    "home_defence": 1.099,
+    "away_attack": 1.059,
+    "away_defence": 0.949,
     "league_base": 1.482,
     "home_advantage": 1.356
    },
@@ -21957,8 +22091,8 @@
   }
  },
  {
-  "date": "2027-01-12",
-  "kickoff_datetime": "2027-01-12T19:30:00Z",
+  "date": "2027-01-13",
+  "kickoff_datetime": "2027-01-13T17:30:00Z",
   "round": 16,
   "home": "Elversberg",
   "away": "Eintracht Frankfurt",
@@ -22091,8 +22225,142 @@
   }
  },
  {
-  "date": "2027-01-12",
-  "kickoff_datetime": "2027-01-12T19:30:00Z",
+  "date": "2027-01-13",
+  "kickoff_datetime": "2027-01-13T19:30:00Z",
+  "round": 16,
+  "home": "Bayern M\u00fcnchen",
+  "away": "Bayer Leverkusen",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 3.67,
+   "goals_against": 1.17,
+   "xg_for": 3.69,
+   "xg_against": 1.0,
+   "xg_diff_per_game": 2.69,
+   "finishing_delta": -0.02,
+   "points": 14,
+   "ppg": 2.33,
+   "form": "WWDWWD",
+   "possession_pct": 64.0
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 2.0,
+   "goals_against": 2.17,
+   "xg_for": 1.75,
+   "xg_against": 2.02,
+   "xg_diff_per_game": -0.27,
+   "finishing_delta": 0.25,
+   "points": 10,
+   "ppg": 1.67,
+   "form": "DWWWLL",
+   "possession_pct": 56.2
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 3.77,
+  "pred_xg_away": 1.201,
+  "win_home_pct": 82.5,
+  "draw_pct": 10.3,
+  "win_away_pct": 7.1,
+  "xpts_home": 2.58,
+  "xpts_away": 0.32,
+  "most_likely_scoreline": [
+   3,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    3,
+    1,
+    7.45
+   ],
+   [
+    4,
+    1,
+    7.02
+   ],
+   [
+    3,
+    0,
+    6.21
+   ],
+   [
+    2,
+    1,
+    5.93
+   ],
+   [
+    4,
+    0,
+    5.85
+   ]
+  ],
+  "over_2_5_pct": 87.3,
+  "btts_pct": 68.6,
+  "reasoning": {
+   "thesis": "Bayern M\u00fcnchen should win comfortably. The model has them 2.57 goals clear of Bayer Leverkusen, a 82% win probability. Bayern M\u00fcnchen are creating +2.69 xG per game more than they concede over their last 6, the profile of a side controlling matches. Projected 3.77-1.20 on expected goals, with 3-1 the single most likely scoreline at 7.5%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 6.8,
+    "effective_matches_away": 6.8
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Bayern M\u00fcnchen attack",
+     "detail": "excellent (1.86x league average)",
+     "delta_goals": 1.268
+    },
+    {
+     "side": "home",
+     "label": "Bayer Leverkusen defence",
+     "detail": "solid (1.01x league average conceded)",
+     "delta_goals": 0.03
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.991
+    },
+    {
+     "side": "away",
+     "label": "Bayer Leverkusen attack",
+     "detail": "strong (1.14x league average)",
+     "delta_goals": 0.208
+    },
+    {
+     "side": "away",
+     "label": "Bayern M\u00fcnchen defence",
+     "detail": "excellent (0.71x league average conceded)",
+     "delta_goals": -0.489
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 1.856,
+    "home_defence": 0.711,
+    "away_attack": 1.14,
+    "away_defence": 1.011,
+    "league_base": 1.482,
+    "home_advantage": 1.356
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2027-01-13",
+  "kickoff_datetime": "2027-01-13T19:30:00Z",
   "round": 16,
   "home": "Freiburg",
   "away": "Hamburger SV",
@@ -22225,410 +22493,8 @@
   }
  },
  {
-  "date": "2027-01-12",
-  "kickoff_datetime": "2027-01-12T19:30:00Z",
-  "round": 16,
-  "home": "Mainz 05",
-  "away": "Hoffenheim",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 2.0,
-   "goals_against": 2.83,
-   "xg_for": 1.99,
-   "xg_against": 1.82,
-   "xg_diff_per_game": 0.18,
-   "finishing_delta": 0.01,
-   "points": 6,
-   "ppg": 1.0,
-   "form": "LWLWLL",
-   "possession_pct": 51.3
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 1.67,
-   "goals_against": 1.67,
-   "xg_for": 1.91,
-   "xg_against": 1.05,
-   "xg_diff_per_game": 0.86,
-   "finishing_delta": -0.24,
-   "points": 9,
-   "ppg": 1.5,
-   "form": "WLLWWL",
-   "possession_pct": 54.3
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 2.069,
-  "pred_xg_away": 1.725,
-  "win_home_pct": 45.6,
-  "draw_pct": 22.4,
-  "win_away_pct": 32.0,
-  "xpts_home": 1.59,
-  "xpts_away": 1.18,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    8.72
-   ],
-   [
-    2,
-    1,
-    8.31
-   ],
-   [
-    2,
-    2,
-    7.17
-   ],
-   [
-    1,
-    2,
-    6.93
-   ],
-   [
-    3,
-    1,
-    5.73
-   ]
-  ],
-  "over_2_5_pct": 73.0,
-  "btts_pct": 72.5,
-  "reasoning": {
-   "thesis": "Mainz 05 are marginal favourites, worth about 0.34 goals of edge and a 46% win probability -- a lean, not a call. Hoffenheim are creating +0.86 xG per game more than they concede over their last 6, the profile of a side controlling matches. Projected 2.07-1.73 on expected goals, with 1-1 the single most likely scoreline at 8.7%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 6.8,
-    "effective_matches_away": 6.8
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Mainz 05 attack",
-     "detail": "solid (1.08x league average)",
-     "delta_goals": 0.125
-    },
-    {
-     "side": "home",
-     "label": "Hoffenheim defence",
-     "detail": "solid (0.95x league average conceded)",
-     "delta_goals": -0.082
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.544
-    },
-    {
-     "side": "away",
-     "label": "Hoffenheim attack",
-     "detail": "solid (1.06x league average)",
-     "delta_goals": 0.088
-    },
-    {
-     "side": "away",
-     "label": "Mainz 05 defence",
-     "detail": "leaky (1.10x league average conceded)",
-     "delta_goals": 0.155
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 1.085,
-    "home_defence": 1.099,
-    "away_attack": 1.059,
-    "away_defence": 0.949,
-    "league_base": 1.482,
-    "home_advantage": 1.356
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2027-01-12",
-  "kickoff_datetime": "2027-01-12T19:30:00Z",
-  "round": 16,
-  "home": "RB Leipzig",
-  "away": "VfB Stuttgart",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 3.0,
-   "goals_against": 1.33,
-   "xg_for": 2.24,
-   "xg_against": 1.58,
-   "xg_diff_per_game": 0.66,
-   "finishing_delta": 0.76,
-   "points": 12,
-   "ppg": 2.0,
-   "form": "WLWLWW",
-   "possession_pct": 52.2
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 1.5,
-   "goals_against": 1.5,
-   "xg_for": 1.92,
-   "xg_against": 1.96,
-   "xg_diff_per_game": -0.04,
-   "finishing_delta": -0.42,
-   "points": 6,
-   "ppg": 1.0,
-   "form": "LLWLLW",
-   "possession_pct": 55.7
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 2.899,
-  "pred_xg_away": 1.525,
-  "win_home_pct": 65.4,
-  "draw_pct": 17.1,
-  "win_away_pct": 17.5,
-  "xpts_home": 2.13,
-  "xpts_away": 0.7,
-  "most_likely_scoreline": [
-   2,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    2,
-    1,
-    7.68
-   ],
-   [
-    3,
-    1,
-    7.42
-   ],
-   [
-    2,
-    2,
-    5.86
-   ],
-   [
-    1,
-    1,
-    5.75
-   ],
-   [
-    3,
-    2,
-    5.66
-   ]
-  ],
-  "over_2_5_pct": 81.8,
-  "btts_pct": 74.4,
-  "reasoning": {
-   "thesis": "RB Leipzig should win comfortably. The model has them 1.37 goals clear of VfB Stuttgart, a 65% win probability. RB Leipzig are scoring 0.76 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Projected 2.90-1.52 on expected goals, with 2-1 the single most likely scoreline at 7.7%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 6.8,
-    "effective_matches_away": 6.8
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "RB Leipzig attack",
-     "detail": "excellent (1.31x league average)",
-     "delta_goals": 0.46
-    },
-    {
-     "side": "home",
-     "label": "VfB Stuttgart defence",
-     "detail": "leaky (1.10x league average conceded)",
-     "delta_goals": 0.196
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.762
-    },
-    {
-     "side": "away",
-     "label": "VfB Stuttgart attack",
-     "detail": "strong (1.17x league average)",
-     "delta_goals": 0.255
-    },
-    {
-     "side": "away",
-     "label": "RB Leipzig defence",
-     "detail": "strong (0.88x league average conceded)",
-     "delta_goals": -0.212
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 1.311,
-    "home_defence": 0.878,
-    "away_attack": 1.172,
-    "away_defence": 1.101,
-    "league_base": 1.482,
-    "home_advantage": 1.356
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2027-01-12",
-  "kickoff_datetime": "2027-01-12T19:30:00Z",
-  "round": 16,
-  "home": "Schalke 04",
-  "away": "Werder Bremen",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 0.67,
-   "goals_against": 1.0,
-   "xg_for": 0.87,
-   "xg_against": 1.66,
-   "xg_diff_per_game": -0.79,
-   "finishing_delta": -0.2,
-   "points": 5,
-   "ppg": 0.83,
-   "form": "WDLLDL",
-   "possession_pct": 41.3
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 2.17,
-   "goals_against": 1.5,
-   "xg_for": 1.78,
-   "xg_against": 1.49,
-   "xg_diff_per_game": 0.29,
-   "finishing_delta": 0.39,
-   "points": 12,
-   "ppg": 2.0,
-   "form": "DWDDWW",
-   "possession_pct": 49.3
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.194,
-  "pred_xg_away": 1.421,
-  "win_home_pct": 30.6,
-  "draw_pct": 28.2,
-  "win_away_pct": 41.2,
-  "xpts_home": 1.2,
-  "xpts_away": 1.52,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    13.48
-   ],
-   [
-    0,
-    1,
-    9.34
-   ],
-   [
-    1,
-    2,
-    8.82
-   ],
-   [
-    0,
-    0,
-    8.38
-   ],
-   [
-    1,
-    0,
-    7.67
-   ]
-  ],
-  "over_2_5_pct": 48.5,
-  "btts_pct": 53.9,
-  "reasoning": {
-   "thesis": "Werder Bremen are marginal favourites, worth about 0.23 goals of edge and a 41% win probability -- a lean, not a call. Schalke 04 are being outcreated by 0.79 xG per game over their last 6, which is why the model is cautious regardless of recent results. Projected 1.19-1.42 on expected goals, with 1-1 the single most likely scoreline at 13.5%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 6.8,
-    "effective_matches_away": 6.8
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Schalke 04 attack",
-     "detail": "poor (0.61x league average)",
-     "delta_goals": -0.575
-    },
-    {
-     "side": "home",
-     "label": "Werder Bremen defence",
-     "detail": "solid (0.97x league average conceded)",
-     "delta_goals": -0.026
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.314
-    },
-    {
-     "side": "away",
-     "label": "Werder Bremen attack",
-     "detail": "solid (0.98x league average)",
-     "delta_goals": -0.036
-    },
-    {
-     "side": "away",
-     "label": "Schalke 04 defence",
-     "detail": "solid (0.98x league average conceded)",
-     "delta_goals": -0.024
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 0.612,
-    "home_defence": 0.983,
-    "away_attack": 0.976,
-    "away_defence": 0.971,
-    "league_base": 1.482,
-    "home_advantage": 1.356
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2027-01-12",
-  "kickoff_datetime": "2027-01-12T19:30:00Z",
+  "date": "2027-01-13",
+  "kickoff_datetime": "2027-01-13T19:30:00Z",
   "round": 16,
   "home": "Union Berlin",
   "away": "Paderborn",
@@ -22763,26 +22629,13 @@
   }
  },
  {
-  "date": "2027-01-16",
-  "kickoff_datetime": "2027-01-16T14:30:00Z",
-  "round": 17,
-  "home": "Bayer Leverkusen",
-  "away": "Schalke 04",
+  "date": "2027-01-14",
+  "kickoff_datetime": "2027-01-14T19:30:00Z",
+  "round": 16,
+  "home": "Schalke 04",
+  "away": "Werder Bremen",
   "status": "scheduled",
   "home_form": {
-   "matches": 6,
-   "goals": 2.0,
-   "goals_against": 2.17,
-   "xg_for": 1.75,
-   "xg_against": 2.02,
-   "xg_diff_per_game": -0.27,
-   "finishing_delta": 0.25,
-   "points": 10,
-   "ppg": 1.67,
-   "form": "DWWWLL",
-   "possession_pct": 56.2
-  },
-  "away_form": {
    "matches": 6,
    "goals": 0.67,
    "goals_against": 1.0,
@@ -22795,51 +22648,64 @@
    "form": "WDLLDL",
    "possession_pct": 41.3
   },
+  "away_form": {
+   "matches": 6,
+   "goals": 2.17,
+   "goals_against": 1.5,
+   "xg_for": 1.78,
+   "xg_against": 1.49,
+   "xg_diff_per_game": 0.29,
+   "finishing_delta": 0.39,
+   "points": 12,
+   "ppg": 2.0,
+   "form": "DWDDWW",
+   "possession_pct": 49.3
+  },
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 2.254,
-  "pred_xg_away": 0.916,
-  "win_home_pct": 66.8,
-  "draw_pct": 20.0,
-  "win_away_pct": 13.1,
-  "xpts_home": 2.21,
-  "xpts_away": 0.59,
+  "pred_xg_home": 1.194,
+  "pred_xg_away": 1.421,
+  "win_home_pct": 30.6,
+  "draw_pct": 28.2,
+  "win_away_pct": 41.2,
+  "xpts_home": 1.2,
+  "xpts_away": 1.52,
   "most_likely_scoreline": [
-   2,
-   0
+   1,
+   1
   ],
   "top_5_scorelines": [
    [
+    1,
+    1,
+    13.48
+   ],
+   [
+    0,
+    1,
+    9.34
+   ],
+   [
+    1,
     2,
+    8.82
+   ],
+   [
     0,
-    10.67
-   ],
-   [
-    2,
-    1,
-    9.77
-   ],
-   [
-    1,
-    1,
-    9.42
+    0,
+    8.38
    ],
    [
     1,
     0,
-    8.72
-   ],
-   [
-    3,
-    0,
-    8.01
+    7.67
    ]
   ],
-  "over_2_5_pct": 61.4,
-  "btts_pct": 54.4,
+  "over_2_5_pct": 48.5,
+  "btts_pct": 53.9,
   "reasoning": {
-   "thesis": "Bayer Leverkusen should win comfortably. The model has them 1.34 goals clear of Schalke 04, a 67% win probability. Schalke 04 are being outcreated by 0.79 xG per game over their last 6, which is why the model is cautious regardless of recent results. Projected 2.25-0.92 on expected goals, with 2-0 the single most likely scoreline at 10.7%.",
+   "thesis": "Werder Bremen are marginal favourites, worth about 0.23 goals of edge and a 41% win probability -- a lean, not a call. Schalke 04 are being outcreated by 0.79 xG per game over their last 6, which is why the model is cautious regardless of recent results. Projected 1.19-1.42 on expected goals, with 1-1 the single most likely scoreline at 13.5%.",
    "confidence": {
     "level": "medium",
     "note": "ratings are mostly driven by this season, with last season still contributing",
@@ -22849,40 +22715,174 @@
    "factors": [
     {
      "side": "home",
-     "label": "Bayer Leverkusen attack",
-     "detail": "strong (1.14x league average)",
-     "delta_goals": 0.208
-    },
-    {
-     "side": "home",
-     "label": "Schalke 04 defence",
-     "detail": "solid (0.98x league average conceded)",
-     "delta_goals": -0.028
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.592
-    },
-    {
-     "side": "away",
      "label": "Schalke 04 attack",
      "detail": "poor (0.61x league average)",
      "delta_goals": -0.575
     },
     {
+     "side": "home",
+     "label": "Werder Bremen defence",
+     "detail": "solid (0.97x league average conceded)",
+     "delta_goals": -0.026
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.314
+    },
+    {
      "side": "away",
-     "label": "Bayer Leverkusen defence",
-     "detail": "solid (1.01x league average conceded)",
-     "delta_goals": 0.01
+     "label": "Werder Bremen attack",
+     "detail": "solid (0.98x league average)",
+     "delta_goals": -0.036
+    },
+    {
+     "side": "away",
+     "label": "Schalke 04 defence",
+     "detail": "solid (0.98x league average conceded)",
+     "delta_goals": -0.024
     }
    ],
    "rating_snapshot": {
-    "home_attack": 1.14,
-    "home_defence": 1.011,
-    "away_attack": 0.612,
-    "away_defence": 0.983,
+    "home_attack": 0.612,
+    "home_defence": 0.983,
+    "away_attack": 0.976,
+    "away_defence": 0.971,
+    "league_base": 1.482,
+    "home_advantage": 1.356
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2027-01-15",
+  "kickoff_datetime": "2027-01-15T19:30:00Z",
+  "round": 17,
+  "home": "VfB Stuttgart",
+  "away": "Mainz 05",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 1.5,
+   "goals_against": 1.5,
+   "xg_for": 1.92,
+   "xg_against": 1.96,
+   "xg_diff_per_game": -0.04,
+   "finishing_delta": -0.42,
+   "points": 6,
+   "ppg": 1.0,
+   "form": "LLWLLW",
+   "possession_pct": 55.7
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 2.0,
+   "goals_against": 2.83,
+   "xg_for": 1.99,
+   "xg_against": 1.82,
+   "xg_diff_per_game": 0.18,
+   "finishing_delta": 0.01,
+   "points": 6,
+   "ppg": 1.0,
+   "form": "LWLWLL",
+   "possession_pct": 51.3
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 2.589,
+  "pred_xg_away": 1.769,
+  "win_home_pct": 55.2,
+  "draw_pct": 19.5,
+  "win_away_pct": 25.4,
+  "xpts_home": 1.85,
+  "xpts_away": 0.96,
+  "most_likely_scoreline": [
+   2,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    2,
+    1,
+    7.59
+   ],
+   [
+    2,
+    2,
+    6.72
+   ],
+   [
+    3,
+    1,
+    6.55
+   ],
+   [
+    1,
+    1,
+    6.37
+   ],
+   [
+    3,
+    2,
+    5.79
+   ]
+  ],
+  "over_2_5_pct": 81.0,
+  "btts_pct": 77.2,
+  "reasoning": {
+   "thesis": "VfB Stuttgart are clear favourites, projected 0.82 goals better than Mainz 05 on the day, which prices the win at 55%. Projected 2.59-1.77 on expected goals, with 2-1 the single most likely scoreline at 7.6%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 6.8,
+    "effective_matches_away": 6.8
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "VfB Stuttgart attack",
+     "detail": "strong (1.17x league average)",
+     "delta_goals": 0.255
+    },
+    {
+     "side": "home",
+     "label": "Mainz 05 defence",
+     "detail": "leaky (1.10x league average conceded)",
+     "delta_goals": 0.171
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.68
+    },
+    {
+     "side": "away",
+     "label": "Mainz 05 attack",
+     "detail": "solid (1.08x league average)",
+     "delta_goals": 0.125
+    },
+    {
+     "side": "away",
+     "label": "VfB Stuttgart defence",
+     "detail": "leaky (1.10x league average conceded)",
+     "delta_goals": 0.162
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 1.172,
+    "home_defence": 1.101,
+    "away_attack": 1.085,
+    "away_defence": 1.099,
     "league_base": 1.482,
     "home_advantage": 1.356
    },
@@ -23167,140 +23167,6 @@
     "away_missing": [
      "Andrik Markgraf"
     ]
-   }
-  }
- },
- {
-  "date": "2027-01-16",
-  "kickoff_datetime": "2027-01-16T14:30:00Z",
-  "round": 17,
-  "home": "Eintracht Frankfurt",
-  "away": "Bayern M\u00fcnchen",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 1.5,
-   "goals_against": 1.83,
-   "xg_for": 1.51,
-   "xg_against": 1.89,
-   "xg_diff_per_game": -0.38,
-   "finishing_delta": -0.01,
-   "points": 10,
-   "ppg": 1.67,
-   "form": "WDLWLW",
-   "possession_pct": 48.3
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 3.67,
-   "goals_against": 1.17,
-   "xg_for": 3.69,
-   "xg_against": 1.0,
-   "xg_diff_per_game": 2.69,
-   "finishing_delta": -0.02,
-   "points": 14,
-   "ppg": 2.33,
-   "form": "WWDWWD",
-   "possession_pct": 64.0
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.344,
-  "pred_xg_away": 2.977,
-  "win_home_pct": 14.0,
-  "draw_pct": 15.9,
-  "win_away_pct": 70.1,
-  "xpts_home": 0.58,
-  "xpts_away": 2.26,
-  "most_likely_scoreline": [
-   1,
-   2
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    2,
-    7.91
-   ],
-   [
-    1,
-    3,
-    7.85
-   ],
-   [
-    0,
-    2,
-    5.89
-   ],
-   [
-    1,
-    4,
-    5.85
-   ],
-   [
-    0,
-    3,
-    5.84
-   ]
-  ],
-  "over_2_5_pct": 80.5,
-  "btts_pct": 70.6,
-  "reasoning": {
-   "thesis": "Bayern M\u00fcnchen should win comfortably. The model has them 1.63 goals clear of Eintracht Frankfurt, a 70% win probability. Bayern M\u00fcnchen are creating +2.69 xG per game more than they concede over their last 6, the profile of a side controlling matches. Projected 1.34-2.98 on expected goals, with 1-2 the single most likely scoreline at 7.9%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 6.8,
-    "effective_matches_away": 6.8
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Eintracht Frankfurt attack",
-     "detail": "modest (0.94x league average)",
-     "delta_goals": -0.087
-    },
-    {
-     "side": "home",
-     "label": "Bayern M\u00fcnchen defence",
-     "detail": "excellent (0.71x league average conceded)",
-     "delta_goals": -0.404
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.353
-    },
-    {
-     "side": "away",
-     "label": "Bayern M\u00fcnchen attack",
-     "detail": "excellent (1.86x league average)",
-     "delta_goals": 1.268
-    },
-    {
-     "side": "away",
-     "label": "Eintracht Frankfurt defence",
-     "detail": "leaky (1.08x league average conceded)",
-     "delta_goals": 0.228
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 0.941,
-    "home_defence": 1.083,
-    "away_attack": 1.856,
-    "away_defence": 0.711,
-    "league_base": 1.482,
-    "home_advantage": 1.356
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
-    "away_missing": []
    }
   }
  },
@@ -23708,82 +23574,82 @@
  },
  {
   "date": "2027-01-16",
-  "kickoff_datetime": "2027-01-16T14:30:00Z",
+  "kickoff_datetime": "2027-01-16T17:30:00Z",
   "round": 17,
-  "home": "VfB Stuttgart",
-  "away": "Mainz 05",
+  "home": "Eintracht Frankfurt",
+  "away": "Bayern M\u00fcnchen",
   "status": "scheduled",
   "home_form": {
    "matches": 6,
    "goals": 1.5,
-   "goals_against": 1.5,
-   "xg_for": 1.92,
-   "xg_against": 1.96,
-   "xg_diff_per_game": -0.04,
-   "finishing_delta": -0.42,
-   "points": 6,
-   "ppg": 1.0,
-   "form": "LLWLLW",
-   "possession_pct": 55.7
+   "goals_against": 1.83,
+   "xg_for": 1.51,
+   "xg_against": 1.89,
+   "xg_diff_per_game": -0.38,
+   "finishing_delta": -0.01,
+   "points": 10,
+   "ppg": 1.67,
+   "form": "WDLWLW",
+   "possession_pct": 48.3
   },
   "away_form": {
    "matches": 6,
-   "goals": 2.0,
-   "goals_against": 2.83,
-   "xg_for": 1.99,
-   "xg_against": 1.82,
-   "xg_diff_per_game": 0.18,
-   "finishing_delta": 0.01,
-   "points": 6,
-   "ppg": 1.0,
-   "form": "LWLWLL",
-   "possession_pct": 51.3
+   "goals": 3.67,
+   "goals_against": 1.17,
+   "xg_for": 3.69,
+   "xg_against": 1.0,
+   "xg_diff_per_game": 2.69,
+   "finishing_delta": -0.02,
+   "points": 14,
+   "ppg": 2.33,
+   "form": "WWDWWD",
+   "possession_pct": 64.0
   },
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 2.589,
-  "pred_xg_away": 1.769,
-  "win_home_pct": 55.2,
-  "draw_pct": 19.5,
-  "win_away_pct": 25.4,
-  "xpts_home": 1.85,
-  "xpts_away": 0.96,
+  "pred_xg_home": 1.344,
+  "pred_xg_away": 2.977,
+  "win_home_pct": 14.0,
+  "draw_pct": 15.9,
+  "win_away_pct": 70.1,
+  "xpts_home": 0.58,
+  "xpts_away": 2.26,
   "most_likely_scoreline": [
-   2,
-   1
+   1,
+   2
   ],
   "top_5_scorelines": [
    [
-    2,
     1,
-    7.59
+    2,
+    7.91
    ],
    [
-    2,
-    2,
-    6.72
-   ],
-   [
+    1,
     3,
-    1,
-    6.55
+    7.85
    ],
    [
-    1,
-    1,
-    6.37
-   ],
-   [
-    3,
+    0,
     2,
-    5.79
+    5.89
+   ],
+   [
+    1,
+    4,
+    5.85
+   ],
+   [
+    0,
+    3,
+    5.84
    ]
   ],
-  "over_2_5_pct": 81.0,
-  "btts_pct": 77.2,
+  "over_2_5_pct": 80.5,
+  "btts_pct": 70.6,
   "reasoning": {
-   "thesis": "VfB Stuttgart are clear favourites, projected 0.82 goals better than Mainz 05 on the day, which prices the win at 55%. Projected 2.59-1.77 on expected goals, with 2-1 the single most likely scoreline at 7.6%.",
+   "thesis": "Bayern M\u00fcnchen should win comfortably. The model has them 1.63 goals clear of Eintracht Frankfurt, a 70% win probability. Bayern M\u00fcnchen are creating +2.69 xG per game more than they concede over their last 6, the profile of a side controlling matches. Projected 1.34-2.98 on expected goals, with 1-2 the single most likely scoreline at 7.9%.",
    "confidence": {
     "level": "medium",
     "note": "ratings are mostly driven by this season, with last season still contributing",
@@ -23793,40 +23659,40 @@
    "factors": [
     {
      "side": "home",
-     "label": "VfB Stuttgart attack",
-     "detail": "strong (1.17x league average)",
-     "delta_goals": 0.255
+     "label": "Eintracht Frankfurt attack",
+     "detail": "modest (0.94x league average)",
+     "delta_goals": -0.087
     },
     {
      "side": "home",
-     "label": "Mainz 05 defence",
-     "detail": "leaky (1.10x league average conceded)",
-     "delta_goals": 0.171
+     "label": "Bayern M\u00fcnchen defence",
+     "detail": "excellent (0.71x league average conceded)",
+     "delta_goals": -0.404
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.68
+     "delta_goals": 0.353
     },
     {
      "side": "away",
-     "label": "Mainz 05 attack",
-     "detail": "solid (1.08x league average)",
-     "delta_goals": 0.125
+     "label": "Bayern M\u00fcnchen attack",
+     "detail": "excellent (1.86x league average)",
+     "delta_goals": 1.268
     },
     {
      "side": "away",
-     "label": "VfB Stuttgart defence",
-     "detail": "leaky (1.10x league average conceded)",
-     "delta_goals": 0.162
+     "label": "Eintracht Frankfurt defence",
+     "detail": "leaky (1.08x league average conceded)",
+     "delta_goals": 0.228
     }
    ],
    "rating_snapshot": {
-    "home_attack": 1.172,
-    "home_defence": 1.101,
-    "away_attack": 1.085,
-    "away_defence": 1.099,
+    "home_attack": 0.941,
+    "home_defence": 1.083,
+    "away_attack": 1.856,
+    "away_defence": 0.711,
     "league_base": 1.482,
     "home_advantage": 1.356
    },
@@ -23841,8 +23707,8 @@
   }
  },
  {
-  "date": "2027-01-16",
-  "kickoff_datetime": "2027-01-16T14:30:00Z",
+  "date": "2027-01-17",
+  "kickoff_datetime": "2027-01-17T14:30:00Z",
   "round": 17,
   "home": "Werder Bremen",
   "away": "Elversberg",
@@ -23975,11 +23841,11 @@
   }
  },
  {
-  "date": "2027-01-23",
-  "kickoff_datetime": "2027-01-23T14:30:00Z",
-  "round": 18,
+  "date": "2027-01-17",
+  "kickoff_datetime": "2027-01-17T16:30:00Z",
+  "round": 17,
   "home": "Bayer Leverkusen",
-  "away": "Elversberg",
+  "away": "Schalke 04",
   "status": "scheduled",
   "home_form": {
    "matches": 6,
@@ -23996,62 +23862,62 @@
   },
   "away_form": {
    "matches": 6,
-   "goals": 1.5,
-   "goals_against": 1.83,
-   "xg_for": 1.22,
-   "xg_against": 2.09,
-   "xg_diff_per_game": -0.87,
-   "finishing_delta": 0.28,
-   "points": 7,
-   "ppg": 1.17,
-   "form": "LDLWLW",
-   "possession_pct": 47.2
+   "goals": 0.67,
+   "goals_against": 1.0,
+   "xg_for": 0.87,
+   "xg_against": 1.66,
+   "xg_diff_per_game": -0.79,
+   "finishing_delta": -0.2,
+   "points": 5,
+   "ppg": 0.83,
+   "form": "WDLLDL",
+   "possession_pct": 41.3
   },
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 2.611,
-  "pred_xg_away": 1.321,
-  "win_home_pct": 64.5,
-  "draw_pct": 18.5,
-  "win_away_pct": 17.0,
-  "xpts_home": 2.12,
-  "xpts_away": 0.69,
+  "pred_xg_home": 2.254,
+  "pred_xg_away": 0.916,
+  "win_home_pct": 66.8,
+  "draw_pct": 20.0,
+  "win_away_pct": 13.1,
+  "xpts_home": 2.21,
+  "xpts_away": 0.59,
   "most_likely_scoreline": [
    2,
-   1
+   0
   ],
   "top_5_scorelines": [
    [
     2,
+    0,
+    10.67
+   ],
+   [
+    2,
     1,
-    8.83
+    9.77
+   ],
+   [
+    1,
+    1,
+    9.42
+   ],
+   [
+    1,
+    0,
+    8.72
    ],
    [
     3,
-    1,
-    7.68
-   ],
-   [
-    1,
-    1,
-    7.34
-   ],
-   [
-    2,
     0,
-    6.69
-   ],
-   [
-    2,
-    2,
-    5.83
+    8.01
    ]
   ],
-  "over_2_5_pct": 75.2,
-  "btts_pct": 68.5,
+  "over_2_5_pct": 61.4,
+  "btts_pct": 54.4,
   "reasoning": {
-   "thesis": "Bayer Leverkusen should win comfortably. The model has them 1.29 goals clear of Elversberg, a 64% win probability. Elversberg are being outcreated by 0.87 xG per game over their last 6, which is why the model is cautious regardless of recent results. Projected 2.61-1.32 on expected goals, with 2-1 the single most likely scoreline at 8.8%.",
+   "thesis": "Bayer Leverkusen should win comfortably. The model has them 1.34 goals clear of Schalke 04, a 67% win probability. Schalke 04 are being outcreated by 0.79 xG per game over their last 6, which is why the model is cautious regardless of recent results. Projected 2.25-0.92 on expected goals, with 2-0 the single most likely scoreline at 10.7%.",
    "confidence": {
     "level": "medium",
     "note": "ratings are mostly driven by this season, with last season still contributing",
@@ -24067,34 +23933,168 @@
     },
     {
      "side": "home",
-     "label": "Elversberg defence",
-     "detail": "leaky (1.14x league average conceded)",
-     "delta_goals": 0.235
+     "label": "Schalke 04 defence",
+     "detail": "solid (0.98x league average conceded)",
+     "delta_goals": -0.028
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.686
+     "delta_goals": 0.592
     },
     {
      "side": "away",
-     "label": "Elversberg attack",
-     "detail": "modest (0.88x league average)",
-     "delta_goals": -0.175
+     "label": "Schalke 04 attack",
+     "detail": "poor (0.61x league average)",
+     "delta_goals": -0.575
     },
     {
      "side": "away",
      "label": "Bayer Leverkusen defence",
      "detail": "solid (1.01x league average conceded)",
-     "delta_goals": 0.014
+     "delta_goals": 0.01
     }
    ],
    "rating_snapshot": {
     "home_attack": 1.14,
     "home_defence": 1.011,
-    "away_attack": 0.882,
-    "away_defence": 1.139,
+    "away_attack": 0.612,
+    "away_defence": 0.983,
+    "league_base": 1.482,
+    "home_advantage": 1.356
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2027-01-22",
+  "kickoff_datetime": "2027-01-22T19:30:00Z",
+  "round": 18,
+  "home": "Werder Bremen",
+  "away": "Freiburg",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 2.17,
+   "goals_against": 1.5,
+   "xg_for": 1.78,
+   "xg_against": 1.49,
+   "xg_diff_per_game": 0.29,
+   "finishing_delta": 0.39,
+   "points": 12,
+   "ppg": 2.0,
+   "form": "DWDDWW",
+   "possession_pct": 49.3
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 2.17,
+   "goals_against": 1.5,
+   "xg_for": 1.57,
+   "xg_against": 1.28,
+   "xg_diff_per_game": 0.3,
+   "finishing_delta": 0.6,
+   "points": 10,
+   "ppg": 1.67,
+   "form": "WDWLLW",
+   "possession_pct": 52.2
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.569,
+  "pred_xg_away": 1.436,
+  "win_home_pct": 39.9,
+  "draw_pct": 26.1,
+  "win_away_pct": 34.0,
+  "xpts_home": 1.46,
+  "xpts_away": 1.28,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    12.12
+   ],
+   [
+    2,
+    1,
+    8.76
+   ],
+   [
+    1,
+    2,
+    8.01
+   ],
+   [
+    1,
+    0,
+    6.82
+   ],
+   [
+    2,
+    2,
+    6.29
+   ]
+  ],
+  "over_2_5_pct": 57.8,
+  "btts_pct": 61.3,
+  "reasoning": {
+   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.13 goals, and the most likely single outcome is a draw at 26%. Freiburg are scoring 0.60 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Projected 1.57-1.44 on expected goals, with 1-1 the single most likely scoreline at 12.1%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 6.8,
+    "effective_matches_away": 6.8
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Werder Bremen attack",
+     "detail": "solid (0.98x league average)",
+     "delta_goals": -0.036
+    },
+    {
+     "side": "home",
+     "label": "Freiburg defence",
+     "detail": "strong (0.80x league average conceded)",
+     "delta_goals": -0.289
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.412
+    },
+    {
+     "side": "away",
+     "label": "Freiburg attack",
+     "detail": "solid (1.00x league average)",
+     "delta_goals": -0.002
+    },
+    {
+     "side": "away",
+     "label": "Werder Bremen defence",
+     "detail": "solid (0.97x league average conceded)",
+     "delta_goals": -0.043
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 0.976,
+    "home_defence": 0.971,
+    "away_attack": 0.998,
+    "away_defence": 0.8,
     "league_base": 1.482,
     "home_advantage": 1.356
    },
@@ -24240,412 +24240,6 @@
     "home_missing": [
      "Enzo Leopold"
     ],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2027-01-23",
-  "kickoff_datetime": "2027-01-23T14:30:00Z",
-  "round": 18,
-  "home": "Eintracht Frankfurt",
-  "away": "Union Berlin",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 1.5,
-   "goals_against": 1.83,
-   "xg_for": 1.51,
-   "xg_against": 1.89,
-   "xg_diff_per_game": -0.38,
-   "finishing_delta": -0.01,
-   "points": 10,
-   "ppg": 1.67,
-   "form": "WDLWLW",
-   "possession_pct": 48.3
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 0.67,
-   "goals_against": 2.0,
-   "xg_for": 1.12,
-   "xg_against": 1.81,
-   "xg_diff_per_game": -0.68,
-   "finishing_delta": -0.46,
-   "points": 6,
-   "ppg": 1.0,
-   "form": "LLWDDD",
-   "possession_pct": 41.5
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 2.024,
-  "pred_xg_away": 1.157,
-  "win_home_pct": 56.6,
-  "draw_pct": 23.0,
-  "win_away_pct": 20.5,
-  "xpts_home": 1.93,
-  "xpts_away": 0.84,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    10.56
-   ],
-   [
-    2,
-    1,
-    9.84
-   ],
-   [
-    2,
-    0,
-    8.51
-   ],
-   [
-    1,
-    0,
-    7.57
-   ],
-   [
-    3,
-    1,
-    6.64
-   ]
-  ],
-  "over_2_5_pct": 61.6,
-  "btts_pct": 60.3,
-  "reasoning": {
-   "thesis": "Eintracht Frankfurt are clear favourites, projected 0.87 goals better than Union Berlin on the day, which prices the win at 57%. Union Berlin are converting 0.46 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Projected 2.02-1.16 on expected goals, with 1-1 the single most likely scoreline at 10.6%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 6.8,
-    "effective_matches_away": 6.8
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Eintracht Frankfurt attack",
-     "detail": "modest (0.94x league average)",
-     "delta_goals": -0.087
-    },
-    {
-     "side": "home",
-     "label": "Union Berlin defence",
-     "detail": "leaky (1.07x league average conceded)",
-     "delta_goals": 0.097
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.532
-    },
-    {
-     "side": "away",
-     "label": "Union Berlin attack",
-     "detail": "poor (0.72x league average)",
-     "delta_goals": -0.413
-    },
-    {
-     "side": "away",
-     "label": "Eintracht Frankfurt defence",
-     "detail": "leaky (1.08x league average conceded)",
-     "delta_goals": 0.089
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 0.941,
-    "home_defence": 1.083,
-    "away_attack": 0.721,
-    "away_defence": 1.07,
-    "league_base": 1.482,
-    "home_advantage": 1.356
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
-    "away_missing": [
-     "Andrik Markgraf"
-    ]
-   }
-  }
- },
- {
-  "date": "2027-01-23",
-  "kickoff_datetime": "2027-01-23T14:30:00Z",
-  "round": 18,
-  "home": "Hamburger SV",
-  "away": "Borussia Dortmund",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 1.17,
-   "goals_against": 2.0,
-   "xg_for": 1.13,
-   "xg_against": 1.66,
-   "xg_diff_per_game": -0.53,
-   "finishing_delta": 0.03,
-   "points": 9,
-   "ppg": 1.5,
-   "form": "LWWWLL",
-   "possession_pct": 37.3
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 1.5,
-   "goals_against": 0.67,
-   "xg_for": 1.47,
-   "xg_against": 1.37,
-   "xg_diff_per_game": 0.1,
-   "finishing_delta": 0.03,
-   "points": 12,
-   "ppg": 2.0,
-   "form": "WWDDWD",
-   "possession_pct": 56.0
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.037,
-  "pred_xg_away": 1.621,
-  "win_home_pct": 23.3,
-  "draw_pct": 26.8,
-  "win_away_pct": 50.0,
-  "xpts_home": 0.97,
-  "xpts_away": 1.77,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    12.79
-   ],
-   [
-    0,
-    1,
-    10.35
-   ],
-   [
-    1,
-    2,
-    9.55
-   ],
-   [
-    0,
-    2,
-    9.2
-   ],
-   [
-    0,
-    0,
-    8.01
-   ]
-  ],
-  "over_2_5_pct": 49.6,
-  "btts_pct": 52.8,
-  "reasoning": {
-   "thesis": "Borussia Dortmund are clear favourites, projected 0.58 goals better than Hamburger SV on the day, which prices the win at 50%. Projected 1.04-1.62 on expected goals, with 1-1 the single most likely scoreline at 12.8%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 6.8,
-    "effective_matches_away": 6.8
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Hamburger SV attack",
-     "detail": "poor (0.71x league average)",
-     "delta_goals": -0.425
-    },
-    {
-     "side": "home",
-     "label": "Borussia Dortmund defence",
-     "detail": "excellent (0.72x league average conceded)",
-     "delta_goals": -0.291
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.273
-    },
-    {
-     "side": "away",
-     "label": "Borussia Dortmund attack",
-     "detail": "solid (1.02x league average)",
-     "delta_goals": 0.026
-    },
-    {
-     "side": "away",
-     "label": "Hamburger SV defence",
-     "detail": "leaky (1.08x league average conceded)",
-     "delta_goals": 0.114
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 0.713,
-    "home_defence": 1.075,
-    "away_attack": 1.017,
-    "away_defence": 0.724,
-    "league_base": 1.482,
-    "home_advantage": 1.356
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
-    "away_missing": [
-     "Giannis Konstantelias"
-    ]
-   }
-  }
- },
- {
-  "date": "2027-01-23",
-  "kickoff_datetime": "2027-01-23T14:30:00Z",
-  "round": 18,
-  "home": "Hoffenheim",
-  "away": "1. FC K\u00f6ln",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 1.67,
-   "goals_against": 1.67,
-   "xg_for": 1.91,
-   "xg_against": 1.05,
-   "xg_diff_per_game": 0.86,
-   "finishing_delta": -0.24,
-   "points": 9,
-   "ppg": 1.5,
-   "form": "WLLWWL",
-   "possession_pct": 54.3
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 0.83,
-   "goals_against": 1.0,
-   "xg_for": 1.3,
-   "xg_against": 1.1,
-   "xg_diff_per_game": 0.19,
-   "finishing_delta": -0.47,
-   "points": 6,
-   "ppg": 1.0,
-   "form": "DLWLDD",
-   "possession_pct": 55.3
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 2.117,
-  "pred_xg_away": 1.192,
-  "win_home_pct": 57.8,
-  "draw_pct": 22.2,
-  "win_away_pct": 20.0,
-  "xpts_home": 1.95,
-  "xpts_away": 0.82,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    10.01
-   ],
-   [
-    2,
-    1,
-    9.76
-   ],
-   [
-    2,
-    0,
-    8.19
-   ],
-   [
-    1,
-    0,
-    6.94
-   ],
-   [
-    3,
-    1,
-    6.89
-   ]
-  ],
-  "over_2_5_pct": 64.3,
-  "btts_pct": 62.1,
-  "reasoning": {
-   "thesis": "Hoffenheim should win comfortably. The model has them 0.93 goals clear of 1. FC K\u00f6ln, a 58% win probability. Hoffenheim are creating +0.86 xG per game more than they concede over their last 6, the profile of a side controlling matches. 1. FC K\u00f6ln are converting 0.47 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Projected 2.12-1.19 on expected goals, with 1-1 the single most likely scoreline at 10.0%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 6.8,
-    "effective_matches_away": 6.8
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Hoffenheim attack",
-     "detail": "solid (1.06x league average)",
-     "delta_goals": 0.088
-    },
-    {
-     "side": "home",
-     "label": "1. FC K\u00f6ln defence",
-     "detail": "solid (0.99x league average conceded)",
-     "delta_goals": -0.009
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.556
-    },
-    {
-     "side": "away",
-     "label": "1. FC K\u00f6ln attack",
-     "detail": "modest (0.85x league average)",
-     "delta_goals": -0.225
-    },
-    {
-     "side": "away",
-     "label": "Hoffenheim defence",
-     "detail": "solid (0.95x league average conceded)",
-     "delta_goals": -0.064
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 1.059,
-    "home_defence": 0.949,
-    "away_attack": 0.848,
-    "away_defence": 0.994,
-    "league_base": 1.482,
-    "home_advantage": 1.356
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
     "away_missing": []
    }
   }
@@ -25054,47 +24648,47 @@
  },
  {
   "date": "2027-01-23",
-  "kickoff_datetime": "2027-01-23T14:30:00Z",
+  "kickoff_datetime": "2027-01-23T17:30:00Z",
   "round": 18,
-  "home": "Werder Bremen",
-  "away": "Freiburg",
+  "home": "Hamburger SV",
+  "away": "Borussia Dortmund",
   "status": "scheduled",
   "home_form": {
    "matches": 6,
-   "goals": 2.17,
-   "goals_against": 1.5,
-   "xg_for": 1.78,
-   "xg_against": 1.49,
-   "xg_diff_per_game": 0.29,
-   "finishing_delta": 0.39,
-   "points": 12,
-   "ppg": 2.0,
-   "form": "DWDDWW",
-   "possession_pct": 49.3
+   "goals": 1.17,
+   "goals_against": 2.0,
+   "xg_for": 1.13,
+   "xg_against": 1.66,
+   "xg_diff_per_game": -0.53,
+   "finishing_delta": 0.03,
+   "points": 9,
+   "ppg": 1.5,
+   "form": "LWWWLL",
+   "possession_pct": 37.3
   },
   "away_form": {
    "matches": 6,
-   "goals": 2.17,
-   "goals_against": 1.5,
-   "xg_for": 1.57,
-   "xg_against": 1.28,
-   "xg_diff_per_game": 0.3,
-   "finishing_delta": 0.6,
-   "points": 10,
-   "ppg": 1.67,
-   "form": "WDWLLW",
-   "possession_pct": 52.2
+   "goals": 1.5,
+   "goals_against": 0.67,
+   "xg_for": 1.47,
+   "xg_against": 1.37,
+   "xg_diff_per_game": 0.1,
+   "finishing_delta": 0.03,
+   "points": 12,
+   "ppg": 2.0,
+   "form": "WWDDWD",
+   "possession_pct": 56.0
   },
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 1.569,
-  "pred_xg_away": 1.436,
-  "win_home_pct": 39.9,
-  "draw_pct": 26.1,
-  "win_away_pct": 34.0,
-  "xpts_home": 1.46,
-  "xpts_away": 1.28,
+  "pred_xg_home": 1.037,
+  "pred_xg_away": 1.621,
+  "win_home_pct": 23.3,
+  "draw_pct": 26.8,
+  "win_away_pct": 50.0,
+  "xpts_home": 0.97,
+  "xpts_away": 1.77,
   "most_likely_scoreline": [
    1,
    1
@@ -25103,33 +24697,33 @@
    [
     1,
     1,
-    12.12
+    12.79
    ],
    [
-    2,
-    1,
-    8.76
-   ],
-   [
-    1,
-    2,
-    8.01
-   ],
-   [
-    1,
     0,
-    6.82
+    1,
+    10.35
    ],
    [
+    1,
     2,
+    9.55
+   ],
+   [
+    0,
     2,
-    6.29
+    9.2
+   ],
+   [
+    0,
+    0,
+    8.01
    ]
   ],
-  "over_2_5_pct": 57.8,
-  "btts_pct": 61.3,
+  "over_2_5_pct": 49.6,
+  "btts_pct": 52.8,
   "reasoning": {
-   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.13 goals, and the most likely single outcome is a draw at 26%. Freiburg are scoring 0.60 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Projected 1.57-1.44 on expected goals, with 1-1 the single most likely scoreline at 12.1%.",
+   "thesis": "Borussia Dortmund are clear favourites, projected 0.58 goals better than Hamburger SV on the day, which prices the win at 50%. Projected 1.04-1.62 on expected goals, with 1-1 the single most likely scoreline at 12.8%.",
    "confidence": {
     "level": "medium",
     "note": "ratings are mostly driven by this season, with last season still contributing",
@@ -25139,40 +24733,446 @@
    "factors": [
     {
      "side": "home",
-     "label": "Werder Bremen attack",
-     "detail": "solid (0.98x league average)",
-     "delta_goals": -0.036
+     "label": "Hamburger SV attack",
+     "detail": "poor (0.71x league average)",
+     "delta_goals": -0.425
     },
     {
      "side": "home",
-     "label": "Freiburg defence",
-     "detail": "strong (0.80x league average conceded)",
-     "delta_goals": -0.289
+     "label": "Borussia Dortmund defence",
+     "detail": "excellent (0.72x league average conceded)",
+     "delta_goals": -0.291
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.36x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.412
+     "delta_goals": 0.273
     },
     {
      "side": "away",
-     "label": "Freiburg attack",
-     "detail": "solid (1.00x league average)",
-     "delta_goals": -0.002
+     "label": "Borussia Dortmund attack",
+     "detail": "solid (1.02x league average)",
+     "delta_goals": 0.026
     },
     {
      "side": "away",
-     "label": "Werder Bremen defence",
-     "detail": "solid (0.97x league average conceded)",
-     "delta_goals": -0.043
+     "label": "Hamburger SV defence",
+     "detail": "leaky (1.08x league average conceded)",
+     "delta_goals": 0.114
     }
    ],
    "rating_snapshot": {
-    "home_attack": 0.976,
-    "home_defence": 0.971,
-    "away_attack": 0.998,
-    "away_defence": 0.8,
+    "home_attack": 0.713,
+    "home_defence": 1.075,
+    "away_attack": 1.017,
+    "away_defence": 0.724,
+    "league_base": 1.482,
+    "home_advantage": 1.356
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Giannis Konstantelias"
+    ]
+   }
+  }
+ },
+ {
+  "date": "2027-01-24",
+  "kickoff_datetime": "2027-01-24T14:30:00Z",
+  "round": 18,
+  "home": "Eintracht Frankfurt",
+  "away": "Union Berlin",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 1.5,
+   "goals_against": 1.83,
+   "xg_for": 1.51,
+   "xg_against": 1.89,
+   "xg_diff_per_game": -0.38,
+   "finishing_delta": -0.01,
+   "points": 10,
+   "ppg": 1.67,
+   "form": "WDLWLW",
+   "possession_pct": 48.3
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 0.67,
+   "goals_against": 2.0,
+   "xg_for": 1.12,
+   "xg_against": 1.81,
+   "xg_diff_per_game": -0.68,
+   "finishing_delta": -0.46,
+   "points": 6,
+   "ppg": 1.0,
+   "form": "LLWDDD",
+   "possession_pct": 41.5
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 2.024,
+  "pred_xg_away": 1.157,
+  "win_home_pct": 56.6,
+  "draw_pct": 23.0,
+  "win_away_pct": 20.5,
+  "xpts_home": 1.93,
+  "xpts_away": 0.84,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    10.56
+   ],
+   [
+    2,
+    1,
+    9.84
+   ],
+   [
+    2,
+    0,
+    8.51
+   ],
+   [
+    1,
+    0,
+    7.57
+   ],
+   [
+    3,
+    1,
+    6.64
+   ]
+  ],
+  "over_2_5_pct": 61.6,
+  "btts_pct": 60.3,
+  "reasoning": {
+   "thesis": "Eintracht Frankfurt are clear favourites, projected 0.87 goals better than Union Berlin on the day, which prices the win at 57%. Union Berlin are converting 0.46 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Projected 2.02-1.16 on expected goals, with 1-1 the single most likely scoreline at 10.6%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 6.8,
+    "effective_matches_away": 6.8
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Eintracht Frankfurt attack",
+     "detail": "modest (0.94x league average)",
+     "delta_goals": -0.087
+    },
+    {
+     "side": "home",
+     "label": "Union Berlin defence",
+     "detail": "leaky (1.07x league average conceded)",
+     "delta_goals": 0.097
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.532
+    },
+    {
+     "side": "away",
+     "label": "Union Berlin attack",
+     "detail": "poor (0.72x league average)",
+     "delta_goals": -0.413
+    },
+    {
+     "side": "away",
+     "label": "Eintracht Frankfurt defence",
+     "detail": "leaky (1.08x league average conceded)",
+     "delta_goals": 0.089
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 0.941,
+    "home_defence": 1.083,
+    "away_attack": 0.721,
+    "away_defence": 1.07,
+    "league_base": 1.482,
+    "home_advantage": 1.356
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Andrik Markgraf"
+    ]
+   }
+  }
+ },
+ {
+  "date": "2027-01-24",
+  "kickoff_datetime": "2027-01-24T16:30:00Z",
+  "round": 18,
+  "home": "Bayer Leverkusen",
+  "away": "Elversberg",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 2.0,
+   "goals_against": 2.17,
+   "xg_for": 1.75,
+   "xg_against": 2.02,
+   "xg_diff_per_game": -0.27,
+   "finishing_delta": 0.25,
+   "points": 10,
+   "ppg": 1.67,
+   "form": "DWWWLL",
+   "possession_pct": 56.2
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 1.5,
+   "goals_against": 1.83,
+   "xg_for": 1.22,
+   "xg_against": 2.09,
+   "xg_diff_per_game": -0.87,
+   "finishing_delta": 0.28,
+   "points": 7,
+   "ppg": 1.17,
+   "form": "LDLWLW",
+   "possession_pct": 47.2
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 2.611,
+  "pred_xg_away": 1.321,
+  "win_home_pct": 64.5,
+  "draw_pct": 18.5,
+  "win_away_pct": 17.0,
+  "xpts_home": 2.12,
+  "xpts_away": 0.69,
+  "most_likely_scoreline": [
+   2,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    2,
+    1,
+    8.83
+   ],
+   [
+    3,
+    1,
+    7.68
+   ],
+   [
+    1,
+    1,
+    7.34
+   ],
+   [
+    2,
+    0,
+    6.69
+   ],
+   [
+    2,
+    2,
+    5.83
+   ]
+  ],
+  "over_2_5_pct": 75.2,
+  "btts_pct": 68.5,
+  "reasoning": {
+   "thesis": "Bayer Leverkusen should win comfortably. The model has them 1.29 goals clear of Elversberg, a 64% win probability. Elversberg are being outcreated by 0.87 xG per game over their last 6, which is why the model is cautious regardless of recent results. Projected 2.61-1.32 on expected goals, with 2-1 the single most likely scoreline at 8.8%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 6.8,
+    "effective_matches_away": 6.8
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Bayer Leverkusen attack",
+     "detail": "strong (1.14x league average)",
+     "delta_goals": 0.208
+    },
+    {
+     "side": "home",
+     "label": "Elversberg defence",
+     "detail": "leaky (1.14x league average conceded)",
+     "delta_goals": 0.235
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.686
+    },
+    {
+     "side": "away",
+     "label": "Elversberg attack",
+     "detail": "modest (0.88x league average)",
+     "delta_goals": -0.175
+    },
+    {
+     "side": "away",
+     "label": "Bayer Leverkusen defence",
+     "detail": "solid (1.01x league average conceded)",
+     "delta_goals": 0.014
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 1.14,
+    "home_defence": 1.011,
+    "away_attack": 0.882,
+    "away_defence": 1.139,
+    "league_base": 1.482,
+    "home_advantage": 1.356
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2027-01-24",
+  "kickoff_datetime": "2027-01-24T18:30:00Z",
+  "round": 18,
+  "home": "Hoffenheim",
+  "away": "1. FC K\u00f6ln",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 1.67,
+   "goals_against": 1.67,
+   "xg_for": 1.91,
+   "xg_against": 1.05,
+   "xg_diff_per_game": 0.86,
+   "finishing_delta": -0.24,
+   "points": 9,
+   "ppg": 1.5,
+   "form": "WLLWWL",
+   "possession_pct": 54.3
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 0.83,
+   "goals_against": 1.0,
+   "xg_for": 1.3,
+   "xg_against": 1.1,
+   "xg_diff_per_game": 0.19,
+   "finishing_delta": -0.47,
+   "points": 6,
+   "ppg": 1.0,
+   "form": "DLWLDD",
+   "possession_pct": 55.3
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 2.117,
+  "pred_xg_away": 1.192,
+  "win_home_pct": 57.8,
+  "draw_pct": 22.2,
+  "win_away_pct": 20.0,
+  "xpts_home": 1.95,
+  "xpts_away": 0.82,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    10.01
+   ],
+   [
+    2,
+    1,
+    9.76
+   ],
+   [
+    2,
+    0,
+    8.19
+   ],
+   [
+    1,
+    0,
+    6.94
+   ],
+   [
+    3,
+    1,
+    6.89
+   ]
+  ],
+  "over_2_5_pct": 64.3,
+  "btts_pct": 62.1,
+  "reasoning": {
+   "thesis": "Hoffenheim should win comfortably. The model has them 0.93 goals clear of 1. FC K\u00f6ln, a 58% win probability. Hoffenheim are creating +0.86 xG per game more than they concede over their last 6, the profile of a side controlling matches. 1. FC K\u00f6ln are converting 0.47 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Projected 2.12-1.19 on expected goals, with 1-1 the single most likely scoreline at 10.0%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 6.8,
+    "effective_matches_away": 6.8
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Hoffenheim attack",
+     "detail": "solid (1.06x league average)",
+     "delta_goals": 0.088
+    },
+    {
+     "side": "home",
+     "label": "1. FC K\u00f6ln defence",
+     "detail": "solid (0.99x league average conceded)",
+     "delta_goals": -0.009
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.36x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.556
+    },
+    {
+     "side": "away",
+     "label": "1. FC K\u00f6ln attack",
+     "detail": "modest (0.85x league average)",
+     "delta_goals": -0.225
+    },
+    {
+     "side": "away",
+     "label": "Hoffenheim defence",
+     "detail": "solid (0.95x league average conceded)",
+     "delta_goals": -0.064
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 1.059,
+    "home_defence": 0.949,
+    "away_attack": 0.848,
+    "away_defence": 0.994,
     "league_base": 1.482,
     "home_advantage": 1.356
    },
