@@ -5,7 +5,7 @@
   "defence": 0.607,
   "expected_gf_per_game": 1.39,
   "expected_ga_per_game": 0.73,
-  "net_rating": 0.664,
+  "net_rating": 0.663,
   "evidence_matches": 7.5,
   "rank": 1
  },
@@ -15,7 +15,7 @@
   "defence": 0.856,
   "expected_gf_per_game": 1.57,
   "expected_ga_per_game": 1.03,
-  "net_rating": 0.541,
+  "net_rating": 0.54,
   "evidence_matches": 7.5,
   "rank": 2
  },
@@ -33,16 +33,16 @@
   "team": "Bournemouth",
   "attack": 1.181,
   "defence": 0.897,
-  "expected_gf_per_game": 1.42,
+  "expected_gf_per_game": 1.41,
   "expected_ga_per_game": 1.07,
-  "net_rating": 0.341,
+  "net_rating": 0.34,
   "evidence_matches": 7.5,
   "rank": 4
  },
  {
   "team": "Liverpool",
   "attack": 1.025,
-  "defence": 0.829,
+  "defence": 0.83,
   "expected_gf_per_game": 1.23,
   "expected_ga_per_game": 0.99,
   "net_rating": 0.235,
@@ -72,7 +72,7 @@
  {
   "team": "Nottingham Forest",
   "attack": 0.917,
-  "defence": 0.904,
+  "defence": 0.905,
   "expected_gf_per_game": 1.1,
   "expected_ga_per_game": 1.08,
   "net_rating": 0.015,
@@ -102,7 +102,7 @@
  {
   "team": "Everton",
   "attack": 0.936,
-  "defence": 0.967,
+  "defence": 0.968,
   "expected_gf_per_game": 1.12,
   "expected_ga_per_game": 1.16,
   "net_rating": -0.037,
@@ -112,10 +112,10 @@
  {
   "team": "Manchester United",
   "attack": 1.044,
-  "defence": 1.079,
+  "defence": 1.078,
   "expected_gf_per_game": 1.25,
   "expected_ga_per_game": 1.29,
-  "net_rating": -0.042,
+  "net_rating": -0.041,
   "evidence_matches": 7.5,
   "rank": 12
  },
@@ -152,7 +152,7 @@
  {
   "team": "Newcastle United",
   "attack": 0.923,
-  "defence": 1.2,
+  "defence": 1.199,
   "expected_gf_per_game": 1.11,
   "expected_ga_per_game": 1.44,
   "net_rating": -0.331,
@@ -161,8 +161,8 @@
  },
  {
   "team": "Hull City",
-  "attack": 0.767,
-  "defence": 1.068,
+  "attack": 0.768,
+  "defence": 1.069,
   "expected_gf_per_game": 0.92,
   "expected_ga_per_game": 1.28,
   "net_rating": -0.361,
@@ -172,7 +172,7 @@
  {
   "team": "Ipswich Town",
   "attack": 0.934,
-  "defence": 1.292,
+  "defence": 1.291,
   "expected_gf_per_game": 1.12,
   "expected_ga_per_game": 1.55,
   "net_rating": -0.428,
@@ -191,11 +191,11 @@
  },
  {
   "team": "Crystal Palace",
-  "attack": 0.883,
+  "attack": 0.884,
   "defence": 1.323,
   "expected_gf_per_game": 1.06,
-  "expected_ga_per_game": 1.59,
-  "net_rating": -0.527,
+  "expected_ga_per_game": 1.58,
+  "net_rating": -0.526,
   "evidence_matches": 7.5,
   "rank": 20
  }

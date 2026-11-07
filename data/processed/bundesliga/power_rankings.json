@@ -3,9 +3,9 @@
   "team": "Bayern M\u00fcnchen",
   "attack": 1.853,
   "defence": 0.71,
-  "expected_gf_per_game": 2.75,
+  "expected_gf_per_game": 2.74,
   "expected_ga_per_game": 1.05,
-  "net_rating": 1.694,
+  "net_rating": 1.692,
   "evidence_matches": 6.8,
   "rank": 1
  },
@@ -15,7 +15,7 @@
   "defence": 0.873,
   "expected_gf_per_game": 1.93,
   "expected_ga_per_game": 1.29,
-  "net_rating": 0.636,
+  "net_rating": 0.635,
   "evidence_matches": 6.8,
   "rank": 2
  },
@@ -25,7 +25,7 @@
   "defence": 0.722,
   "expected_gf_per_game": 1.5,
   "expected_ga_per_game": 1.07,
-  "net_rating": 0.435,
+  "net_rating": 0.434,
   "evidence_matches": 6.8,
   "rank": 3
  },
@@ -75,13 +75,13 @@
   "defence": 0.971,
   "expected_gf_per_game": 1.44,
   "expected_ga_per_game": 1.44,
-  "net_rating": 0.007,
+  "net_rating": 0.006,
   "evidence_matches": 6.8,
   "rank": 8
  },
  {
   "team": "Mainz 05",
-  "attack": 1.079,
+  "attack": 1.078,
   "defence": 1.091,
   "expected_gf_per_game": 1.6,
   "expected_ga_per_game": 1.62,
@@ -131,10 +131,10 @@
  },
  {
   "team": "Paderborn",
-  "attack": 0.66,
-  "defence": 0.941,
+  "attack": 0.661,
+  "defence": 0.942,
   "expected_gf_per_game": 0.98,
-  "expected_ga_per_game": 1.39,
+  "expected_ga_per_game": 1.4,
   "net_rating": -0.416,
   "evidence_matches": 6.8,
   "rank": 14
@@ -142,7 +142,7 @@
  {
   "team": "Borussia M\u00f6nchengladbach",
   "attack": 0.884,
-  "defence": 1.204,
+  "defence": 1.203,
   "expected_gf_per_game": 1.31,
   "expected_ga_per_game": 1.78,
   "net_rating": -0.473,
@@ -155,23 +155,23 @@
   "defence": 1.094,
   "expected_gf_per_game": 1.12,
   "expected_ga_per_game": 1.62,
-  "net_rating": -0.504,
+  "net_rating": -0.503,
   "evidence_matches": 7.8,
   "rank": 16
  },
  {
   "team": "Union Berlin",
-  "attack": 0.72,
+  "attack": 0.721,
   "defence": 1.068,
   "expected_gf_per_game": 1.07,
   "expected_ga_per_game": 1.58,
-  "net_rating": -0.515,
+  "net_rating": -0.514,
   "evidence_matches": 6.8,
   "rank": 17
  },
  {
   "team": "Schalke 04",
-  "attack": 0.611,
+  "attack": 0.612,
   "defence": 0.983,
   "expected_gf_per_game": 0.91,
   "expected_ga_per_game": 1.46,
