@@ -68,13 +68,13 @@
   "position": 6,
   "team": "Frosinone",
   "fotmob_team_id": "9891",
-  "played": 10,
+  "played": 11,
   "won": 6,
   "drawn": 2,
-  "lost": 2,
+  "lost": 3,
   "gf": 24,
-  "ga": 14,
-  "gd": 10,
+  "ga": 15,
+  "gd": 9,
   "points": 20
  },
  {
@@ -92,6 +92,19 @@
  },
  {
   "position": 8,
+  "team": "Cagliari",
+  "fotmob_team_id": "8529",
+  "played": 11,
+  "won": 5,
+  "drawn": 1,
+  "lost": 5,
+  "gf": 10,
+  "ga": 15,
+  "gd": -5,
+  "points": 16
+ },
+ {
+  "position": 9,
   "team": "Napoli",
   "fotmob_team_id": "9875",
   "played": 10,
@@ -104,7 +117,7 @@
   "points": 14
  },
  {
-  "position": 9,
+  "position": 10,
   "team": "Bologna",
   "fotmob_team_id": "9857",
   "played": 10,
@@ -117,20 +130,20 @@
   "points": 14
  },
  {
-  "position": 10,
+  "position": 11,
   "team": "Torino",
   "fotmob_team_id": "9804",
-  "played": 10,
+  "played": 11,
   "won": 4,
-  "drawn": 1,
+  "drawn": 2,
   "lost": 5,
-  "gf": 14,
-  "ga": 16,
+  "gf": 15,
+  "ga": 17,
   "gd": -2,
-  "points": 13
+  "points": 14
  },
  {
-  "position": 11,
+  "position": 12,
   "team": "Genoa",
   "fotmob_team_id": "10233",
   "played": 10,
@@ -140,19 +153,6 @@
   "gf": 10,
   "ga": 14,
   "gd": -4,
-  "points": 13
- },
- {
-  "position": 12,
-  "team": "Cagliari",
-  "fotmob_team_id": "8529",
-  "played": 10,
-  "won": 4,
-  "drawn": 1,
-  "lost": 5,
-  "gf": 9,
-  "ga": 15,
-  "gd": -6,
   "points": 13
  },
  {
@@ -172,14 +172,14 @@
   "position": 14,
   "team": "Lecce",
   "fotmob_team_id": "9888",
-  "played": 10,
+  "played": 11,
   "won": 3,
-  "drawn": 0,
+  "drawn": 1,
   "lost": 7,
-  "gf": 11,
-  "ga": 21,
+  "gf": 12,
+  "ga": 22,
   "gd": -10,
-  "points": 9
+  "points": 10
  },
  {
   "position": 15,
