@@ -3,17 +3,30 @@
   "position": 1,
   "team": "Paris Saint-Germain",
   "fotmob_team_id": "9847",
-  "played": 9,
+  "played": 10,
   "won": 6,
-  "drawn": 2,
+  "drawn": 3,
   "lost": 1,
   "gf": 21,
   "ga": 10,
   "gd": 11,
-  "points": 20
+  "points": 21
  },
  {
   "position": 2,
+  "team": "Paris FC",
+  "fotmob_team_id": "6379",
+  "played": 10,
+  "won": 6,
+  "drawn": 2,
+  "lost": 2,
+  "gf": 17,
+  "ga": 10,
+  "gd": 7,
+  "points": 20
+ },
+ {
+  "position": 3,
   "team": "Lille",
   "fotmob_team_id": "8639",
   "played": 9,
@@ -26,7 +39,7 @@
   "points": 18
  },
  {
-  "position": 3,
+  "position": 4,
   "team": "Lyon",
   "fotmob_team_id": "9748",
   "played": 9,
@@ -36,19 +49,6 @@
   "gf": 15,
   "ga": 7,
   "gd": 8,
-  "points": 17
- },
- {
-  "position": 4,
-  "team": "Paris FC",
-  "fotmob_team_id": "6379",
-  "played": 9,
-  "won": 5,
-  "drawn": 2,
-  "lost": 2,
-  "gf": 16,
-  "ga": 10,
-  "gd": 6,
   "points": 17
  },
  {
@@ -172,17 +172,30 @@
   "position": 14,
   "team": "Auxerre",
   "fotmob_team_id": "8583",
-  "played": 9,
+  "played": 10,
   "won": 3,
   "drawn": 1,
-  "lost": 5,
+  "lost": 6,
   "gf": 13,
-  "ga": 23,
-  "gd": -10,
+  "ga": 24,
+  "gd": -11,
   "points": 10
  },
  {
   "position": 15,
+  "team": "Troyes",
+  "fotmob_team_id": "10242",
+  "played": 10,
+  "won": 2,
+  "drawn": 3,
+  "lost": 5,
+  "gf": 7,
+  "ga": 16,
+  "gd": -9,
+  "points": 9
+ },
+ {
+  "position": 16,
   "team": "Angers",
   "fotmob_team_id": "8121",
   "played": 9,
@@ -192,19 +205,6 @@
   "gf": 9,
   "ga": 17,
   "gd": -8,
-  "points": 8
- },
- {
-  "position": 16,
-  "team": "Troyes",
-  "fotmob_team_id": "10242",
-  "played": 9,
-  "won": 2,
-  "drawn": 2,
-  "lost": 5,
-  "gf": 7,
-  "ga": 16,
-  "gd": -9,
   "points": 8
  },
  {

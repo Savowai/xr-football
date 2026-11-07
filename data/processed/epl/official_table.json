@@ -4,25 +4,25 @@
   "team": "Arsenal",
   "fotmob_team_id": "9825",
   "played": 10,
-  "won": 8,
-  "drawn": 1,
+  "won": 9,
+  "drawn": 0,
   "lost": 1,
-  "gf": 14,
+  "gf": 15,
   "ga": 5,
-  "gd": 9,
-  "points": 25
+  "gd": 10,
+  "points": 27
  },
  {
   "position": 2,
   "team": "Manchester City",
   "fotmob_team_id": "8456",
-  "played": 9,
+  "played": 10,
   "won": 7,
   "drawn": 0,
-  "lost": 2,
-  "gf": 20,
-  "ga": 10,
-  "gd": 10,
+  "lost": 3,
+  "gf": 21,
+  "ga": 13,
+  "gd": 8,
   "points": 21
  },
  {
@@ -118,19 +118,6 @@
  },
  {
   "position": 10,
-  "team": "Hull City",
-  "fotmob_team_id": "8667",
-  "played": 10,
-  "won": 2,
-  "drawn": 6,
-  "lost": 2,
-  "gf": 11,
-  "ga": 10,
-  "gd": 1,
-  "points": 12
- },
- {
-  "position": 11,
   "team": "Tottenham Hotspur",
   "fotmob_team_id": "8586",
   "played": 10,
@@ -143,20 +130,20 @@
   "points": 12
  },
  {
-  "position": 12,
+  "position": 11,
   "team": "Newcastle United",
   "fotmob_team_id": "10261",
   "played": 10,
   "won": 3,
   "drawn": 3,
   "lost": 4,
-  "gf": 12,
-  "ga": 15,
+  "gf": 13,
+  "ga": 16,
   "gd": -3,
   "points": 12
  },
  {
-  "position": 13,
+  "position": 12,
   "team": "Aston Villa",
   "fotmob_team_id": "10252",
   "played": 9,
@@ -167,6 +154,19 @@
   "ga": 13,
   "gd": -3,
   "points": 12
+ },
+ {
+  "position": 13,
+  "team": "Hull City",
+  "fotmob_team_id": "8667",
+  "played": 10,
+  "won": 2,
+  "drawn": 5,
+  "lost": 3,
+  "gf": 11,
+  "ga": 11,
+  "gd": 0,
+  "points": 11
  },
  {
   "position": 14,
@@ -189,13 +189,26 @@
   "won": 2,
   "drawn": 4,
   "lost": 4,
-  "gf": 9,
-  "ga": 11,
+  "gf": 10,
+  "ga": 12,
   "gd": -2,
   "points": 10
  },
  {
   "position": 16,
+  "team": "Nottingham Forest",
+  "fotmob_team_id": "10203",
+  "played": 10,
+  "won": 2,
+  "drawn": 3,
+  "lost": 5,
+  "gf": 9,
+  "ga": 13,
+  "gd": -4,
+  "points": 9
+ },
+ {
+  "position": 17,
   "team": "Coventry City",
   "fotmob_team_id": "8669",
   "played": 10,
@@ -208,7 +221,7 @@
   "points": 9
  },
  {
-  "position": 17,
+  "position": 18,
   "team": "Manchester United",
   "fotmob_team_id": "10260",
   "played": 9,
@@ -221,7 +234,7 @@
   "points": 7
  },
  {
-  "position": 18,
+  "position": 19,
   "team": "Crystal Palace",
   "fotmob_team_id": "9826",
   "played": 9,
@@ -232,19 +245,6 @@
   "ga": 21,
   "gd": -12,
   "points": 7
- },
- {
-  "position": 19,
-  "team": "Nottingham Forest",
-  "fotmob_team_id": "10203",
-  "played": 9,
-  "won": 1,
-  "drawn": 3,
-  "lost": 5,
-  "gf": 6,
-  "ga": 12,
-  "gd": -6,
-  "points": 6
  },
  {
   "position": 20,
