@@ -12,7 +12,7 @@
   "total_rounds": 38,
   "xg_coverage": 91,
   "leader": "Arsenal",
-  "built_at": "2026-11-07T03:21:56.121200+00:00"
+  "built_at": "2026-11-07T10:43:59.677159+00:00"
  },
  {
   "key": "laliga",
@@ -27,7 +27,7 @@
   "total_rounds": 38,
   "xg_coverage": 109,
   "leader": "Barcelona",
-  "built_at": "2026-11-07T03:22:01.815970+00:00"
+  "built_at": "2026-11-07T10:44:03.993279+00:00"
  },
  {
   "key": "seriea",
@@ -42,7 +42,7 @@
   "total_rounds": 38,
   "xg_coverage": 101,
   "leader": "Lazio",
-  "built_at": "2026-11-07T03:22:05.940600+00:00"
+  "built_at": "2026-11-07T10:44:06.975384+00:00"
  },
  {
   "key": "bundesliga",
@@ -57,7 +57,7 @@
   "total_rounds": 34,
   "xg_coverage": 73,
   "leader": "Bayern M\u00fcnchen",
-  "built_at": "2026-11-07T03:22:08.321244+00:00"
+  "built_at": "2026-11-07T10:44:09.123306+00:00"
  },
  {
   "key": "ligue1",
@@ -72,6 +72,6 @@
   "total_rounds": 34,
   "xg_coverage": 82,
   "leader": "Paris Saint-Germain",
-  "built_at": "2026-11-07T03:22:10.920786+00:00"
+  "built_at": "2026-11-07T10:44:12.050447+00:00"
  }
 ]
