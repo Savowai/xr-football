@@ -3,14 +3,14 @@
   "position": 1,
   "team": "Barcelona",
   "fotmob_team_id": "8634",
-  "played": 11,
-  "won": 10,
+  "played": 12,
+  "won": 11,
   "drawn": 0,
   "lost": 1,
-  "gf": 46,
-  "ga": 12,
-  "gd": 34,
-  "points": 30
+  "gf": 48,
+  "ga": 13,
+  "gd": 35,
+  "points": 33
  },
  {
   "position": 2,
@@ -29,13 +29,13 @@
   "position": 3,
   "team": "Atl\u00e9tico Madrid",
   "fotmob_team_id": "9906",
-  "played": 11,
+  "played": 12,
   "won": 9,
   "drawn": 1,
-  "lost": 1,
-  "gf": 22,
-  "ga": 8,
-  "gd": 14,
+  "lost": 2,
+  "gf": 23,
+  "ga": 10,
+  "gd": 13,
   "points": 28
  },
  {
@@ -92,6 +92,19 @@
  },
  {
   "position": 8,
+  "team": "Villarreal",
+  "fotmob_team_id": "10205",
+  "played": 12,
+  "won": 4,
+  "drawn": 3,
+  "lost": 5,
+  "gf": 17,
+  "ga": 15,
+  "gd": 2,
+  "points": 15
+ },
+ {
+  "position": 9,
   "team": "Deportivo A Coru\u00f1a",
   "fotmob_team_id": "9783",
   "played": 12,
@@ -104,7 +117,7 @@
   "points": 15
  },
  {
-  "position": 9,
+  "position": 10,
   "team": "Racing Santander",
   "fotmob_team_id": "8696",
   "played": 12,
@@ -115,19 +128,6 @@
   "ga": 30,
   "gd": -13,
   "points": 14
- },
- {
-  "position": 10,
-  "team": "Villarreal",
-  "fotmob_team_id": "10205",
-  "played": 12,
-  "won": 3,
-  "drawn": 4,
-  "lost": 5,
-  "gf": 15,
-  "ga": 15,
-  "gd": 0,
-  "points": 13
  },
  {
   "position": 11,
@@ -157,19 +157,6 @@
  },
  {
   "position": 13,
-  "team": "Getafe",
-  "fotmob_team_id": "8305",
-  "played": 12,
-  "won": 3,
-  "drawn": 4,
-  "lost": 5,
-  "gf": 8,
-  "ga": 16,
-  "gd": -8,
-  "points": 13
- },
- {
-  "position": 14,
   "team": "Espanyol",
   "fotmob_team_id": "8558",
   "played": 12,
@@ -182,7 +169,7 @@
   "points": 12
  },
  {
-  "position": 15,
+  "position": 14,
   "team": "Rayo Vallecano",
   "fotmob_team_id": "8370",
   "played": 11,
@@ -192,6 +179,19 @@
   "gf": 15,
   "ga": 21,
   "gd": -6,
+  "points": 12
+ },
+ {
+  "position": 15,
+  "team": "Getafe",
+  "fotmob_team_id": "8305",
+  "played": 12,
+  "won": 3,
+  "drawn": 3,
+  "lost": 6,
+  "gf": 8,
+  "ga": 18,
+  "gd": -10,
   "points": 12
  },
  {

@@ -40,6 +40,19 @@
  },
  {
   "position": 4,
+  "team": "Marseille",
+  "fotmob_team_id": "8592",
+  "played": 10,
+  "won": 6,
+  "drawn": 0,
+  "lost": 4,
+  "gf": 22,
+  "ga": 14,
+  "gd": 8,
+  "points": 18
+ },
+ {
+  "position": 5,
   "team": "Lyon",
   "fotmob_team_id": "9748",
   "played": 10,
@@ -52,7 +65,7 @@
   "points": 17
  },
  {
-  "position": 5,
+  "position": 6,
   "team": "Nice",
   "fotmob_team_id": "9831",
   "played": 10,
@@ -65,7 +78,7 @@
   "points": 17
  },
  {
-  "position": 6,
+  "position": 7,
   "team": "Monaco",
   "fotmob_team_id": "9829",
   "played": 10,
@@ -78,7 +91,7 @@
   "points": 16
  },
  {
-  "position": 7,
+  "position": 8,
   "team": "Rennes",
   "fotmob_team_id": "9851",
   "played": 10,
@@ -89,19 +102,6 @@
   "ga": 21,
   "gd": 0,
   "points": 16
- },
- {
-  "position": 8,
-  "team": "Marseille",
-  "fotmob_team_id": "8592",
-  "played": 9,
-  "won": 5,
-  "drawn": 0,
-  "lost": 4,
-  "gf": 20,
-  "ga": 13,
-  "gd": 7,
-  "points": 15
  },
  {
   "position": 9,
@@ -133,13 +133,13 @@
   "position": 11,
   "team": "Lens",
   "fotmob_team_id": "8588",
-  "played": 9,
+  "played": 10,
   "won": 4,
   "drawn": 1,
-  "lost": 4,
-  "gf": 16,
-  "ga": 13,
-  "gd": 3,
+  "lost": 5,
+  "gf": 17,
+  "ga": 15,
+  "gd": 2,
   "points": 13
  },
  {

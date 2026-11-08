@@ -81,14 +81,14 @@
   "position": 7,
   "team": "Juventus",
   "fotmob_team_id": "9885",
-  "played": 10,
+  "played": 11,
   "won": 5,
-  "drawn": 2,
+  "drawn": 3,
   "lost": 3,
-  "gf": 13,
-  "ga": 10,
+  "gf": 15,
+  "ga": 12,
   "gd": 3,
-  "points": 17
+  "points": 18
  },
  {
   "position": 8,
@@ -185,14 +185,14 @@
   "position": 15,
   "team": "Fiorentina",
   "fotmob_team_id": "8535",
-  "played": 10,
+  "played": 11,
   "won": 2,
-  "drawn": 2,
+  "drawn": 3,
   "lost": 6,
-  "gf": 15,
-  "ga": 23,
+  "gf": 17,
+  "ga": 25,
   "gd": -8,
-  "points": 8
+  "points": 9
  },
  {
   "position": 16,
