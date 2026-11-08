@@ -4,13 +4,13 @@
   "team": "Paris Saint-Germain",
   "fotmob_team_id": "9847",
   "played": 10,
-  "won": 6,
-  "drawn": 3,
+  "won": 7,
+  "drawn": 2,
   "lost": 1,
-  "gf": 21,
+  "gf": 22,
   "ga": 10,
-  "gd": 11,
-  "points": 21
+  "gd": 12,
+  "points": 23
  },
  {
   "position": 2,
@@ -183,19 +183,6 @@
  },
  {
   "position": 15,
-  "team": "Troyes",
-  "fotmob_team_id": "10242",
-  "played": 10,
-  "won": 2,
-  "drawn": 3,
-  "lost": 5,
-  "gf": 7,
-  "ga": 16,
-  "gd": -9,
-  "points": 9
- },
- {
-  "position": 16,
   "team": "Angers",
   "fotmob_team_id": "8121",
   "played": 9,
@@ -205,6 +192,19 @@
   "gf": 9,
   "ga": 17,
   "gd": -8,
+  "points": 8
+ },
+ {
+  "position": 16,
+  "team": "Troyes",
+  "fotmob_team_id": "10242",
+  "played": 10,
+  "won": 2,
+  "drawn": 2,
+  "lost": 6,
+  "gf": 7,
+  "ga": 17,
+  "gd": -10,
   "points": 8
  },
  {
