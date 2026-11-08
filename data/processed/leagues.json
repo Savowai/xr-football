@@ -5,14 +5,14 @@
   "country": "England",
   "season": "2026-27",
   "teams": 20,
-  "played": 95,
+  "played": 100,
   "matches": 380,
   "current_round": 10,
-  "next_round": 10,
+  "next_round": 11,
   "total_rounds": 38,
-  "xg_coverage": 95,
+  "xg_coverage": 100,
   "leader": "Arsenal",
-  "built_at": "2026-11-08T13:55:49.819567+00:00"
+  "built_at": "2026-11-08T18:33:57.711196+00:00"
  },
  {
   "key": "laliga",
@@ -20,14 +20,14 @@
   "country": "Spain",
   "season": "2026-27",
   "teams": 20,
-  "played": 114,
+  "played": 116,
   "matches": 380,
   "current_round": 12,
   "next_round": 12,
   "total_rounds": 38,
-  "xg_coverage": 113,
+  "xg_coverage": 115,
   "leader": "Barcelona",
-  "built_at": "2026-11-08T13:55:56.214499+00:00"
+  "built_at": "2026-11-08T18:34:08.120591+00:00"
  },
  {
   "key": "seriea",
@@ -35,14 +35,14 @@
   "country": "Italy",
   "season": "2026-27",
   "teams": 20,
-  "played": 106,
+  "played": 108,
   "matches": 380,
   "current_round": 11,
   "next_round": 11,
   "total_rounds": 38,
-  "xg_coverage": 106,
+  "xg_coverage": 108,
   "leader": "Lazio",
-  "built_at": "2026-11-08T13:56:01.665668+00:00"
+  "built_at": "2026-11-08T18:34:15.325418+00:00"
  },
  {
   "key": "bundesliga",
@@ -50,14 +50,14 @@
   "country": "Germany",
   "season": "2026-27",
   "teams": 18,
-  "played": 78,
+  "played": 80,
   "matches": 306,
   "current_round": 9,
-  "next_round": 9,
+  "next_round": 10,
   "total_rounds": 34,
-  "xg_coverage": 78,
+  "xg_coverage": 80,
   "leader": "Bayern M\u00fcnchen",
-  "built_at": "2026-11-08T13:56:03.762557+00:00"
+  "built_at": "2026-11-08T18:34:23.221283+00:00"
  },
  {
   "key": "ligue1",
@@ -65,13 +65,13 @@
   "country": "France",
   "season": "2026-27",
   "teams": 18,
-  "played": 84,
+  "played": 89,
   "matches": 306,
   "current_round": 10,
   "next_round": 10,
   "total_rounds": 34,
-  "xg_coverage": 84,
+  "xg_coverage": 89,
   "leader": "Paris Saint-Germain",
-  "built_at": "2026-11-08T13:56:06.049772+00:00"
+  "built_at": "2026-11-08T18:34:39.585584+00:00"
  }
 ]
