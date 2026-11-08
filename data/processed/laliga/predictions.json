@@ -20140,7 +20140,7 @@
   "round": 12,
   "home": "Elche",
   "away": "Real Betis",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 6,
    "goals": 1.33,
@@ -20167,8 +20167,8 @@
    "form": "WDWLDW",
    "possession_pct": 55.0
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 1.639,
   "pred_xg_away": 1.456,

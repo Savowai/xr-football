@@ -42,14 +42,14 @@
   "position": 4,
   "team": "Real Betis",
   "fotmob_team_id": "8603",
-  "played": 11,
+  "played": 12,
   "won": 7,
-  "drawn": 2,
+  "drawn": 3,
   "lost": 2,
   "gf": 18,
   "ga": 15,
   "gd": 3,
-  "points": 23
+  "points": 24
  },
  {
   "position": 5,
@@ -211,14 +211,14 @@
   "position": 17,
   "team": "Elche",
   "fotmob_team_id": "10268",
-  "played": 11,
+  "played": 12,
   "won": 2,
-  "drawn": 4,
+  "drawn": 5,
   "lost": 5,
   "gf": 14,
   "ga": 18,
   "gd": -4,
-  "points": 10
+  "points": 11
  },
  {
   "position": 18,
