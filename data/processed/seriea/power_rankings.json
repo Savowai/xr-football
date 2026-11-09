@@ -5,7 +5,7 @@
   "defence": 0.743,
   "expected_gf_per_game": 2.26,
   "expected_ga_per_game": 1.1,
-  "net_rating": 1.162,
+  "net_rating": 1.161,
   "evidence_matches": 9.4,
   "rank": 1
  },
@@ -13,7 +13,7 @@
   "team": "Roma",
   "attack": 1.461,
   "defence": 0.823,
-  "expected_gf_per_game": 2.16,
+  "expected_gf_per_game": 2.15,
   "expected_ga_per_game": 1.21,
   "net_rating": 0.941,
   "evidence_matches": 9.4,
@@ -21,11 +21,11 @@
  },
  {
   "team": "Napoli",
-  "attack": 1.159,
-  "defence": 0.774,
+  "attack": 1.158,
+  "defence": 0.775,
   "expected_gf_per_game": 1.71,
   "expected_ga_per_game": 1.14,
-  "net_rating": 0.567,
+  "net_rating": 0.566,
   "evidence_matches": 9.4,
   "rank": 3
  },
@@ -51,8 +51,8 @@
  },
  {
   "team": "Lazio",
-  "attack": 1.086,
-  "defence": 0.853,
+  "attack": 1.085,
+  "defence": 0.854,
   "expected_gf_per_game": 1.6,
   "expected_ga_per_game": 1.26,
   "net_rating": 0.342,
@@ -65,7 +65,7 @@
   "defence": 0.887,
   "expected_gf_per_game": 1.65,
   "expected_ga_per_game": 1.31,
-  "net_rating": 0.339,
+  "net_rating": 0.338,
   "evidence_matches": 9.4,
   "rank": 7
  },
@@ -95,7 +95,7 @@
   "defence": 1.086,
   "expected_gf_per_game": 1.5,
   "expected_ga_per_game": 1.6,
-  "net_rating": -0.101,
+  "net_rating": -0.1,
   "evidence_matches": 9.4,
   "rank": 10
  },
@@ -125,7 +125,7 @@
   "defence": 1.001,
   "expected_gf_per_game": 1.22,
   "expected_ga_per_game": 1.48,
-  "net_rating": -0.254,
+  "net_rating": -0.253,
   "evidence_matches": 9.4,
   "rank": 13
  },
@@ -135,7 +135,7 @@
   "defence": 1.123,
   "expected_gf_per_game": 1.39,
   "expected_ga_per_game": 1.66,
-  "net_rating": -0.268,
+  "net_rating": -0.269,
   "evidence_matches": 9.4,
   "rank": 14
  },
@@ -161,7 +161,7 @@
  },
  {
   "team": "Venezia",
-  "attack": 0.798,
+  "attack": 0.799,
   "defence": 1.153,
   "expected_gf_per_game": 1.18,
   "expected_ga_per_game": 1.7,
@@ -175,17 +175,17 @@
   "defence": 1.188,
   "expected_gf_per_game": 1.17,
   "expected_ga_per_game": 1.75,
-  "net_rating": -0.579,
+  "net_rating": -0.578,
   "evidence_matches": 9.4,
   "rank": 18
  },
  {
   "team": "Udinese",
   "attack": 0.812,
-  "defence": 1.311,
+  "defence": 1.31,
   "expected_gf_per_game": 1.2,
   "expected_ga_per_game": 1.93,
-  "net_rating": -0.736,
+  "net_rating": -0.735,
   "evidence_matches": 9.4,
   "rank": 19
  },
@@ -193,9 +193,9 @@
   "team": "Parma",
   "attack": 0.648,
   "defence": 1.15,
-  "expected_gf_per_game": 0.95,
+  "expected_gf_per_game": 0.96,
   "expected_ga_per_game": 1.7,
-  "net_rating": -0.741,
+  "net_rating": -0.74,
   "evidence_matches": 9.4,
   "rank": 20
  }

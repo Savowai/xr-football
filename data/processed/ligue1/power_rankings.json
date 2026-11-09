@@ -11,7 +11,7 @@
  },
  {
   "team": "Brest",
-  "attack": 1.162,
+  "attack": 1.161,
   "defence": 0.914,
   "expected_gf_per_game": 1.52,
   "expected_ga_per_game": 1.2,
@@ -25,14 +25,14 @@
   "defence": 0.801,
   "expected_gf_per_game": 1.37,
   "expected_ga_per_game": 1.05,
-  "net_rating": 0.321,
+  "net_rating": 0.32,
   "evidence_matches": 8.4,
   "rank": 3
  },
  {
   "team": "Lyon",
   "attack": 0.974,
-  "defence": 0.787,
+  "defence": 0.788,
   "expected_gf_per_game": 1.28,
   "expected_ga_per_game": 1.03,
   "net_rating": 0.245,
@@ -45,13 +45,13 @@
   "defence": 1.009,
   "expected_gf_per_game": 1.52,
   "expected_ga_per_game": 1.32,
-  "net_rating": 0.196,
+  "net_rating": 0.197,
   "evidence_matches": 8.4,
   "rank": 5
  },
  {
   "team": "Lille",
-  "attack": 0.905,
+  "attack": 0.906,
   "defence": 0.77,
   "expected_gf_per_game": 1.19,
   "expected_ga_per_game": 1.01,
@@ -74,29 +74,29 @@
   "attack": 0.952,
   "defence": 0.896,
   "expected_gf_per_game": 1.25,
-  "expected_ga_per_game": 1.17,
-  "net_rating": 0.073,
+  "expected_ga_per_game": 1.18,
+  "net_rating": 0.074,
   "evidence_matches": 8.4,
   "rank": 8
  },
  {
   "team": "Marseille",
   "attack": 1.179,
-  "defence": 1.132,
+  "defence": 1.131,
   "expected_gf_per_game": 1.55,
   "expected_ga_per_game": 1.48,
   "net_rating": 0.062,
-  "evidence_matches": 8.5,
+  "evidence_matches": 8.4,
   "rank": 9
  },
  {
   "team": "Lorient",
   "attack": 0.818,
-  "defence": 0.78,
+  "defence": 0.781,
   "expected_gf_per_game": 1.07,
   "expected_ga_per_game": 1.02,
   "net_rating": 0.049,
-  "evidence_matches": 8.5,
+  "evidence_matches": 8.4,
   "rank": 10
  },
  {
@@ -111,7 +111,7 @@
  },
  {
   "team": "Strasbourg",
-  "attack": 1.004,
+  "attack": 1.005,
   "defence": 1.07,
   "expected_gf_per_game": 1.32,
   "expected_ga_per_game": 1.4,
@@ -162,10 +162,10 @@
  {
   "team": "Auxerre",
   "attack": 0.827,
-  "defence": 1.19,
+  "defence": 1.189,
   "expected_gf_per_game": 1.08,
   "expected_ga_per_game": 1.56,
-  "net_rating": -0.476,
+  "net_rating": -0.475,
   "evidence_matches": 8.4,
   "rank": 17
  },
@@ -176,7 +176,7 @@
   "expected_gf_per_game": 0.98,
   "expected_ga_per_game": 1.57,
   "net_rating": -0.589,
-  "evidence_matches": 8.5,
+  "evidence_matches": 8.4,
   "rank": 18
  }
 ]
