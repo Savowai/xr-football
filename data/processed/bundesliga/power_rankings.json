@@ -1,18 +1,18 @@
 [
  {
   "team": "Bayern M\u00fcnchen",
-  "attack": 1.838,
+  "attack": 1.837,
   "defence": 0.681,
   "expected_gf_per_game": 2.69,
   "expected_ga_per_game": 1.0,
-  "net_rating": 1.692,
+  "net_rating": 1.691,
   "evidence_matches": 7.6,
   "rank": 1
  },
  {
   "team": "RB Leipzig",
   "attack": 1.293,
-  "defence": 0.893,
+  "defence": 0.894,
   "expected_gf_per_game": 1.89,
   "expected_ga_per_game": 1.31,
   "net_rating": 0.584,
@@ -22,7 +22,7 @@
  {
   "team": "Borussia Dortmund",
   "attack": 0.996,
-  "defence": 0.739,
+  "defence": 0.74,
   "expected_gf_per_game": 1.46,
   "expected_ga_per_game": 1.08,
   "net_rating": 0.375,
@@ -31,11 +31,11 @@
  },
  {
   "team": "Freiburg",
-  "attack": 1.007,
-  "defence": 0.766,
+  "attack": 1.006,
+  "defence": 0.767,
   "expected_gf_per_game": 1.47,
   "expected_ga_per_game": 1.12,
-  "net_rating": 0.351,
+  "net_rating": 0.35,
   "evidence_matches": 7.6,
   "rank": 4
  },
@@ -65,7 +65,7 @@
   "defence": 1.062,
   "expected_gf_per_game": 1.61,
   "expected_ga_per_game": 1.55,
-  "net_rating": 0.057,
+  "net_rating": 0.058,
   "evidence_matches": 7.6,
   "rank": 7
  },
@@ -92,7 +92,7 @@
  {
   "team": "Augsburg",
   "attack": 1.136,
-  "defence": 1.233,
+  "defence": 1.232,
   "expected_gf_per_game": 1.66,
   "expected_ga_per_game": 1.8,
   "net_rating": -0.141,
@@ -132,7 +132,7 @@
  {
   "team": "Paderborn",
   "attack": 0.701,
-  "defence": 0.978,
+  "defence": 0.979,
   "expected_gf_per_game": 1.03,
   "expected_ga_per_game": 1.43,
   "net_rating": -0.406,
@@ -141,8 +141,8 @@
  },
  {
   "team": "Schalke 04",
-  "attack": 0.669,
-  "defence": 0.988,
+  "attack": 0.67,
+  "defence": 0.989,
   "expected_gf_per_game": 0.98,
   "expected_ga_per_game": 1.45,
   "net_rating": -0.467,
@@ -155,7 +155,7 @@
   "defence": 1.212,
   "expected_gf_per_game": 1.29,
   "expected_ga_per_game": 1.77,
-  "net_rating": -0.479,
+  "net_rating": -0.478,
   "evidence_matches": 7.6,
   "rank": 16
  },
@@ -171,11 +171,11 @@
  },
  {
   "team": "Union Berlin",
-  "attack": 0.695,
+  "attack": 0.696,
   "defence": 1.071,
   "expected_gf_per_game": 1.02,
   "expected_ga_per_game": 1.57,
-  "net_rating": -0.549,
+  "net_rating": -0.548,
   "evidence_matches": 7.6,
   "rank": 18
  }
