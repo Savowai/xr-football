@@ -1594,7 +1594,7 @@
  },
  {
   "date": "2026-08-28",
-  "kickoff_datetime": "2026-08-28T19:00:00Z",
+  "kickoff_datetime": "2026-08-28T18:45:00Z",
   "round": 2,
   "home": "Lille",
   "away": "Paris Saint-Germain",
@@ -25896,7 +25896,7 @@
  },
  {
   "date": "2027-02-06",
-  "kickoff_datetime": "2027-02-06T16:00:00Z",
+  "kickoff_datetime": "2027-02-06T00:00:00Z",
   "round": 19,
   "home": "Auxerre",
   "away": "Monaco",
@@ -26032,7 +26032,7 @@
  },
  {
   "date": "2027-02-06",
-  "kickoff_datetime": "2027-02-06T16:00:00Z",
+  "kickoff_datetime": "2027-02-06T00:00:00Z",
   "round": 19,
   "home": "Le Havre",
   "away": "Toulouse",
@@ -26166,7 +26166,7 @@
  },
  {
   "date": "2027-02-06",
-  "kickoff_datetime": "2027-02-06T16:00:00Z",
+  "kickoff_datetime": "2027-02-06T00:00:00Z",
   "round": 19,
   "home": "Lens",
   "away": "Angers",
@@ -26302,7 +26302,7 @@
  },
  {
   "date": "2027-02-06",
-  "kickoff_datetime": "2027-02-06T16:00:00Z",
+  "kickoff_datetime": "2027-02-06T00:00:00Z",
   "round": 19,
   "home": "Lorient",
   "away": "Le Mans",
@@ -26436,7 +26436,7 @@
  },
  {
   "date": "2027-02-06",
-  "kickoff_datetime": "2027-02-06T16:00:00Z",
+  "kickoff_datetime": "2027-02-06T00:00:00Z",
   "round": 19,
   "home": "Nice",
   "away": "Brest",
@@ -26572,7 +26572,7 @@
  },
  {
   "date": "2027-02-06",
-  "kickoff_datetime": "2027-02-06T16:00:00Z",
+  "kickoff_datetime": "2027-02-06T00:00:00Z",
   "round": 19,
   "home": "Rennes",
   "away": "Lyon",
@@ -26706,7 +26706,7 @@
  },
  {
   "date": "2027-02-06",
-  "kickoff_datetime": "2027-02-06T16:00:00Z",
+  "kickoff_datetime": "2027-02-06T00:00:00Z",
   "round": 19,
   "home": "Strasbourg",
   "away": "Paris FC",
@@ -26840,7 +26840,7 @@
  },
  {
   "date": "2027-02-06",
-  "kickoff_datetime": "2027-02-06T16:00:00Z",
+  "kickoff_datetime": "2027-02-06T00:00:00Z",
   "round": 19,
   "home": "Troyes",
   "away": "Lille",
@@ -27108,7 +27108,7 @@
  },
  {
   "date": "2027-02-13",
-  "kickoff_datetime": "2027-02-13T16:00:00Z",
+  "kickoff_datetime": "2027-02-13T00:00:00Z",
   "round": 20,
   "home": "Auxerre",
   "away": "Strasbourg",
@@ -27244,7 +27244,7 @@
  },
  {
   "date": "2027-02-13",
-  "kickoff_datetime": "2027-02-13T16:00:00Z",
+  "kickoff_datetime": "2027-02-13T00:00:00Z",
   "round": 20,
   "home": "Brest",
   "away": "Rennes",
@@ -27378,7 +27378,7 @@
  },
  {
   "date": "2027-02-13",
-  "kickoff_datetime": "2027-02-13T16:00:00Z",
+  "kickoff_datetime": "2027-02-13T00:00:00Z",
   "round": 20,
   "home": "Le Mans",
   "away": "Paris Saint-Germain",
@@ -27512,7 +27512,7 @@
  },
  {
   "date": "2027-02-13",
-  "kickoff_datetime": "2027-02-13T16:00:00Z",
+  "kickoff_datetime": "2027-02-13T00:00:00Z",
   "round": 20,
   "home": "Lille",
   "away": "Nice",
@@ -27648,7 +27648,7 @@
  },
  {
   "date": "2027-02-13",
-  "kickoff_datetime": "2027-02-13T16:00:00Z",
+  "kickoff_datetime": "2027-02-13T00:00:00Z",
   "round": 20,
   "home": "Lorient",
   "away": "Le Havre",
@@ -27782,7 +27782,7 @@
  },
  {
   "date": "2027-02-13",
-  "kickoff_datetime": "2027-02-13T16:00:00Z",
+  "kickoff_datetime": "2027-02-13T00:00:00Z",
   "round": 20,
   "home": "Lyon",
   "away": "Lens",
@@ -27918,7 +27918,7 @@
  },
  {
   "date": "2027-02-13",
-  "kickoff_datetime": "2027-02-13T16:00:00Z",
+  "kickoff_datetime": "2027-02-13T00:00:00Z",
   "round": 20,
   "home": "Marseille",
   "away": "Angers",
@@ -28052,7 +28052,7 @@
  },
  {
   "date": "2027-02-13",
-  "kickoff_datetime": "2027-02-13T16:00:00Z",
+  "kickoff_datetime": "2027-02-13T00:00:00Z",
   "round": 20,
   "home": "Paris FC",
   "away": "Troyes",
@@ -28186,7 +28186,7 @@
  },
  {
   "date": "2027-02-13",
-  "kickoff_datetime": "2027-02-13T16:00:00Z",
+  "kickoff_datetime": "2027-02-13T00:00:00Z",
   "round": 20,
   "home": "Toulouse",
   "away": "Monaco",
@@ -28320,7 +28320,7 @@
  },
  {
   "date": "2027-02-20",
-  "kickoff_datetime": "2027-02-20T16:00:00Z",
+  "kickoff_datetime": "2027-02-20T00:00:00Z",
   "round": 21,
   "home": "Angers",
   "away": "Paris FC",
@@ -28454,7 +28454,7 @@
  },
  {
   "date": "2027-02-20",
-  "kickoff_datetime": "2027-02-20T16:00:00Z",
+  "kickoff_datetime": "2027-02-20T00:00:00Z",
   "round": 21,
   "home": "Le Havre",
   "away": "Lyon",
@@ -28588,7 +28588,7 @@
  },
  {
   "date": "2027-02-20",
-  "kickoff_datetime": "2027-02-20T16:00:00Z",
+  "kickoff_datetime": "2027-02-20T00:00:00Z",
   "round": 21,
   "home": "Lens",
   "away": "Troyes",
@@ -28724,7 +28724,7 @@
  },
  {
   "date": "2027-02-20",
-  "kickoff_datetime": "2027-02-20T16:00:00Z",
+  "kickoff_datetime": "2027-02-20T00:00:00Z",
   "round": 21,
   "home": "Lille",
   "away": "Lorient",
@@ -28858,7 +28858,7 @@
  },
  {
   "date": "2027-02-20",
-  "kickoff_datetime": "2027-02-20T16:00:00Z",
+  "kickoff_datetime": "2027-02-20T00:00:00Z",
   "round": 21,
   "home": "Monaco",
   "away": "Le Mans",
@@ -28992,7 +28992,7 @@
  },
  {
   "date": "2027-02-20",
-  "kickoff_datetime": "2027-02-20T16:00:00Z",
+  "kickoff_datetime": "2027-02-20T00:00:00Z",
   "round": 21,
   "home": "Nice",
   "away": "Auxerre",
@@ -29130,7 +29130,7 @@
  },
  {
   "date": "2027-02-20",
-  "kickoff_datetime": "2027-02-20T16:00:00Z",
+  "kickoff_datetime": "2027-02-20T00:00:00Z",
   "round": 21,
   "home": "Paris Saint-Germain",
   "away": "Brest",
@@ -29264,7 +29264,7 @@
  },
  {
   "date": "2027-02-20",
-  "kickoff_datetime": "2027-02-20T16:00:00Z",
+  "kickoff_datetime": "2027-02-20T00:00:00Z",
   "round": 21,
   "home": "Rennes",
   "away": "Toulouse",
@@ -29398,7 +29398,7 @@
  },
  {
   "date": "2027-02-20",
-  "kickoff_datetime": "2027-02-20T16:00:00Z",
+  "kickoff_datetime": "2027-02-20T00:00:00Z",
   "round": 21,
   "home": "Strasbourg",
   "away": "Marseille",
@@ -29532,7 +29532,7 @@
  },
  {
   "date": "2027-02-27",
-  "kickoff_datetime": "2027-02-27T16:00:00Z",
+  "kickoff_datetime": "2027-02-27T00:00:00Z",
   "round": 22,
   "home": "Auxerre",
   "away": "Lille",
@@ -29668,7 +29668,7 @@
  },
  {
   "date": "2027-02-27",
-  "kickoff_datetime": "2027-02-27T16:00:00Z",
+  "kickoff_datetime": "2027-02-27T00:00:00Z",
   "round": 22,
   "home": "Brest",
   "away": "Monaco",
@@ -29802,7 +29802,7 @@
  },
  {
   "date": "2027-02-27",
-  "kickoff_datetime": "2027-02-27T16:00:00Z",
+  "kickoff_datetime": "2027-02-27T00:00:00Z",
   "round": 22,
   "home": "Le Mans",
   "away": "Paris FC",
@@ -29936,7 +29936,7 @@
  },
  {
   "date": "2027-02-27",
-  "kickoff_datetime": "2027-02-27T16:00:00Z",
+  "kickoff_datetime": "2027-02-27T00:00:00Z",
   "round": 22,
   "home": "Lorient",
   "away": "Angers",
@@ -30070,7 +30070,7 @@
  },
  {
   "date": "2027-02-27",
-  "kickoff_datetime": "2027-02-27T16:00:00Z",
+  "kickoff_datetime": "2027-02-27T00:00:00Z",
   "round": 22,
   "home": "Lyon",
   "away": "Toulouse",
@@ -30204,7 +30204,7 @@
  },
  {
   "date": "2027-02-27",
-  "kickoff_datetime": "2027-02-27T16:00:00Z",
+  "kickoff_datetime": "2027-02-27T00:00:00Z",
   "round": 22,
   "home": "Marseille",
   "away": "Rennes",
@@ -30338,7 +30338,7 @@
  },
  {
   "date": "2027-02-27",
-  "kickoff_datetime": "2027-02-27T16:00:00Z",
+  "kickoff_datetime": "2027-02-27T00:00:00Z",
   "round": 22,
   "home": "Strasbourg",
   "away": "Le Havre",
@@ -30472,7 +30472,7 @@
  },
  {
   "date": "2027-02-27",
-  "kickoff_datetime": "2027-02-27T16:00:00Z",
+  "kickoff_datetime": "2027-02-27T00:00:00Z",
   "round": 22,
   "home": "Troyes",
   "away": "Nice",
@@ -30744,7 +30744,7 @@
  },
  {
   "date": "2027-03-06",
-  "kickoff_datetime": "2027-03-06T16:00:00Z",
+  "kickoff_datetime": "2027-03-06T00:00:00Z",
   "round": 23,
   "home": "Angers",
   "away": "Auxerre",
@@ -30880,7 +30880,7 @@
  },
  {
   "date": "2027-03-06",
-  "kickoff_datetime": "2027-03-06T16:00:00Z",
+  "kickoff_datetime": "2027-03-06T00:00:00Z",
   "round": 23,
   "home": "Le Havre",
   "away": "Nice",
@@ -31016,7 +31016,7 @@
  },
  {
   "date": "2027-03-06",
-  "kickoff_datetime": "2027-03-06T16:00:00Z",
+  "kickoff_datetime": "2027-03-06T00:00:00Z",
   "round": 23,
   "home": "Lens",
   "away": "Strasbourg",
@@ -31152,7 +31152,7 @@
  },
  {
   "date": "2027-03-06",
-  "kickoff_datetime": "2027-03-06T16:00:00Z",
+  "kickoff_datetime": "2027-03-06T00:00:00Z",
   "round": 23,
   "home": "Lille",
   "away": "Marseille",
@@ -31286,7 +31286,7 @@
  },
  {
   "date": "2027-03-06",
-  "kickoff_datetime": "2027-03-06T16:00:00Z",
+  "kickoff_datetime": "2027-03-06T00:00:00Z",
   "round": 23,
   "home": "Monaco",
   "away": "Lyon",
@@ -31420,7 +31420,7 @@
  },
  {
   "date": "2027-03-06",
-  "kickoff_datetime": "2027-03-06T16:00:00Z",
+  "kickoff_datetime": "2027-03-06T00:00:00Z",
   "round": 23,
   "home": "Paris FC",
   "away": "Brest",
@@ -31554,7 +31554,7 @@
  },
  {
   "date": "2027-03-06",
-  "kickoff_datetime": "2027-03-06T16:00:00Z",
+  "kickoff_datetime": "2027-03-06T00:00:00Z",
   "round": 23,
   "home": "Paris Saint-Germain",
   "away": "Rennes",
@@ -31688,7 +31688,7 @@
  },
  {
   "date": "2027-03-06",
-  "kickoff_datetime": "2027-03-06T16:00:00Z",
+  "kickoff_datetime": "2027-03-06T00:00:00Z",
   "round": 23,
   "home": "Toulouse",
   "away": "Le Mans",
@@ -31822,7 +31822,7 @@
  },
  {
   "date": "2027-03-06",
-  "kickoff_datetime": "2027-03-06T16:00:00Z",
+  "kickoff_datetime": "2027-03-06T00:00:00Z",
   "round": 23,
   "home": "Troyes",
   "away": "Lorient",
@@ -31956,7 +31956,7 @@
  },
  {
   "date": "2027-03-13",
-  "kickoff_datetime": "2027-03-13T16:00:00Z",
+  "kickoff_datetime": "2027-03-13T00:00:00Z",
   "round": 24,
   "home": "Auxerre",
   "away": "Paris Saint-Germain",
@@ -32092,7 +32092,7 @@
  },
  {
   "date": "2027-03-13",
-  "kickoff_datetime": "2027-03-13T16:00:00Z",
+  "kickoff_datetime": "2027-03-13T00:00:00Z",
   "round": 24,
   "home": "Brest",
   "away": "Lille",
@@ -32226,7 +32226,7 @@
  },
  {
   "date": "2027-03-13",
-  "kickoff_datetime": "2027-03-13T16:00:00Z",
+  "kickoff_datetime": "2027-03-13T00:00:00Z",
   "round": 24,
   "home": "Le Havre",
   "away": "Lens",
@@ -32362,7 +32362,7 @@
  },
  {
   "date": "2027-03-13",
-  "kickoff_datetime": "2027-03-13T16:00:00Z",
+  "kickoff_datetime": "2027-03-13T00:00:00Z",
   "round": 24,
   "home": "Le Mans",
   "away": "Rennes",
@@ -32496,7 +32496,7 @@
  },
  {
   "date": "2027-03-13",
-  "kickoff_datetime": "2027-03-13T16:00:00Z",
+  "kickoff_datetime": "2027-03-13T00:00:00Z",
   "round": 24,
   "home": "Lyon",
   "away": "Troyes",
@@ -32630,7 +32630,7 @@
  },
  {
   "date": "2027-03-13",
-  "kickoff_datetime": "2027-03-13T16:00:00Z",
+  "kickoff_datetime": "2027-03-13T00:00:00Z",
   "round": 24,
   "home": "Marseille",
   "away": "Monaco",
@@ -32764,7 +32764,7 @@
  },
  {
   "date": "2027-03-13",
-  "kickoff_datetime": "2027-03-13T16:00:00Z",
+  "kickoff_datetime": "2027-03-13T00:00:00Z",
   "round": 24,
   "home": "Nice",
   "away": "Toulouse",
@@ -32900,7 +32900,7 @@
  },
  {
   "date": "2027-03-13",
-  "kickoff_datetime": "2027-03-13T16:00:00Z",
+  "kickoff_datetime": "2027-03-13T00:00:00Z",
   "round": 24,
   "home": "Paris FC",
   "away": "Lorient",
@@ -33034,7 +33034,7 @@
  },
  {
   "date": "2027-03-13",
-  "kickoff_datetime": "2027-03-13T16:00:00Z",
+  "kickoff_datetime": "2027-03-13T00:00:00Z",
   "round": 24,
   "home": "Strasbourg",
   "away": "Angers",
@@ -33168,7 +33168,7 @@
  },
  {
   "date": "2027-03-20",
-  "kickoff_datetime": "2027-03-20T16:00:00Z",
+  "kickoff_datetime": "2027-03-20T00:00:00Z",
   "round": 25,
   "home": "Angers",
   "away": "Le Mans",
@@ -33302,7 +33302,7 @@
  },
  {
   "date": "2027-03-20",
-  "kickoff_datetime": "2027-03-20T16:00:00Z",
+  "kickoff_datetime": "2027-03-20T00:00:00Z",
   "round": 25,
   "home": "Lens",
   "away": "Lille",
@@ -33438,7 +33438,7 @@
  },
  {
   "date": "2027-03-20",
-  "kickoff_datetime": "2027-03-20T16:00:00Z",
+  "kickoff_datetime": "2027-03-20T00:00:00Z",
   "round": 25,
   "home": "Lorient",
   "away": "Nice",
@@ -33574,7 +33574,7 @@
  },
  {
   "date": "2027-03-20",
-  "kickoff_datetime": "2027-03-20T16:00:00Z",
+  "kickoff_datetime": "2027-03-20T00:00:00Z",
   "round": 25,
   "home": "Monaco",
   "away": "Le Havre",
@@ -33708,7 +33708,7 @@
  },
  {
   "date": "2027-03-20",
-  "kickoff_datetime": "2027-03-20T16:00:00Z",
+  "kickoff_datetime": "2027-03-20T00:00:00Z",
   "round": 25,
   "home": "Paris Saint-Germain",
   "away": "Strasbourg",
@@ -33842,7 +33842,7 @@
  },
  {
   "date": "2027-03-20",
-  "kickoff_datetime": "2027-03-20T16:00:00Z",
+  "kickoff_datetime": "2027-03-20T00:00:00Z",
   "round": 25,
   "home": "Rennes",
   "away": "Paris FC",
@@ -33976,7 +33976,7 @@
  },
  {
   "date": "2027-03-20",
-  "kickoff_datetime": "2027-03-20T16:00:00Z",
+  "kickoff_datetime": "2027-03-20T00:00:00Z",
   "round": 25,
   "home": "Toulouse",
   "away": "Brest",
@@ -34110,7 +34110,7 @@
  },
  {
   "date": "2027-03-20",
-  "kickoff_datetime": "2027-03-20T16:00:00Z",
+  "kickoff_datetime": "2027-03-20T00:00:00Z",
   "round": 25,
   "home": "Troyes",
   "away": "Auxerre",
@@ -34380,7 +34380,7 @@
  },
  {
   "date": "2027-04-03",
-  "kickoff_datetime": "2027-04-03T15:00:00Z",
+  "kickoff_datetime": "2027-04-03T00:00:00Z",
   "round": 26,
   "home": "Angers",
   "away": "Monaco",
@@ -34514,7 +34514,7 @@
  },
  {
   "date": "2027-04-03",
-  "kickoff_datetime": "2027-04-03T15:00:00Z",
+  "kickoff_datetime": "2027-04-03T00:00:00Z",
   "round": 26,
   "home": "Auxerre",
   "away": "Lens",
@@ -34652,7 +34652,7 @@
  },
  {
   "date": "2027-04-03",
-  "kickoff_datetime": "2027-04-03T15:00:00Z",
+  "kickoff_datetime": "2027-04-03T00:00:00Z",
   "round": 26,
   "home": "Brest",
   "away": "Lorient",
@@ -34786,7 +34786,7 @@
  },
  {
   "date": "2027-04-03",
-  "kickoff_datetime": "2027-04-03T15:00:00Z",
+  "kickoff_datetime": "2027-04-03T00:00:00Z",
   "round": 26,
   "home": "Le Havre",
   "away": "Troyes",
@@ -34920,7 +34920,7 @@
  },
  {
   "date": "2027-04-03",
-  "kickoff_datetime": "2027-04-03T15:00:00Z",
+  "kickoff_datetime": "2027-04-03T00:00:00Z",
   "round": 26,
   "home": "Le Mans",
   "away": "Marseille",
@@ -35054,7 +35054,7 @@
  },
  {
   "date": "2027-04-03",
-  "kickoff_datetime": "2027-04-03T15:00:00Z",
+  "kickoff_datetime": "2027-04-03T00:00:00Z",
   "round": 26,
   "home": "Lille",
   "away": "Rennes",
@@ -35188,7 +35188,7 @@
  },
  {
   "date": "2027-04-03",
-  "kickoff_datetime": "2027-04-03T15:00:00Z",
+  "kickoff_datetime": "2027-04-03T00:00:00Z",
   "round": 26,
   "home": "Nice",
   "away": "Lyon",
@@ -35324,7 +35324,7 @@
  },
  {
   "date": "2027-04-03",
-  "kickoff_datetime": "2027-04-03T15:00:00Z",
+  "kickoff_datetime": "2027-04-03T00:00:00Z",
   "round": 26,
   "home": "Paris FC",
   "away": "Paris Saint-Germain",
@@ -35458,7 +35458,7 @@
  },
  {
   "date": "2027-04-03",
-  "kickoff_datetime": "2027-04-03T15:00:00Z",
+  "kickoff_datetime": "2027-04-03T00:00:00Z",
   "round": 26,
   "home": "Strasbourg",
   "away": "Toulouse",
@@ -35592,7 +35592,7 @@
  },
  {
   "date": "2027-04-10",
-  "kickoff_datetime": "2027-04-10T15:00:00Z",
+  "kickoff_datetime": "2027-04-10T00:00:00Z",
   "round": 27,
   "home": "Le Mans",
   "away": "Auxerre",
@@ -35728,7 +35728,7 @@
  },
  {
   "date": "2027-04-10",
-  "kickoff_datetime": "2027-04-10T15:00:00Z",
+  "kickoff_datetime": "2027-04-10T00:00:00Z",
   "round": 27,
   "home": "Lille",
   "away": "Toulouse",
@@ -35862,7 +35862,7 @@
  },
  {
   "date": "2027-04-10",
-  "kickoff_datetime": "2027-04-10T15:00:00Z",
+  "kickoff_datetime": "2027-04-10T00:00:00Z",
   "round": 27,
   "home": "Lorient",
   "away": "Lens",
@@ -35998,7 +35998,7 @@
  },
  {
   "date": "2027-04-10",
-  "kickoff_datetime": "2027-04-10T15:00:00Z",
+  "kickoff_datetime": "2027-04-10T00:00:00Z",
   "round": 27,
   "home": "Lyon",
   "away": "Strasbourg",
@@ -36132,7 +36132,7 @@
  },
  {
   "date": "2027-04-10",
-  "kickoff_datetime": "2027-04-10T15:00:00Z",
+  "kickoff_datetime": "2027-04-10T00:00:00Z",
   "round": 27,
   "home": "Marseille",
   "away": "Brest",
@@ -36266,7 +36266,7 @@
  },
  {
   "date": "2027-04-10",
-  "kickoff_datetime": "2027-04-10T15:00:00Z",
+  "kickoff_datetime": "2027-04-10T00:00:00Z",
   "round": 27,
   "home": "Monaco",
   "away": "Rennes",
@@ -36400,7 +36400,7 @@
  },
  {
   "date": "2027-04-10",
-  "kickoff_datetime": "2027-04-10T15:00:00Z",
+  "kickoff_datetime": "2027-04-10T00:00:00Z",
   "round": 27,
   "home": "Nice",
   "away": "Paris FC",
@@ -36536,7 +36536,7 @@
  },
  {
   "date": "2027-04-10",
-  "kickoff_datetime": "2027-04-10T15:00:00Z",
+  "kickoff_datetime": "2027-04-10T00:00:00Z",
   "round": 27,
   "home": "Paris Saint-Germain",
   "away": "Le Havre",
@@ -36670,7 +36670,7 @@
  },
  {
   "date": "2027-04-10",
-  "kickoff_datetime": "2027-04-10T15:00:00Z",
+  "kickoff_datetime": "2027-04-10T00:00:00Z",
   "round": 27,
   "home": "Troyes",
   "away": "Angers",
@@ -36804,7 +36804,7 @@
  },
  {
   "date": "2027-04-17",
-  "kickoff_datetime": "2027-04-17T15:00:00Z",
+  "kickoff_datetime": "2027-04-17T00:00:00Z",
   "round": 28,
   "home": "Angers",
   "away": "Lyon",
@@ -36938,7 +36938,7 @@
  },
  {
   "date": "2027-04-17",
-  "kickoff_datetime": "2027-04-17T15:00:00Z",
+  "kickoff_datetime": "2027-04-17T00:00:00Z",
   "round": 28,
   "home": "Auxerre",
   "away": "Lorient",
@@ -37074,7 +37074,7 @@
  },
  {
   "date": "2027-04-17",
-  "kickoff_datetime": "2027-04-17T15:00:00Z",
+  "kickoff_datetime": "2027-04-17T00:00:00Z",
   "round": 28,
   "home": "Brest",
   "away": "Le Mans",
@@ -37208,7 +37208,7 @@
  },
  {
   "date": "2027-04-17",
-  "kickoff_datetime": "2027-04-17T15:00:00Z",
+  "kickoff_datetime": "2027-04-17T00:00:00Z",
   "round": 28,
   "home": "Le Havre",
   "away": "Marseille",
@@ -37342,7 +37342,7 @@
  },
  {
   "date": "2027-04-17",
-  "kickoff_datetime": "2027-04-17T15:00:00Z",
+  "kickoff_datetime": "2027-04-17T00:00:00Z",
   "round": 28,
   "home": "Lens",
   "away": "Nice",
@@ -37480,7 +37480,7 @@
  },
  {
   "date": "2027-04-17",
-  "kickoff_datetime": "2027-04-17T15:00:00Z",
+  "kickoff_datetime": "2027-04-17T00:00:00Z",
   "round": 28,
   "home": "Monaco",
   "away": "Strasbourg",
@@ -37614,7 +37614,7 @@
  },
  {
   "date": "2027-04-17",
-  "kickoff_datetime": "2027-04-17T15:00:00Z",
+  "kickoff_datetime": "2027-04-17T00:00:00Z",
   "round": 28,
   "home": "Paris Saint-Germain",
   "away": "Lille",
@@ -37748,7 +37748,7 @@
  },
  {
   "date": "2027-04-17",
-  "kickoff_datetime": "2027-04-17T15:00:00Z",
+  "kickoff_datetime": "2027-04-17T00:00:00Z",
   "round": 28,
   "home": "Rennes",
   "away": "Troyes",
@@ -37882,7 +37882,7 @@
  },
  {
   "date": "2027-04-17",
-  "kickoff_datetime": "2027-04-17T15:00:00Z",
+  "kickoff_datetime": "2027-04-17T00:00:00Z",
   "round": 28,
   "home": "Toulouse",
   "away": "Paris FC",
@@ -38016,7 +38016,7 @@
  },
  {
   "date": "2027-04-24",
-  "kickoff_datetime": "2027-04-24T15:00:00Z",
+  "kickoff_datetime": "2027-04-24T00:00:00Z",
   "round": 29,
   "home": "Le Mans",
   "away": "Le Havre",
@@ -38150,7 +38150,7 @@
  },
  {
   "date": "2027-04-24",
-  "kickoff_datetime": "2027-04-24T15:00:00Z",
+  "kickoff_datetime": "2027-04-24T00:00:00Z",
   "round": 29,
   "home": "Lille",
   "away": "Monaco",
@@ -38284,7 +38284,7 @@
  },
  {
   "date": "2027-04-24",
-  "kickoff_datetime": "2027-04-24T15:00:00Z",
+  "kickoff_datetime": "2027-04-24T00:00:00Z",
   "round": 29,
   "home": "Lorient",
   "away": "Paris Saint-Germain",
@@ -38418,7 +38418,7 @@
  },
  {
   "date": "2027-04-24",
-  "kickoff_datetime": "2027-04-24T15:00:00Z",
+  "kickoff_datetime": "2027-04-24T00:00:00Z",
   "round": 29,
   "home": "Lyon",
   "away": "Brest",
@@ -38552,7 +38552,7 @@
  },
  {
   "date": "2027-04-24",
-  "kickoff_datetime": "2027-04-24T15:00:00Z",
+  "kickoff_datetime": "2027-04-24T00:00:00Z",
   "round": 29,
   "home": "Marseille",
   "away": "Auxerre",
@@ -38688,7 +38688,7 @@
  },
  {
   "date": "2027-04-24",
-  "kickoff_datetime": "2027-04-24T15:00:00Z",
+  "kickoff_datetime": "2027-04-24T00:00:00Z",
   "round": 29,
   "home": "Nice",
   "away": "Angers",
@@ -38824,7 +38824,7 @@
  },
  {
   "date": "2027-04-24",
-  "kickoff_datetime": "2027-04-24T15:00:00Z",
+  "kickoff_datetime": "2027-04-24T00:00:00Z",
   "round": 29,
   "home": "Paris FC",
   "away": "Lens",
@@ -38960,7 +38960,7 @@
  },
  {
   "date": "2027-04-24",
-  "kickoff_datetime": "2027-04-24T15:00:00Z",
+  "kickoff_datetime": "2027-04-24T00:00:00Z",
   "round": 29,
   "home": "Strasbourg",
   "away": "Rennes",
@@ -39094,7 +39094,7 @@
  },
  {
   "date": "2027-04-24",
-  "kickoff_datetime": "2027-04-24T15:00:00Z",
+  "kickoff_datetime": "2027-04-24T00:00:00Z",
   "round": 29,
   "home": "Troyes",
   "away": "Toulouse",
@@ -39228,7 +39228,7 @@
  },
  {
   "date": "2027-05-01",
-  "kickoff_datetime": "2027-05-01T15:00:00Z",
+  "kickoff_datetime": "2027-05-01T00:00:00Z",
   "round": 30,
   "home": "Auxerre",
   "away": "Lyon",
@@ -39364,7 +39364,7 @@
  },
  {
   "date": "2027-05-01",
-  "kickoff_datetime": "2027-05-01T15:00:00Z",
+  "kickoff_datetime": "2027-05-01T00:00:00Z",
   "round": 30,
   "home": "Le Havre",
   "away": "Paris FC",
@@ -39498,7 +39498,7 @@
  },
  {
   "date": "2027-05-01",
-  "kickoff_datetime": "2027-05-01T15:00:00Z",
+  "kickoff_datetime": "2027-05-01T00:00:00Z",
   "round": 30,
   "home": "Lens",
   "away": "Le Mans",
@@ -39634,7 +39634,7 @@
  },
  {
   "date": "2027-05-01",
-  "kickoff_datetime": "2027-05-01T15:00:00Z",
+  "kickoff_datetime": "2027-05-01T00:00:00Z",
   "round": 30,
   "home": "Monaco",
   "away": "Lorient",
@@ -39768,7 +39768,7 @@
  },
  {
   "date": "2027-05-01",
-  "kickoff_datetime": "2027-05-01T15:00:00Z",
+  "kickoff_datetime": "2027-05-01T00:00:00Z",
   "round": 30,
   "home": "Paris Saint-Germain",
   "away": "Angers",
@@ -39902,7 +39902,7 @@
  },
  {
   "date": "2027-05-01",
-  "kickoff_datetime": "2027-05-01T15:00:00Z",
+  "kickoff_datetime": "2027-05-01T00:00:00Z",
   "round": 30,
   "home": "Rennes",
   "away": "Nice",
@@ -40036,7 +40036,7 @@
  },
  {
   "date": "2027-05-01",
-  "kickoff_datetime": "2027-05-01T15:00:00Z",
+  "kickoff_datetime": "2027-05-01T00:00:00Z",
   "round": 30,
   "home": "Strasbourg",
   "away": "Lille",
@@ -40170,7 +40170,7 @@
  },
  {
   "date": "2027-05-01",
-  "kickoff_datetime": "2027-05-01T15:00:00Z",
+  "kickoff_datetime": "2027-05-01T00:00:00Z",
   "round": 30,
   "home": "Toulouse",
   "away": "Marseille",
@@ -40304,7 +40304,7 @@
  },
  {
   "date": "2027-05-01",
-  "kickoff_datetime": "2027-05-01T15:00:00Z",
+  "kickoff_datetime": "2027-05-01T00:00:00Z",
   "round": 30,
   "home": "Troyes",
   "away": "Brest",
@@ -40438,7 +40438,7 @@
  },
  {
   "date": "2027-05-08",
-  "kickoff_datetime": "2027-05-08T15:00:00Z",
+  "kickoff_datetime": "2027-05-08T00:00:00Z",
   "round": 31,
   "home": "Angers",
   "away": "Toulouse",
@@ -40572,7 +40572,7 @@
  },
  {
   "date": "2027-05-08",
-  "kickoff_datetime": "2027-05-08T15:00:00Z",
+  "kickoff_datetime": "2027-05-08T00:00:00Z",
   "round": 31,
   "home": "Brest",
   "away": "Auxerre",
@@ -40706,7 +40706,7 @@
  },
  {
   "date": "2027-05-08",
-  "kickoff_datetime": "2027-05-08T15:00:00Z",
+  "kickoff_datetime": "2027-05-08T00:00:00Z",
   "round": 31,
   "home": "Le Mans",
   "away": "Troyes",
@@ -40840,7 +40840,7 @@
  },
  {
   "date": "2027-05-08",
-  "kickoff_datetime": "2027-05-08T15:00:00Z",
+  "kickoff_datetime": "2027-05-08T00:00:00Z",
   "round": 31,
   "home": "Lens",
   "away": "Monaco",
@@ -40976,7 +40976,7 @@
  },
  {
   "date": "2027-05-08",
-  "kickoff_datetime": "2027-05-08T15:00:00Z",
+  "kickoff_datetime": "2027-05-08T00:00:00Z",
   "round": 31,
   "home": "Lorient",
   "away": "Strasbourg",
@@ -41110,7 +41110,7 @@
  },
  {
   "date": "2027-05-08",
-  "kickoff_datetime": "2027-05-08T15:00:00Z",
+  "kickoff_datetime": "2027-05-08T00:00:00Z",
   "round": 31,
   "home": "Nice",
   "away": "Marseille",
@@ -41244,7 +41244,7 @@
  },
  {
   "date": "2027-05-08",
-  "kickoff_datetime": "2027-05-08T15:00:00Z",
+  "kickoff_datetime": "2027-05-08T00:00:00Z",
   "round": 31,
   "home": "Paris FC",
   "away": "Lille",
@@ -41378,7 +41378,7 @@
  },
  {
   "date": "2027-05-08",
-  "kickoff_datetime": "2027-05-08T15:00:00Z",
+  "kickoff_datetime": "2027-05-08T00:00:00Z",
   "round": 31,
   "home": "Rennes",
   "away": "Le Havre",
@@ -41646,7 +41646,7 @@
  },
  {
   "date": "2027-05-16",
-  "kickoff_datetime": "2027-05-16T15:00:00Z",
+  "kickoff_datetime": "2027-05-16T00:00:00Z",
   "round": 32,
   "home": "Auxerre",
   "away": "Rennes",
@@ -41780,7 +41780,7 @@
  },
  {
   "date": "2027-05-16",
-  "kickoff_datetime": "2027-05-16T15:00:00Z",
+  "kickoff_datetime": "2027-05-16T00:00:00Z",
   "round": 32,
   "home": "Brest",
   "away": "Le Havre",
@@ -41914,7 +41914,7 @@
  },
  {
   "date": "2027-05-16",
-  "kickoff_datetime": "2027-05-16T15:00:00Z",
+  "kickoff_datetime": "2027-05-16T00:00:00Z",
   "round": 32,
   "home": "Lille",
   "away": "Angers",
@@ -42048,7 +42048,7 @@
  },
  {
   "date": "2027-05-16",
-  "kickoff_datetime": "2027-05-16T15:00:00Z",
+  "kickoff_datetime": "2027-05-16T00:00:00Z",
   "round": 32,
   "home": "Lyon",
   "away": "Le Mans",
@@ -42182,7 +42182,7 @@
  },
  {
   "date": "2027-05-16",
-  "kickoff_datetime": "2027-05-16T15:00:00Z",
+  "kickoff_datetime": "2027-05-16T00:00:00Z",
   "round": 32,
   "home": "Marseille",
   "away": "Lens",
@@ -42316,7 +42316,7 @@
  },
  {
   "date": "2027-05-16",
-  "kickoff_datetime": "2027-05-16T15:00:00Z",
+  "kickoff_datetime": "2027-05-16T00:00:00Z",
   "round": 32,
   "home": "Monaco",
   "away": "Paris FC",
@@ -42450,7 +42450,7 @@
  },
  {
   "date": "2027-05-16",
-  "kickoff_datetime": "2027-05-16T15:00:00Z",
+  "kickoff_datetime": "2027-05-16T00:00:00Z",
   "round": 32,
   "home": "Paris Saint-Germain",
   "away": "Nice",
@@ -42584,7 +42584,7 @@
  },
  {
   "date": "2027-05-16",
-  "kickoff_datetime": "2027-05-16T15:00:00Z",
+  "kickoff_datetime": "2027-05-16T00:00:00Z",
   "round": 32,
   "home": "Strasbourg",
   "away": "Troyes",
@@ -42718,7 +42718,7 @@
  },
  {
   "date": "2027-05-16",
-  "kickoff_datetime": "2027-05-16T15:00:00Z",
+  "kickoff_datetime": "2027-05-16T00:00:00Z",
   "round": 32,
   "home": "Toulouse",
   "away": "Lorient",
@@ -42852,7 +42852,7 @@
  },
  {
   "date": "2027-05-22",
-  "kickoff_datetime": "2027-05-22T15:00:00Z",
+  "kickoff_datetime": "2027-05-22T00:00:00Z",
   "round": 33,
   "home": "Angers",
   "away": "Brest",
@@ -42986,7 +42986,7 @@
  },
  {
   "date": "2027-05-22",
-  "kickoff_datetime": "2027-05-22T15:00:00Z",
+  "kickoff_datetime": "2027-05-22T00:00:00Z",
   "round": 33,
   "home": "Le Havre",
   "away": "Lille",
@@ -43120,7 +43120,7 @@
  },
  {
   "date": "2027-05-22",
-  "kickoff_datetime": "2027-05-22T15:00:00Z",
+  "kickoff_datetime": "2027-05-22T00:00:00Z",
   "round": 33,
   "home": "Le Mans",
   "away": "Strasbourg",
@@ -43254,7 +43254,7 @@
  },
  {
   "date": "2027-05-22",
-  "kickoff_datetime": "2027-05-22T15:00:00Z",
+  "kickoff_datetime": "2027-05-22T00:00:00Z",
   "round": 33,
   "home": "Lens",
   "away": "Rennes",
@@ -43388,7 +43388,7 @@
  },
  {
   "date": "2027-05-22",
-  "kickoff_datetime": "2027-05-22T15:00:00Z",
+  "kickoff_datetime": "2027-05-22T00:00:00Z",
   "round": 33,
   "home": "Lorient",
   "away": "Lyon",
@@ -43522,7 +43522,7 @@
  },
  {
   "date": "2027-05-22",
-  "kickoff_datetime": "2027-05-22T15:00:00Z",
+  "kickoff_datetime": "2027-05-22T00:00:00Z",
   "round": 33,
   "home": "Nice",
   "away": "Monaco",
@@ -43656,7 +43656,7 @@
  },
  {
   "date": "2027-05-22",
-  "kickoff_datetime": "2027-05-22T15:00:00Z",
+  "kickoff_datetime": "2027-05-22T00:00:00Z",
   "round": 33,
   "home": "Paris FC",
   "away": "Marseille",
@@ -43790,7 +43790,7 @@
  },
  {
   "date": "2027-05-22",
-  "kickoff_datetime": "2027-05-22T15:00:00Z",
+  "kickoff_datetime": "2027-05-22T00:00:00Z",
   "round": 33,
   "home": "Toulouse",
   "away": "Auxerre",
@@ -43924,7 +43924,7 @@
  },
  {
   "date": "2027-05-22",
-  "kickoff_datetime": "2027-05-22T15:00:00Z",
+  "kickoff_datetime": "2027-05-22T00:00:00Z",
   "round": 33,
   "home": "Troyes",
   "away": "Paris Saint-Germain",
@@ -44058,7 +44058,7 @@
  },
  {
   "date": "2027-05-29",
-  "kickoff_datetime": "2027-05-29T19:00:00Z",
+  "kickoff_datetime": "2027-05-29T00:00:00Z",
   "round": 34,
   "home": "Auxerre",
   "away": "Le Havre",
@@ -44192,7 +44192,7 @@
  },
  {
   "date": "2027-05-29",
-  "kickoff_datetime": "2027-05-29T19:00:00Z",
+  "kickoff_datetime": "2027-05-29T00:00:00Z",
   "round": 34,
   "home": "Brest",
   "away": "Lens",
@@ -44326,7 +44326,7 @@
  },
  {
   "date": "2027-05-29",
-  "kickoff_datetime": "2027-05-29T19:00:00Z",
+  "kickoff_datetime": "2027-05-29T00:00:00Z",
   "round": 34,
   "home": "Lille",
   "away": "Le Mans",
@@ -44460,7 +44460,7 @@
  },
  {
   "date": "2027-05-29",
-  "kickoff_datetime": "2027-05-29T19:00:00Z",
+  "kickoff_datetime": "2027-05-29T00:00:00Z",
   "round": 34,
   "home": "Lyon",
   "away": "Paris FC",
@@ -44594,7 +44594,7 @@
  },
  {
   "date": "2027-05-29",
-  "kickoff_datetime": "2027-05-29T19:00:00Z",
+  "kickoff_datetime": "2027-05-29T00:00:00Z",
   "round": 34,
   "home": "Marseille",
   "away": "Lorient",
@@ -44728,7 +44728,7 @@
  },
  {
   "date": "2027-05-29",
-  "kickoff_datetime": "2027-05-29T19:00:00Z",
+  "kickoff_datetime": "2027-05-29T00:00:00Z",
   "round": 34,
   "home": "Monaco",
   "away": "Troyes",
@@ -44862,7 +44862,7 @@
  },
  {
   "date": "2027-05-29",
-  "kickoff_datetime": "2027-05-29T19:00:00Z",
+  "kickoff_datetime": "2027-05-29T00:00:00Z",
   "round": 34,
   "home": "Paris Saint-Germain",
   "away": "Toulouse",
@@ -44996,7 +44996,7 @@
  },
  {
   "date": "2027-05-29",
-  "kickoff_datetime": "2027-05-29T19:00:00Z",
+  "kickoff_datetime": "2027-05-29T00:00:00Z",
   "round": 34,
   "home": "Rennes",
   "away": "Angers",
@@ -45130,7 +45130,7 @@
  },
  {
   "date": "2027-05-29",
-  "kickoff_datetime": "2027-05-29T19:00:00Z",
+  "kickoff_datetime": "2027-05-29T00:00:00Z",
   "round": 34,
   "home": "Strasbourg",
   "away": "Nice",
