@@ -25514,7 +25514,7 @@
  },
  {
   "date": "2027-01-30",
-  "kickoff_datetime": "2027-01-30T14:30:00Z",
+  "kickoff_datetime": "2027-01-30T00:00:00Z",
   "round": 19,
   "home": "1. FC K\u00f6ln",
   "away": "VfB Stuttgart",
@@ -25648,7 +25648,7 @@
  },
  {
   "date": "2027-01-30",
-  "kickoff_datetime": "2027-01-30T14:30:00Z",
+  "kickoff_datetime": "2027-01-30T00:00:00Z",
   "round": 19,
   "home": "Augsburg",
   "away": "Eintracht Frankfurt",
@@ -25782,7 +25782,7 @@
  },
  {
   "date": "2027-01-30",
-  "kickoff_datetime": "2027-01-30T14:30:00Z",
+  "kickoff_datetime": "2027-01-30T00:00:00Z",
   "round": 19,
   "home": "Bayern M\u00fcnchen",
   "away": "Schalke 04",
@@ -25916,7 +25916,7 @@
  },
  {
   "date": "2027-01-30",
-  "kickoff_datetime": "2027-01-30T14:30:00Z",
+  "kickoff_datetime": "2027-01-30T00:00:00Z",
   "round": 19,
   "home": "Borussia Dortmund",
   "away": "Hoffenheim",
@@ -26052,7 +26052,7 @@
  },
  {
   "date": "2027-01-30",
-  "kickoff_datetime": "2027-01-30T14:30:00Z",
+  "kickoff_datetime": "2027-01-30T00:00:00Z",
   "round": 19,
   "home": "Elversberg",
   "away": "Borussia M\u00f6nchengladbach",
@@ -26188,7 +26188,7 @@
  },
  {
   "date": "2027-01-30",
-  "kickoff_datetime": "2027-01-30T14:30:00Z",
+  "kickoff_datetime": "2027-01-30T00:00:00Z",
   "round": 19,
   "home": "Freiburg",
   "away": "Paderborn",
@@ -26322,7 +26322,7 @@
  },
  {
   "date": "2027-01-30",
-  "kickoff_datetime": "2027-01-30T14:30:00Z",
+  "kickoff_datetime": "2027-01-30T00:00:00Z",
   "round": 19,
   "home": "Mainz 05",
   "away": "Hamburger SV",
@@ -26456,7 +26456,7 @@
  },
  {
   "date": "2027-01-30",
-  "kickoff_datetime": "2027-01-30T14:30:00Z",
+  "kickoff_datetime": "2027-01-30T00:00:00Z",
   "round": 19,
   "home": "RB Leipzig",
   "away": "Werder Bremen",
@@ -26590,7 +26590,7 @@
  },
  {
   "date": "2027-01-30",
-  "kickoff_datetime": "2027-01-30T14:30:00Z",
+  "kickoff_datetime": "2027-01-30T00:00:00Z",
   "round": 19,
   "home": "Union Berlin",
   "away": "Bayer Leverkusen",
@@ -26726,7 +26726,7 @@
  },
  {
   "date": "2027-02-06",
-  "kickoff_datetime": "2027-02-06T14:30:00Z",
+  "kickoff_datetime": "2027-02-06T00:00:00Z",
   "round": 20,
   "home": "Bayer Leverkusen",
   "away": "Augsburg",
@@ -26860,7 +26860,7 @@
  },
  {
   "date": "2027-02-06",
-  "kickoff_datetime": "2027-02-06T14:30:00Z",
+  "kickoff_datetime": "2027-02-06T00:00:00Z",
   "round": 20,
   "home": "Bayern M\u00fcnchen",
   "away": "Elversberg",
@@ -26994,7 +26994,7 @@
  },
  {
   "date": "2027-02-06",
-  "kickoff_datetime": "2027-02-06T14:30:00Z",
+  "kickoff_datetime": "2027-02-06T00:00:00Z",
   "round": 20,
   "home": "Borussia M\u00f6nchengladbach",
   "away": "Freiburg",
@@ -27130,7 +27130,7 @@
  },
  {
   "date": "2027-02-06",
-  "kickoff_datetime": "2027-02-06T14:30:00Z",
+  "kickoff_datetime": "2027-02-06T00:00:00Z",
   "round": 20,
   "home": "Eintracht Frankfurt",
   "away": "Mainz 05",
@@ -27264,7 +27264,7 @@
  },
  {
   "date": "2027-02-06",
-  "kickoff_datetime": "2027-02-06T14:30:00Z",
+  "kickoff_datetime": "2027-02-06T00:00:00Z",
   "round": 20,
   "home": "Hamburger SV",
   "away": "RB Leipzig",
@@ -27398,7 +27398,7 @@
  },
  {
   "date": "2027-02-06",
-  "kickoff_datetime": "2027-02-06T14:30:00Z",
+  "kickoff_datetime": "2027-02-06T00:00:00Z",
   "round": 20,
   "home": "Paderborn",
   "away": "Borussia Dortmund",
@@ -27534,7 +27534,7 @@
  },
  {
   "date": "2027-02-06",
-  "kickoff_datetime": "2027-02-06T14:30:00Z",
+  "kickoff_datetime": "2027-02-06T00:00:00Z",
   "round": 20,
   "home": "Schalke 04",
   "away": "Union Berlin",
@@ -27670,7 +27670,7 @@
  },
  {
   "date": "2027-02-06",
-  "kickoff_datetime": "2027-02-06T14:30:00Z",
+  "kickoff_datetime": "2027-02-06T00:00:00Z",
   "round": 20,
   "home": "VfB Stuttgart",
   "away": "Hoffenheim",
@@ -27804,7 +27804,7 @@
  },
  {
   "date": "2027-02-06",
-  "kickoff_datetime": "2027-02-06T14:30:00Z",
+  "kickoff_datetime": "2027-02-06T00:00:00Z",
   "round": 20,
   "home": "Werder Bremen",
   "away": "1. FC K\u00f6ln",
@@ -27938,7 +27938,7 @@
  },
  {
   "date": "2027-02-13",
-  "kickoff_datetime": "2027-02-13T14:30:00Z",
+  "kickoff_datetime": "2027-02-13T00:00:00Z",
   "round": 21,
   "home": "1. FC K\u00f6ln",
   "away": "Hamburger SV",
@@ -28072,7 +28072,7 @@
  },
  {
   "date": "2027-02-13",
-  "kickoff_datetime": "2027-02-13T14:30:00Z",
+  "kickoff_datetime": "2027-02-13T00:00:00Z",
   "round": 21,
   "home": "Augsburg",
   "away": "Werder Bremen",
@@ -28206,7 +28206,7 @@
  },
  {
   "date": "2027-02-13",
-  "kickoff_datetime": "2027-02-13T14:30:00Z",
+  "kickoff_datetime": "2027-02-13T00:00:00Z",
   "round": 21,
   "home": "Borussia Dortmund",
   "away": "VfB Stuttgart",
@@ -28342,7 +28342,7 @@
  },
  {
   "date": "2027-02-13",
-  "kickoff_datetime": "2027-02-13T14:30:00Z",
+  "kickoff_datetime": "2027-02-13T00:00:00Z",
   "round": 21,
   "home": "Elversberg",
   "away": "Schalke 04",
@@ -28476,7 +28476,7 @@
  },
  {
   "date": "2027-02-13",
-  "kickoff_datetime": "2027-02-13T14:30:00Z",
+  "kickoff_datetime": "2027-02-13T00:00:00Z",
   "round": 21,
   "home": "Freiburg",
   "away": "Eintracht Frankfurt",
@@ -28610,7 +28610,7 @@
  },
  {
   "date": "2027-02-13",
-  "kickoff_datetime": "2027-02-13T14:30:00Z",
+  "kickoff_datetime": "2027-02-13T00:00:00Z",
   "round": 21,
   "home": "Hoffenheim",
   "away": "Paderborn",
@@ -28744,7 +28744,7 @@
  },
  {
   "date": "2027-02-13",
-  "kickoff_datetime": "2027-02-13T14:30:00Z",
+  "kickoff_datetime": "2027-02-13T00:00:00Z",
   "round": 21,
   "home": "Mainz 05",
   "away": "Borussia M\u00f6nchengladbach",
@@ -28880,7 +28880,7 @@
  },
  {
   "date": "2027-02-13",
-  "kickoff_datetime": "2027-02-13T14:30:00Z",
+  "kickoff_datetime": "2027-02-13T00:00:00Z",
   "round": 21,
   "home": "RB Leipzig",
   "away": "Bayer Leverkusen",
@@ -29014,7 +29014,7 @@
  },
  {
   "date": "2027-02-13",
-  "kickoff_datetime": "2027-02-13T14:30:00Z",
+  "kickoff_datetime": "2027-02-13T00:00:00Z",
   "round": 21,
   "home": "Union Berlin",
   "away": "Bayern M\u00fcnchen",
@@ -29150,7 +29150,7 @@
  },
  {
   "date": "2027-02-20",
-  "kickoff_datetime": "2027-02-20T14:30:00Z",
+  "kickoff_datetime": "2027-02-20T00:00:00Z",
   "round": 22,
   "home": "Bayer Leverkusen",
   "away": "Mainz 05",
@@ -29284,7 +29284,7 @@
  },
  {
   "date": "2027-02-20",
-  "kickoff_datetime": "2027-02-20T14:30:00Z",
+  "kickoff_datetime": "2027-02-20T00:00:00Z",
   "round": 22,
   "home": "Bayern M\u00fcnchen",
   "away": "Augsburg",
@@ -29418,7 +29418,7 @@
  },
  {
   "date": "2027-02-20",
-  "kickoff_datetime": "2027-02-20T14:30:00Z",
+  "kickoff_datetime": "2027-02-20T00:00:00Z",
   "round": 22,
   "home": "Borussia M\u00f6nchengladbach",
   "away": "1. FC K\u00f6ln",
@@ -29554,7 +29554,7 @@
  },
  {
   "date": "2027-02-20",
-  "kickoff_datetime": "2027-02-20T14:30:00Z",
+  "kickoff_datetime": "2027-02-20T00:00:00Z",
   "round": 22,
   "home": "Eintracht Frankfurt",
   "away": "RB Leipzig",
@@ -29688,7 +29688,7 @@
  },
  {
   "date": "2027-02-20",
-  "kickoff_datetime": "2027-02-20T14:30:00Z",
+  "kickoff_datetime": "2027-02-20T00:00:00Z",
   "round": 22,
   "home": "Elversberg",
   "away": "Union Berlin",
@@ -29824,7 +29824,7 @@
  },
  {
   "date": "2027-02-20",
-  "kickoff_datetime": "2027-02-20T14:30:00Z",
+  "kickoff_datetime": "2027-02-20T00:00:00Z",
   "round": 22,
   "home": "Hamburger SV",
   "away": "Hoffenheim",
@@ -29958,7 +29958,7 @@
  },
  {
   "date": "2027-02-20",
-  "kickoff_datetime": "2027-02-20T14:30:00Z",
+  "kickoff_datetime": "2027-02-20T00:00:00Z",
   "round": 22,
   "home": "Schalke 04",
   "away": "Freiburg",
@@ -30092,7 +30092,7 @@
  },
  {
   "date": "2027-02-20",
-  "kickoff_datetime": "2027-02-20T14:30:00Z",
+  "kickoff_datetime": "2027-02-20T00:00:00Z",
   "round": 22,
   "home": "VfB Stuttgart",
   "away": "Paderborn",
@@ -30226,7 +30226,7 @@
  },
  {
   "date": "2027-02-20",
-  "kickoff_datetime": "2027-02-20T14:30:00Z",
+  "kickoff_datetime": "2027-02-20T00:00:00Z",
   "round": 22,
   "home": "Werder Bremen",
   "away": "Borussia Dortmund",
@@ -30362,7 +30362,7 @@
  },
  {
   "date": "2027-02-27",
-  "kickoff_datetime": "2027-02-27T14:30:00Z",
+  "kickoff_datetime": "2027-02-27T00:00:00Z",
   "round": 23,
   "home": "1. FC K\u00f6ln",
   "away": "Eintracht Frankfurt",
@@ -30496,7 +30496,7 @@
  },
  {
   "date": "2027-02-27",
-  "kickoff_datetime": "2027-02-27T14:30:00Z",
+  "kickoff_datetime": "2027-02-27T00:00:00Z",
   "round": 23,
   "home": "Augsburg",
   "away": "Elversberg",
@@ -30630,7 +30630,7 @@
  },
  {
   "date": "2027-02-27",
-  "kickoff_datetime": "2027-02-27T14:30:00Z",
+  "kickoff_datetime": "2027-02-27T00:00:00Z",
   "round": 23,
   "home": "Borussia Dortmund",
   "away": "Union Berlin",
@@ -30768,7 +30768,7 @@
  },
  {
   "date": "2027-02-27",
-  "kickoff_datetime": "2027-02-27T14:30:00Z",
+  "kickoff_datetime": "2027-02-27T00:00:00Z",
   "round": 23,
   "home": "Freiburg",
   "away": "Bayer Leverkusen",
@@ -30902,7 +30902,7 @@
  },
  {
   "date": "2027-02-27",
-  "kickoff_datetime": "2027-02-27T14:30:00Z",
+  "kickoff_datetime": "2027-02-27T00:00:00Z",
   "round": 23,
   "home": "Hoffenheim",
   "away": "Borussia M\u00f6nchengladbach",
@@ -31038,7 +31038,7 @@
  },
  {
   "date": "2027-02-27",
-  "kickoff_datetime": "2027-02-27T14:30:00Z",
+  "kickoff_datetime": "2027-02-27T00:00:00Z",
   "round": 23,
   "home": "Mainz 05",
   "away": "Schalke 04",
@@ -31172,7 +31172,7 @@
  },
  {
   "date": "2027-02-27",
-  "kickoff_datetime": "2027-02-27T14:30:00Z",
+  "kickoff_datetime": "2027-02-27T00:00:00Z",
   "round": 23,
   "home": "Paderborn",
   "away": "Werder Bremen",
@@ -31306,7 +31306,7 @@
  },
  {
   "date": "2027-02-27",
-  "kickoff_datetime": "2027-02-27T14:30:00Z",
+  "kickoff_datetime": "2027-02-27T00:00:00Z",
   "round": 23,
   "home": "RB Leipzig",
   "away": "Bayern M\u00fcnchen",
@@ -31440,7 +31440,7 @@
  },
  {
   "date": "2027-02-27",
-  "kickoff_datetime": "2027-02-27T14:30:00Z",
+  "kickoff_datetime": "2027-02-27T00:00:00Z",
   "round": 23,
   "home": "VfB Stuttgart",
   "away": "Hamburger SV",
@@ -31573,8 +31573,8 @@
   }
  },
  {
-  "date": "2027-03-02",
-  "kickoff_datetime": "2027-03-02T19:30:00Z",
+  "date": "2027-03-03",
+  "kickoff_datetime": "2027-03-03T00:00:00Z",
   "round": 24,
   "home": "Bayer Leverkusen",
   "away": "Hoffenheim",
@@ -31707,8 +31707,8 @@
   }
  },
  {
-  "date": "2027-03-02",
-  "kickoff_datetime": "2027-03-02T19:30:00Z",
+  "date": "2027-03-03",
+  "kickoff_datetime": "2027-03-03T00:00:00Z",
   "round": 24,
   "home": "Bayern M\u00fcnchen",
   "away": "Freiburg",
@@ -31841,8 +31841,8 @@
   }
  },
  {
-  "date": "2027-03-02",
-  "kickoff_datetime": "2027-03-02T19:30:00Z",
+  "date": "2027-03-03",
+  "kickoff_datetime": "2027-03-03T00:00:00Z",
   "round": 24,
   "home": "Borussia M\u00f6nchengladbach",
   "away": "VfB Stuttgart",
@@ -31977,8 +31977,8 @@
   }
  },
  {
-  "date": "2027-03-02",
-  "kickoff_datetime": "2027-03-02T19:30:00Z",
+  "date": "2027-03-03",
+  "kickoff_datetime": "2027-03-03T00:00:00Z",
   "round": 24,
   "home": "Eintracht Frankfurt",
   "away": "Borussia Dortmund",
@@ -32113,8 +32113,8 @@
   }
  },
  {
-  "date": "2027-03-02",
-  "kickoff_datetime": "2027-03-02T19:30:00Z",
+  "date": "2027-03-03",
+  "kickoff_datetime": "2027-03-03T00:00:00Z",
   "round": 24,
   "home": "Elversberg",
   "away": "RB Leipzig",
@@ -32247,8 +32247,8 @@
   }
  },
  {
-  "date": "2027-03-02",
-  "kickoff_datetime": "2027-03-02T19:30:00Z",
+  "date": "2027-03-03",
+  "kickoff_datetime": "2027-03-03T00:00:00Z",
   "round": 24,
   "home": "Hamburger SV",
   "away": "Paderborn",
@@ -32381,8 +32381,8 @@
   }
  },
  {
-  "date": "2027-03-02",
-  "kickoff_datetime": "2027-03-02T19:30:00Z",
+  "date": "2027-03-03",
+  "kickoff_datetime": "2027-03-03T00:00:00Z",
   "round": 24,
   "home": "Schalke 04",
   "away": "1. FC K\u00f6ln",
@@ -32515,8 +32515,8 @@
   }
  },
  {
-  "date": "2027-03-02",
-  "kickoff_datetime": "2027-03-02T19:30:00Z",
+  "date": "2027-03-03",
+  "kickoff_datetime": "2027-03-03T00:00:00Z",
   "round": 24,
   "home": "Union Berlin",
   "away": "Augsburg",
@@ -32651,8 +32651,8 @@
   }
  },
  {
-  "date": "2027-03-02",
-  "kickoff_datetime": "2027-03-02T19:30:00Z",
+  "date": "2027-03-03",
+  "kickoff_datetime": "2027-03-03T00:00:00Z",
   "round": 24,
   "home": "Werder Bremen",
   "away": "Mainz 05",
@@ -32786,7 +32786,7 @@
  },
  {
   "date": "2027-03-06",
-  "kickoff_datetime": "2027-03-06T14:30:00Z",
+  "kickoff_datetime": "2027-03-06T00:00:00Z",
   "round": 25,
   "home": "1. FC K\u00f6ln",
   "away": "Union Berlin",
@@ -32922,7 +32922,7 @@
  },
  {
   "date": "2027-03-06",
-  "kickoff_datetime": "2027-03-06T14:30:00Z",
+  "kickoff_datetime": "2027-03-06T00:00:00Z",
   "round": 25,
   "home": "Borussia Dortmund",
   "away": "Bayern M\u00fcnchen",
@@ -33058,7 +33058,7 @@
  },
  {
   "date": "2027-03-06",
-  "kickoff_datetime": "2027-03-06T14:30:00Z",
+  "kickoff_datetime": "2027-03-06T00:00:00Z",
   "round": 25,
   "home": "Freiburg",
   "away": "Augsburg",
@@ -33192,7 +33192,7 @@
  },
  {
   "date": "2027-03-06",
-  "kickoff_datetime": "2027-03-06T14:30:00Z",
+  "kickoff_datetime": "2027-03-06T00:00:00Z",
   "round": 25,
   "home": "Hamburger SV",
   "away": "Eintracht Frankfurt",
@@ -33326,7 +33326,7 @@
  },
  {
   "date": "2027-03-06",
-  "kickoff_datetime": "2027-03-06T14:30:00Z",
+  "kickoff_datetime": "2027-03-06T00:00:00Z",
   "round": 25,
   "home": "Hoffenheim",
   "away": "Werder Bremen",
@@ -33460,7 +33460,7 @@
  },
  {
   "date": "2027-03-06",
-  "kickoff_datetime": "2027-03-06T14:30:00Z",
+  "kickoff_datetime": "2027-03-06T00:00:00Z",
   "round": 25,
   "home": "Mainz 05",
   "away": "Elversberg",
@@ -33594,7 +33594,7 @@
  },
  {
   "date": "2027-03-06",
-  "kickoff_datetime": "2027-03-06T14:30:00Z",
+  "kickoff_datetime": "2027-03-06T00:00:00Z",
   "round": 25,
   "home": "Paderborn",
   "away": "Borussia M\u00f6nchengladbach",
@@ -33730,7 +33730,7 @@
  },
  {
   "date": "2027-03-06",
-  "kickoff_datetime": "2027-03-06T14:30:00Z",
+  "kickoff_datetime": "2027-03-06T00:00:00Z",
   "round": 25,
   "home": "RB Leipzig",
   "away": "Schalke 04",
@@ -33864,7 +33864,7 @@
  },
  {
   "date": "2027-03-06",
-  "kickoff_datetime": "2027-03-06T14:30:00Z",
+  "kickoff_datetime": "2027-03-06T00:00:00Z",
   "round": 25,
   "home": "VfB Stuttgart",
   "away": "Bayer Leverkusen",
@@ -33998,7 +33998,7 @@
  },
  {
   "date": "2027-03-13",
-  "kickoff_datetime": "2027-03-13T14:30:00Z",
+  "kickoff_datetime": "2027-03-13T00:00:00Z",
   "round": 26,
   "home": "Augsburg",
   "away": "RB Leipzig",
@@ -34132,7 +34132,7 @@
  },
  {
   "date": "2027-03-13",
-  "kickoff_datetime": "2027-03-13T14:30:00Z",
+  "kickoff_datetime": "2027-03-13T00:00:00Z",
   "round": 26,
   "home": "Bayer Leverkusen",
   "away": "1. FC K\u00f6ln",
@@ -34266,7 +34266,7 @@
  },
  {
   "date": "2027-03-13",
-  "kickoff_datetime": "2027-03-13T14:30:00Z",
+  "kickoff_datetime": "2027-03-13T00:00:00Z",
   "round": 26,
   "home": "Bayern M\u00fcnchen",
   "away": "Mainz 05",
@@ -34400,7 +34400,7 @@
  },
  {
   "date": "2027-03-13",
-  "kickoff_datetime": "2027-03-13T14:30:00Z",
+  "kickoff_datetime": "2027-03-13T00:00:00Z",
   "round": 26,
   "home": "Borussia M\u00f6nchengladbach",
   "away": "Hamburger SV",
@@ -34536,7 +34536,7 @@
  },
  {
   "date": "2027-03-13",
-  "kickoff_datetime": "2027-03-13T14:30:00Z",
+  "kickoff_datetime": "2027-03-13T00:00:00Z",
   "round": 26,
   "home": "Eintracht Frankfurt",
   "away": "Paderborn",
@@ -34670,7 +34670,7 @@
  },
  {
   "date": "2027-03-13",
-  "kickoff_datetime": "2027-03-13T14:30:00Z",
+  "kickoff_datetime": "2027-03-13T00:00:00Z",
   "round": 26,
   "home": "Elversberg",
   "away": "Borussia Dortmund",
@@ -34806,7 +34806,7 @@
  },
  {
   "date": "2027-03-13",
-  "kickoff_datetime": "2027-03-13T14:30:00Z",
+  "kickoff_datetime": "2027-03-13T00:00:00Z",
   "round": 26,
   "home": "Schalke 04",
   "away": "Hoffenheim",
@@ -34940,7 +34940,7 @@
  },
  {
   "date": "2027-03-13",
-  "kickoff_datetime": "2027-03-13T14:30:00Z",
+  "kickoff_datetime": "2027-03-13T00:00:00Z",
   "round": 26,
   "home": "Union Berlin",
   "away": "Freiburg",
@@ -35074,7 +35074,7 @@
  },
  {
   "date": "2027-03-13",
-  "kickoff_datetime": "2027-03-13T14:30:00Z",
+  "kickoff_datetime": "2027-03-13T00:00:00Z",
   "round": 26,
   "home": "Werder Bremen",
   "away": "VfB Stuttgart",
@@ -35208,7 +35208,7 @@
  },
  {
   "date": "2027-03-20",
-  "kickoff_datetime": "2027-03-20T14:30:00Z",
+  "kickoff_datetime": "2027-03-20T00:00:00Z",
   "round": 27,
   "home": "1. FC K\u00f6ln",
   "away": "Bayern M\u00fcnchen",
@@ -35342,7 +35342,7 @@
  },
  {
   "date": "2027-03-20",
-  "kickoff_datetime": "2027-03-20T14:30:00Z",
+  "kickoff_datetime": "2027-03-20T00:00:00Z",
   "round": 27,
   "home": "Borussia Dortmund",
   "away": "Borussia M\u00f6nchengladbach",
@@ -35480,7 +35480,7 @@
  },
  {
   "date": "2027-03-20",
-  "kickoff_datetime": "2027-03-20T14:30:00Z",
+  "kickoff_datetime": "2027-03-20T00:00:00Z",
   "round": 27,
   "home": "Freiburg",
   "away": "Elversberg",
@@ -35614,7 +35614,7 @@
  },
  {
   "date": "2027-03-20",
-  "kickoff_datetime": "2027-03-20T14:30:00Z",
+  "kickoff_datetime": "2027-03-20T00:00:00Z",
   "round": 27,
   "home": "Hamburger SV",
   "away": "Werder Bremen",
@@ -35748,7 +35748,7 @@
  },
  {
   "date": "2027-03-20",
-  "kickoff_datetime": "2027-03-20T14:30:00Z",
+  "kickoff_datetime": "2027-03-20T00:00:00Z",
   "round": 27,
   "home": "Hoffenheim",
   "away": "Eintracht Frankfurt",
@@ -35882,7 +35882,7 @@
  },
  {
   "date": "2027-03-20",
-  "kickoff_datetime": "2027-03-20T14:30:00Z",
+  "kickoff_datetime": "2027-03-20T00:00:00Z",
   "round": 27,
   "home": "Mainz 05",
   "away": "Augsburg",
@@ -36016,7 +36016,7 @@
  },
  {
   "date": "2027-03-20",
-  "kickoff_datetime": "2027-03-20T14:30:00Z",
+  "kickoff_datetime": "2027-03-20T00:00:00Z",
   "round": 27,
   "home": "Paderborn",
   "away": "Bayer Leverkusen",
@@ -36150,7 +36150,7 @@
  },
  {
   "date": "2027-03-20",
-  "kickoff_datetime": "2027-03-20T14:30:00Z",
+  "kickoff_datetime": "2027-03-20T00:00:00Z",
   "round": 27,
   "home": "RB Leipzig",
   "away": "Union Berlin",
@@ -36284,7 +36284,7 @@
  },
  {
   "date": "2027-03-20",
-  "kickoff_datetime": "2027-03-20T14:30:00Z",
+  "kickoff_datetime": "2027-03-20T00:00:00Z",
   "round": 27,
   "home": "VfB Stuttgart",
   "away": "Schalke 04",
@@ -36418,7 +36418,7 @@
  },
  {
   "date": "2027-04-03",
-  "kickoff_datetime": "2027-04-03T13:30:00Z",
+  "kickoff_datetime": "2027-04-03T00:00:00Z",
   "round": 28,
   "home": "Augsburg",
   "away": "Hoffenheim",
@@ -36552,7 +36552,7 @@
  },
  {
   "date": "2027-04-03",
-  "kickoff_datetime": "2027-04-03T13:30:00Z",
+  "kickoff_datetime": "2027-04-03T00:00:00Z",
   "round": 28,
   "home": "Bayer Leverkusen",
   "away": "Borussia Dortmund",
@@ -36688,7 +36688,7 @@
  },
  {
   "date": "2027-04-03",
-  "kickoff_datetime": "2027-04-03T13:30:00Z",
+  "kickoff_datetime": "2027-04-03T00:00:00Z",
   "round": 28,
   "home": "Bayern M\u00fcnchen",
   "away": "Hamburger SV",
@@ -36822,7 +36822,7 @@
  },
  {
   "date": "2027-04-03",
-  "kickoff_datetime": "2027-04-03T13:30:00Z",
+  "kickoff_datetime": "2027-04-03T00:00:00Z",
   "round": 28,
   "home": "Borussia M\u00f6nchengladbach",
   "away": "Werder Bremen",
@@ -36958,7 +36958,7 @@
  },
  {
   "date": "2027-04-03",
-  "kickoff_datetime": "2027-04-03T13:30:00Z",
+  "kickoff_datetime": "2027-04-03T00:00:00Z",
   "round": 28,
   "home": "Eintracht Frankfurt",
   "away": "VfB Stuttgart",
@@ -37092,7 +37092,7 @@
  },
  {
   "date": "2027-04-03",
-  "kickoff_datetime": "2027-04-03T13:30:00Z",
+  "kickoff_datetime": "2027-04-03T00:00:00Z",
   "round": 28,
   "home": "Elversberg",
   "away": "1. FC K\u00f6ln",
@@ -37226,7 +37226,7 @@
  },
  {
   "date": "2027-04-03",
-  "kickoff_datetime": "2027-04-03T13:30:00Z",
+  "kickoff_datetime": "2027-04-03T00:00:00Z",
   "round": 28,
   "home": "RB Leipzig",
   "away": "Freiburg",
@@ -37360,7 +37360,7 @@
  },
  {
   "date": "2027-04-03",
-  "kickoff_datetime": "2027-04-03T13:30:00Z",
+  "kickoff_datetime": "2027-04-03T00:00:00Z",
   "round": 28,
   "home": "Schalke 04",
   "away": "Paderborn",
@@ -37494,7 +37494,7 @@
  },
  {
   "date": "2027-04-03",
-  "kickoff_datetime": "2027-04-03T13:30:00Z",
+  "kickoff_datetime": "2027-04-03T00:00:00Z",
   "round": 28,
   "home": "Union Berlin",
   "away": "Mainz 05",
@@ -37628,7 +37628,7 @@
  },
  {
   "date": "2027-04-10",
-  "kickoff_datetime": "2027-04-10T13:30:00Z",
+  "kickoff_datetime": "2027-04-10T00:00:00Z",
   "round": 29,
   "home": "1. FC K\u00f6ln",
   "away": "Augsburg",
@@ -37762,7 +37762,7 @@
  },
  {
   "date": "2027-04-10",
-  "kickoff_datetime": "2027-04-10T13:30:00Z",
+  "kickoff_datetime": "2027-04-10T00:00:00Z",
   "round": 29,
   "home": "Borussia Dortmund",
   "away": "Schalke 04",
@@ -37898,7 +37898,7 @@
  },
  {
   "date": "2027-04-10",
-  "kickoff_datetime": "2027-04-10T13:30:00Z",
+  "kickoff_datetime": "2027-04-10T00:00:00Z",
   "round": 29,
   "home": "Borussia M\u00f6nchengladbach",
   "away": "Bayer Leverkusen",
@@ -38034,7 +38034,7 @@
  },
  {
   "date": "2027-04-10",
-  "kickoff_datetime": "2027-04-10T13:30:00Z",
+  "kickoff_datetime": "2027-04-10T00:00:00Z",
   "round": 29,
   "home": "Hamburger SV",
   "away": "Union Berlin",
@@ -38168,7 +38168,7 @@
  },
  {
   "date": "2027-04-10",
-  "kickoff_datetime": "2027-04-10T13:30:00Z",
+  "kickoff_datetime": "2027-04-10T00:00:00Z",
   "round": 29,
   "home": "Hoffenheim",
   "away": "Freiburg",
@@ -38302,7 +38302,7 @@
  },
  {
   "date": "2027-04-10",
-  "kickoff_datetime": "2027-04-10T13:30:00Z",
+  "kickoff_datetime": "2027-04-10T00:00:00Z",
   "round": 29,
   "home": "Mainz 05",
   "away": "RB Leipzig",
@@ -38436,7 +38436,7 @@
  },
  {
   "date": "2027-04-10",
-  "kickoff_datetime": "2027-04-10T13:30:00Z",
+  "kickoff_datetime": "2027-04-10T00:00:00Z",
   "round": 29,
   "home": "Paderborn",
   "away": "Bayern M\u00fcnchen",
@@ -38570,7 +38570,7 @@
  },
  {
   "date": "2027-04-10",
-  "kickoff_datetime": "2027-04-10T13:30:00Z",
+  "kickoff_datetime": "2027-04-10T00:00:00Z",
   "round": 29,
   "home": "VfB Stuttgart",
   "away": "Elversberg",
@@ -38704,7 +38704,7 @@
  },
  {
   "date": "2027-04-10",
-  "kickoff_datetime": "2027-04-10T13:30:00Z",
+  "kickoff_datetime": "2027-04-10T00:00:00Z",
   "round": 29,
   "home": "Werder Bremen",
   "away": "Eintracht Frankfurt",
@@ -38838,7 +38838,7 @@
  },
  {
   "date": "2027-04-17",
-  "kickoff_datetime": "2027-04-17T13:30:00Z",
+  "kickoff_datetime": "2027-04-17T00:00:00Z",
   "round": 30,
   "home": "Augsburg",
   "away": "Borussia Dortmund",
@@ -38974,7 +38974,7 @@
  },
  {
   "date": "2027-04-17",
-  "kickoff_datetime": "2027-04-17T13:30:00Z",
+  "kickoff_datetime": "2027-04-17T00:00:00Z",
   "round": 30,
   "home": "Bayer Leverkusen",
   "away": "Werder Bremen",
@@ -39108,7 +39108,7 @@
  },
  {
   "date": "2027-04-17",
-  "kickoff_datetime": "2027-04-17T13:30:00Z",
+  "kickoff_datetime": "2027-04-17T00:00:00Z",
   "round": 30,
   "home": "Bayern M\u00fcnchen",
   "away": "Hoffenheim",
@@ -39242,7 +39242,7 @@
  },
  {
   "date": "2027-04-17",
-  "kickoff_datetime": "2027-04-17T13:30:00Z",
+  "kickoff_datetime": "2027-04-17T00:00:00Z",
   "round": 30,
   "home": "Eintracht Frankfurt",
   "away": "Borussia M\u00f6nchengladbach",
@@ -39378,7 +39378,7 @@
  },
  {
   "date": "2027-04-17",
-  "kickoff_datetime": "2027-04-17T13:30:00Z",
+  "kickoff_datetime": "2027-04-17T00:00:00Z",
   "round": 30,
   "home": "Elversberg",
   "away": "Paderborn",
@@ -39512,7 +39512,7 @@
  },
  {
   "date": "2027-04-17",
-  "kickoff_datetime": "2027-04-17T13:30:00Z",
+  "kickoff_datetime": "2027-04-17T00:00:00Z",
   "round": 30,
   "home": "Freiburg",
   "away": "Mainz 05",
@@ -39646,7 +39646,7 @@
  },
  {
   "date": "2027-04-17",
-  "kickoff_datetime": "2027-04-17T13:30:00Z",
+  "kickoff_datetime": "2027-04-17T00:00:00Z",
   "round": 30,
   "home": "RB Leipzig",
   "away": "1. FC K\u00f6ln",
@@ -39780,7 +39780,7 @@
  },
  {
   "date": "2027-04-17",
-  "kickoff_datetime": "2027-04-17T13:30:00Z",
+  "kickoff_datetime": "2027-04-17T00:00:00Z",
   "round": 30,
   "home": "Schalke 04",
   "away": "Hamburger SV",
@@ -39914,7 +39914,7 @@
  },
  {
   "date": "2027-04-17",
-  "kickoff_datetime": "2027-04-17T13:30:00Z",
+  "kickoff_datetime": "2027-04-17T00:00:00Z",
   "round": 30,
   "home": "Union Berlin",
   "away": "VfB Stuttgart",
@@ -40048,7 +40048,7 @@
  },
  {
   "date": "2027-04-24",
-  "kickoff_datetime": "2027-04-24T13:30:00Z",
+  "kickoff_datetime": "2027-04-24T00:00:00Z",
   "round": 31,
   "home": "1. FC K\u00f6ln",
   "away": "Mainz 05",
@@ -40182,7 +40182,7 @@
  },
  {
   "date": "2027-04-24",
-  "kickoff_datetime": "2027-04-24T13:30:00Z",
+  "kickoff_datetime": "2027-04-24T00:00:00Z",
   "round": 31,
   "home": "Borussia Dortmund",
   "away": "RB Leipzig",
@@ -40318,7 +40318,7 @@
  },
  {
   "date": "2027-04-24",
-  "kickoff_datetime": "2027-04-24T13:30:00Z",
+  "kickoff_datetime": "2027-04-24T00:00:00Z",
   "round": 31,
   "home": "Borussia M\u00f6nchengladbach",
   "away": "Schalke 04",
@@ -40454,7 +40454,7 @@
  },
  {
   "date": "2027-04-24",
-  "kickoff_datetime": "2027-04-24T13:30:00Z",
+  "kickoff_datetime": "2027-04-24T00:00:00Z",
   "round": 31,
   "home": "Eintracht Frankfurt",
   "away": "Bayer Leverkusen",
@@ -40588,7 +40588,7 @@
  },
  {
   "date": "2027-04-24",
-  "kickoff_datetime": "2027-04-24T13:30:00Z",
+  "kickoff_datetime": "2027-04-24T00:00:00Z",
   "round": 31,
   "home": "Hamburger SV",
   "away": "Elversberg",
@@ -40722,7 +40722,7 @@
  },
  {
   "date": "2027-04-24",
-  "kickoff_datetime": "2027-04-24T13:30:00Z",
+  "kickoff_datetime": "2027-04-24T00:00:00Z",
   "round": 31,
   "home": "Hoffenheim",
   "away": "Union Berlin",
@@ -40856,7 +40856,7 @@
  },
  {
   "date": "2027-04-24",
-  "kickoff_datetime": "2027-04-24T13:30:00Z",
+  "kickoff_datetime": "2027-04-24T00:00:00Z",
   "round": 31,
   "home": "Paderborn",
   "away": "Augsburg",
@@ -40990,7 +40990,7 @@
  },
  {
   "date": "2027-04-24",
-  "kickoff_datetime": "2027-04-24T13:30:00Z",
+  "kickoff_datetime": "2027-04-24T00:00:00Z",
   "round": 31,
   "home": "VfB Stuttgart",
   "away": "Freiburg",
@@ -41124,7 +41124,7 @@
  },
  {
   "date": "2027-04-24",
-  "kickoff_datetime": "2027-04-24T13:30:00Z",
+  "kickoff_datetime": "2027-04-24T00:00:00Z",
   "round": 31,
   "home": "Werder Bremen",
   "away": "Bayern M\u00fcnchen",
@@ -41258,7 +41258,7 @@
  },
  {
   "date": "2027-05-08",
-  "kickoff_datetime": "2027-05-08T13:30:00Z",
+  "kickoff_datetime": "2027-05-08T00:00:00Z",
   "round": 32,
   "home": "Augsburg",
   "away": "VfB Stuttgart",
@@ -41392,7 +41392,7 @@
  },
  {
   "date": "2027-05-08",
-  "kickoff_datetime": "2027-05-08T13:30:00Z",
+  "kickoff_datetime": "2027-05-08T00:00:00Z",
   "round": 32,
   "home": "Bayer Leverkusen",
   "away": "Hamburger SV",
@@ -41526,7 +41526,7 @@
  },
  {
   "date": "2027-05-08",
-  "kickoff_datetime": "2027-05-08T13:30:00Z",
+  "kickoff_datetime": "2027-05-08T00:00:00Z",
   "round": 32,
   "home": "Bayern M\u00fcnchen",
   "away": "Borussia M\u00f6nchengladbach",
@@ -41662,7 +41662,7 @@
  },
  {
   "date": "2027-05-08",
-  "kickoff_datetime": "2027-05-08T13:30:00Z",
+  "kickoff_datetime": "2027-05-08T00:00:00Z",
   "round": 32,
   "home": "Elversberg",
   "away": "Hoffenheim",
@@ -41796,7 +41796,7 @@
  },
  {
   "date": "2027-05-08",
-  "kickoff_datetime": "2027-05-08T13:30:00Z",
+  "kickoff_datetime": "2027-05-08T00:00:00Z",
   "round": 32,
   "home": "Freiburg",
   "away": "1. FC K\u00f6ln",
@@ -41930,7 +41930,7 @@
  },
  {
   "date": "2027-05-08",
-  "kickoff_datetime": "2027-05-08T13:30:00Z",
+  "kickoff_datetime": "2027-05-08T00:00:00Z",
   "round": 32,
   "home": "Mainz 05",
   "away": "Borussia Dortmund",
@@ -42066,7 +42066,7 @@
  },
  {
   "date": "2027-05-08",
-  "kickoff_datetime": "2027-05-08T13:30:00Z",
+  "kickoff_datetime": "2027-05-08T00:00:00Z",
   "round": 32,
   "home": "RB Leipzig",
   "away": "Paderborn",
@@ -42200,7 +42200,7 @@
  },
  {
   "date": "2027-05-08",
-  "kickoff_datetime": "2027-05-08T13:30:00Z",
+  "kickoff_datetime": "2027-05-08T00:00:00Z",
   "round": 32,
   "home": "Schalke 04",
   "away": "Eintracht Frankfurt",
@@ -42334,7 +42334,7 @@
  },
  {
   "date": "2027-05-08",
-  "kickoff_datetime": "2027-05-08T13:30:00Z",
+  "kickoff_datetime": "2027-05-08T00:00:00Z",
   "round": 32,
   "home": "Union Berlin",
   "away": "Werder Bremen",
@@ -42468,7 +42468,7 @@
  },
  {
   "date": "2027-05-15",
-  "kickoff_datetime": "2027-05-15T13:30:00Z",
+  "kickoff_datetime": "2027-05-15T00:00:00Z",
   "round": 33,
   "home": "Bayer Leverkusen",
   "away": "Bayern M\u00fcnchen",
@@ -42602,7 +42602,7 @@
  },
  {
   "date": "2027-05-15",
-  "kickoff_datetime": "2027-05-15T13:30:00Z",
+  "kickoff_datetime": "2027-05-15T00:00:00Z",
   "round": 33,
   "home": "Borussia Dortmund",
   "away": "1. FC K\u00f6ln",
@@ -42738,7 +42738,7 @@
  },
  {
   "date": "2027-05-15",
-  "kickoff_datetime": "2027-05-15T13:30:00Z",
+  "kickoff_datetime": "2027-05-15T00:00:00Z",
   "round": 33,
   "home": "Borussia M\u00f6nchengladbach",
   "away": "Augsburg",
@@ -42874,7 +42874,7 @@
  },
  {
   "date": "2027-05-15",
-  "kickoff_datetime": "2027-05-15T13:30:00Z",
+  "kickoff_datetime": "2027-05-15T00:00:00Z",
   "round": 33,
   "home": "Eintracht Frankfurt",
   "away": "Elversberg",
@@ -43008,7 +43008,7 @@
  },
  {
   "date": "2027-05-15",
-  "kickoff_datetime": "2027-05-15T13:30:00Z",
+  "kickoff_datetime": "2027-05-15T00:00:00Z",
   "round": 33,
   "home": "Hamburger SV",
   "away": "Freiburg",
@@ -43142,7 +43142,7 @@
  },
  {
   "date": "2027-05-15",
-  "kickoff_datetime": "2027-05-15T13:30:00Z",
+  "kickoff_datetime": "2027-05-15T00:00:00Z",
   "round": 33,
   "home": "Hoffenheim",
   "away": "Mainz 05",
@@ -43276,7 +43276,7 @@
  },
  {
   "date": "2027-05-15",
-  "kickoff_datetime": "2027-05-15T13:30:00Z",
+  "kickoff_datetime": "2027-05-15T00:00:00Z",
   "round": 33,
   "home": "Paderborn",
   "away": "Union Berlin",
@@ -43410,7 +43410,7 @@
  },
  {
   "date": "2027-05-15",
-  "kickoff_datetime": "2027-05-15T13:30:00Z",
+  "kickoff_datetime": "2027-05-15T00:00:00Z",
   "round": 33,
   "home": "VfB Stuttgart",
   "away": "RB Leipzig",
@@ -43544,7 +43544,7 @@
  },
  {
   "date": "2027-05-15",
-  "kickoff_datetime": "2027-05-15T13:30:00Z",
+  "kickoff_datetime": "2027-05-15T00:00:00Z",
   "round": 33,
   "home": "Werder Bremen",
   "away": "Schalke 04",
