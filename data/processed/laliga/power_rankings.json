@@ -1,41 +1,41 @@
 [
  {
   "team": "Barcelona",
-  "attack": 2.017,
-  "defence": 0.814,
+  "attack": 2.016,
+  "defence": 0.815,
   "expected_gf_per_game": 2.5,
   "expected_ga_per_game": 1.01,
-  "net_rating": 1.492,
+  "net_rating": 1.49,
   "evidence_matches": 9.7,
   "rank": 1
  },
  {
   "team": "Real Madrid",
-  "attack": 1.536,
+  "attack": 1.535,
   "defence": 0.673,
-  "expected_gf_per_game": 1.91,
-  "expected_ga_per_game": 0.83,
-  "net_rating": 1.07,
+  "expected_gf_per_game": 1.9,
+  "expected_ga_per_game": 0.84,
+  "net_rating": 1.069,
   "evidence_matches": 9.7,
   "rank": 2
  },
  {
   "team": "Atl\u00e9tico Madrid",
-  "attack": 1.157,
+  "attack": 1.156,
   "defence": 0.798,
   "expected_gf_per_game": 1.43,
   "expected_ga_per_game": 0.99,
-  "net_rating": 0.445,
+  "net_rating": 0.444,
   "evidence_matches": 9.7,
   "rank": 3
  },
  {
   "team": "Villarreal",
-  "attack": 1.168,
+  "attack": 1.167,
   "defence": 0.849,
   "expected_gf_per_game": 1.45,
   "expected_ga_per_game": 1.05,
-  "net_rating": 0.396,
+  "net_rating": 0.395,
   "evidence_matches": 9.7,
   "rank": 4
  },
@@ -52,7 +52,7 @@
  {
   "team": "Real Betis",
   "attack": 1.11,
-  "defence": 1.033,
+  "defence": 1.032,
   "expected_gf_per_game": 1.38,
   "expected_ga_per_game": 1.28,
   "net_rating": 0.096,
@@ -86,7 +86,7 @@
   "expected_gf_per_game": 1.1,
   "expected_ga_per_game": 1.2,
   "net_rating": -0.105,
-  "evidence_matches": 9.7,
+  "evidence_matches": 9.6,
   "rank": 9
  },
  {
@@ -95,14 +95,14 @@
   "defence": 0.849,
   "expected_gf_per_game": 0.94,
   "expected_ga_per_game": 1.05,
-  "net_rating": -0.118,
+  "net_rating": -0.117,
   "evidence_matches": 9.7,
   "rank": 10
  },
  {
   "team": "Rayo Vallecano",
   "attack": 0.965,
-  "defence": 1.061,
+  "defence": 1.06,
   "expected_gf_per_game": 1.2,
   "expected_ga_per_game": 1.32,
   "net_rating": -0.118,
@@ -115,18 +115,18 @@
   "defence": 0.963,
   "expected_gf_per_game": 1.05,
   "expected_ga_per_game": 1.19,
-  "net_rating": -0.148,
+  "net_rating": -0.149,
   "evidence_matches": 9.7,
   "rank": 12
  },
  {
   "team": "Espanyol",
-  "attack": 0.745,
+  "attack": 0.746,
   "defence": 0.897,
   "expected_gf_per_game": 0.92,
   "expected_ga_per_game": 1.11,
   "net_rating": -0.188,
-  "evidence_matches": 9.7,
+  "evidence_matches": 9.6,
   "rank": 13
  },
  {
@@ -151,7 +151,7 @@
  },
  {
   "team": "Valencia",
-  "attack": 0.748,
+  "attack": 0.749,
   "defence": 1.012,
   "expected_gf_per_game": 0.93,
   "expected_ga_per_game": 1.26,
@@ -165,8 +165,8 @@
   "defence": 1.16,
   "expected_gf_per_game": 1.08,
   "expected_ga_per_game": 1.44,
-  "net_rating": -0.358,
-  "evidence_matches": 9.8,
+  "net_rating": -0.357,
+  "evidence_matches": 9.7,
   "rank": 17
  },
  {
@@ -175,14 +175,14 @@
   "defence": 0.916,
   "expected_gf_per_game": 0.72,
   "expected_ga_per_game": 1.14,
-  "net_rating": -0.414,
+  "net_rating": -0.413,
   "evidence_matches": 9.7,
   "rank": 18
  },
  {
   "team": "Racing Santander",
   "attack": 0.963,
-  "defence": 1.441,
+  "defence": 1.44,
   "expected_gf_per_game": 1.19,
   "expected_ga_per_game": 1.79,
   "net_rating": -0.592,
@@ -191,11 +191,11 @@
  },
  {
   "team": "M\u00e1laga",
-  "attack": 0.72,
+  "attack": 0.721,
   "defence": 1.246,
   "expected_gf_per_game": 0.89,
   "expected_ga_per_game": 1.55,
-  "net_rating": -0.652,
+  "net_rating": -0.651,
   "evidence_matches": 9.7,
   "rank": 20
  }
