@@ -15,7 +15,7 @@
   "defence": 0.81,
   "expected_gf_per_game": 1.55,
   "expected_ga_per_game": 0.97,
-  "net_rating": 0.581,
+  "net_rating": 0.58,
   "evidence_matches": 8.2,
   "rank": 2
  },
@@ -61,10 +61,10 @@
  },
  {
   "team": "Leeds United",
-  "attack": 0.901,
+  "attack": 0.902,
   "defence": 0.847,
   "expected_gf_per_game": 1.08,
-  "expected_ga_per_game": 1.01,
+  "expected_ga_per_game": 1.02,
   "net_rating": 0.065,
   "evidence_matches": 8.2,
   "rank": 7
@@ -105,7 +105,7 @@
   "defence": 1.177,
   "expected_gf_per_game": 1.36,
   "expected_ga_per_game": 1.41,
-  "net_rating": -0.051,
+  "net_rating": -0.05,
   "evidence_matches": 8.2,
   "rank": 11
  },
@@ -155,14 +155,14 @@
   "defence": 1.135,
   "expected_gf_per_game": 1.09,
   "expected_ga_per_game": 1.36,
-  "net_rating": -0.273,
+  "net_rating": -0.272,
   "evidence_matches": 8.2,
   "rank": 16
  },
  {
   "team": "Hull City",
   "attack": 0.742,
-  "defence": 1.027,
+  "defence": 1.028,
   "expected_gf_per_game": 0.89,
   "expected_ga_per_game": 1.23,
   "net_rating": -0.342,
@@ -192,10 +192,10 @@
  {
   "team": "Crystal Palace",
   "attack": 0.922,
-  "defence": 1.369,
+  "defence": 1.368,
   "expected_gf_per_game": 1.1,
   "expected_ga_per_game": 1.64,
-  "net_rating": -0.535,
+  "net_rating": -0.534,
   "evidence_matches": 8.2,
   "rank": 20
  }

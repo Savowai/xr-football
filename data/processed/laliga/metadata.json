@@ -3,7 +3,7 @@
  "league": "LaLiga",
  "country": "Spain",
  "season": "2026-27",
- "built_at": "2026-11-14T21:42:51.891558+00:00",
+ "built_at": "2026-11-15T01:22:15.001743+00:00",
  "match_count": 380,
  "played_count": 119,
  "prediction_count": 380,
@@ -38,7 +38,7 @@
  "model": {
   "name": "Dixon-Coles bivariate Poisson",
   "base_goals": 1.24,
-  "home_advantage": 1.326,
+  "home_advantage": 1.327,
   "rho": -0.187,
   "time_decay_xi": 0.0045,
   "prior_strength": 8.0,
