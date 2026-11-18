@@ -45,13 +45,13 @@
   "ga": 10,
   "gd": 13,
   "points": 28,
-  "xg_for": 17.96,
-  "xg_against": 13.38,
-  "xpts": 17.72,
-  "xg_diff": 4.58,
-  "luck": 10.28,
+  "xg_for": 18.88,
+  "xg_against": 13.53,
+  "xpts": 19.75,
+  "xg_diff": 5.35,
+  "luck": 8.25,
   "position": 3,
-  "xposition": 5
+  "xposition": 4
  },
  {
   "team": "Real Betis",
@@ -123,7 +123,7 @@
   "xg_diff": 4.3,
   "luck": -2.69,
   "position": 7,
-  "xposition": 4
+  "xposition": 5
  },
  {
   "team": "Villarreal",
@@ -267,7 +267,7 @@
   "xg_diff": -8.4,
   "luck": 1.38,
   "position": 15,
-  "xposition": 19
+  "xposition": 20
  },
  {
   "team": "Osasuna",
@@ -351,12 +351,12 @@
   "ga": 23,
   "gd": -14,
   "points": 5,
-  "xg_for": 11.18,
-  "xg_against": 19.6,
-  "xpts": 10.18,
-  "xg_diff": -8.42,
-  "luck": -5.18,
+  "xg_for": 11.33,
+  "xg_against": 20.52,
+  "xpts": 10.74,
+  "xg_diff": -9.19,
+  "luck": -5.74,
   "position": 20,
-  "xposition": 20
+  "xposition": 19
  }
 ]
