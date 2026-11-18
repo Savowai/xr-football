@@ -2,16 +2,16 @@
  {
   "team": "Inter",
   "attack": 1.528,
-  "defence": 0.745,
+  "defence": 0.746,
   "expected_gf_per_game": 2.25,
   "expected_ga_per_game": 1.1,
-  "net_rating": 1.154,
+  "net_rating": 1.153,
   "evidence_matches": 9.0,
   "rank": 1
  },
  {
   "team": "Roma",
-  "attack": 1.457,
+  "attack": 1.456,
   "defence": 0.824,
   "expected_gf_per_game": 2.15,
   "expected_ga_per_game": 1.21,
@@ -22,7 +22,7 @@
  {
   "team": "Napoli",
   "attack": 1.156,
-  "defence": 0.776,
+  "defence": 0.777,
   "expected_gf_per_game": 1.7,
   "expected_ga_per_game": 1.14,
   "net_rating": 0.56,
@@ -51,7 +51,7 @@
  },
  {
   "team": "Lazio",
-  "attack": 1.084,
+  "attack": 1.083,
   "defence": 0.855,
   "expected_gf_per_game": 1.6,
   "expected_ga_per_game": 1.26,
@@ -95,8 +95,8 @@
   "defence": 1.084,
   "expected_gf_per_game": 1.5,
   "expected_ga_per_game": 1.6,
-  "net_rating": -0.096,
-  "evidence_matches": 9.1,
+  "net_rating": -0.095,
+  "evidence_matches": 9.0,
   "rank": 10
  },
  {
@@ -121,8 +121,8 @@
  },
  {
   "team": "Torino",
-  "attack": 0.831,
-  "defence": 1.002,
+  "attack": 0.832,
+  "defence": 1.003,
   "expected_gf_per_game": 1.23,
   "expected_ga_per_game": 1.48,
   "net_rating": -0.252,
@@ -155,7 +155,7 @@
   "defence": 1.24,
   "expected_gf_per_game": 1.36,
   "expected_ga_per_game": 1.83,
-  "net_rating": -0.47,
+  "net_rating": -0.469,
   "evidence_matches": 9.0,
   "rank": 16
  },
@@ -172,20 +172,20 @@
  {
   "team": "Lecce",
   "attack": 0.797,
-  "defence": 1.187,
+  "defence": 1.186,
   "expected_gf_per_game": 1.17,
   "expected_ga_per_game": 1.75,
   "net_rating": -0.575,
-  "evidence_matches": 9.1,
+  "evidence_matches": 9.0,
   "rank": 18
  },
  {
   "team": "Udinese",
   "attack": 0.814,
-  "defence": 1.307,
+  "defence": 1.306,
   "expected_gf_per_game": 1.2,
   "expected_ga_per_game": 1.93,
-  "net_rating": -0.726,
+  "net_rating": -0.725,
   "evidence_matches": 9.0,
   "rank": 19
  },
@@ -195,7 +195,7 @@
   "defence": 1.148,
   "expected_gf_per_game": 0.96,
   "expected_ga_per_game": 1.69,
-  "net_rating": -0.735,
+  "net_rating": -0.734,
   "evidence_matches": 9.0,
   "rank": 20
  }

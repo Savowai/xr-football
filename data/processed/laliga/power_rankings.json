@@ -1,31 +1,31 @@
 [
  {
   "team": "Barcelona",
-  "attack": 2.013,
+  "attack": 2.012,
   "defence": 0.815,
   "expected_gf_per_game": 2.5,
   "expected_ga_per_game": 1.01,
-  "net_rating": 1.486,
-  "evidence_matches": 9.6,
+  "net_rating": 1.484,
+  "evidence_matches": 9.5,
   "rank": 1
  },
  {
   "team": "Real Madrid",
   "attack": 1.534,
-  "defence": 0.674,
+  "defence": 0.675,
   "expected_gf_per_game": 1.9,
   "expected_ga_per_game": 0.84,
-  "net_rating": 1.066,
-  "evidence_matches": 9.6,
+  "net_rating": 1.065,
+  "evidence_matches": 9.5,
   "rank": 2
  },
  {
   "team": "Atl\u00e9tico Madrid",
-  "attack": 1.156,
-  "defence": 0.799,
+  "attack": 1.155,
+  "defence": 0.8,
   "expected_gf_per_game": 1.43,
   "expected_ga_per_game": 0.99,
-  "net_rating": 0.442,
+  "net_rating": 0.441,
   "evidence_matches": 9.5,
   "rank": 3
  },
@@ -55,14 +55,14 @@
   "defence": 1.032,
   "expected_gf_per_game": 1.38,
   "expected_ga_per_game": 1.28,
-  "net_rating": 0.096,
-  "evidence_matches": 9.6,
+  "net_rating": 0.097,
+  "evidence_matches": 9.5,
   "rank": 6
  },
  {
   "team": "Real Sociedad",
   "attack": 1.11,
-  "defence": 1.149,
+  "defence": 1.148,
   "expected_gf_per_game": 1.38,
   "expected_ga_per_game": 1.42,
   "net_rating": -0.047,
@@ -106,7 +106,7 @@
   "expected_gf_per_game": 1.2,
   "expected_ga_per_game": 1.31,
   "net_rating": -0.117,
-  "evidence_matches": 8.7,
+  "evidence_matches": 8.6,
   "rank": 11
  },
  {
@@ -145,8 +145,8 @@
   "defence": 1.195,
   "expected_gf_per_game": 1.19,
   "expected_ga_per_game": 1.48,
-  "net_rating": -0.29,
-  "evidence_matches": 9.7,
+  "net_rating": -0.289,
+  "evidence_matches": 9.6,
   "rank": 15
  },
  {
@@ -162,11 +162,11 @@
  {
   "team": "Osasuna",
   "attack": 0.872,
-  "defence": 1.159,
+  "defence": 1.158,
   "expected_gf_per_game": 1.08,
   "expected_ga_per_game": 1.44,
-  "net_rating": -0.355,
-  "evidence_matches": 9.6,
+  "net_rating": -0.354,
+  "evidence_matches": 9.5,
   "rank": 17
  },
  {
@@ -175,8 +175,8 @@
   "defence": 0.916,
   "expected_gf_per_game": 0.72,
   "expected_ga_per_game": 1.14,
-  "net_rating": -0.412,
-  "evidence_matches": 9.6,
+  "net_rating": -0.411,
+  "evidence_matches": 9.5,
   "rank": 18
  },
  {
@@ -191,7 +191,7 @@
  },
  {
   "team": "M\u00e1laga",
-  "attack": 0.721,
+  "attack": 0.722,
   "defence": 1.245,
   "expected_gf_per_game": 0.89,
   "expected_ga_per_game": 1.54,

@@ -5,17 +5,17 @@
   "defence": 0.582,
   "expected_gf_per_game": 1.33,
   "expected_ga_per_game": 0.7,
-  "net_rating": 0.634,
+  "net_rating": 0.633,
   "evidence_matches": 8.1,
   "rank": 1
  },
  {
   "team": "Brighton",
-  "attack": 1.294,
+  "attack": 1.293,
   "defence": 0.811,
   "expected_gf_per_game": 1.55,
   "expected_ga_per_game": 0.97,
-  "net_rating": 0.579,
+  "net_rating": 0.578,
   "evidence_matches": 8.1,
   "rank": 2
  },
@@ -31,7 +31,7 @@
  },
  {
   "team": "Bournemouth",
-  "attack": 1.18,
+  "attack": 1.179,
   "defence": 0.885,
   "expected_gf_per_game": 1.41,
   "expected_ga_per_game": 1.06,
@@ -51,7 +51,7 @@
  },
  {
   "team": "Brentford",
-  "attack": 1.078,
+  "attack": 1.077,
   "defence": 0.976,
   "expected_gf_per_game": 1.29,
   "expected_ga_per_game": 1.17,
@@ -65,7 +65,7 @@
   "defence": 0.848,
   "expected_gf_per_game": 1.08,
   "expected_ga_per_game": 1.02,
-  "net_rating": 0.065,
+  "net_rating": 0.064,
   "evidence_matches": 8.1,
   "rank": 7
  },
@@ -102,7 +102,7 @@
  {
   "team": "Manchester United",
   "attack": 1.135,
-  "defence": 1.176,
+  "defence": 1.175,
   "expected_gf_per_game": 1.36,
   "expected_ga_per_game": 1.41,
   "net_rating": -0.049,
@@ -123,9 +123,9 @@
   "team": "Fulham",
   "attack": 0.847,
   "defence": 0.945,
-  "expected_gf_per_game": 1.01,
+  "expected_gf_per_game": 1.02,
   "expected_ga_per_game": 1.13,
-  "net_rating": -0.118,
+  "net_rating": -0.117,
   "evidence_matches": 8.1,
   "rank": 13
  },
@@ -175,7 +175,7 @@
   "defence": 1.281,
   "expected_gf_per_game": 1.1,
   "expected_ga_per_game": 1.54,
-  "net_rating": -0.433,
+  "net_rating": -0.432,
   "evidence_matches": 8.1,
   "rank": 18
  },
@@ -192,10 +192,10 @@
  {
   "team": "Crystal Palace",
   "attack": 0.922,
-  "defence": 1.367,
-  "expected_gf_per_game": 1.1,
+  "defence": 1.366,
+  "expected_gf_per_game": 1.11,
   "expected_ga_per_game": 1.64,
-  "net_rating": -0.533,
+  "net_rating": -0.532,
   "evidence_matches": 8.1,
   "rank": 20
  }
