@@ -31640,319 +31640,47 @@
  },
  {
   "date": "2027-01-16",
-  "kickoff_datetime": "2027-01-16T15:00:00Z",
+  "kickoff_datetime": "2027-01-16T12:30:00Z",
   "round": 21,
-  "home": "Aston Villa",
-  "away": "Manchester United",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 2.17,
-   "goals_against": 1.67,
-   "xg_for": 1.6,
-   "xg_against": 1.85,
-   "xg_diff_per_game": -0.24,
-   "finishing_delta": 0.56,
-   "points": 12,
-   "ppg": 2.0,
-   "form": "WDWWDD",
-   "possession_pct": 44.0
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 1.17,
-   "goals_against": 2.0,
-   "xg_for": 1.53,
-   "xg_against": 2.05,
-   "xg_diff_per_game": -0.52,
-   "finishing_delta": -0.36,
-   "points": 4,
-   "ppg": 0.67,
-   "form": "DDDLLD",
-   "possession_pct": 51.0
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.854,
-  "pred_xg_away": 1.565,
-  "win_home_pct": 45.5,
-  "draw_pct": 21.0,
-  "win_away_pct": 33.5,
-  "xpts_home": 1.57,
-  "xpts_away": 1.22,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    8.84
-   ],
-   [
-    2,
-    1,
-    8.81
-   ],
-   [
-    1,
-    2,
-    7.43
-   ],
-   [
-    2,
-    2,
-    6.89
-   ],
-   [
-    1,
-    0,
-    6.73
-   ]
-  ],
-  "over_2_5_pct": 66.4,
-  "btts_pct": 66.0,
-  "reasoning": {
-   "thesis": "Villa are marginal favourites, worth about 0.29 goals of edge and a 46% win probability -- a lean, not a call. Villa are scoring 0.56 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Projected 1.85-1.56 on expected goals, with 1-1 the single most likely scoreline at 8.8%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 8.0,
-    "effective_matches_away": 8.0
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Villa attack",
-     "detail": "solid (1.03x league average)",
-     "delta_goals": 0.039
-    },
-    {
-     "side": "home",
-     "label": "Man Utd defence",
-     "detail": "leaky (1.17x league average conceded)",
-     "delta_goals": 0.216
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.28x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.401
-    },
-    {
-     "side": "away",
-     "label": "Man Utd attack",
-     "detail": "strong (1.13x league average)",
-     "delta_goals": 0.161
-    },
-    {
-     "side": "away",
-     "label": "Villa defence",
-     "detail": "leaky (1.15x league average conceded)",
-     "delta_goals": 0.205
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 1.032,
-    "home_defence": 1.151,
-    "away_attack": 1.135,
-    "away_defence": 1.175,
-    "league_base": 1.198,
-    "home_advantage": 1.276
-   },
-   "availability": {
-    "home_attack_mult": 0.998,
-    "home_defence_mult": 1.001,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [
-     "Amadou Onana"
-    ],
-    "away_missing": [
-     "Manuel Ugarte"
-    ]
-   }
-  }
- },
- {
-  "date": "2027-01-16",
-  "kickoff_datetime": "2027-01-16T15:00:00Z",
-  "round": 21,
-  "home": "Bournemouth",
-  "away": "Ipswich Town",
+  "home": "Coventry City",
+  "away": "Everton",
   "status": "scheduled",
   "home_form": {
    "matches": 6,
    "goals": 1.67,
-   "goals_against": 1.17,
-   "xg_for": 2.01,
-   "xg_against": 0.97,
-   "xg_diff_per_game": 1.04,
-   "finishing_delta": -0.35,
-   "points": 12,
-   "ppg": 2.0,
-   "form": "LLWWWW",
-   "possession_pct": 47.7
+   "goals_against": 1.5,
+   "xg_for": 0.92,
+   "xg_against": 1.39,
+   "xg_diff_per_game": -0.46,
+   "finishing_delta": 0.75,
+   "points": 9,
+   "ppg": 1.5,
+   "form": "WWLLWL",
+   "possession_pct": 39.2
   },
   "away_form": {
    "matches": 6,
-   "goals": 1.33,
-   "goals_against": 1.67,
-   "xg_for": 1.14,
-   "xg_against": 2.13,
-   "xg_diff_per_game": -0.99,
-   "finishing_delta": 0.2,
-   "points": 5,
-   "ppg": 0.83,
-   "form": "LWLDDL",
-   "possession_pct": 48.8
+   "goals": 1.17,
+   "goals_against": 1.17,
+   "xg_for": 1.59,
+   "xg_against": 1.44,
+   "xg_diff_per_game": 0.15,
+   "finishing_delta": -0.42,
+   "points": 10,
+   "ppg": 1.67,
+   "form": "WDLLWW",
+   "possession_pct": 50.7
   },
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 2.309,
-  "pred_xg_away": 0.976,
-  "win_home_pct": 67.8,
-  "draw_pct": 17.1,
-  "win_away_pct": 15.1,
-  "xpts_home": 2.21,
-  "xpts_away": 0.62,
-  "most_likely_scoreline": [
-   2,
-   0
-  ],
-  "top_5_scorelines": [
-   [
-    2,
-    0,
-    9.98
-   ],
-   [
-    2,
-    1,
-    9.74
-   ],
-   [
-    1,
-    0,
-    9.23
-   ],
-   [
-    1,
-    1,
-    7.85
-   ],
-   [
-    3,
-    0,
-    7.68
-   ]
-  ],
-  "over_2_5_pct": 63.8,
-  "btts_pct": 55.6,
-  "reasoning": {
-   "thesis": "Bournemouth should win comfortably. The model has them 1.33 goals clear of Ipswich, a 68% win probability. Bournemouth are creating +1.04 xG per game more than they concede over their last 6, the profile of a side controlling matches. Ipswich are being outcreated by 0.99 xG per game over their last 6, which is why the model is cautious regardless of recent results. Projected 2.31-0.98 on expected goals, with 2-0 the single most likely scoreline at 10.0%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 8.0,
-    "effective_matches_away": 8.0
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Bournemouth attack",
-     "detail": "strong (1.18x league average)",
-     "delta_goals": 0.215
-    },
-    {
-     "side": "home",
-     "label": "Ipswich defence",
-     "detail": "poor (1.28x league average conceded)",
-     "delta_goals": 0.397
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.28x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.499
-    },
-    {
-     "side": "away",
-     "label": "Ipswich attack",
-     "detail": "modest (0.92x league average)",
-     "delta_goals": -0.096
-    },
-    {
-     "side": "away",
-     "label": "Bournemouth defence",
-     "detail": "strong (0.89x league average conceded)",
-     "delta_goals": -0.126
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 1.179,
-    "home_defence": 0.885,
-    "away_attack": 0.92,
-    "away_defence": 1.281,
-    "league_base": 1.198,
-    "home_advantage": 1.276
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2027-01-16",
-  "kickoff_datetime": "2027-01-16T15:00:00Z",
-  "round": 21,
-  "home": "Brentford",
-  "away": "Brighton",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 1.5,
-   "goals_against": 1.17,
-   "xg_for": 1.29,
-   "xg_against": 1.5,
-   "xg_diff_per_game": -0.21,
-   "finishing_delta": 0.21,
-   "points": 8,
-   "ppg": 1.33,
-   "form": "WDLDWL",
-   "possession_pct": 42.3
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 2.17,
-   "goals_against": 0.33,
-   "xg_for": 1.54,
-   "xg_against": 1.09,
-   "xg_diff_per_game": 0.45,
-   "finishing_delta": 0.63,
-   "points": 15,
-   "ppg": 2.5,
-   "form": "WWWLWW",
-   "possession_pct": 52.0
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.336,
-  "pred_xg_away": 1.512,
-  "win_home_pct": 34.4,
-  "draw_pct": 23.3,
-  "win_away_pct": 42.3,
-  "xpts_home": 1.26,
-  "xpts_away": 1.5,
+  "pred_xg_home": 1.191,
+  "pred_xg_away": 1.312,
+  "win_home_pct": 34.6,
+  "draw_pct": 25.1,
+  "win_away_pct": 40.3,
+  "xpts_home": 1.29,
+  "xpts_away": 1.46,
   "most_likely_scoreline": [
    1,
    1
@@ -31961,33 +31689,33 @@
    [
     1,
     1,
-    10.89
+    11.9
    ],
    [
     0,
     1,
-    9.57
-   ],
-   [
-    1,
-    2,
-    8.85
+    11.62
    ],
    [
     1,
     0,
-    8.55
+    10.63
+   ],
+   [
+    1,
+    2,
+    8.39
    ],
    [
     2,
     1,
-    7.82
+    7.62
    ]
   ],
-  "over_2_5_pct": 54.2,
-  "btts_pct": 56.7,
+  "over_2_5_pct": 45.7,
+  "btts_pct": 50.0,
   "reasoning": {
-   "thesis": "Brighton are marginal favourites, worth about 0.18 goals of edge and a 42% win probability -- a lean, not a call. Brighton are scoring 0.63 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Projected 1.34-1.51 on expected goals, with 1-1 the single most likely scoreline at 10.9%.",
+   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.12 goals, and the most likely single outcome is a draw at 25%. Coventry are scoring 0.75 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Projected 1.19-1.31 on expected goals, with 1-1 the single most likely scoreline at 11.9%.",
    "confidence": {
     "level": "medium",
     "note": "ratings are mostly driven by this season, with last season still contributing",
@@ -31997,40 +31725,40 @@
    "factors": [
     {
      "side": "home",
-     "label": "Brentford attack",
-     "detail": "solid (1.08x league average)",
-     "delta_goals": 0.093
+     "label": "Coventry attack",
+     "detail": "poor (0.80x league average)",
+     "delta_goals": -0.235
     },
     {
      "side": "home",
-     "label": "Brighton defence",
-     "detail": "strong (0.81x league average conceded)",
-     "delta_goals": -0.244
+     "label": "Everton defence",
+     "detail": "solid (0.97x league average conceded)",
+     "delta_goals": -0.03
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.28x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.289
+     "delta_goals": 0.258
     },
     {
      "side": "away",
-     "label": "Brighton attack",
-     "detail": "excellent (1.29x league average)",
-     "delta_goals": 0.351
+     "label": "Everton attack",
+     "detail": "modest (0.93x league average)",
+     "delta_goals": -0.086
     },
     {
      "side": "away",
-     "label": "Brentford defence",
-     "detail": "solid (0.98x league average conceded)",
-     "delta_goals": -0.037
+     "label": "Coventry defence",
+     "detail": "leaky (1.18x league average conceded)",
+     "delta_goals": 0.2
     }
    ],
    "rating_snapshot": {
-    "home_attack": 1.077,
-    "home_defence": 0.976,
-    "away_attack": 1.293,
-    "away_defence": 0.811,
+    "home_attack": 0.804,
+    "home_defence": 1.18,
+    "away_attack": 0.928,
+    "away_defence": 0.969,
     "league_base": 1.198,
     "home_advantage": 1.276
    },
@@ -32165,140 +31893,6 @@
     "home_defence": 1.044,
     "away_attack": 0.925,
     "away_defence": 1.052,
-    "league_base": 1.198,
-    "home_advantage": 1.276
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2027-01-16",
-  "kickoff_datetime": "2027-01-16T15:00:00Z",
-  "round": 21,
-  "home": "Coventry City",
-  "away": "Everton",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 1.67,
-   "goals_against": 1.5,
-   "xg_for": 0.92,
-   "xg_against": 1.39,
-   "xg_diff_per_game": -0.46,
-   "finishing_delta": 0.75,
-   "points": 9,
-   "ppg": 1.5,
-   "form": "WWLLWL",
-   "possession_pct": 39.2
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 1.17,
-   "goals_against": 1.17,
-   "xg_for": 1.59,
-   "xg_against": 1.44,
-   "xg_diff_per_game": 0.15,
-   "finishing_delta": -0.42,
-   "points": 10,
-   "ppg": 1.67,
-   "form": "WDLLWW",
-   "possession_pct": 50.7
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.191,
-  "pred_xg_away": 1.312,
-  "win_home_pct": 34.6,
-  "draw_pct": 25.1,
-  "win_away_pct": 40.3,
-  "xpts_home": 1.29,
-  "xpts_away": 1.46,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    11.9
-   ],
-   [
-    0,
-    1,
-    11.62
-   ],
-   [
-    1,
-    0,
-    10.63
-   ],
-   [
-    1,
-    2,
-    8.39
-   ],
-   [
-    2,
-    1,
-    7.62
-   ]
-  ],
-  "over_2_5_pct": 45.7,
-  "btts_pct": 50.0,
-  "reasoning": {
-   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.12 goals, and the most likely single outcome is a draw at 25%. Coventry are scoring 0.75 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Projected 1.19-1.31 on expected goals, with 1-1 the single most likely scoreline at 11.9%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 8.0,
-    "effective_matches_away": 8.0
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Coventry attack",
-     "detail": "poor (0.80x league average)",
-     "delta_goals": -0.235
-    },
-    {
-     "side": "home",
-     "label": "Everton defence",
-     "detail": "solid (0.97x league average conceded)",
-     "delta_goals": -0.03
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.28x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.258
-    },
-    {
-     "side": "away",
-     "label": "Everton attack",
-     "detail": "modest (0.93x league average)",
-     "delta_goals": -0.086
-    },
-    {
-     "side": "away",
-     "label": "Coventry defence",
-     "detail": "leaky (1.18x league average conceded)",
-     "delta_goals": 0.2
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 0.804,
-    "home_defence": 1.18,
-    "away_attack": 0.928,
-    "away_defence": 0.969,
     "league_base": 1.198,
     "home_advantage": 1.276
    },
@@ -32852,7 +32446,279 @@
  },
  {
   "date": "2027-01-16",
-  "kickoff_datetime": "2027-01-16T15:00:00Z",
+  "kickoff_datetime": "2027-01-16T17:30:00Z",
+  "round": 21,
+  "home": "Aston Villa",
+  "away": "Manchester United",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 2.17,
+   "goals_against": 1.67,
+   "xg_for": 1.6,
+   "xg_against": 1.85,
+   "xg_diff_per_game": -0.24,
+   "finishing_delta": 0.56,
+   "points": 12,
+   "ppg": 2.0,
+   "form": "WDWWDD",
+   "possession_pct": 44.0
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 1.17,
+   "goals_against": 2.0,
+   "xg_for": 1.53,
+   "xg_against": 2.05,
+   "xg_diff_per_game": -0.52,
+   "finishing_delta": -0.36,
+   "points": 4,
+   "ppg": 0.67,
+   "form": "DDDLLD",
+   "possession_pct": 51.0
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.854,
+  "pred_xg_away": 1.565,
+  "win_home_pct": 45.5,
+  "draw_pct": 21.0,
+  "win_away_pct": 33.5,
+  "xpts_home": 1.57,
+  "xpts_away": 1.22,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    8.84
+   ],
+   [
+    2,
+    1,
+    8.81
+   ],
+   [
+    1,
+    2,
+    7.43
+   ],
+   [
+    2,
+    2,
+    6.89
+   ],
+   [
+    1,
+    0,
+    6.73
+   ]
+  ],
+  "over_2_5_pct": 66.4,
+  "btts_pct": 66.0,
+  "reasoning": {
+   "thesis": "Villa are marginal favourites, worth about 0.29 goals of edge and a 46% win probability -- a lean, not a call. Villa are scoring 0.56 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Projected 1.85-1.56 on expected goals, with 1-1 the single most likely scoreline at 8.8%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 8.0,
+    "effective_matches_away": 8.0
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Villa attack",
+     "detail": "solid (1.03x league average)",
+     "delta_goals": 0.039
+    },
+    {
+     "side": "home",
+     "label": "Man Utd defence",
+     "detail": "leaky (1.17x league average conceded)",
+     "delta_goals": 0.216
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.28x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.401
+    },
+    {
+     "side": "away",
+     "label": "Man Utd attack",
+     "detail": "strong (1.13x league average)",
+     "delta_goals": 0.161
+    },
+    {
+     "side": "away",
+     "label": "Villa defence",
+     "detail": "leaky (1.15x league average conceded)",
+     "delta_goals": 0.205
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 1.032,
+    "home_defence": 1.151,
+    "away_attack": 1.135,
+    "away_defence": 1.175,
+    "league_base": 1.198,
+    "home_advantage": 1.276
+   },
+   "availability": {
+    "home_attack_mult": 0.998,
+    "home_defence_mult": 1.001,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [
+     "Amadou Onana"
+    ],
+    "away_missing": [
+     "Manuel Ugarte"
+    ]
+   }
+  }
+ },
+ {
+  "date": "2027-01-17",
+  "kickoff_datetime": "2027-01-17T14:00:00Z",
+  "round": 21,
+  "home": "Bournemouth",
+  "away": "Ipswich Town",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 1.67,
+   "goals_against": 1.17,
+   "xg_for": 2.01,
+   "xg_against": 0.97,
+   "xg_diff_per_game": 1.04,
+   "finishing_delta": -0.35,
+   "points": 12,
+   "ppg": 2.0,
+   "form": "LLWWWW",
+   "possession_pct": 47.7
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 1.33,
+   "goals_against": 1.67,
+   "xg_for": 1.14,
+   "xg_against": 2.13,
+   "xg_diff_per_game": -0.99,
+   "finishing_delta": 0.2,
+   "points": 5,
+   "ppg": 0.83,
+   "form": "LWLDDL",
+   "possession_pct": 48.8
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 2.309,
+  "pred_xg_away": 0.976,
+  "win_home_pct": 67.8,
+  "draw_pct": 17.1,
+  "win_away_pct": 15.1,
+  "xpts_home": 2.21,
+  "xpts_away": 0.62,
+  "most_likely_scoreline": [
+   2,
+   0
+  ],
+  "top_5_scorelines": [
+   [
+    2,
+    0,
+    9.98
+   ],
+   [
+    2,
+    1,
+    9.74
+   ],
+   [
+    1,
+    0,
+    9.23
+   ],
+   [
+    1,
+    1,
+    7.85
+   ],
+   [
+    3,
+    0,
+    7.68
+   ]
+  ],
+  "over_2_5_pct": 63.8,
+  "btts_pct": 55.6,
+  "reasoning": {
+   "thesis": "Bournemouth should win comfortably. The model has them 1.33 goals clear of Ipswich, a 68% win probability. Bournemouth are creating +1.04 xG per game more than they concede over their last 6, the profile of a side controlling matches. Ipswich are being outcreated by 0.99 xG per game over their last 6, which is why the model is cautious regardless of recent results. Projected 2.31-0.98 on expected goals, with 2-0 the single most likely scoreline at 10.0%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 8.0,
+    "effective_matches_away": 8.0
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Bournemouth attack",
+     "detail": "strong (1.18x league average)",
+     "delta_goals": 0.215
+    },
+    {
+     "side": "home",
+     "label": "Ipswich defence",
+     "detail": "poor (1.28x league average conceded)",
+     "delta_goals": 0.397
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.28x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.499
+    },
+    {
+     "side": "away",
+     "label": "Ipswich attack",
+     "detail": "modest (0.92x league average)",
+     "delta_goals": -0.096
+    },
+    {
+     "side": "away",
+     "label": "Bournemouth defence",
+     "detail": "strong (0.89x league average conceded)",
+     "delta_goals": -0.126
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 1.179,
+    "home_defence": 0.885,
+    "away_attack": 0.92,
+    "away_defence": 1.281,
+    "league_base": 1.198,
+    "home_advantage": 1.276
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2027-01-17",
+  "kickoff_datetime": "2027-01-17T16:30:00Z",
   "round": 21,
   "home": "Tottenham Hotspur",
   "away": "Leeds United",
@@ -32999,444 +32865,13 @@
   }
  },
  {
-  "date": "2027-01-23",
-  "kickoff_datetime": "2027-01-23T15:00:00Z",
-  "round": 22,
-  "home": "Arsenal",
-  "away": "Newcastle United",
+  "date": "2027-01-18",
+  "kickoff_datetime": "2027-01-18T20:00:00Z",
+  "round": 21,
+  "home": "Brentford",
+  "away": "Brighton",
   "status": "scheduled",
   "home_form": {
-   "matches": 6,
-   "goals": 1.17,
-   "goals_against": 0.67,
-   "xg_for": 1.5,
-   "xg_against": 0.78,
-   "xg_diff_per_game": 0.72,
-   "finishing_delta": -0.34,
-   "points": 15,
-   "ppg": 2.5,
-   "form": "LWWWWW",
-   "possession_pct": 60.2
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 1.0,
-   "goals_against": 1.33,
-   "xg_for": 1.27,
-   "xg_against": 1.47,
-   "xg_diff_per_game": -0.2,
-   "finishing_delta": -0.27,
-   "points": 7,
-   "ppg": 1.17,
-   "form": "WLLWLD",
-   "possession_pct": 52.2
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.926,
-  "pred_xg_away": 0.634,
-  "win_home_pct": 68.8,
-  "draw_pct": 19.2,
-  "win_away_pct": 12.0,
-  "xpts_home": 2.26,
-  "xpts_away": 0.55,
-  "most_likely_scoreline": [
-   1,
-   0
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    0,
-    15.54
-   ],
-   [
-    2,
-    0,
-    14.33
-   ],
-   [
-    3,
-    0,
-    9.2
-   ],
-   [
-    2,
-    1,
-    9.09
-   ],
-   [
-    1,
-    1,
-    8.79
-   ]
-  ],
-  "over_2_5_pct": 47.1,
-  "btts_pct": 39.5,
-  "reasoning": {
-   "thesis": "Arsenal should win comfortably. The model has them 1.29 goals clear of Newcastle, a 69% win probability. Arsenal are creating +0.72 xG per game more than they concede over their last 6, the profile of a side controlling matches. Projected 1.93-0.63 on expected goals, with 1-0 the single most likely scoreline at 15.5%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 8.0,
-    "effective_matches_away": 8.1
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Arsenal attack",
-     "detail": "strong (1.11x league average)",
-     "delta_goals": 0.133
-    },
-    {
-     "side": "home",
-     "label": "Newcastle defence",
-     "detail": "leaky (1.13x league average conceded)",
-     "delta_goals": 0.178
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.28x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.416
-    },
-    {
-     "side": "away",
-     "label": "Newcastle attack",
-     "detail": "modest (0.91x league average)",
-     "delta_goals": -0.11
-    },
-    {
-     "side": "away",
-     "label": "Arsenal defence",
-     "detail": "excellent (0.58x league average conceded)",
-     "delta_goals": -0.454
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 1.111,
-    "home_defence": 0.583,
-    "away_attack": 0.908,
-    "away_defence": 1.134,
-    "league_base": 1.198,
-    "home_advantage": 1.276
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2027-01-23",
-  "kickoff_datetime": "2027-01-23T15:00:00Z",
-  "round": 22,
-  "home": "Brighton",
-  "away": "Manchester City",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 2.17,
-   "goals_against": 0.33,
-   "xg_for": 1.54,
-   "xg_against": 1.09,
-   "xg_diff_per_game": 0.45,
-   "finishing_delta": 0.63,
-   "points": 15,
-   "ppg": 2.5,
-   "form": "WWWLWW",
-   "possession_pct": 52.0
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 2.17,
-   "goals_against": 1.83,
-   "xg_for": 2.14,
-   "xg_against": 1.55,
-   "xg_diff_per_game": 0.6,
-   "finishing_delta": 0.02,
-   "points": 9,
-   "ppg": 1.5,
-   "form": "WWWLLL",
-   "possession_pct": 65.7
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.764,
-  "pred_xg_away": 1.258,
-  "win_home_pct": 50.0,
-  "draw_pct": 21.9,
-  "win_away_pct": 28.1,
-  "xpts_home": 1.72,
-  "xpts_away": 1.06,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    10.06
-   ],
-   [
-    2,
-    1,
-    9.53
-   ],
-   [
-    1,
-    0,
-    9.34
-   ],
-   [
-    2,
-    0,
-    7.57
-   ],
-   [
-    0,
-    1,
-    6.88
-   ]
-  ],
-  "over_2_5_pct": 58.2,
-  "btts_pct": 58.6,
-  "reasoning": {
-   "thesis": "Brighton are clear favourites, projected 0.51 goals better than Man City on the day, which prices the win at 50%. Brighton are scoring 0.63 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Man City are creating +0.60 xG per game more than they concede over their last 6, the profile of a side controlling matches. Projected 1.76-1.26 on expected goals, with 1-1 the single most likely scoreline at 10.1%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 8.0,
-    "effective_matches_away": 8.0
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Brighton attack",
-     "detail": "excellent (1.29x league average)",
-     "delta_goals": 0.351
-    },
-    {
-     "side": "home",
-     "label": "Man City defence",
-     "detail": "strong (0.89x league average conceded)",
-     "delta_goals": -0.167
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.28x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.381
-    },
-    {
-     "side": "away",
-     "label": "Man City attack",
-     "detail": "excellent (1.29x league average)",
-     "delta_goals": 0.353
-    },
-    {
-     "side": "away",
-     "label": "Brighton defence",
-     "detail": "strong (0.81x league average conceded)",
-     "delta_goals": -0.293
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 1.293,
-    "home_defence": 0.811,
-    "away_attack": 1.294,
-    "away_defence": 0.892,
-    "league_base": 1.198,
-    "home_advantage": 1.276
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2027-01-23",
-  "kickoff_datetime": "2027-01-23T15:00:00Z",
-  "round": 22,
-  "home": "Crystal Palace",
-  "away": "Tottenham Hotspur",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 0.67,
-   "goals_against": 2.17,
-   "xg_for": 1.35,
-   "xg_against": 2.26,
-   "xg_diff_per_game": -0.91,
-   "finishing_delta": -0.68,
-   "points": 4,
-   "ppg": 0.67,
-   "form": "DWLLLL",
-   "possession_pct": 43.7
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 1.67,
-   "goals_against": 1.0,
-   "xg_for": 1.4,
-   "xg_against": 0.89,
-   "xg_diff_per_game": 0.51,
-   "finishing_delta": 0.26,
-   "points": 10,
-   "ppg": 1.67,
-   "form": "LDWWWL",
-   "possession_pct": 64.5
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.247,
-  "pred_xg_away": 1.314,
-  "win_home_pct": 36.0,
-  "draw_pct": 24.9,
-  "win_away_pct": 39.2,
-  "xpts_home": 1.33,
-  "xpts_away": 1.42,
-  "most_likely_scoreline": [
-   1,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    1,
-    11.78
-   ],
-   [
-    0,
-    1,
-    11.03
-   ],
-   [
-    1,
-    0,
-    10.51
-   ],
-   [
-    1,
-    2,
-    8.31
-   ],
-   [
-    2,
-    1,
-    7.89
-   ]
-  ],
-  "over_2_5_pct": 47.2,
-  "btts_pct": 51.2,
-  "reasoning": {
-   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.07 goals, and the most likely single outcome is a draw at 25%. Palace are converting 0.68 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Spurs are without Simons, which the model treats as a marginal cost given the cover behind them. Projected 1.25-1.31 on expected goals, with 1-1 the single most likely scoreline at 11.8%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 8.0,
-    "effective_matches_away": 8.0
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Palace attack",
-     "detail": "modest (0.92x league average)",
-     "delta_goals": -0.093
-    },
-    {
-     "side": "home",
-     "label": "Spurs defence",
-     "detail": "strong (0.88x league average conceded)",
-     "delta_goals": -0.13
-    },
-    {
-     "side": "home",
-     "label": "Spurs defence weakened",
-     "detail": "Simons out (1.00x conceded)",
-     "delta_goals": 0.003
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.28x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.27
-    },
-    {
-     "side": "away",
-     "label": "Spurs attack",
-     "detail": "poor (0.81x league average)",
-     "delta_goals": -0.231
-    },
-    {
-     "side": "away",
-     "label": "Spurs unavailable",
-     "detail": "Simons out (1.00x attack)",
-     "delta_goals": -0.005
-    },
-    {
-     "side": "away",
-     "label": "Palace defence",
-     "detail": "poor (1.37x league average conceded)",
-     "delta_goals": 0.351
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 0.922,
-    "home_defence": 1.365,
-    "away_attack": 0.807,
-    "away_defence": 0.882,
-    "league_base": 1.198,
-    "home_advantage": 1.276
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 0.995,
-    "away_defence_mult": 1.003,
-    "home_missing": [
-     "Chadi Riad"
-    ],
-    "away_missing": [
-     "Xavi Simons"
-    ]
-   }
-  }
- },
- {
-  "date": "2027-01-23",
-  "kickoff_datetime": "2027-01-23T15:00:00Z",
-  "round": 22,
-  "home": "Everton",
-  "away": "Brentford",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 1.17,
-   "goals_against": 1.17,
-   "xg_for": 1.59,
-   "xg_against": 1.44,
-   "xg_diff_per_game": 0.15,
-   "finishing_delta": -0.42,
-   "points": 10,
-   "ppg": 1.67,
-   "form": "WDLLWW",
-   "possession_pct": 50.7
-  },
-  "away_form": {
    "matches": 6,
    "goals": 1.5,
    "goals_against": 1.17,
@@ -33449,16 +32884,29 @@
    "form": "WDLDWL",
    "possession_pct": 42.3
   },
+  "away_form": {
+   "matches": 6,
+   "goals": 2.17,
+   "goals_against": 0.33,
+   "xg_for": 1.54,
+   "xg_against": 1.09,
+   "xg_diff_per_game": 0.45,
+   "finishing_delta": 0.63,
+   "points": 15,
+   "ppg": 2.5,
+   "form": "WWWLWW",
+   "possession_pct": 52.0
+  },
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 1.385,
-  "pred_xg_away": 1.251,
-  "win_home_pct": 40.9,
-  "draw_pct": 24.4,
-  "win_away_pct": 34.7,
-  "xpts_home": 1.47,
-  "xpts_away": 1.28,
+  "pred_xg_home": 1.336,
+  "pred_xg_away": 1.512,
+  "win_home_pct": 34.4,
+  "draw_pct": 23.3,
+  "win_away_pct": 42.3,
+  "xpts_home": 1.26,
+  "xpts_away": 1.5,
   "most_likely_scoreline": [
    1,
    1
@@ -33467,33 +32915,33 @@
    [
     1,
     1,
-    11.55
-   ],
-   [
-    1,
-    0,
-    10.79
+    10.89
    ],
    [
     0,
     1,
-    9.82
-   ],
-   [
-    2,
-    1,
-    8.6
+    9.57
    ],
    [
     1,
     2,
-    7.76
+    8.85
+   ],
+   [
+    1,
+    0,
+    8.55
+   ],
+   [
+    2,
+    1,
+    7.82
    ]
   ],
-  "over_2_5_pct": 49.1,
-  "btts_pct": 52.6,
+  "over_2_5_pct": 54.2,
+  "btts_pct": 56.7,
   "reasoning": {
-   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.13 goals, and the most likely single outcome is a draw at 24%. Projected 1.39-1.25 on expected goals, with 1-1 the single most likely scoreline at 11.6%.",
+   "thesis": "Brighton are marginal favourites, worth about 0.18 goals of edge and a 42% win probability -- a lean, not a call. Brighton are scoring 0.63 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Projected 1.34-1.51 on expected goals, with 1-1 the single most likely scoreline at 10.9%.",
    "confidence": {
     "level": "medium",
     "note": "ratings are mostly driven by this season, with last season still contributing",
@@ -33503,40 +32951,40 @@
    "factors": [
     {
      "side": "home",
-     "label": "Everton attack",
-     "detail": "modest (0.93x league average)",
-     "delta_goals": -0.086
-    },
-    {
-     "side": "home",
-     "label": "Brentford defence",
-     "detail": "solid (0.98x league average conceded)",
-     "delta_goals": -0.026
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.28x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.299
-    },
-    {
-     "side": "away",
      "label": "Brentford attack",
      "detail": "solid (1.08x league average)",
      "delta_goals": 0.093
     },
     {
+     "side": "home",
+     "label": "Brighton defence",
+     "detail": "strong (0.81x league average conceded)",
+     "delta_goals": -0.244
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.28x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.289
+    },
+    {
      "side": "away",
-     "label": "Everton defence",
-     "detail": "solid (0.97x league average conceded)",
-     "delta_goals": -0.04
+     "label": "Brighton attack",
+     "detail": "excellent (1.29x league average)",
+     "delta_goals": 0.351
+    },
+    {
+     "side": "away",
+     "label": "Brentford defence",
+     "detail": "solid (0.98x league average conceded)",
+     "delta_goals": -0.037
     }
    ],
    "rating_snapshot": {
-    "home_attack": 0.928,
-    "home_defence": 0.969,
-    "away_attack": 1.077,
-    "away_defence": 0.976,
+    "home_attack": 1.077,
+    "home_defence": 0.976,
+    "away_attack": 1.293,
+    "away_defence": 0.811,
     "league_base": 1.198,
     "home_advantage": 1.276
    },
@@ -33822,47 +33270,47 @@
  },
  {
   "date": "2027-01-23",
-  "kickoff_datetime": "2027-01-23T15:00:00Z",
+  "kickoff_datetime": "2027-01-23T17:30:00Z",
   "round": 22,
-  "home": "Leeds United",
-  "away": "Chelsea",
+  "home": "Arsenal",
+  "away": "Newcastle United",
   "status": "scheduled",
   "home_form": {
    "matches": 6,
-   "goals": 0.5,
-   "goals_against": 0.83,
-   "xg_for": 1.12,
-   "xg_against": 1.19,
-   "xg_diff_per_game": -0.07,
-   "finishing_delta": -0.62,
-   "points": 6,
-   "ppg": 1.0,
-   "form": "DLDDLW",
-   "possession_pct": 49.8
+   "goals": 1.17,
+   "goals_against": 0.67,
+   "xg_for": 1.5,
+   "xg_against": 0.78,
+   "xg_diff_per_game": 0.72,
+   "finishing_delta": -0.34,
+   "points": 15,
+   "ppg": 2.5,
+   "form": "LWWWWW",
+   "possession_pct": 60.2
   },
   "away_form": {
    "matches": 6,
-   "goals": 1.5,
-   "goals_against": 1.17,
-   "xg_for": 1.18,
-   "xg_against": 1.5,
-   "xg_diff_per_game": -0.32,
-   "finishing_delta": 0.32,
-   "points": 9,
-   "ppg": 1.5,
-   "form": "LWWLWL",
-   "possession_pct": 53.7
+   "goals": 1.0,
+   "goals_against": 1.33,
+   "xg_for": 1.27,
+   "xg_against": 1.47,
+   "xg_diff_per_game": -0.2,
+   "finishing_delta": -0.27,
+   "points": 7,
+   "ppg": 1.17,
+   "form": "WLLWLD",
+   "possession_pct": 52.2
   },
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 1.441,
-  "pred_xg_away": 1.115,
-  "win_home_pct": 45.4,
-  "draw_pct": 24.5,
-  "win_away_pct": 30.1,
-  "xpts_home": 1.61,
-  "xpts_away": 1.15,
+  "pred_xg_home": 1.926,
+  "pred_xg_away": 0.634,
+  "win_home_pct": 68.8,
+  "draw_pct": 19.2,
+  "win_away_pct": 12.0,
+  "xpts_home": 2.26,
+  "xpts_away": 0.55,
   "most_likely_scoreline": [
    1,
    0
@@ -33871,76 +33319,76 @@
    [
     1,
     0,
-    12.05
-   ],
-   [
-    1,
-    1,
-    11.6
-   ],
-   [
-    0,
-    1,
-    9.52
-   ],
-   [
-    2,
-    1,
-    8.98
+    15.54
    ],
    [
     2,
     0,
-    8.06
+    14.33
+   ],
+   [
+    3,
+    0,
+    9.2
+   ],
+   [
+    2,
+    1,
+    9.09
+   ],
+   [
+    1,
+    1,
+    8.79
    ]
   ],
-  "over_2_5_pct": 47.0,
-  "btts_pct": 50.4,
+  "over_2_5_pct": 47.1,
+  "btts_pct": 39.5,
   "reasoning": {
-   "thesis": "Leeds are marginal favourites, worth about 0.33 goals of edge and a 45% win probability -- a lean, not a call. Leeds are converting 0.62 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Projected 1.44-1.11 on expected goals, with 1-0 the single most likely scoreline at 12.1%.",
+   "thesis": "Arsenal should win comfortably. The model has them 1.29 goals clear of Newcastle, a 69% win probability. Arsenal are creating +0.72 xG per game more than they concede over their last 6, the profile of a side controlling matches. Projected 1.93-0.63 on expected goals, with 1-0 the single most likely scoreline at 15.5%.",
    "confidence": {
     "level": "medium",
     "note": "ratings are mostly driven by this season, with last season still contributing",
     "effective_matches_home": 8.0,
-    "effective_matches_away": 8.0
+    "effective_matches_away": 8.1
    },
    "factors": [
     {
      "side": "home",
-     "label": "Leeds attack",
-     "detail": "modest (0.90x league average)",
-     "delta_goals": -0.117
+     "label": "Arsenal attack",
+     "detail": "strong (1.11x league average)",
+     "delta_goals": 0.133
     },
     {
      "side": "home",
-     "label": "Chelsea defence",
-     "detail": "solid (1.04x league average conceded)",
-     "delta_goals": 0.048
+     "label": "Newcastle defence",
+     "detail": "leaky (1.13x league average conceded)",
+     "delta_goals": 0.178
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.28x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.311
+     "delta_goals": 0.416
     },
     {
      "side": "away",
-     "label": "Chelsea attack",
-     "detail": "solid (1.10x league average)",
-     "delta_goals": 0.116
+     "label": "Newcastle attack",
+     "detail": "modest (0.91x league average)",
+     "delta_goals": -0.11
     },
     {
      "side": "away",
-     "label": "Leeds defence",
-     "detail": "strong (0.85x league average conceded)",
-     "delta_goals": -0.199
+     "label": "Arsenal defence",
+     "detail": "excellent (0.58x league average conceded)",
+     "delta_goals": -0.454
     }
    ],
    "rating_snapshot": {
-    "home_attack": 0.902,
-    "home_defence": 0.849,
-    "away_attack": 1.096,
-    "away_defence": 1.044,
+    "home_attack": 1.111,
+    "home_defence": 0.583,
+    "away_attack": 0.908,
+    "away_defence": 1.134,
     "league_base": 1.198,
     "home_advantage": 1.276
    },
@@ -33956,7 +33404,693 @@
  },
  {
   "date": "2027-01-23",
-  "kickoff_datetime": "2027-01-23T15:00:00Z",
+  "kickoff_datetime": "2027-01-23T20:00:00Z",
+  "round": 22,
+  "home": "Brighton",
+  "away": "Manchester City",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 2.17,
+   "goals_against": 0.33,
+   "xg_for": 1.54,
+   "xg_against": 1.09,
+   "xg_diff_per_game": 0.45,
+   "finishing_delta": 0.63,
+   "points": 15,
+   "ppg": 2.5,
+   "form": "WWWLWW",
+   "possession_pct": 52.0
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 2.17,
+   "goals_against": 1.83,
+   "xg_for": 2.14,
+   "xg_against": 1.55,
+   "xg_diff_per_game": 0.6,
+   "finishing_delta": 0.02,
+   "points": 9,
+   "ppg": 1.5,
+   "form": "WWWLLL",
+   "possession_pct": 65.7
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.764,
+  "pred_xg_away": 1.258,
+  "win_home_pct": 50.0,
+  "draw_pct": 21.9,
+  "win_away_pct": 28.1,
+  "xpts_home": 1.72,
+  "xpts_away": 1.06,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    10.06
+   ],
+   [
+    2,
+    1,
+    9.53
+   ],
+   [
+    1,
+    0,
+    9.34
+   ],
+   [
+    2,
+    0,
+    7.57
+   ],
+   [
+    0,
+    1,
+    6.88
+   ]
+  ],
+  "over_2_5_pct": 58.2,
+  "btts_pct": 58.6,
+  "reasoning": {
+   "thesis": "Brighton are clear favourites, projected 0.51 goals better than Man City on the day, which prices the win at 50%. Brighton are scoring 0.63 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Man City are creating +0.60 xG per game more than they concede over their last 6, the profile of a side controlling matches. Projected 1.76-1.26 on expected goals, with 1-1 the single most likely scoreline at 10.1%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 8.0,
+    "effective_matches_away": 8.0
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Brighton attack",
+     "detail": "excellent (1.29x league average)",
+     "delta_goals": 0.351
+    },
+    {
+     "side": "home",
+     "label": "Man City defence",
+     "detail": "strong (0.89x league average conceded)",
+     "delta_goals": -0.167
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.28x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.381
+    },
+    {
+     "side": "away",
+     "label": "Man City attack",
+     "detail": "excellent (1.29x league average)",
+     "delta_goals": 0.353
+    },
+    {
+     "side": "away",
+     "label": "Brighton defence",
+     "detail": "strong (0.81x league average conceded)",
+     "delta_goals": -0.293
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 1.293,
+    "home_defence": 0.811,
+    "away_attack": 1.294,
+    "away_defence": 0.892,
+    "league_base": 1.198,
+    "home_advantage": 1.276
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2027-01-24",
+  "kickoff_datetime": "2027-01-24T14:00:00Z",
+  "round": 22,
+  "home": "Crystal Palace",
+  "away": "Tottenham Hotspur",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 0.67,
+   "goals_against": 2.17,
+   "xg_for": 1.35,
+   "xg_against": 2.26,
+   "xg_diff_per_game": -0.91,
+   "finishing_delta": -0.68,
+   "points": 4,
+   "ppg": 0.67,
+   "form": "DWLLLL",
+   "possession_pct": 43.7
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 1.67,
+   "goals_against": 1.0,
+   "xg_for": 1.4,
+   "xg_against": 0.89,
+   "xg_diff_per_game": 0.51,
+   "finishing_delta": 0.26,
+   "points": 10,
+   "ppg": 1.67,
+   "form": "LDWWWL",
+   "possession_pct": 64.5
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.247,
+  "pred_xg_away": 1.314,
+  "win_home_pct": 36.0,
+  "draw_pct": 24.9,
+  "win_away_pct": 39.2,
+  "xpts_home": 1.33,
+  "xpts_away": 1.42,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    11.78
+   ],
+   [
+    0,
+    1,
+    11.03
+   ],
+   [
+    1,
+    0,
+    10.51
+   ],
+   [
+    1,
+    2,
+    8.31
+   ],
+   [
+    2,
+    1,
+    7.89
+   ]
+  ],
+  "over_2_5_pct": 47.2,
+  "btts_pct": 51.2,
+  "reasoning": {
+   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.07 goals, and the most likely single outcome is a draw at 25%. Palace are converting 0.68 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Spurs are without Simons, which the model treats as a marginal cost given the cover behind them. Projected 1.25-1.31 on expected goals, with 1-1 the single most likely scoreline at 11.8%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 8.0,
+    "effective_matches_away": 8.0
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Palace attack",
+     "detail": "modest (0.92x league average)",
+     "delta_goals": -0.093
+    },
+    {
+     "side": "home",
+     "label": "Spurs defence",
+     "detail": "strong (0.88x league average conceded)",
+     "delta_goals": -0.13
+    },
+    {
+     "side": "home",
+     "label": "Spurs defence weakened",
+     "detail": "Simons out (1.00x conceded)",
+     "delta_goals": 0.003
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.28x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.27
+    },
+    {
+     "side": "away",
+     "label": "Spurs attack",
+     "detail": "poor (0.81x league average)",
+     "delta_goals": -0.231
+    },
+    {
+     "side": "away",
+     "label": "Spurs unavailable",
+     "detail": "Simons out (1.00x attack)",
+     "delta_goals": -0.005
+    },
+    {
+     "side": "away",
+     "label": "Palace defence",
+     "detail": "poor (1.37x league average conceded)",
+     "delta_goals": 0.351
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 0.922,
+    "home_defence": 1.365,
+    "away_attack": 0.807,
+    "away_defence": 0.882,
+    "league_base": 1.198,
+    "home_advantage": 1.276
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 0.995,
+    "away_defence_mult": 1.003,
+    "home_missing": [
+     "Chadi Riad"
+    ],
+    "away_missing": [
+     "Xavi Simons"
+    ]
+   }
+  }
+ },
+ {
+  "date": "2027-01-24",
+  "kickoff_datetime": "2027-01-24T14:00:00Z",
+  "round": 22,
+  "home": "Everton",
+  "away": "Brentford",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 1.17,
+   "goals_against": 1.17,
+   "xg_for": 1.59,
+   "xg_against": 1.44,
+   "xg_diff_per_game": 0.15,
+   "finishing_delta": -0.42,
+   "points": 10,
+   "ppg": 1.67,
+   "form": "WDLLWW",
+   "possession_pct": 50.7
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 1.5,
+   "goals_against": 1.17,
+   "xg_for": 1.29,
+   "xg_against": 1.5,
+   "xg_diff_per_game": -0.21,
+   "finishing_delta": 0.21,
+   "points": 8,
+   "ppg": 1.33,
+   "form": "WDLDWL",
+   "possession_pct": 42.3
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.385,
+  "pred_xg_away": 1.251,
+  "win_home_pct": 40.9,
+  "draw_pct": 24.4,
+  "win_away_pct": 34.7,
+  "xpts_home": 1.47,
+  "xpts_away": 1.28,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    11.55
+   ],
+   [
+    1,
+    0,
+    10.79
+   ],
+   [
+    0,
+    1,
+    9.82
+   ],
+   [
+    2,
+    1,
+    8.6
+   ],
+   [
+    1,
+    2,
+    7.76
+   ]
+  ],
+  "over_2_5_pct": 49.1,
+  "btts_pct": 52.6,
+  "reasoning": {
+   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.13 goals, and the most likely single outcome is a draw at 24%. Projected 1.39-1.25 on expected goals, with 1-1 the single most likely scoreline at 11.6%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 8.0,
+    "effective_matches_away": 8.0
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Everton attack",
+     "detail": "modest (0.93x league average)",
+     "delta_goals": -0.086
+    },
+    {
+     "side": "home",
+     "label": "Brentford defence",
+     "detail": "solid (0.98x league average conceded)",
+     "delta_goals": -0.026
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.28x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.299
+    },
+    {
+     "side": "away",
+     "label": "Brentford attack",
+     "detail": "solid (1.08x league average)",
+     "delta_goals": 0.093
+    },
+    {
+     "side": "away",
+     "label": "Everton defence",
+     "detail": "solid (0.97x league average conceded)",
+     "delta_goals": -0.04
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 0.928,
+    "home_defence": 0.969,
+    "away_attack": 1.077,
+    "away_defence": 0.976,
+    "league_base": 1.198,
+    "home_advantage": 1.276
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2027-01-24",
+  "kickoff_datetime": "2027-01-24T14:00:00Z",
+  "round": 22,
+  "home": "Nottingham Forest",
+  "away": "Bournemouth",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 0.83,
+   "goals_against": 1.5,
+   "xg_for": 1.57,
+   "xg_against": 1.11,
+   "xg_diff_per_game": 0.46,
+   "finishing_delta": -0.73,
+   "points": 4,
+   "ppg": 0.67,
+   "form": "LLLDLW",
+   "possession_pct": 46.2
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 1.67,
+   "goals_against": 1.17,
+   "xg_for": 2.01,
+   "xg_against": 0.97,
+   "xg_diff_per_game": 1.04,
+   "finishing_delta": -0.35,
+   "points": 12,
+   "ppg": 2.0,
+   "form": "LLWWWW",
+   "possession_pct": 47.7
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.27,
+  "pred_xg_away": 1.262,
+  "win_home_pct": 37.7,
+  "draw_pct": 25.0,
+  "win_away_pct": 37.3,
+  "xpts_home": 1.38,
+  "xpts_away": 1.37,
+  "most_likely_scoreline": [
+   1,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    1,
+    11.86
+   ],
+   [
+    1,
+    0,
+    10.98
+   ],
+   [
+    0,
+    1,
+    10.92
+   ],
+   [
+    2,
+    1,
+    8.09
+   ],
+   [
+    1,
+    2,
+    8.04
+   ]
+  ],
+  "over_2_5_pct": 46.4,
+  "btts_pct": 50.7,
+  "reasoning": {
+   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.01 goals, and the most likely single outcome is a draw at 25%. Forest are converting 0.73 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Bournemouth are creating +1.04 xG per game more than they concede over their last 6, the profile of a side controlling matches. Projected 1.27-1.26 on expected goals, with 1-1 the single most likely scoreline at 11.9%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 8.0,
+    "effective_matches_away": 8.0
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Forest attack",
+     "detail": "modest (0.94x league average)",
+     "delta_goals": -0.074
+    },
+    {
+     "side": "home",
+     "label": "Bournemouth defence",
+     "detail": "strong (0.89x league average conceded)",
+     "delta_goals": -0.129
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.28x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.275
+    },
+    {
+     "side": "away",
+     "label": "Bournemouth attack",
+     "detail": "strong (1.18x league average)",
+     "delta_goals": 0.215
+    },
+    {
+     "side": "away",
+     "label": "Forest defence",
+     "detail": "strong (0.89x league average conceded)",
+     "delta_goals": -0.151
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 0.938,
+    "home_defence": 0.893,
+    "away_attack": 1.179,
+    "away_defence": 0.885,
+    "league_base": 1.198,
+    "home_advantage": 1.276
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2027-01-24",
+  "kickoff_datetime": "2027-01-24T14:00:00Z",
+  "round": 22,
+  "home": "Sunderland",
+  "away": "Coventry City",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 0.83,
+   "goals_against": 2.0,
+   "xg_for": 1.68,
+   "xg_against": 1.71,
+   "xg_diff_per_game": -0.04,
+   "finishing_delta": -0.84,
+   "points": 4,
+   "ppg": 0.67,
+   "form": "LLLDLW",
+   "possession_pct": 46.5
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 1.67,
+   "goals_against": 1.5,
+   "xg_for": 0.92,
+   "xg_against": 1.39,
+   "xg_diff_per_game": -0.46,
+   "finishing_delta": 0.75,
+   "points": 9,
+   "ppg": 1.5,
+   "form": "WWLLWL",
+   "possession_pct": 39.2
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.668,
+  "pred_xg_away": 1.014,
+  "win_home_pct": 53.5,
+  "draw_pct": 22.7,
+  "win_away_pct": 23.8,
+  "xpts_home": 1.83,
+  "xpts_away": 0.94,
+  "most_likely_scoreline": [
+   1,
+   0
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    0,
+    12.22
+   ],
+   [
+    1,
+    1,
+    10.77
+   ],
+   [
+    2,
+    1,
+    9.65
+   ],
+   [
+    2,
+    0,
+    9.52
+   ],
+   [
+    0,
+    1,
+    7.74
+   ]
+  ],
+  "over_2_5_pct": 50.2,
+  "btts_pct": 50.9,
+  "reasoning": {
+   "thesis": "Sunderland are clear favourites, projected 0.65 goals better than Coventry on the day, which prices the win at 54%. Sunderland are converting 0.84 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Coventry are scoring 0.75 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Projected 1.67-1.01 on expected goals, with 1-0 the single most likely scoreline at 12.2%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 8.0,
+    "effective_matches_away": 8.0
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Sunderland attack",
+     "detail": "modest (0.92x league average)",
+     "delta_goals": -0.09
+    },
+    {
+     "side": "home",
+     "label": "Coventry defence",
+     "detail": "leaky (1.18x league average conceded)",
+     "delta_goals": 0.199
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.28x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.361
+    },
+    {
+     "side": "away",
+     "label": "Coventry attack",
+     "detail": "poor (0.80x league average)",
+     "delta_goals": -0.235
+    },
+    {
+     "side": "away",
+     "label": "Sunderland defence",
+     "detail": "leaky (1.05x league average conceded)",
+     "delta_goals": 0.05
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 0.925,
+    "home_defence": 1.052,
+    "away_attack": 0.804,
+    "away_defence": 1.18,
+    "league_base": 1.198,
+    "home_advantage": 1.276
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2027-01-24",
+  "kickoff_datetime": "2027-01-24T16:30:00Z",
   "round": 22,
   "home": "Manchester United",
   "away": "Liverpool",
@@ -34091,83 +34225,83 @@
   }
  },
  {
-  "date": "2027-01-23",
-  "kickoff_datetime": "2027-01-23T15:00:00Z",
+  "date": "2027-01-25",
+  "kickoff_datetime": "2027-01-25T20:00:00Z",
   "round": 22,
-  "home": "Nottingham Forest",
-  "away": "Bournemouth",
+  "home": "Leeds United",
+  "away": "Chelsea",
   "status": "scheduled",
   "home_form": {
    "matches": 6,
-   "goals": 0.83,
-   "goals_against": 1.5,
-   "xg_for": 1.57,
-   "xg_against": 1.11,
-   "xg_diff_per_game": 0.46,
-   "finishing_delta": -0.73,
-   "points": 4,
-   "ppg": 0.67,
-   "form": "LLLDLW",
-   "possession_pct": 46.2
+   "goals": 0.5,
+   "goals_against": 0.83,
+   "xg_for": 1.12,
+   "xg_against": 1.19,
+   "xg_diff_per_game": -0.07,
+   "finishing_delta": -0.62,
+   "points": 6,
+   "ppg": 1.0,
+   "form": "DLDDLW",
+   "possession_pct": 49.8
   },
   "away_form": {
    "matches": 6,
-   "goals": 1.67,
+   "goals": 1.5,
    "goals_against": 1.17,
-   "xg_for": 2.01,
-   "xg_against": 0.97,
-   "xg_diff_per_game": 1.04,
-   "finishing_delta": -0.35,
-   "points": 12,
-   "ppg": 2.0,
-   "form": "LLWWWW",
-   "possession_pct": 47.7
+   "xg_for": 1.18,
+   "xg_against": 1.5,
+   "xg_diff_per_game": -0.32,
+   "finishing_delta": 0.32,
+   "points": 9,
+   "ppg": 1.5,
+   "form": "LWWLWL",
+   "possession_pct": 53.7
   },
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 1.27,
-  "pred_xg_away": 1.262,
-  "win_home_pct": 37.7,
-  "draw_pct": 25.0,
-  "win_away_pct": 37.3,
-  "xpts_home": 1.38,
-  "xpts_away": 1.37,
+  "pred_xg_home": 1.441,
+  "pred_xg_away": 1.115,
+  "win_home_pct": 45.4,
+  "draw_pct": 24.5,
+  "win_away_pct": 30.1,
+  "xpts_home": 1.61,
+  "xpts_away": 1.15,
   "most_likely_scoreline": [
    1,
-   1
+   0
   ],
   "top_5_scorelines": [
    [
     1,
-    1,
-    11.86
+    0,
+    12.05
    ],
    [
     1,
-    0,
-    10.98
+    1,
+    11.6
    ],
    [
     0,
     1,
-    10.92
+    9.52
    ],
    [
     2,
     1,
-    8.09
+    8.98
    ],
    [
-    1,
     2,
-    8.04
+    0,
+    8.06
    ]
   ],
-  "over_2_5_pct": 46.4,
-  "btts_pct": 50.7,
+  "over_2_5_pct": 47.0,
+  "btts_pct": 50.4,
   "reasoning": {
-   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.01 goals, and the most likely single outcome is a draw at 25%. Forest are converting 0.73 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Bournemouth are creating +1.04 xG per game more than they concede over their last 6, the profile of a side controlling matches. Projected 1.27-1.26 on expected goals, with 1-1 the single most likely scoreline at 11.9%.",
+   "thesis": "Leeds are marginal favourites, worth about 0.33 goals of edge and a 45% win probability -- a lean, not a call. Leeds are converting 0.62 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Projected 1.44-1.11 on expected goals, with 1-0 the single most likely scoreline at 12.1%.",
    "confidence": {
     "level": "medium",
     "note": "ratings are mostly driven by this season, with last season still contributing",
@@ -34177,40 +34311,40 @@
    "factors": [
     {
      "side": "home",
-     "label": "Forest attack",
-     "detail": "modest (0.94x league average)",
-     "delta_goals": -0.074
+     "label": "Leeds attack",
+     "detail": "modest (0.90x league average)",
+     "delta_goals": -0.117
     },
     {
      "side": "home",
-     "label": "Bournemouth defence",
-     "detail": "strong (0.89x league average conceded)",
-     "delta_goals": -0.129
+     "label": "Chelsea defence",
+     "detail": "solid (1.04x league average conceded)",
+     "delta_goals": 0.048
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.28x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.275
+     "delta_goals": 0.311
     },
     {
      "side": "away",
-     "label": "Bournemouth attack",
-     "detail": "strong (1.18x league average)",
-     "delta_goals": 0.215
+     "label": "Chelsea attack",
+     "detail": "solid (1.10x league average)",
+     "delta_goals": 0.116
     },
     {
      "side": "away",
-     "label": "Forest defence",
-     "detail": "strong (0.89x league average conceded)",
-     "delta_goals": -0.151
+     "label": "Leeds defence",
+     "detail": "strong (0.85x league average conceded)",
+     "delta_goals": -0.199
     }
    ],
    "rating_snapshot": {
-    "home_attack": 0.938,
-    "home_defence": 0.893,
-    "away_attack": 1.179,
-    "away_defence": 0.885,
+    "home_attack": 0.902,
+    "home_defence": 0.849,
+    "away_attack": 1.096,
+    "away_defence": 1.044,
     "league_base": 1.198,
     "home_advantage": 1.276
    },
@@ -34225,46 +34359,46 @@
   }
  },
  {
-  "date": "2027-01-23",
-  "kickoff_datetime": "2027-01-23T15:00:00Z",
-  "round": 22,
-  "home": "Sunderland",
-  "away": "Coventry City",
+  "date": "2027-01-30",
+  "kickoff_datetime": "2027-01-30T12:30:00Z",
+  "round": 23,
+  "home": "Liverpool",
+  "away": "Everton",
   "status": "scheduled",
   "home_form": {
    "matches": 6,
-   "goals": 0.83,
-   "goals_against": 2.0,
-   "xg_for": 1.68,
-   "xg_against": 1.71,
-   "xg_diff_per_game": -0.04,
-   "finishing_delta": -0.84,
-   "points": 4,
-   "ppg": 0.67,
-   "form": "LLLDLW",
-   "possession_pct": 46.5
+   "goals": 1.33,
+   "goals_against": 1.0,
+   "xg_for": 1.43,
+   "xg_against": 1.27,
+   "xg_diff_per_game": 0.17,
+   "finishing_delta": -0.1,
+   "points": 12,
+   "ppg": 2.0,
+   "form": "WLWWLW",
+   "possession_pct": 48.0
   },
   "away_form": {
    "matches": 6,
-   "goals": 1.67,
-   "goals_against": 1.5,
-   "xg_for": 0.92,
-   "xg_against": 1.39,
-   "xg_diff_per_game": -0.46,
-   "finishing_delta": 0.75,
-   "points": 9,
-   "ppg": 1.5,
-   "form": "WWLLWL",
-   "possession_pct": 39.2
+   "goals": 1.17,
+   "goals_against": 1.17,
+   "xg_for": 1.59,
+   "xg_against": 1.44,
+   "xg_diff_per_game": 0.15,
+   "finishing_delta": -0.42,
+   "points": 10,
+   "ppg": 1.67,
+   "form": "WDLLWW",
+   "possession_pct": 50.7
   },
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 1.668,
-  "pred_xg_away": 1.014,
-  "win_home_pct": 53.5,
-  "draw_pct": 22.7,
-  "win_away_pct": 23.8,
+  "pred_xg_home": 1.605,
+  "pred_xg_away": 0.967,
+  "win_home_pct": 53.1,
+  "draw_pct": 23.3,
+  "win_away_pct": 23.6,
   "xpts_home": 1.83,
   "xpts_away": 0.94,
   "most_likely_scoreline": [
@@ -34275,33 +34409,33 @@
    [
     1,
     0,
-    12.22
+    13.09
    ],
    [
     1,
     1,
-    10.77
-   ],
-   [
-    2,
-    1,
-    9.65
+    11.03
    ],
    [
     2,
     0,
-    9.52
+    9.84
+   ],
+   [
+    2,
+    1,
+    9.51
    ],
    [
     0,
     1,
-    7.74
+    8.21
    ]
   ],
-  "over_2_5_pct": 50.2,
-  "btts_pct": 50.9,
+  "over_2_5_pct": 47.4,
+  "btts_pct": 48.7,
   "reasoning": {
-   "thesis": "Sunderland are clear favourites, projected 0.65 goals better than Coventry on the day, which prices the win at 54%. Sunderland are converting 0.84 goals a game fewer than their chances deserve, so their table position understates them and the model rates them above their results. Coventry are scoring 0.75 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Projected 1.67-1.01 on expected goals, with 1-0 the single most likely scoreline at 12.2%.",
+   "thesis": "Liverpool are clear favourites, projected 0.64 goals better than Everton on the day, which prices the win at 53%. Projected 1.60-0.97 on expected goals, with 1-0 the single most likely scoreline at 13.1%.",
    "confidence": {
     "level": "medium",
     "note": "ratings are mostly driven by this season, with last season still contributing",
@@ -34311,40 +34445,40 @@
    "factors": [
     {
      "side": "home",
-     "label": "Sunderland attack",
-     "detail": "modest (0.92x league average)",
-     "delta_goals": -0.09
+     "label": "Liverpool attack",
+     "detail": "solid (1.08x league average)",
+     "delta_goals": 0.1
     },
     {
      "side": "home",
-     "label": "Coventry defence",
-     "detail": "leaky (1.18x league average conceded)",
-     "delta_goals": 0.199
+     "label": "Everton defence",
+     "detail": "solid (0.97x league average conceded)",
+     "delta_goals": -0.04
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.28x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.361
+     "delta_goals": 0.347
     },
     {
      "side": "away",
-     "label": "Coventry attack",
-     "detail": "poor (0.80x league average)",
-     "delta_goals": -0.235
+     "label": "Everton attack",
+     "detail": "modest (0.93x league average)",
+     "delta_goals": -0.086
     },
     {
      "side": "away",
-     "label": "Sunderland defence",
-     "detail": "leaky (1.05x league average conceded)",
-     "delta_goals": 0.05
+     "label": "Liverpool defence",
+     "detail": "strong (0.87x league average conceded)",
+     "delta_goals": -0.145
     }
    ],
    "rating_snapshot": {
-    "home_attack": 0.925,
-    "home_defence": 1.052,
-    "away_attack": 0.804,
-    "away_defence": 1.18,
+    "home_attack": 1.083,
+    "home_defence": 0.869,
+    "away_attack": 0.928,
+    "away_defence": 0.969,
     "league_base": 1.198,
     "home_advantage": 1.276
    },
@@ -34498,123 +34632,123 @@
   "date": "2027-01-30",
   "kickoff_datetime": "2027-01-30T15:00:00Z",
   "round": 23,
-  "home": "Bournemouth",
-  "away": "Fulham",
+  "home": "Newcastle United",
+  "away": "Brighton",
   "status": "scheduled",
   "home_form": {
    "matches": 6,
-   "goals": 1.67,
-   "goals_against": 1.17,
-   "xg_for": 2.01,
-   "xg_against": 0.97,
-   "xg_diff_per_game": 1.04,
-   "finishing_delta": -0.35,
-   "points": 12,
-   "ppg": 2.0,
-   "form": "LLWWWW",
-   "possession_pct": 47.7
+   "goals": 1.0,
+   "goals_against": 1.33,
+   "xg_for": 1.27,
+   "xg_against": 1.47,
+   "xg_diff_per_game": -0.2,
+   "finishing_delta": -0.27,
+   "points": 7,
+   "ppg": 1.17,
+   "form": "WLLWLD",
+   "possession_pct": 52.2
   },
   "away_form": {
    "matches": 6,
-   "goals": 1.0,
-   "goals_against": 0.83,
-   "xg_for": 1.37,
-   "xg_against": 1.02,
-   "xg_diff_per_game": 0.34,
-   "finishing_delta": -0.37,
-   "points": 9,
-   "ppg": 1.5,
-   "form": "DLWWDD",
-   "possession_pct": 58.0
+   "goals": 2.17,
+   "goals_against": 0.33,
+   "xg_for": 1.54,
+   "xg_against": 1.09,
+   "xg_diff_per_game": 0.45,
+   "finishing_delta": 0.63,
+   "points": 15,
+   "ppg": 2.5,
+   "form": "WWWLWW",
+   "possession_pct": 52.0
   },
   "home_goals": null,
   "away_goals": null,
   "season": "2026-27",
-  "pred_xg_home": 1.704,
-  "pred_xg_away": 0.899,
-  "win_home_pct": 57.2,
-  "draw_pct": 22.3,
-  "win_away_pct": 20.5,
-  "xpts_home": 1.94,
-  "xpts_away": 0.84,
+  "pred_xg_home": 1.127,
+  "pred_xg_away": 1.756,
+  "win_home_pct": 25.1,
+  "draw_pct": 22.0,
+  "win_away_pct": 52.9,
+  "xpts_home": 0.97,
+  "xpts_away": 1.81,
   "most_likely_scoreline": [
-   1,
-   0
+   0,
+   1
   ],
   "top_5_scorelines": [
    [
-    1,
     0,
-    13.41
+    1,
+    10.6
    ],
    [
+    1,
+    1,
+    10.31
+   ],
+   [
+    1,
     2,
+    9.73
+   ],
+   [
     0,
-    10.75
-   ],
-   [
-    1,
-    1,
-    10.56
-   ],
-   [
     2,
-    1,
-    9.67
+    8.63
    ],
    [
-    0,
     1,
-    7.45
+    0,
+    7.08
    ]
   ],
-  "over_2_5_pct": 48.2,
-  "btts_pct": 47.7,
+  "over_2_5_pct": 55.0,
+  "btts_pct": 55.2,
   "reasoning": {
-   "thesis": "Bournemouth are clear favourites, projected 0.80 goals better than Fulham on the day, which prices the win at 57%. Bournemouth are creating +1.04 xG per game more than they concede over their last 6, the profile of a side controlling matches. Projected 1.70-0.90 on expected goals, with 1-0 the single most likely scoreline at 13.4%.",
+   "thesis": "Brighton are clear favourites, projected 0.63 goals better than Newcastle on the day, which prices the win at 53%. Brighton are scoring 0.63 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Projected 1.13-1.76 on expected goals, with 0-1 the single most likely scoreline at 10.6%.",
    "confidence": {
     "level": "medium",
     "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 8.0,
+    "effective_matches_home": 8.1,
     "effective_matches_away": 8.0
    },
    "factors": [
     {
      "side": "home",
-     "label": "Bournemouth attack",
-     "detail": "strong (1.18x league average)",
-     "delta_goals": 0.215
+     "label": "Newcastle attack",
+     "detail": "modest (0.91x league average)",
+     "delta_goals": -0.11
     },
     {
      "side": "home",
-     "label": "Fulham defence",
-     "detail": "solid (0.95x league average conceded)",
-     "delta_goals": -0.078
+     "label": "Brighton defence",
+     "detail": "strong (0.81x league average conceded)",
+     "delta_goals": -0.205
     },
     {
      "side": "home",
      "label": "Home advantage",
      "detail": "1.28x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.368
+     "delta_goals": 0.244
     },
     {
      "side": "away",
-     "label": "Fulham attack",
-     "detail": "modest (0.85x league average)",
-     "delta_goals": -0.183
+     "label": "Brighton attack",
+     "detail": "excellent (1.29x league average)",
+     "delta_goals": 0.351
     },
     {
      "side": "away",
-     "label": "Bournemouth defence",
-     "detail": "strong (0.89x league average conceded)",
-     "delta_goals": -0.116
+     "label": "Newcastle defence",
+     "detail": "leaky (1.13x league average conceded)",
+     "delta_goals": 0.207
     }
    ],
    "rating_snapshot": {
-    "home_attack": 1.179,
-    "home_defence": 0.885,
-    "away_attack": 0.847,
-    "away_defence": 0.945,
+    "home_attack": 0.908,
+    "home_defence": 1.134,
+    "away_attack": 1.293,
+    "away_defence": 0.811,
     "league_base": 1.198,
     "home_advantage": 1.276
    },
@@ -34630,143 +34764,7 @@
  },
  {
   "date": "2027-01-30",
-  "kickoff_datetime": "2027-01-30T15:00:00Z",
-  "round": 23,
-  "home": "Brentford",
-  "away": "Manchester United",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 1.5,
-   "goals_against": 1.17,
-   "xg_for": 1.29,
-   "xg_against": 1.5,
-   "xg_diff_per_game": -0.21,
-   "finishing_delta": 0.21,
-   "points": 8,
-   "ppg": 1.33,
-   "form": "WDLDWL",
-   "possession_pct": 42.3
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 1.17,
-   "goals_against": 2.0,
-   "xg_for": 1.53,
-   "xg_against": 2.05,
-   "xg_diff_per_game": -0.52,
-   "finishing_delta": -0.36,
-   "points": 4,
-   "ppg": 0.67,
-   "form": "DDDLLD",
-   "possession_pct": 51.0
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.935,
-  "pred_xg_away": 1.328,
-  "win_home_pct": 52.3,
-  "draw_pct": 20.7,
-  "win_away_pct": 26.9,
-  "xpts_home": 1.78,
-  "xpts_away": 1.02,
-  "most_likely_scoreline": [
-   2,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    2,
-    1,
-    9.52
-   ],
-   [
-    1,
-    1,
-    9.15
-   ],
-   [
-    1,
-    0,
-    8.09
-   ],
-   [
-    2,
-    0,
-    7.17
-   ],
-   [
-    1,
-    2,
-    6.53
-   ]
-  ],
-  "over_2_5_pct": 63.3,
-  "btts_pct": 62.2,
-  "reasoning": {
-   "thesis": "Brentford are clear favourites, projected 0.61 goals better than Man Utd on the day, which prices the win at 52%. Projected 1.94-1.33 on expected goals, with 2-1 the single most likely scoreline at 9.5%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 8.0,
-    "effective_matches_away": 8.0
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Brentford attack",
-     "detail": "solid (1.08x league average)",
-     "delta_goals": 0.093
-    },
-    {
-     "side": "home",
-     "label": "Man Utd defence",
-     "detail": "leaky (1.17x league average conceded)",
-     "delta_goals": 0.226
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.28x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.418
-    },
-    {
-     "side": "away",
-     "label": "Man Utd attack",
-     "detail": "strong (1.13x league average)",
-     "delta_goals": 0.161
-    },
-    {
-     "side": "away",
-     "label": "Brentford defence",
-     "detail": "solid (0.98x league average conceded)",
-     "delta_goals": -0.032
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 1.077,
-    "home_defence": 0.976,
-    "away_attack": 1.135,
-    "away_defence": 1.175,
-    "league_base": 1.198,
-    "home_advantage": 1.276
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
-    "away_missing": [
-     "Manuel Ugarte"
-    ]
-   }
-  }
- },
- {
-  "date": "2027-01-30",
-  "kickoff_datetime": "2027-01-30T15:00:00Z",
+  "kickoff_datetime": "2027-01-30T17:30:00Z",
   "round": 23,
   "home": "Chelsea",
   "away": "Nottingham Forest",
@@ -34899,8 +34897,142 @@
   }
  },
  {
-  "date": "2027-01-30",
-  "kickoff_datetime": "2027-01-30T15:00:00Z",
+  "date": "2027-01-31",
+  "kickoff_datetime": "2027-01-31T14:00:00Z",
+  "round": 23,
+  "home": "Bournemouth",
+  "away": "Fulham",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 1.67,
+   "goals_against": 1.17,
+   "xg_for": 2.01,
+   "xg_against": 0.97,
+   "xg_diff_per_game": 1.04,
+   "finishing_delta": -0.35,
+   "points": 12,
+   "ppg": 2.0,
+   "form": "LLWWWW",
+   "possession_pct": 47.7
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 1.0,
+   "goals_against": 0.83,
+   "xg_for": 1.37,
+   "xg_against": 1.02,
+   "xg_diff_per_game": 0.34,
+   "finishing_delta": -0.37,
+   "points": 9,
+   "ppg": 1.5,
+   "form": "DLWWDD",
+   "possession_pct": 58.0
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.704,
+  "pred_xg_away": 0.899,
+  "win_home_pct": 57.2,
+  "draw_pct": 22.3,
+  "win_away_pct": 20.5,
+  "xpts_home": 1.94,
+  "xpts_away": 0.84,
+  "most_likely_scoreline": [
+   1,
+   0
+  ],
+  "top_5_scorelines": [
+   [
+    1,
+    0,
+    13.41
+   ],
+   [
+    2,
+    0,
+    10.75
+   ],
+   [
+    1,
+    1,
+    10.56
+   ],
+   [
+    2,
+    1,
+    9.67
+   ],
+   [
+    0,
+    1,
+    7.45
+   ]
+  ],
+  "over_2_5_pct": 48.2,
+  "btts_pct": 47.7,
+  "reasoning": {
+   "thesis": "Bournemouth are clear favourites, projected 0.80 goals better than Fulham on the day, which prices the win at 57%. Bournemouth are creating +1.04 xG per game more than they concede over their last 6, the profile of a side controlling matches. Projected 1.70-0.90 on expected goals, with 1-0 the single most likely scoreline at 13.4%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 8.0,
+    "effective_matches_away": 8.0
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Bournemouth attack",
+     "detail": "strong (1.18x league average)",
+     "delta_goals": 0.215
+    },
+    {
+     "side": "home",
+     "label": "Fulham defence",
+     "detail": "solid (0.95x league average conceded)",
+     "delta_goals": -0.078
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.28x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.368
+    },
+    {
+     "side": "away",
+     "label": "Fulham attack",
+     "detail": "modest (0.85x league average)",
+     "delta_goals": -0.183
+    },
+    {
+     "side": "away",
+     "label": "Bournemouth defence",
+     "detail": "strong (0.89x league average conceded)",
+     "delta_goals": -0.116
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 1.179,
+    "home_defence": 0.885,
+    "away_attack": 0.847,
+    "away_defence": 0.945,
+    "league_base": 1.198,
+    "home_advantage": 1.276
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2027-01-31",
+  "kickoff_datetime": "2027-01-31T14:00:00Z",
   "round": 23,
   "home": "Coventry City",
   "away": "Leeds United",
@@ -35033,8 +35165,8 @@
   }
  },
  {
-  "date": "2027-01-30",
-  "kickoff_datetime": "2027-01-30T15:00:00Z",
+  "date": "2027-01-31",
+  "kickoff_datetime": "2027-01-31T14:00:00Z",
   "round": 23,
   "home": "Hull City",
   "away": "Crystal Palace",
@@ -35169,410 +35301,8 @@
   }
  },
  {
-  "date": "2027-01-30",
-  "kickoff_datetime": "2027-01-30T15:00:00Z",
-  "round": 23,
-  "home": "Liverpool",
-  "away": "Everton",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 1.33,
-   "goals_against": 1.0,
-   "xg_for": 1.43,
-   "xg_against": 1.27,
-   "xg_diff_per_game": 0.17,
-   "finishing_delta": -0.1,
-   "points": 12,
-   "ppg": 2.0,
-   "form": "WLWWLW",
-   "possession_pct": 48.0
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 1.17,
-   "goals_against": 1.17,
-   "xg_for": 1.59,
-   "xg_against": 1.44,
-   "xg_diff_per_game": 0.15,
-   "finishing_delta": -0.42,
-   "points": 10,
-   "ppg": 1.67,
-   "form": "WDLLWW",
-   "possession_pct": 50.7
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.605,
-  "pred_xg_away": 0.967,
-  "win_home_pct": 53.1,
-  "draw_pct": 23.3,
-  "win_away_pct": 23.6,
-  "xpts_home": 1.83,
-  "xpts_away": 0.94,
-  "most_likely_scoreline": [
-   1,
-   0
-  ],
-  "top_5_scorelines": [
-   [
-    1,
-    0,
-    13.09
-   ],
-   [
-    1,
-    1,
-    11.03
-   ],
-   [
-    2,
-    0,
-    9.84
-   ],
-   [
-    2,
-    1,
-    9.51
-   ],
-   [
-    0,
-    1,
-    8.21
-   ]
-  ],
-  "over_2_5_pct": 47.4,
-  "btts_pct": 48.7,
-  "reasoning": {
-   "thesis": "Liverpool are clear favourites, projected 0.64 goals better than Everton on the day, which prices the win at 53%. Projected 1.60-0.97 on expected goals, with 1-0 the single most likely scoreline at 13.1%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 8.0,
-    "effective_matches_away": 8.0
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Liverpool attack",
-     "detail": "solid (1.08x league average)",
-     "delta_goals": 0.1
-    },
-    {
-     "side": "home",
-     "label": "Everton defence",
-     "detail": "solid (0.97x league average conceded)",
-     "delta_goals": -0.04
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.28x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.347
-    },
-    {
-     "side": "away",
-     "label": "Everton attack",
-     "detail": "modest (0.93x league average)",
-     "delta_goals": -0.086
-    },
-    {
-     "side": "away",
-     "label": "Liverpool defence",
-     "detail": "strong (0.87x league average conceded)",
-     "delta_goals": -0.145
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 1.083,
-    "home_defence": 0.869,
-    "away_attack": 0.928,
-    "away_defence": 0.969,
-    "league_base": 1.198,
-    "home_advantage": 1.276
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2027-01-30",
-  "kickoff_datetime": "2027-01-30T15:00:00Z",
-  "round": 23,
-  "home": "Manchester City",
-  "away": "Arsenal",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 2.17,
-   "goals_against": 1.83,
-   "xg_for": 2.14,
-   "xg_against": 1.55,
-   "xg_diff_per_game": 0.6,
-   "finishing_delta": 0.02,
-   "points": 9,
-   "ppg": 1.5,
-   "form": "WWWLLL",
-   "possession_pct": 65.7
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 1.17,
-   "goals_against": 0.67,
-   "xg_for": 1.5,
-   "xg_against": 0.78,
-   "xg_diff_per_game": 0.72,
-   "finishing_delta": -0.34,
-   "points": 15,
-   "ppg": 2.5,
-   "form": "LWWWWW",
-   "possession_pct": 60.2
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.153,
-  "pred_xg_away": 1.188,
-  "win_home_pct": 36.0,
-  "draw_pct": 26.2,
-  "win_away_pct": 37.7,
-  "xpts_home": 1.34,
-  "xpts_away": 1.39,
-  "most_likely_scoreline": [
-   0,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    0,
-    1,
-    12.35
-   ],
-   [
-    1,
-    1,
-    12.27
-   ],
-   [
-    1,
-    0,
-    12.01
-   ],
-   [
-    0,
-    0,
-    8.71
-   ],
-   [
-    1,
-    2,
-    7.83
-   ]
-  ],
-  "over_2_5_pct": 41.5,
-  "btts_pct": 46.7,
-  "reasoning": {
-   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.03 goals, and the most likely single outcome is a draw at 26%. Man City are creating +0.60 xG per game more than they concede over their last 6, the profile of a side controlling matches. Arsenal are creating +0.72 xG per game more than they concede over their last 6, the profile of a side controlling matches. Projected 1.15-1.19 on expected goals, with 0-1 the single most likely scoreline at 12.3%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 8.0,
-    "effective_matches_away": 8.0
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Man City attack",
-     "detail": "excellent (1.29x league average)",
-     "delta_goals": 0.353
-    },
-    {
-     "side": "home",
-     "label": "Arsenal defence",
-     "detail": "excellent (0.58x league average conceded)",
-     "delta_goals": -0.647
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.28x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.249
-    },
-    {
-     "side": "away",
-     "label": "Arsenal attack",
-     "detail": "strong (1.11x league average)",
-     "delta_goals": 0.133
-    },
-    {
-     "side": "away",
-     "label": "Man City defence",
-     "detail": "strong (0.89x league average conceded)",
-     "delta_goals": -0.143
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 1.294,
-    "home_defence": 0.892,
-    "away_attack": 1.111,
-    "away_defence": 0.583,
-    "league_base": 1.198,
-    "home_advantage": 1.276
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2027-01-30",
-  "kickoff_datetime": "2027-01-30T15:00:00Z",
-  "round": 23,
-  "home": "Newcastle United",
-  "away": "Brighton",
-  "status": "scheduled",
-  "home_form": {
-   "matches": 6,
-   "goals": 1.0,
-   "goals_against": 1.33,
-   "xg_for": 1.27,
-   "xg_against": 1.47,
-   "xg_diff_per_game": -0.2,
-   "finishing_delta": -0.27,
-   "points": 7,
-   "ppg": 1.17,
-   "form": "WLLWLD",
-   "possession_pct": 52.2
-  },
-  "away_form": {
-   "matches": 6,
-   "goals": 2.17,
-   "goals_against": 0.33,
-   "xg_for": 1.54,
-   "xg_against": 1.09,
-   "xg_diff_per_game": 0.45,
-   "finishing_delta": 0.63,
-   "points": 15,
-   "ppg": 2.5,
-   "form": "WWWLWW",
-   "possession_pct": 52.0
-  },
-  "home_goals": null,
-  "away_goals": null,
-  "season": "2026-27",
-  "pred_xg_home": 1.127,
-  "pred_xg_away": 1.756,
-  "win_home_pct": 25.1,
-  "draw_pct": 22.0,
-  "win_away_pct": 52.9,
-  "xpts_home": 0.97,
-  "xpts_away": 1.81,
-  "most_likely_scoreline": [
-   0,
-   1
-  ],
-  "top_5_scorelines": [
-   [
-    0,
-    1,
-    10.6
-   ],
-   [
-    1,
-    1,
-    10.31
-   ],
-   [
-    1,
-    2,
-    9.73
-   ],
-   [
-    0,
-    2,
-    8.63
-   ],
-   [
-    1,
-    0,
-    7.08
-   ]
-  ],
-  "over_2_5_pct": 55.0,
-  "btts_pct": 55.2,
-  "reasoning": {
-   "thesis": "Brighton are clear favourites, projected 0.63 goals better than Newcastle on the day, which prices the win at 53%. Brighton are scoring 0.63 goals a game more than their chances warrant, which historically does not hold; the model discounts that finishing rather than projecting it. Projected 1.13-1.76 on expected goals, with 0-1 the single most likely scoreline at 10.6%.",
-   "confidence": {
-    "level": "medium",
-    "note": "ratings are mostly driven by this season, with last season still contributing",
-    "effective_matches_home": 8.1,
-    "effective_matches_away": 8.0
-   },
-   "factors": [
-    {
-     "side": "home",
-     "label": "Newcastle attack",
-     "detail": "modest (0.91x league average)",
-     "delta_goals": -0.11
-    },
-    {
-     "side": "home",
-     "label": "Brighton defence",
-     "detail": "strong (0.81x league average conceded)",
-     "delta_goals": -0.205
-    },
-    {
-     "side": "home",
-     "label": "Home advantage",
-     "detail": "1.28x, fitted league-wide and carried across seasons",
-     "delta_goals": 0.244
-    },
-    {
-     "side": "away",
-     "label": "Brighton attack",
-     "detail": "excellent (1.29x league average)",
-     "delta_goals": 0.351
-    },
-    {
-     "side": "away",
-     "label": "Newcastle defence",
-     "detail": "leaky (1.13x league average conceded)",
-     "delta_goals": 0.207
-    }
-   ],
-   "rating_snapshot": {
-    "home_attack": 0.908,
-    "home_defence": 1.134,
-    "away_attack": 1.293,
-    "away_defence": 0.811,
-    "league_base": 1.198,
-    "home_advantage": 1.276
-   },
-   "availability": {
-    "home_attack_mult": 1.0,
-    "home_defence_mult": 1.0,
-    "away_attack_mult": 1.0,
-    "away_defence_mult": 1.0,
-    "home_missing": [],
-    "away_missing": []
-   }
-  }
- },
- {
-  "date": "2027-01-30",
-  "kickoff_datetime": "2027-01-30T15:00:00Z",
+  "date": "2027-01-31",
+  "kickoff_datetime": "2027-01-31T14:00:00Z",
   "round": 23,
   "home": "Tottenham Hotspur",
   "away": "Sunderland",
@@ -35715,6 +35445,276 @@
      "Xavi Simons"
     ],
     "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2027-01-31",
+  "kickoff_datetime": "2027-01-31T16:30:00Z",
+  "round": 23,
+  "home": "Manchester City",
+  "away": "Arsenal",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 2.17,
+   "goals_against": 1.83,
+   "xg_for": 2.14,
+   "xg_against": 1.55,
+   "xg_diff_per_game": 0.6,
+   "finishing_delta": 0.02,
+   "points": 9,
+   "ppg": 1.5,
+   "form": "WWWLLL",
+   "possession_pct": 65.7
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 1.17,
+   "goals_against": 0.67,
+   "xg_for": 1.5,
+   "xg_against": 0.78,
+   "xg_diff_per_game": 0.72,
+   "finishing_delta": -0.34,
+   "points": 15,
+   "ppg": 2.5,
+   "form": "LWWWWW",
+   "possession_pct": 60.2
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.153,
+  "pred_xg_away": 1.188,
+  "win_home_pct": 36.0,
+  "draw_pct": 26.2,
+  "win_away_pct": 37.7,
+  "xpts_home": 1.34,
+  "xpts_away": 1.39,
+  "most_likely_scoreline": [
+   0,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    0,
+    1,
+    12.35
+   ],
+   [
+    1,
+    1,
+    12.27
+   ],
+   [
+    1,
+    0,
+    12.01
+   ],
+   [
+    0,
+    0,
+    8.71
+   ],
+   [
+    1,
+    2,
+    7.83
+   ]
+  ],
+  "over_2_5_pct": 41.5,
+  "btts_pct": 46.7,
+  "reasoning": {
+   "thesis": "There is almost nothing between these teams on current form: the model splits them by 0.03 goals, and the most likely single outcome is a draw at 26%. Man City are creating +0.60 xG per game more than they concede over their last 6, the profile of a side controlling matches. Arsenal are creating +0.72 xG per game more than they concede over their last 6, the profile of a side controlling matches. Projected 1.15-1.19 on expected goals, with 0-1 the single most likely scoreline at 12.3%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 8.0,
+    "effective_matches_away": 8.0
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Man City attack",
+     "detail": "excellent (1.29x league average)",
+     "delta_goals": 0.353
+    },
+    {
+     "side": "home",
+     "label": "Arsenal defence",
+     "detail": "excellent (0.58x league average conceded)",
+     "delta_goals": -0.647
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.28x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.249
+    },
+    {
+     "side": "away",
+     "label": "Arsenal attack",
+     "detail": "strong (1.11x league average)",
+     "delta_goals": 0.133
+    },
+    {
+     "side": "away",
+     "label": "Man City defence",
+     "detail": "strong (0.89x league average conceded)",
+     "delta_goals": -0.143
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 1.294,
+    "home_defence": 0.892,
+    "away_attack": 1.111,
+    "away_defence": 0.583,
+    "league_base": 1.198,
+    "home_advantage": 1.276
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": []
+   }
+  }
+ },
+ {
+  "date": "2027-02-01",
+  "kickoff_datetime": "2027-02-01T20:00:00Z",
+  "round": 23,
+  "home": "Brentford",
+  "away": "Manchester United",
+  "status": "scheduled",
+  "home_form": {
+   "matches": 6,
+   "goals": 1.5,
+   "goals_against": 1.17,
+   "xg_for": 1.29,
+   "xg_against": 1.5,
+   "xg_diff_per_game": -0.21,
+   "finishing_delta": 0.21,
+   "points": 8,
+   "ppg": 1.33,
+   "form": "WDLDWL",
+   "possession_pct": 42.3
+  },
+  "away_form": {
+   "matches": 6,
+   "goals": 1.17,
+   "goals_against": 2.0,
+   "xg_for": 1.53,
+   "xg_against": 2.05,
+   "xg_diff_per_game": -0.52,
+   "finishing_delta": -0.36,
+   "points": 4,
+   "ppg": 0.67,
+   "form": "DDDLLD",
+   "possession_pct": 51.0
+  },
+  "home_goals": null,
+  "away_goals": null,
+  "season": "2026-27",
+  "pred_xg_home": 1.935,
+  "pred_xg_away": 1.328,
+  "win_home_pct": 52.3,
+  "draw_pct": 20.7,
+  "win_away_pct": 26.9,
+  "xpts_home": 1.78,
+  "xpts_away": 1.02,
+  "most_likely_scoreline": [
+   2,
+   1
+  ],
+  "top_5_scorelines": [
+   [
+    2,
+    1,
+    9.52
+   ],
+   [
+    1,
+    1,
+    9.15
+   ],
+   [
+    1,
+    0,
+    8.09
+   ],
+   [
+    2,
+    0,
+    7.17
+   ],
+   [
+    1,
+    2,
+    6.53
+   ]
+  ],
+  "over_2_5_pct": 63.3,
+  "btts_pct": 62.2,
+  "reasoning": {
+   "thesis": "Brentford are clear favourites, projected 0.61 goals better than Man Utd on the day, which prices the win at 52%. Projected 1.94-1.33 on expected goals, with 2-1 the single most likely scoreline at 9.5%.",
+   "confidence": {
+    "level": "medium",
+    "note": "ratings are mostly driven by this season, with last season still contributing",
+    "effective_matches_home": 8.0,
+    "effective_matches_away": 8.0
+   },
+   "factors": [
+    {
+     "side": "home",
+     "label": "Brentford attack",
+     "detail": "solid (1.08x league average)",
+     "delta_goals": 0.093
+    },
+    {
+     "side": "home",
+     "label": "Man Utd defence",
+     "detail": "leaky (1.17x league average conceded)",
+     "delta_goals": 0.226
+    },
+    {
+     "side": "home",
+     "label": "Home advantage",
+     "detail": "1.28x, fitted league-wide and carried across seasons",
+     "delta_goals": 0.418
+    },
+    {
+     "side": "away",
+     "label": "Man Utd attack",
+     "detail": "strong (1.13x league average)",
+     "delta_goals": 0.161
+    },
+    {
+     "side": "away",
+     "label": "Brentford defence",
+     "detail": "solid (0.98x league average conceded)",
+     "delta_goals": -0.032
+    }
+   ],
+   "rating_snapshot": {
+    "home_attack": 1.077,
+    "home_defence": 0.976,
+    "away_attack": 1.135,
+    "away_defence": 1.175,
+    "league_base": 1.198,
+    "home_advantage": 1.276
+   },
+   "availability": {
+    "home_attack_mult": 1.0,
+    "home_defence_mult": 1.0,
+    "away_attack_mult": 1.0,
+    "away_defence_mult": 1.0,
+    "home_missing": [],
+    "away_missing": [
+     "Manuel Ugarte"
+    ]
    }
   }
  },
