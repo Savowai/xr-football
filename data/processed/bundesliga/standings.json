@@ -1,19 +1,19 @@
 [
  {
   "team": "Bayern M\u00fcnchen",
-  "played": 9,
+  "played": 10,
   "won": 6,
-  "drawn": 3,
+  "drawn": 4,
   "lost": 0,
-  "gf": 29,
-  "ga": 9,
+  "gf": 30,
+  "ga": 10,
   "gd": 20,
-  "points": 21,
-  "xg_for": 30.81,
-  "xg_against": 7.62,
-  "xpts": 23.54,
-  "xg_diff": 23.19,
-  "luck": -2.54,
+  "points": 22,
+  "xg_for": 31.75,
+  "xg_against": 9.6,
+  "xpts": 24.26,
+  "xg_diff": 22.15,
+  "luck": -2.26,
   "position": 1,
   "xposition": 1
  },
@@ -29,11 +29,11 @@
   "points": 21,
   "xg_for": 13.92,
   "xg_against": 12.16,
-  "xpts": 14.72,
+  "xpts": 14.71,
   "xg_diff": 1.76,
-  "luck": 6.28,
+  "luck": 6.29,
   "position": 2,
-  "xposition": 5
+  "xposition": 6
  },
  {
   "team": "Freiburg",
@@ -47,9 +47,9 @@
   "points": 19,
   "xg_for": 15.32,
   "xg_against": 9.31,
-  "xpts": 16.47,
+  "xpts": 16.46,
   "xg_diff": 6.01,
-  "luck": 2.53,
+  "luck": 2.54,
   "position": 3,
   "xposition": 2
  },
@@ -83,11 +83,11 @@
   "points": 16,
   "xg_for": 17.21,
   "xg_against": 15.35,
-  "xpts": 14.13,
+  "xpts": 14.11,
   "xg_diff": 1.86,
-  "luck": 1.87,
+  "luck": 1.89,
   "position": 5,
-  "xposition": 6
+  "xposition": 7
  },
  {
   "team": "Werder Bremen",
@@ -101,9 +101,9 @@
   "points": 15,
   "xg_for": 13.47,
   "xg_against": 13.51,
-  "xpts": 12.34,
+  "xpts": 12.33,
   "xg_diff": -0.04,
-  "luck": 2.66,
+  "luck": 2.67,
   "position": 6,
   "xposition": 9
  },
@@ -119,9 +119,9 @@
   "points": 13,
   "xg_for": 12.17,
   "xg_against": 18.3,
-  "xpts": 8.66,
+  "xpts": 8.65,
   "xg_diff": -6.13,
-  "luck": 4.34,
+  "luck": 4.35,
   "position": 7,
   "xposition": 15
  },
@@ -155,11 +155,11 @@
   "points": 12,
   "xg_for": 16.97,
   "xg_against": 12.89,
-  "xpts": 14.78,
+  "xpts": 14.74,
   "xg_diff": 4.08,
-  "luck": -2.78,
+  "luck": -2.74,
   "position": 9,
-  "xposition": 4
+  "xposition": 5
  },
  {
   "team": "Eintracht Frankfurt",
@@ -173,9 +173,9 @@
   "points": 12,
   "xg_for": 14.46,
   "xg_against": 16.56,
-  "xpts": 11.61,
+  "xpts": 11.6,
   "xg_diff": -2.1,
-  "luck": 0.39,
+  "luck": 0.4,
   "position": 10,
   "xposition": 10
  },
@@ -191,9 +191,9 @@
   "points": 12,
   "xg_for": 10.16,
   "xg_against": 16.48,
-  "xpts": 8.65,
+  "xpts": 8.63,
   "xg_diff": -6.32,
-  "luck": 3.35,
+  "luck": 3.37,
   "position": 11,
   "xposition": 16
  },
@@ -209,11 +209,11 @@
   "points": 10,
   "xg_for": 16.57,
   "xg_against": 14.5,
-  "xpts": 14.1,
+  "xpts": 14.07,
   "xg_diff": 2.07,
-  "luck": -4.1,
+  "luck": -4.07,
   "position": 12,
-  "xposition": 7
+  "xposition": 8
  },
  {
   "team": "Paderborn",
@@ -234,6 +234,24 @@
   "xposition": 14
  },
  {
+  "team": "1. FC K\u00f6ln",
+  "played": 10,
+  "won": 2,
+  "drawn": 4,
+  "lost": 4,
+  "gf": 11,
+  "ga": 15,
+  "gd": -4,
+  "points": 10,
+  "xg_for": 16.13,
+  "xg_against": 14.64,
+  "xpts": 14.87,
+  "xg_diff": 1.49,
+  "luck": -4.87,
+  "position": 14,
+  "xposition": 4
+ },
+ {
   "team": "Augsburg",
   "played": 9,
   "won": 2,
@@ -245,29 +263,11 @@
   "points": 9,
   "xg_for": 17.73,
   "xg_against": 21.65,
-  "xpts": 10.67,
+  "xpts": 10.65,
   "xg_diff": -3.92,
-  "luck": -1.67,
-  "position": 14,
-  "xposition": 12
- },
- {
-  "team": "1. FC K\u00f6ln",
-  "played": 9,
-  "won": 2,
-  "drawn": 3,
-  "lost": 4,
-  "gf": 10,
-  "ga": 14,
-  "gd": -4,
-  "points": 9,
-  "xg_for": 14.15,
-  "xg_against": 13.7,
-  "xpts": 12.85,
-  "xg_diff": 0.45,
-  "luck": -3.85,
+  "luck": -1.65,
   "position": 15,
-  "xposition": 8
+  "xposition": 12
  },
  {
   "team": "Union Berlin",
@@ -299,9 +299,9 @@
   "points": 6,
   "xg_for": 10.13,
   "xg_against": 17.53,
-  "xpts": 7.95,
+  "xpts": 7.92,
   "xg_diff": -7.4,
-  "luck": -1.95,
+  "luck": -1.92,
   "position": 17,
   "xposition": 18
  },
@@ -317,9 +317,9 @@
   "points": 4,
   "xg_for": 14.37,
   "xg_against": 19.22,
-  "xpts": 9.96,
+  "xpts": 9.95,
   "xg_diff": -4.85,
-  "luck": -5.96,
+  "luck": -5.95,
   "position": 18,
   "xposition": 13
  }

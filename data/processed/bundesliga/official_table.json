@@ -3,14 +3,14 @@
   "position": 1,
   "team": "Bayern M\u00fcnchen",
   "fotmob_team_id": "9823",
-  "played": 9,
+  "played": 10,
   "won": 6,
-  "drawn": 3,
+  "drawn": 4,
   "lost": 0,
-  "gf": 29,
-  "ga": 9,
+  "gf": 30,
+  "ga": 10,
   "gd": 20,
-  "points": 21
+  "points": 22
  },
  {
   "position": 2,
@@ -170,6 +170,19 @@
  },
  {
   "position": 14,
+  "team": "1. FC K\u00f6ln",
+  "fotmob_team_id": "8722",
+  "played": 10,
+  "won": 2,
+  "drawn": 4,
+  "lost": 4,
+  "gf": 11,
+  "ga": 15,
+  "gd": -4,
+  "points": 10
+ },
+ {
+  "position": 15,
   "team": "Augsburg",
   "fotmob_team_id": "8406",
   "played": 9,
@@ -179,19 +192,6 @@
   "gf": 20,
   "ga": 20,
   "gd": 0,
-  "points": 9
- },
- {
-  "position": 15,
-  "team": "1. FC K\u00f6ln",
-  "fotmob_team_id": "8722",
-  "played": 9,
-  "won": 2,
-  "drawn": 3,
-  "lost": 4,
-  "gf": 10,
-  "ga": 14,
-  "gd": -4,
   "points": 9
  },
  {

@@ -12,7 +12,7 @@
   "total_rounds": 38,
   "xg_coverage": 100,
   "leader": "Arsenal",
-  "built_at": "2026-11-20T13:39:58.458698+00:00"
+  "built_at": "2026-11-20T21:35:17.336682+00:00"
  },
  {
   "key": "laliga",
@@ -27,7 +27,7 @@
   "total_rounds": 38,
   "xg_coverage": 119,
   "leader": "Barcelona",
-  "built_at": "2026-11-20T13:40:00.808189+00:00"
+  "built_at": "2026-11-20T21:35:19.691837+00:00"
  },
  {
   "key": "seriea",
@@ -42,7 +42,7 @@
   "total_rounds": 38,
   "xg_coverage": 110,
   "leader": "Lazio",
-  "built_at": "2026-11-20T13:40:03.452892+00:00"
+  "built_at": "2026-11-20T21:35:22.366105+00:00"
  },
  {
   "key": "bundesliga",
@@ -50,14 +50,14 @@
   "country": "Germany",
   "season": "2026-27",
   "teams": 18,
-  "played": 81,
+  "played": 82,
   "matches": 306,
-  "current_round": 9,
+  "current_round": 10,
   "next_round": 10,
   "total_rounds": 34,
-  "xg_coverage": 81,
+  "xg_coverage": 82,
   "leader": "Bayern M\u00fcnchen",
-  "built_at": "2026-11-20T13:40:05.440800+00:00"
+  "built_at": "2026-11-20T21:35:26.740467+00:00"
  },
  {
   "key": "ligue1",
@@ -72,6 +72,6 @@
   "total_rounds": 34,
   "xg_coverage": 90,
   "leader": "Paris Saint-Germain",
-  "built_at": "2026-11-20T13:40:07.634968+00:00"
+  "built_at": "2026-11-20T21:35:28.848523+00:00"
  }
 ]

@@ -157,6 +157,19 @@
  },
  {
   "position": 13,
+  "team": "Troyes",
+  "fotmob_team_id": "10242",
+  "played": 11,
+  "won": 3,
+  "drawn": 2,
+  "lost": 6,
+  "gf": 9,
+  "ga": 18,
+  "gd": -9,
+  "points": 11
+ },
+ {
+  "position": 14,
   "team": "Strasbourg",
   "fotmob_team_id": "9848",
   "played": 10,
@@ -169,7 +182,7 @@
   "points": 10
  },
  {
-  "position": 14,
+  "position": 15,
   "team": "Auxerre",
   "fotmob_team_id": "8583",
   "played": 10,
@@ -182,7 +195,7 @@
   "points": 10
  },
  {
-  "position": 15,
+  "position": 16,
   "team": "Le Mans",
   "fotmob_team_id": "8682",
   "played": 10,
@@ -195,7 +208,7 @@
   "points": 8
  },
  {
-  "position": 16,
+  "position": 17,
   "team": "Angers",
   "fotmob_team_id": "8121",
   "played": 10,
@@ -208,29 +221,16 @@
   "points": 8
  },
  {
-  "position": 17,
-  "team": "Troyes",
-  "fotmob_team_id": "10242",
-  "played": 10,
-  "won": 2,
-  "drawn": 2,
-  "lost": 6,
-  "gf": 7,
-  "ga": 17,
-  "gd": -10,
-  "points": 8
- },
- {
   "position": 18,
   "team": "Le Havre",
   "fotmob_team_id": "9746",
-  "played": 10,
+  "played": 11,
   "won": 0,
   "drawn": 2,
-  "lost": 8,
-  "gf": 9,
-  "ga": 22,
-  "gd": -13,
+  "lost": 9,
+  "gf": 10,
+  "ga": 24,
+  "gd": -14,
   "points": 2
  }
 ]

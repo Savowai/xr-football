@@ -15935,7 +15935,7 @@
   "round": 11,
   "home": "Troyes",
   "away": "Le Havre",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 6,
    "goals": 0.5,
@@ -15962,8 +15962,8 @@
    "form": "LLLLLL",
    "possession_pct": 47.0
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 2,
+  "away_goals": 1,
   "season": "2026-27",
   "pred_xg_home": 1.504,
   "pred_xg_away": 1.271,
