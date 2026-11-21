@@ -1,19 +1,19 @@
 [
  {
   "team": "Arsenal",
-  "played": 10,
+  "played": 11,
   "won": 9,
-  "drawn": 0,
+  "drawn": 1,
   "lost": 1,
-  "gf": 15,
-  "ga": 5,
+  "gf": 17,
+  "ga": 7,
   "gd": 10,
-  "points": 27,
-  "xg_for": 15.97,
-  "xg_against": 7.26,
-  "xpts": 19.69,
-  "xg_diff": 8.71,
-  "luck": 7.31,
+  "points": 28,
+  "xg_for": 17.45,
+  "xg_against": 8.99,
+  "xpts": 20.93,
+  "xg_diff": 8.46,
+  "luck": 7.07,
   "position": 1,
   "xposition": 2
  },
@@ -29,9 +29,9 @@
   "points": 22,
   "xg_for": 19.3,
   "xg_against": 13.66,
-  "xpts": 16.98,
+  "xpts": 16.99,
   "xg_diff": 5.64,
-  "luck": 5.02,
+  "luck": 5.01,
   "position": 2,
   "xposition": 5
  },
@@ -47,9 +47,9 @@
   "points": 22,
   "xg_for": 22.3,
   "xg_against": 13.63,
-  "xpts": 20.9,
+  "xpts": 20.93,
   "xg_diff": 8.67,
-  "luck": 1.1,
+  "luck": 1.07,
   "position": 3,
   "xposition": 1
  },
@@ -65,9 +65,9 @@
   "points": 18,
   "xg_for": 21.31,
   "xg_against": 13.18,
-  "xpts": 19.28,
+  "xpts": 19.31,
   "xg_diff": 8.13,
-  "luck": -1.28,
+  "luck": -1.31,
   "position": 4,
   "xposition": 3
  },
@@ -83,9 +83,9 @@
   "points": 18,
   "xg_for": 15.16,
   "xg_against": 12.94,
-  "xpts": 15.04,
+  "xpts": 15.05,
   "xg_diff": 2.22,
-  "luck": 2.96,
+  "luck": 2.95,
   "position": 5,
   "xposition": 9
  },
@@ -105,7 +105,7 @@
   "xg_diff": 2.5,
   "luck": 0.38,
   "position": 6,
-  "xposition": 6
+  "xposition": 7
  },
  {
   "team": "Everton",
@@ -119,9 +119,9 @@
   "points": 16,
   "xg_for": 14.68,
   "xg_against": 14.08,
-  "xpts": 14.05,
+  "xpts": 14.06,
   "xg_diff": 0.6,
-  "luck": 1.95,
+  "luck": 1.94,
   "position": 7,
   "xposition": 11
  },
@@ -155,11 +155,11 @@
   "points": 15,
   "xg_for": 14.5,
   "xg_against": 12.4,
-  "xpts": 16.62,
+  "xpts": 16.64,
   "xg_diff": 2.1,
-  "luck": -1.62,
+  "luck": -1.64,
   "position": 9,
-  "xposition": 7
+  "xposition": 6
  },
  {
   "team": "Brentford",
@@ -199,21 +199,21 @@
  },
  {
   "team": "Newcastle United",
-  "played": 10,
+  "played": 11,
   "won": 3,
-  "drawn": 3,
+  "drawn": 4,
   "lost": 4,
-  "gf": 13,
-  "ga": 16,
+  "gf": 15,
+  "ga": 18,
   "gd": -3,
-  "points": 12,
-  "xg_for": 11.49,
-  "xg_against": 16.2,
-  "xpts": 10.86,
-  "xg_diff": -4.71,
-  "luck": 1.14,
+  "points": 13,
+  "xg_for": 13.22,
+  "xg_against": 17.68,
+  "xpts": 12.4,
+  "xg_diff": -4.46,
+  "luck": 0.6,
   "position": 12,
-  "xposition": 19
+  "xposition": 16
  },
  {
   "team": "Coventry City",
@@ -227,11 +227,11 @@
   "points": 12,
   "xg_for": 11.74,
   "xg_against": 17.63,
-  "xpts": 11.36,
+  "xpts": 11.37,
   "xg_diff": -5.89,
-  "luck": 0.64,
+  "luck": 0.63,
   "position": 13,
-  "xposition": 17
+  "xposition": 18
  },
  {
   "team": "Hull City",
@@ -245,9 +245,9 @@
   "points": 11,
   "xg_for": 9.38,
   "xg_against": 14.43,
-  "xpts": 9.95,
+  "xpts": 9.96,
   "xg_diff": -5.05,
-  "luck": 1.05,
+  "luck": 1.04,
   "position": 14,
   "xposition": 20
  },
@@ -263,9 +263,9 @@
   "points": 11,
   "xg_for": 15.05,
   "xg_against": 15.38,
-  "xpts": 14.77,
+  "xpts": 14.78,
   "xg_diff": -0.33,
-  "luck": -3.77,
+  "luck": -3.78,
   "position": 15,
   "xposition": 10
  },
@@ -281,11 +281,11 @@
   "points": 11,
   "xg_for": 13.49,
   "xg_against": 22.19,
-  "xpts": 11.39,
+  "xpts": 11.4,
   "xg_diff": -8.7,
-  "luck": -0.39,
+  "luck": -0.4,
   "position": 16,
-  "xposition": 16
+  "xposition": 17
  },
  {
   "team": "Nottingham Forest",
@@ -299,9 +299,9 @@
   "points": 9,
   "xg_for": 17.27,
   "xg_against": 13.63,
-  "xpts": 17.35,
+  "xpts": 17.37,
   "xg_diff": 3.64,
-  "luck": -8.35,
+  "luck": -8.37,
   "position": 17,
   "xposition": 4
  },
@@ -317,9 +317,9 @@
   "points": 9,
   "xg_for": 16.34,
   "xg_against": 17.17,
-  "xpts": 15.37,
+  "xpts": 15.38,
   "xg_diff": -0.83,
-  "luck": -6.37,
+  "luck": -6.38,
   "position": 18,
   "xposition": 8
  },
@@ -335,9 +335,9 @@
   "points": 8,
   "xg_for": 17.41,
   "xg_against": 17.37,
-  "xpts": 13.11,
+  "xpts": 13.13,
   "xg_diff": 0.04,
-  "luck": -5.11,
+  "luck": -5.13,
   "position": 19,
   "xposition": 13
  },
@@ -353,10 +353,10 @@
   "points": 7,
   "xg_for": 15.23,
   "xg_against": 23.67,
-  "xpts": 10.9,
+  "xpts": 10.91,
   "xg_diff": -8.44,
-  "luck": -3.9,
+  "luck": -3.91,
   "position": 20,
-  "xposition": 18
+  "xposition": 19
  }
 ]
