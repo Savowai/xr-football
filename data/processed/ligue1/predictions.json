@@ -16112,7 +16112,7 @@
   "round": 11,
   "home": "Nice",
   "away": "Paris Saint-Germain",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 6,
    "goals": 2.33,
@@ -16139,8 +16139,8 @@
    "form": "WWWWWW",
    "possession_pct": 69.8
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 1,
+  "away_goals": 2,
   "season": "2026-27",
   "pred_xg_home": 1.2,
   "pred_xg_away": 1.967,
