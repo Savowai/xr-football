@@ -91,21 +91,21 @@
  },
  {
   "team": "Werder Bremen",
-  "played": 9,
-  "won": 4,
+  "played": 10,
+  "won": 5,
   "drawn": 3,
   "lost": 2,
-  "gf": 17,
+  "gf": 21,
   "ga": 15,
-  "gd": 2,
-  "points": 15,
-  "xg_for": 13.47,
-  "xg_against": 13.51,
-  "xpts": 12.39,
-  "xg_diff": -0.04,
-  "luck": 2.61,
+  "gd": 6,
+  "points": 18,
+  "xg_for": 14.99,
+  "xg_against": 15.05,
+  "xpts": 13.76,
+  "xg_diff": -0.06,
+  "luck": 4.24,
   "position": 6,
-  "xposition": 12
+  "xposition": 9
  },
  {
   "team": "Eintracht Frankfurt",
@@ -123,7 +123,7 @@
   "xg_diff": -1.99,
   "luck": 1.89,
   "position": 7,
-  "xposition": 10
+  "xposition": 11
  },
  {
   "team": "VfB Stuttgart",
@@ -141,7 +141,7 @@
   "xg_diff": -2.77,
   "luck": 0.26,
   "position": 8,
-  "xposition": 11
+  "xposition": 12
  },
  {
   "team": "Elversberg",
@@ -177,7 +177,7 @@
   "xg_diff": -1.57,
   "luck": -1.24,
   "position": 10,
-  "xposition": 9
+  "xposition": 10
  },
  {
   "team": "Hoffenheim",
@@ -191,29 +191,29 @@
   "points": 12,
   "xg_for": 19.2,
   "xg_against": 15.23,
-  "xpts": 16.12,
+  "xpts": 16.13,
   "xg_diff": 3.97,
-  "luck": -4.12,
+  "luck": -4.13,
   "position": 11,
   "xposition": 6
  },
  {
   "team": "Hamburger SV",
-  "played": 9,
+  "played": 10,
   "won": 4,
   "drawn": 0,
-  "lost": 5,
+  "lost": 6,
   "gf": 10,
-  "ga": 20,
-  "gd": -10,
+  "ga": 24,
+  "gd": -14,
   "points": 12,
-  "xg_for": 10.16,
-  "xg_against": 16.48,
-  "xpts": 8.68,
-  "xg_diff": -6.32,
-  "luck": 3.32,
+  "xg_for": 11.7,
+  "xg_against": 18.0,
+  "xpts": 10.07,
+  "xg_diff": -6.3,
+  "luck": 1.93,
   "position": 12,
-  "xposition": 18
+  "xposition": 15
  },
  {
   "team": "Mainz 05",
@@ -267,7 +267,7 @@
   "xg_diff": -7.4,
   "luck": 0.05,
   "position": 15,
-  "xposition": 15
+  "xposition": 16
  },
  {
   "team": "Schalke 04",
@@ -285,7 +285,7 @@
   "xg_diff": -8.1,
   "luck": -1.97,
   "position": 16,
-  "xposition": 16
+  "xposition": 17
  },
  {
   "team": "Union Berlin",
@@ -303,7 +303,7 @@
   "xg_diff": -13.52,
   "luck": -1.72,
   "position": 17,
-  "xposition": 17
+  "xposition": 18
  },
  {
   "team": "Borussia M\u00f6nchengladbach",

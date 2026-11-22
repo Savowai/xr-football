@@ -54,6 +54,24 @@
   "xposition": 1
  },
  {
+  "team": "Liverpool",
+  "played": 11,
+  "won": 6,
+  "drawn": 3,
+  "lost": 2,
+  "gf": 18,
+  "ga": 10,
+  "gd": 8,
+  "points": 21,
+  "xg_for": 19.51,
+  "xg_against": 13.59,
+  "xpts": 17.91,
+  "xg_diff": 5.92,
+  "luck": 3.09,
+  "position": 4,
+  "xposition": 5
+ },
+ {
   "team": "Bournemouth",
   "played": 11,
   "won": 5,
@@ -68,26 +86,8 @@
   "xpts": 19.32,
   "xg_diff": 8.13,
   "luck": -1.32,
-  "position": 4,
-  "xposition": 3
- },
- {
-  "team": "Liverpool",
-  "played": 10,
-  "won": 5,
-  "drawn": 3,
-  "lost": 2,
-  "gf": 14,
-  "ga": 10,
-  "gd": 4,
-  "points": 18,
-  "xg_for": 15.16,
-  "xg_against": 12.94,
-  "xpts": 15.05,
-  "xg_diff": 2.22,
-  "luck": 2.95,
   "position": 5,
-  "xposition": 9
+  "xposition": 3
  },
  {
   "team": "Leeds United",
@@ -105,7 +105,7 @@
   "xg_diff": 2.5,
   "luck": 0.38,
   "position": 6,
-  "xposition": 7
+  "xposition": 8
  },
  {
   "team": "Everton",
@@ -159,7 +159,7 @@
   "xg_diff": 2.1,
   "luck": -1.64,
   "position": 9,
-  "xposition": 6
+  "xposition": 7
  },
  {
   "team": "Brentford",
@@ -303,7 +303,7 @@
   "xg_diff": 3.64,
   "luck": -8.37,
   "position": 17,
-  "xposition": 5
+  "xposition": 6
  },
  {
   "team": "Sunderland",
@@ -321,23 +321,23 @@
   "xg_diff": -0.83,
   "luck": -6.39,
   "position": 18,
-  "xposition": 8
+  "xposition": 9
  },
  {
   "team": "Manchester United",
-  "played": 10,
+  "played": 11,
   "won": 1,
   "drawn": 5,
-  "lost": 4,
+  "lost": 5,
   "gf": 14,
-  "ga": 19,
-  "gd": -5,
+  "ga": 23,
+  "gd": -9,
   "points": 8,
-  "xg_for": 17.41,
-  "xg_against": 17.37,
-  "xpts": 13.13,
-  "xg_diff": 0.04,
-  "luck": -5.13,
+  "xg_for": 18.06,
+  "xg_against": 21.72,
+  "xpts": 13.23,
+  "xg_diff": -3.66,
+  "luck": -5.23,
   "position": 19,
   "xposition": 13
  },

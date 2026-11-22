@@ -29,14 +29,14 @@
   "position": 3,
   "team": "Atl\u00e9tico Madrid",
   "fotmob_team_id": "9906",
-  "played": 12,
-  "won": 9,
+  "played": 13,
+  "won": 10,
   "drawn": 1,
   "lost": 2,
-  "gf": 23,
+  "gf": 26,
   "ga": 10,
-  "gd": 13,
-  "points": 28
+  "gd": 16,
+  "points": 31
  },
  {
   "position": 4,
@@ -196,19 +196,6 @@
  },
  {
   "position": 16,
-  "team": "Getafe",
-  "fotmob_team_id": "8305",
-  "played": 12,
-  "won": 3,
-  "drawn": 3,
-  "lost": 6,
-  "gf": 8,
-  "ga": 18,
-  "gd": -10,
-  "points": 12
- },
- {
-  "position": 17,
   "team": "Valencia",
   "fotmob_team_id": "10267",
   "played": 13,
@@ -218,6 +205,19 @@
   "gf": 9,
   "ga": 20,
   "gd": -11,
+  "points": 12
+ },
+ {
+  "position": 17,
+  "team": "Getafe",
+  "fotmob_team_id": "8305",
+  "played": 13,
+  "won": 3,
+  "drawn": 3,
+  "lost": 7,
+  "gf": 8,
+  "ga": 21,
+  "gd": -13,
   "points": 12
  },
  {

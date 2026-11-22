@@ -11,11 +11,11 @@
   "points": 32,
   "xg_for": 18.16,
   "xg_against": 14.33,
-  "xpts": 18.74,
+  "xpts": 18.75,
   "xg_diff": 3.83,
-  "luck": 13.26,
+  "luck": 13.25,
   "position": 1,
-  "xposition": 6
+  "xposition": 7
  },
  {
   "team": "Roma",
@@ -37,21 +37,39 @@
  },
  {
   "team": "Inter",
-  "played": 11,
+  "played": 12,
   "won": 9,
-  "drawn": 1,
+  "drawn": 2,
   "lost": 1,
-  "gf": 28,
-  "ga": 13,
+  "gf": 32,
+  "ga": 17,
   "gd": 15,
-  "points": 28,
-  "xg_for": 28.33,
-  "xg_against": 10.52,
-  "xpts": 24.92,
-  "xg_diff": 17.81,
-  "luck": 3.08,
+  "points": 29,
+  "xg_for": 31.71,
+  "xg_against": 13.62,
+  "xpts": 26.47,
+  "xg_diff": 18.09,
+  "luck": 2.53,
   "position": 3,
   "xposition": 1
+ },
+ {
+  "team": "Milan",
+  "played": 12,
+  "won": 8,
+  "drawn": 3,
+  "lost": 1,
+  "gf": 28,
+  "ga": 14,
+  "gd": 14,
+  "points": 27,
+  "xg_for": 19.67,
+  "xg_against": 14.94,
+  "xpts": 18.93,
+  "xg_diff": 4.73,
+  "luck": 8.07,
+  "position": 4,
+  "xposition": 6
  },
  {
   "team": "Como",
@@ -68,26 +86,8 @@
   "xpts": 19.71,
   "xg_diff": 4.65,
   "luck": 6.29,
-  "position": 4,
-  "xposition": 5
- },
- {
-  "team": "Milan",
-  "played": 11,
-  "won": 7,
-  "drawn": 3,
-  "lost": 1,
-  "gf": 23,
-  "ga": 13,
-  "gd": 10,
-  "points": 24,
-  "xg_for": 17.15,
-  "xg_against": 13.91,
-  "xpts": 16.67,
-  "xg_diff": 3.24,
-  "luck": 7.33,
   "position": 5,
-  "xposition": 8
+  "xposition": 5
  },
  {
   "team": "Juventus",
@@ -109,21 +109,21 @@
  },
  {
   "team": "Frosinone",
-  "played": 11,
+  "played": 12,
   "won": 6,
   "drawn": 2,
-  "lost": 3,
-  "gf": 24,
-  "ga": 15,
-  "gd": 9,
+  "lost": 4,
+  "gf": 25,
+  "ga": 20,
+  "gd": 5,
   "points": 20,
-  "xg_for": 19.38,
-  "xg_against": 22.07,
-  "xpts": 14.27,
-  "xg_diff": -2.69,
-  "luck": 5.73,
+  "xg_for": 20.41,
+  "xg_against": 24.59,
+  "xpts": 14.85,
+  "xg_diff": -4.18,
+  "luck": 5.15,
   "position": 7,
-  "xposition": 12
+  "xposition": 11
  },
  {
   "team": "Napoli",
@@ -137,9 +137,9 @@
   "points": 18,
   "xg_for": 21.29,
   "xg_against": 13.2,
-  "xpts": 21.95,
+  "xpts": 21.96,
   "xg_diff": 8.09,
-  "luck": -3.95,
+  "luck": -3.96,
   "position": 8,
   "xposition": 4
  },
@@ -159,7 +159,7 @@
   "xg_diff": 2.15,
   "luck": -0.35,
   "position": 9,
-  "xposition": 7
+  "xposition": 8
  },
  {
   "team": "Genoa",
@@ -177,7 +177,7 @@
   "xg_diff": -3.08,
   "luck": 1.68,
   "position": 10,
-  "xposition": 11
+  "xposition": 13
  },
  {
   "team": "Cagliari",
@@ -199,21 +199,21 @@
  },
  {
   "team": "Atalanta",
-  "played": 11,
+  "played": 12,
   "won": 4,
-  "drawn": 2,
+  "drawn": 3,
   "lost": 5,
-  "gf": 17,
-  "ga": 20,
+  "gf": 21,
+  "ga": 24,
   "gd": -3,
-  "points": 14,
-  "xg_for": 16.44,
-  "xg_against": 19.3,
-  "xpts": 13.13,
-  "xg_diff": -2.86,
-  "luck": 0.87,
+  "points": 15,
+  "xg_for": 19.54,
+  "xg_against": 22.68,
+  "xpts": 14.42,
+  "xg_diff": -3.14,
+  "luck": 0.58,
   "position": 12,
-  "xposition": 16
+  "xposition": 12
  },
  {
   "team": "Torino",
@@ -231,7 +231,7 @@
   "xg_diff": -3.81,
   "luck": -0.14,
   "position": 13,
-  "xposition": 13
+  "xposition": 14
  },
  {
   "team": "Lecce",
@@ -245,9 +245,9 @@
   "points": 10,
   "xg_for": 14.53,
   "xg_against": 20.86,
-  "xpts": 12.43,
+  "xpts": 12.44,
   "xg_diff": -6.33,
-  "luck": -2.43,
+  "luck": -2.44,
   "position": 14,
   "xposition": 17
  },
@@ -281,9 +281,9 @@
   "points": 8,
   "xg_for": 10.59,
   "xg_against": 24.38,
-  "xpts": 8.7,
+  "xpts": 8.71,
   "xg_diff": -13.79,
-  "luck": -0.7,
+  "luck": -0.71,
   "position": 16,
   "xposition": 20
  },
@@ -303,7 +303,7 @@
   "xg_diff": -7.24,
   "luck": -5.22,
   "position": 17,
-  "xposition": 15
+  "xposition": 16
  },
  {
   "team": "Monza",
@@ -317,9 +317,9 @@
   "points": 7,
   "xg_for": 17.24,
   "xg_against": 14.75,
-  "xpts": 16.57,
+  "xpts": 16.58,
   "xg_diff": 2.49,
-  "luck": -9.57,
+  "luck": -9.58,
   "position": 18,
   "xposition": 9
  },
@@ -353,10 +353,10 @@
   "points": 6,
   "xg_for": 16.6,
   "xg_against": 22.95,
-  "xpts": 13.42,
+  "xpts": 13.43,
   "xg_diff": -6.35,
-  "luck": -7.42,
+  "luck": -7.43,
   "position": 20,
-  "xposition": 14
+  "xposition": 15
  }
 ]

@@ -29,14 +29,14 @@
   "position": 3,
   "team": "Inter",
   "fotmob_team_id": "8636",
-  "played": 11,
+  "played": 12,
   "won": 9,
-  "drawn": 1,
+  "drawn": 2,
   "lost": 1,
-  "gf": 28,
-  "ga": 13,
+  "gf": 32,
+  "ga": 17,
   "gd": 15,
-  "points": 28
+  "points": 29
  },
  {
   "position": 4,
@@ -46,9 +46,9 @@
   "won": 8,
   "drawn": 3,
   "lost": 1,
-  "gf": 25,
+  "gf": 28,
   "ga": 14,
-  "gd": 11,
+  "gd": 14,
   "points": 27
  },
  {
@@ -86,8 +86,8 @@
   "drawn": 2,
   "lost": 4,
   "gf": 25,
-  "ga": 17,
-  "gd": 8,
+  "ga": 20,
+  "gd": 5,
   "points": 20
  },
  {
@@ -146,14 +146,14 @@
   "position": 12,
   "team": "Atalanta",
   "fotmob_team_id": "8524",
-  "played": 11,
+  "played": 12,
   "won": 4,
-  "drawn": 2,
+  "drawn": 3,
   "lost": 5,
-  "gf": 17,
-  "ga": 20,
+  "gf": 21,
+  "ga": 24,
   "gd": -3,
-  "points": 14
+  "points": 15
  },
  {
   "position": 13,
