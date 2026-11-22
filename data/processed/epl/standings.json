@@ -19,21 +19,21 @@
  },
  {
   "team": "Brighton",
-  "played": 10,
+  "played": 11,
   "won": 7,
   "drawn": 1,
-  "lost": 2,
+  "lost": 3,
   "gf": 26,
-  "ga": 7,
-  "gd": 19,
+  "ga": 9,
+  "gd": 17,
   "points": 22,
-  "xg_for": 19.3,
-  "xg_against": 13.66,
-  "xpts": 16.99,
-  "xg_diff": 5.64,
-  "luck": 5.01,
+  "xg_for": 21.54,
+  "xg_against": 15.51,
+  "xpts": 18.61,
+  "xg_diff": 6.03,
+  "luck": 3.39,
   "position": 2,
-  "xposition": 5
+  "xposition": 4
  },
  {
   "team": "Manchester City",
@@ -47,9 +47,9 @@
   "points": 22,
   "xg_for": 22.3,
   "xg_against": 13.63,
-  "xpts": 20.93,
+  "xpts": 20.94,
   "xg_diff": 8.67,
-  "luck": 1.07,
+  "luck": 1.06,
   "position": 3,
   "xposition": 1
  },
@@ -65,9 +65,9 @@
   "points": 18,
   "xg_for": 21.31,
   "xg_against": 13.18,
-  "xpts": 19.31,
+  "xpts": 19.32,
   "xg_diff": 8.13,
-  "luck": -1.31,
+  "luck": -1.32,
   "position": 4,
   "xposition": 3
  },
@@ -180,6 +180,24 @@
   "xposition": 15
  },
  {
+  "team": "Hull City",
+  "played": 11,
+  "won": 3,
+  "drawn": 5,
+  "lost": 3,
+  "gf": 13,
+  "ga": 11,
+  "gd": 2,
+  "points": 14,
+  "xg_for": 11.23,
+  "xg_against": 16.67,
+  "xpts": 11.15,
+  "xg_diff": -5.44,
+  "luck": 2.85,
+  "position": 11,
+  "xposition": 19
+ },
+ {
   "team": "Aston Villa",
   "played": 11,
   "won": 3,
@@ -191,10 +209,10 @@
   "points": 14,
   "xg_for": 13.97,
   "xg_against": 18.64,
-  "xpts": 13.24,
+  "xpts": 13.25,
   "xg_diff": -4.67,
-  "luck": 0.76,
-  "position": 11,
+  "luck": 0.75,
+  "position": 12,
   "xposition": 12
  },
  {
@@ -212,7 +230,7 @@
   "xpts": 12.4,
   "xg_diff": -4.46,
   "luck": 0.6,
-  "position": 12,
+  "position": 13,
   "xposition": 16
  },
  {
@@ -230,26 +248,8 @@
   "xpts": 11.37,
   "xg_diff": -5.89,
   "luck": 0.63,
-  "position": 13,
-  "xposition": 18
- },
- {
-  "team": "Hull City",
-  "played": 10,
-  "won": 2,
-  "drawn": 5,
-  "lost": 3,
-  "gf": 11,
-  "ga": 11,
-  "gd": 0,
-  "points": 11,
-  "xg_for": 9.38,
-  "xg_against": 14.43,
-  "xpts": 9.96,
-  "xg_diff": -5.05,
-  "luck": 1.04,
   "position": 14,
-  "xposition": 20
+  "xposition": 18
  },
  {
   "team": "Fulham",
@@ -281,9 +281,9 @@
   "points": 11,
   "xg_for": 13.49,
   "xg_against": 22.19,
-  "xpts": 11.4,
+  "xpts": 11.41,
   "xg_diff": -8.7,
-  "luck": -0.4,
+  "luck": -0.41,
   "position": 16,
   "xposition": 17
  },
@@ -303,7 +303,7 @@
   "xg_diff": 3.64,
   "luck": -8.37,
   "position": 17,
-  "xposition": 4
+  "xposition": 5
  },
  {
   "team": "Sunderland",
@@ -317,9 +317,9 @@
   "points": 9,
   "xg_for": 16.34,
   "xg_against": 17.17,
-  "xpts": 15.38,
+  "xpts": 15.39,
   "xg_diff": -0.83,
-  "luck": -6.38,
+  "luck": -6.39,
   "position": 18,
   "xposition": 8
  },
@@ -357,6 +357,6 @@
   "xg_diff": -8.44,
   "luck": -3.91,
   "position": 20,
-  "xposition": 19
+  "xposition": 20
  }
 ]
