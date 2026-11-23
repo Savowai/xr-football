@@ -5,7 +5,7 @@
   "defence": 0.623,
   "expected_gf_per_game": 1.33,
   "expected_ga_per_game": 0.75,
-  "net_rating": 0.582,
+  "net_rating": 0.581,
   "evidence_matches": 8.9,
   "rank": 1
  },
@@ -15,7 +15,7 @@
   "defence": 0.85,
   "expected_gf_per_game": 1.53,
   "expected_ga_per_game": 1.02,
-  "net_rating": 0.516,
+  "net_rating": 0.515,
   "evidence_matches": 8.9,
   "rank": 2
  },
@@ -35,17 +35,17 @@
   "defence": 0.824,
   "expected_gf_per_game": 1.4,
   "expected_ga_per_game": 0.99,
-  "net_rating": 0.41,
+  "net_rating": 0.409,
   "evidence_matches": 8.9,
   "rank": 4
  },
  {
   "team": "Bournemouth",
-  "attack": 1.209,
-  "defence": 0.896,
+  "attack": 1.208,
+  "defence": 0.897,
   "expected_gf_per_game": 1.45,
   "expected_ga_per_game": 1.07,
-  "net_rating": 0.374,
+  "net_rating": 0.373,
   "evidence_matches": 8.9,
   "rank": 5
  },
@@ -114,7 +114,7 @@
   "attack": 0.834,
   "defence": 0.923,
   "expected_gf_per_game": 1.0,
-  "expected_ga_per_game": 1.1,
+  "expected_ga_per_game": 1.11,
   "net_rating": -0.107,
   "evidence_matches": 8.9,
   "rank": 12
@@ -152,10 +152,10 @@
  {
   "team": "Manchester United",
   "attack": 1.092,
-  "defence": 1.265,
+  "defence": 1.264,
   "expected_gf_per_game": 1.31,
   "expected_ga_per_game": 1.51,
-  "net_rating": -0.206,
+  "net_rating": -0.205,
   "evidence_matches": 8.9,
   "rank": 16
  },
@@ -185,14 +185,14 @@
   "defence": 1.365,
   "expected_gf_per_game": 1.13,
   "expected_ga_per_game": 1.63,
-  "net_rating": -0.501,
+  "net_rating": -0.5,
   "evidence_matches": 8.9,
   "rank": 19
  },
  {
   "team": "Ipswich Town",
   "attack": 0.878,
-  "defence": 1.305,
+  "defence": 1.304,
   "expected_gf_per_game": 1.05,
   "expected_ga_per_game": 1.56,
   "net_rating": -0.51,
