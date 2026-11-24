@@ -183,6 +183,19 @@
  },
  {
   "position": 15,
+  "team": "Levante",
+  "fotmob_team_id": "8581",
+  "played": 13,
+  "won": 2,
+  "drawn": 6,
+  "lost": 5,
+  "gf": 17,
+  "ga": 22,
+  "gd": -5,
+  "points": 12
+ },
+ {
+  "position": 16,
   "team": "Rayo Vallecano",
   "fotmob_team_id": "8370",
   "played": 12,
@@ -195,7 +208,7 @@
   "points": 12
  },
  {
-  "position": 16,
+  "position": 17,
   "team": "Valencia",
   "fotmob_team_id": "10267",
   "played": 13,
@@ -208,7 +221,7 @@
   "points": 12
  },
  {
-  "position": 17,
+  "position": 18,
   "team": "Getafe",
   "fotmob_team_id": "8305",
   "played": 13,
@@ -221,30 +234,17 @@
   "points": 12
  },
  {
-  "position": 18,
-  "team": "Levante",
-  "fotmob_team_id": "8581",
-  "played": 12,
-  "won": 2,
-  "drawn": 5,
-  "lost": 5,
-  "gf": 16,
-  "ga": 21,
-  "gd": -5,
-  "points": 11
- },
- {
   "position": 19,
   "team": "Elche",
   "fotmob_team_id": "10268",
-  "played": 12,
+  "played": 13,
   "won": 2,
-  "drawn": 4,
+  "drawn": 5,
   "lost": 6,
-  "gf": 14,
-  "ga": 20,
+  "gf": 15,
+  "ga": 21,
   "gd": -6,
-  "points": 10
+  "points": 11
  },
  {
   "position": 20,

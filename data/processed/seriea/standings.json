@@ -234,6 +234,24 @@
   "xposition": 14
  },
  {
+  "team": "Monza",
+  "played": 12,
+  "won": 3,
+  "drawn": 1,
+  "lost": 8,
+  "gf": 20,
+  "ga": 25,
+  "gd": -5,
+  "points": 10,
+  "xg_for": 18.86,
+  "xg_against": 16.52,
+  "xpts": 17.88,
+  "xg_diff": 2.34,
+  "luck": -7.88,
+  "position": 14,
+  "xposition": 9
+ },
+ {
   "team": "Lecce",
   "played": 12,
   "won": 3,
@@ -248,25 +266,25 @@
   "xpts": 12.44,
   "xg_diff": -6.33,
   "luck": -2.44,
-  "position": 14,
+  "position": 15,
   "xposition": 17
  },
  {
   "team": "Fiorentina",
-  "played": 11,
+  "played": 12,
   "won": 2,
   "drawn": 3,
-  "lost": 6,
+  "lost": 7,
   "gf": 17,
-  "ga": 25,
-  "gd": -8,
+  "ga": 28,
+  "gd": -11,
   "points": 9,
-  "xg_for": 18.05,
-  "xg_against": 17.38,
-  "xpts": 16.17,
-  "xg_diff": 0.67,
-  "luck": -7.17,
-  "position": 15,
+  "xg_for": 19.82,
+  "xg_against": 19.0,
+  "xpts": 17.66,
+  "xg_diff": 0.82,
+  "luck": -8.66,
+  "position": 16,
   "xposition": 10
  },
  {
@@ -284,7 +302,7 @@
   "xpts": 8.71,
   "xg_diff": -13.79,
   "luck": -0.71,
-  "position": 16,
+  "position": 17,
   "xposition": 20
  },
  {
@@ -302,26 +320,8 @@
   "xpts": 13.22,
   "xg_diff": -7.24,
   "luck": -5.22,
-  "position": 17,
-  "xposition": 16
- },
- {
-  "team": "Monza",
-  "played": 11,
-  "won": 2,
-  "drawn": 1,
-  "lost": 8,
-  "gf": 17,
-  "ga": 25,
-  "gd": -8,
-  "points": 7,
-  "xg_for": 17.24,
-  "xg_against": 14.75,
-  "xpts": 16.58,
-  "xg_diff": 2.49,
-  "luck": -9.58,
   "position": 18,
-  "xposition": 9
+  "xposition": 16
  },
  {
   "team": "Udinese",
