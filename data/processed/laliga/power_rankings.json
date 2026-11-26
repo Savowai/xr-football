@@ -1,11 +1,11 @@
 [
  {
   "team": "Barcelona",
-  "attack": 2.019,
+  "attack": 2.018,
   "defence": 0.795,
   "expected_gf_per_game": 2.51,
   "expected_ga_per_game": 0.99,
-  "net_rating": 1.52,
+  "net_rating": 1.519,
   "evidence_matches": 10.2,
   "rank": 1
  },
@@ -15,7 +15,7 @@
   "defence": 0.706,
   "expected_gf_per_game": 1.96,
   "expected_ga_per_game": 0.88,
-  "net_rating": 1.083,
+  "net_rating": 1.082,
   "evidence_matches": 10.2,
   "rank": 2
  },
@@ -25,8 +25,8 @@
   "defence": 0.773,
   "expected_gf_per_game": 1.53,
   "expected_ga_per_game": 0.96,
-  "net_rating": 0.567,
-  "evidence_matches": 10.2,
+  "net_rating": 0.566,
+  "evidence_matches": 10.1,
   "rank": 3
  },
  {
@@ -36,7 +36,7 @@
   "expected_gf_per_game": 1.43,
   "expected_ga_per_game": 1.07,
   "net_rating": 0.358,
-  "evidence_matches": 10.2,
+  "evidence_matches": 10.1,
   "rank": 4
  },
  {
@@ -45,7 +45,7 @@
   "defence": 0.867,
   "expected_gf_per_game": 1.25,
   "expected_ga_per_game": 1.08,
-  "net_rating": 0.179,
+  "net_rating": 0.178,
   "evidence_matches": 9.5,
   "rank": 5
  },
@@ -76,7 +76,7 @@
   "expected_gf_per_game": 1.14,
   "expected_ga_per_game": 1.19,
   "net_rating": -0.052,
-  "evidence_matches": 10.2,
+  "evidence_matches": 10.1,
   "rank": 8
  },
  {
@@ -86,18 +86,28 @@
   "expected_gf_per_game": 1.41,
   "expected_ga_per_game": 1.5,
   "net_rating": -0.088,
-  "evidence_matches": 10.2,
+  "evidence_matches": 10.1,
   "rank": 9
  },
  {
   "team": "Celta Vigo",
-  "attack": 0.791,
+  "attack": 0.792,
   "defence": 0.896,
   "expected_gf_per_game": 0.98,
   "expected_ga_per_game": 1.11,
-  "net_rating": -0.13,
-  "evidence_matches": 10.2,
+  "net_rating": -0.129,
+  "evidence_matches": 10.1,
   "rank": 10
+ },
+ {
+  "team": "Rayo Vallecano",
+  "attack": 0.908,
+  "defence": 1.041,
+  "expected_gf_per_game": 1.13,
+  "expected_ga_per_game": 1.29,
+  "net_rating": -0.164,
+  "evidence_matches": 9.3,
+  "rank": 11
  },
  {
   "team": "Espanyol",
@@ -107,16 +117,6 @@
   "expected_ga_per_game": 1.09,
   "net_rating": -0.165,
   "evidence_matches": 10.1,
-  "rank": 11
- },
- {
-  "team": "Rayo Vallecano",
-  "attack": 0.908,
-  "defence": 1.041,
-  "expected_gf_per_game": 1.13,
-  "expected_ga_per_game": 1.29,
-  "net_rating": -0.165,
-  "evidence_matches": 9.3,
   "rank": 12
  },
  {
@@ -126,7 +126,7 @@
   "expected_gf_per_game": 1.06,
   "expected_ga_per_game": 1.31,
   "net_rating": -0.259,
-  "evidence_matches": 10.2,
+  "evidence_matches": 10.1,
   "rank": 13
  },
  {
@@ -136,33 +136,33 @@
   "expected_gf_per_game": 1.03,
   "expected_ga_per_game": 1.29,
   "net_rating": -0.266,
-  "evidence_matches": 10.2,
+  "evidence_matches": 10.1,
   "rank": 14
  },
  {
   "team": "Valencia",
-  "attack": 0.739,
+  "attack": 0.74,
   "defence": 0.96,
   "expected_gf_per_game": 0.92,
   "expected_ga_per_game": 1.19,
-  "net_rating": -0.274,
-  "evidence_matches": 10.2,
+  "net_rating": -0.273,
+  "evidence_matches": 10.1,
   "rank": 15
  },
  {
   "team": "Levante",
-  "attack": 0.925,
+  "attack": 0.926,
   "defence": 1.162,
   "expected_gf_per_game": 1.15,
   "expected_ga_per_game": 1.44,
-  "net_rating": -0.294,
+  "net_rating": -0.293,
   "evidence_matches": 10.3,
   "rank": 16
  },
  {
   "team": "Osasuna",
   "attack": 0.846,
-  "defence": 1.123,
+  "defence": 1.122,
   "expected_gf_per_game": 1.05,
   "expected_ga_per_game": 1.39,
   "net_rating": -0.344,
@@ -175,18 +175,18 @@
   "defence": 1.014,
   "expected_gf_per_game": 0.71,
   "expected_ga_per_game": 1.26,
-  "net_rating": -0.55,
+  "net_rating": -0.549,
   "evidence_matches": 10.2,
   "rank": 18
  },
  {
   "team": "Racing Santander",
   "attack": 1.019,
-  "defence": 1.463,
+  "defence": 1.462,
   "expected_gf_per_game": 1.27,
   "expected_ga_per_game": 1.82,
-  "net_rating": -0.551,
-  "evidence_matches": 10.2,
+  "net_rating": -0.55,
+  "evidence_matches": 10.1,
   "rank": 19
  },
  {
@@ -196,7 +196,7 @@
   "expected_gf_per_game": 0.84,
   "expected_ga_per_game": 1.46,
   "net_rating": -0.627,
-  "evidence_matches": 10.2,
+  "evidence_matches": 10.1,
   "rank": 20
  }
 ]
