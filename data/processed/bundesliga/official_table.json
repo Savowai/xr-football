@@ -68,14 +68,14 @@
   "position": 6,
   "team": "Werder Bremen",
   "fotmob_team_id": "8697",
-  "played": 10,
+  "played": 11,
   "won": 5,
-  "drawn": 3,
+  "drawn": 4,
   "lost": 2,
   "gf": 21,
   "ga": 15,
   "gd": 6,
-  "points": 18
+  "points": 19
  },
  {
   "position": 7,
@@ -224,13 +224,13 @@
   "position": 18,
   "team": "Borussia M\u00f6nchengladbach",
   "fotmob_team_id": "9788",
-  "played": 10,
+  "played": 11,
   "won": 1,
-  "drawn": 1,
+  "drawn": 2,
   "lost": 8,
   "gf": 12,
   "ga": 26,
   "gd": -14,
-  "points": 4
+  "points": 5
  }
 ]

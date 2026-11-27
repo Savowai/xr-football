@@ -15935,7 +15935,7 @@
   "round": 11,
   "home": "Werder Bremen",
   "away": "Borussia M\u00f6nchengladbach",
-  "status": "scheduled",
+  "status": "live",
   "home_form": {
    "matches": 6,
    "goals": 2.17,
@@ -15962,8 +15962,8 @@
    "form": "LLWDLL",
    "possession_pct": 42.3
   },
-  "home_goals": null,
-  "away_goals": null,
+  "home_goals": 0,
+  "away_goals": 0,
   "season": "2026-27",
   "pred_xg_home": 2.124,
   "pred_xg_away": 1.096,
