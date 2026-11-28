@@ -53,6 +53,32 @@
  },
  {
   "position": 5,
+  "team": "Brentford",
+  "fotmob_team_id": "9937",
+  "played": 12,
+  "won": 5,
+  "drawn": 5,
+  "lost": 2,
+  "gf": 24,
+  "ga": 11,
+  "gd": 13,
+  "points": 20
+ },
+ {
+  "position": 6,
+  "team": "Leeds United",
+  "fotmob_team_id": "8463",
+  "played": 12,
+  "won": 5,
+  "drawn": 5,
+  "lost": 2,
+  "gf": 17,
+  "ga": 9,
+  "gd": 8,
+  "points": 20
+ },
+ {
+  "position": 7,
   "team": "Bournemouth",
   "fotmob_team_id": "8678",
   "played": 11,
@@ -65,33 +91,20 @@
   "points": 18
  },
  {
-  "position": 6,
-  "team": "Brentford",
-  "fotmob_team_id": "9937",
-  "played": 11,
-  "won": 4,
-  "drawn": 5,
-  "lost": 2,
-  "gf": 20,
-  "ga": 11,
-  "gd": 9,
-  "points": 17
- },
- {
-  "position": 7,
-  "team": "Leeds United",
-  "fotmob_team_id": "8463",
-  "played": 11,
-  "won": 4,
-  "drawn": 5,
-  "lost": 2,
-  "gf": 14,
-  "ga": 9,
-  "gd": 5,
-  "points": 17
- },
- {
   "position": 8,
+  "team": "Aston Villa",
+  "fotmob_team_id": "10252",
+  "played": 12,
+  "won": 4,
+  "drawn": 5,
+  "lost": 3,
+  "gf": 16,
+  "ga": 18,
+  "gd": -2,
+  "points": 17
+ },
+ {
+  "position": 9,
   "team": "Chelsea",
   "fotmob_team_id": "8455",
   "played": 12,
@@ -104,7 +117,7 @@
   "points": 16
  },
  {
-  "position": 9,
+  "position": 10,
   "team": "Everton",
   "fotmob_team_id": "8668",
   "played": 11,
@@ -117,7 +130,7 @@
   "points": 16
  },
  {
-  "position": 10,
+  "position": 11,
   "team": "Tottenham Hotspur",
   "fotmob_team_id": "8586",
   "played": 11,
@@ -130,7 +143,7 @@
   "points": 15
  },
  {
-  "position": 11,
+  "position": 12,
   "team": "Hull City",
   "fotmob_team_id": "8667",
   "played": 11,
@@ -140,19 +153,6 @@
   "gf": 13,
   "ga": 11,
   "gd": 2,
-  "points": 14
- },
- {
-  "position": 12,
-  "team": "Aston Villa",
-  "fotmob_team_id": "10252",
-  "played": 11,
-  "won": 3,
-  "drawn": 5,
-  "lost": 3,
-  "gf": 14,
-  "ga": 17,
-  "gd": -3,
   "points": 14
  },
  {
@@ -185,13 +185,13 @@
   "position": 15,
   "team": "Coventry City",
   "fotmob_team_id": "8669",
-  "played": 11,
+  "played": 12,
   "won": 4,
   "drawn": 0,
-  "lost": 7,
+  "lost": 8,
   "gf": 13,
-  "ga": 21,
-  "gd": -8,
+  "ga": 24,
+  "gd": -11,
   "points": 12
  },
  {
@@ -211,13 +211,13 @@
   "position": 17,
   "team": "Ipswich Town",
   "fotmob_team_id": "9902",
-  "played": 11,
+  "played": 12,
   "won": 3,
   "drawn": 2,
-  "lost": 6,
-  "gf": 15,
-  "ga": 22,
-  "gd": -7,
+  "lost": 7,
+  "gf": 16,
+  "ga": 24,
+  "gd": -8,
   "points": 11
  },
  {
@@ -237,13 +237,13 @@
   "position": 19,
   "team": "Manchester United",
   "fotmob_team_id": "10260",
-  "played": 11,
+  "played": 12,
   "won": 1,
   "drawn": 5,
-  "lost": 5,
+  "lost": 6,
   "gf": 14,
-  "ga": 23,
-  "gd": -9,
+  "ga": 27,
+  "gd": -13,
   "points": 8
  },
  {

@@ -11,9 +11,9 @@
   "points": 32,
   "xg_for": 18.16,
   "xg_against": 14.33,
-  "xpts": 18.66,
+  "xpts": 18.67,
   "xg_diff": 3.83,
-  "luck": 13.34,
+  "luck": 13.33,
   "position": 1,
   "xposition": 8
  },
@@ -90,6 +90,24 @@
   "xposition": 5
  },
  {
+  "team": "Frosinone",
+  "played": 13,
+  "won": 7,
+  "drawn": 2,
+  "lost": 4,
+  "gf": 28,
+  "ga": 20,
+  "gd": 8,
+  "points": 23,
+  "xg_for": 22.38,
+  "xg_against": 25.17,
+  "xpts": 17.09,
+  "xg_diff": -2.79,
+  "luck": 5.91,
+  "position": 6,
+  "xposition": 11
+ },
+ {
   "team": "Juventus",
   "played": 12,
   "won": 6,
@@ -104,26 +122,8 @@
   "xpts": 22.74,
   "xg_diff": 8.97,
   "luck": -1.74,
-  "position": 6,
-  "xposition": 3
- },
- {
-  "team": "Frosinone",
-  "played": 12,
-  "won": 6,
-  "drawn": 2,
-  "lost": 4,
-  "gf": 25,
-  "ga": 20,
-  "gd": 5,
-  "points": 20,
-  "xg_for": 20.41,
-  "xg_against": 24.59,
-  "xpts": 14.78,
-  "xg_diff": -4.18,
-  "luck": 5.22,
   "position": 7,
-  "xposition": 12
+  "xposition": 3
  },
  {
   "team": "Bologna",
@@ -245,9 +245,9 @@
   "points": 10,
   "xg_for": 18.86,
   "xg_against": 16.52,
-  "xpts": 17.81,
+  "xpts": 17.82,
   "xg_diff": 2.34,
-  "luck": -7.81,
+  "luck": -7.82,
   "position": 14,
   "xposition": 9
  },
@@ -288,24 +288,6 @@
   "xposition": 10
  },
  {
-  "team": "Parma",
-  "played": 12,
-  "won": 2,
-  "drawn": 2,
-  "lost": 8,
-  "gf": 10,
-  "ga": 22,
-  "gd": -12,
-  "points": 8,
-  "xg_for": 10.59,
-  "xg_against": 24.38,
-  "xpts": 8.65,
-  "xg_diff": -13.79,
-  "luck": -0.65,
-  "position": 17,
-  "xposition": 20
- },
- {
   "team": "Sassuolo",
   "played": 12,
   "won": 2,
@@ -317,11 +299,29 @@
   "points": 8,
   "xg_for": 15.6,
   "xg_against": 22.84,
-  "xpts": 13.15,
+  "xpts": 13.16,
   "xg_diff": -7.24,
-  "luck": -5.15,
-  "position": 18,
+  "luck": -5.16,
+  "position": 17,
   "xposition": 16
+ },
+ {
+  "team": "Parma",
+  "played": 13,
+  "won": 2,
+  "drawn": 2,
+  "lost": 9,
+  "gf": 10,
+  "ga": 25,
+  "gd": -15,
+  "points": 8,
+  "xg_for": 11.17,
+  "xg_against": 26.35,
+  "xpts": 9.15,
+  "xg_diff": -15.18,
+  "luck": -1.15,
+  "position": 18,
+  "xposition": 20
  },
  {
   "team": "Venezia",
@@ -339,7 +339,7 @@
   "xg_diff": -6.07,
   "luck": -7.94,
   "position": 19,
-  "xposition": 11
+  "xposition": 12
  },
  {
   "team": "Udinese",

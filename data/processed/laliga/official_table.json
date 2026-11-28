@@ -14,6 +14,19 @@
  },
  {
   "position": 2,
+  "team": "Atl\u00e9tico Madrid",
+  "fotmob_team_id": "9906",
+  "played": 14,
+  "won": 11,
+  "drawn": 1,
+  "lost": 2,
+  "gf": 29,
+  "ga": 12,
+  "gd": 17,
+  "points": 34
+ },
+ {
+  "position": 3,
   "team": "Real Madrid",
   "fotmob_team_id": "8633",
   "played": 13,
@@ -26,29 +39,16 @@
   "points": 33
  },
  {
-  "position": 3,
-  "team": "Atl\u00e9tico Madrid",
-  "fotmob_team_id": "9906",
-  "played": 13,
-  "won": 10,
-  "drawn": 1,
-  "lost": 2,
-  "gf": 26,
-  "ga": 10,
-  "gd": 16,
-  "points": 31
- },
- {
   "position": 4,
   "team": "Real Betis",
   "fotmob_team_id": "8603",
-  "played": 13,
+  "played": 14,
   "won": 8,
   "drawn": 3,
-  "lost": 2,
+  "lost": 3,
   "gf": 21,
-  "ga": 16,
-  "gd": 5,
+  "ga": 17,
+  "gd": 4,
   "points": 27
  },
  {
@@ -79,6 +79,19 @@
  },
  {
   "position": 7,
+  "team": "Athletic Club",
+  "fotmob_team_id": "8315",
+  "played": 13,
+  "won": 5,
+  "drawn": 4,
+  "lost": 4,
+  "gf": 19,
+  "ga": 15,
+  "gd": 4,
+  "points": 19
+ },
+ {
+  "position": 8,
   "team": "Sevilla",
   "fotmob_team_id": "8302",
   "played": 13,
@@ -89,19 +102,6 @@
   "ga": 20,
   "gd": -2,
   "points": 19
- },
- {
-  "position": 8,
-  "team": "Athletic Club",
-  "fotmob_team_id": "8315",
-  "played": 12,
-  "won": 4,
-  "drawn": 4,
-  "lost": 4,
-  "gf": 15,
-  "ga": 12,
-  "gd": 3,
-  "points": 16
  },
  {
   "position": 9,
@@ -157,6 +157,19 @@
  },
  {
   "position": 13,
+  "team": "Rayo Vallecano",
+  "fotmob_team_id": "8370",
+  "played": 13,
+  "won": 4,
+  "drawn": 3,
+  "lost": 6,
+  "gf": 16,
+  "ga": 22,
+  "gd": -6,
+  "points": 15
+ },
+ {
+  "position": 14,
   "team": "Osasuna",
   "fotmob_team_id": "8371",
   "played": 13,
@@ -169,7 +182,7 @@
   "points": 15
  },
  {
-  "position": 14,
+  "position": 15,
   "team": "Celta Vigo",
   "fotmob_team_id": "9910",
   "played": 13,
@@ -182,7 +195,7 @@
   "points": 13
  },
  {
-  "position": 15,
+  "position": 16,
   "team": "Levante",
   "fotmob_team_id": "8581",
   "played": 14,
@@ -191,19 +204,6 @@
   "lost": 6,
   "gf": 18,
   "ga": 25,
-  "gd": -7,
-  "points": 12
- },
- {
-  "position": 16,
-  "team": "Rayo Vallecano",
-  "fotmob_team_id": "8370",
-  "played": 12,
-  "won": 3,
-  "drawn": 3,
-  "lost": 6,
-  "gf": 15,
-  "ga": 22,
   "gd": -7,
   "points": 12
  },
@@ -237,26 +237,26 @@
   "position": 19,
   "team": "Elche",
   "fotmob_team_id": "10268",
-  "played": 13,
+  "played": 14,
   "won": 2,
   "drawn": 5,
-  "lost": 6,
-  "gf": 15,
-  "ga": 21,
-  "gd": -6,
+  "lost": 7,
+  "gf": 17,
+  "ga": 24,
+  "gd": -7,
   "points": 11
  },
  {
   "position": 20,
   "team": "M\u00e1laga",
   "fotmob_team_id": "9864",
-  "played": 13,
+  "played": 14,
   "won": 0,
   "drawn": 5,
-  "lost": 8,
-  "gf": 9,
-  "ga": 24,
-  "gd": -15,
+  "lost": 9,
+  "gf": 12,
+  "ga": 28,
+  "gd": -16,
   "points": 5
  }
 ]

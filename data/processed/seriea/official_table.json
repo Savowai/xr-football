@@ -3,14 +3,14 @@
   "position": 1,
   "team": "Lazio",
   "fotmob_team_id": "8543",
-  "played": 12,
-  "won": 10,
+  "played": 13,
+  "won": 11,
   "drawn": 2,
   "lost": 0,
-  "gf": 28,
-  "ga": 9,
-  "gd": 19,
-  "points": 32
+  "gf": 30,
+  "ga": 10,
+  "gd": 20,
+  "points": 35
  },
  {
   "position": 2,
@@ -66,6 +66,19 @@
  },
  {
   "position": 6,
+  "team": "Frosinone",
+  "fotmob_team_id": "9891",
+  "played": 13,
+  "won": 7,
+  "drawn": 2,
+  "lost": 4,
+  "gf": 28,
+  "ga": 20,
+  "gd": 8,
+  "points": 23
+ },
+ {
+  "position": 7,
   "team": "Juventus",
   "fotmob_team_id": "9885",
   "played": 12,
@@ -76,19 +89,6 @@
   "ga": 12,
   "gd": 7,
   "points": 21
- },
- {
-  "position": 7,
-  "team": "Frosinone",
-  "fotmob_team_id": "9891",
-  "played": 12,
-  "won": 6,
-  "drawn": 2,
-  "lost": 4,
-  "gf": 25,
-  "ga": 20,
-  "gd": 5,
-  "points": 20
  },
  {
   "position": 8,
@@ -159,13 +159,13 @@
   "position": 13,
   "team": "Torino",
   "fotmob_team_id": "9804",
-  "played": 12,
+  "played": 13,
   "won": 4,
   "drawn": 2,
-  "lost": 6,
-  "gf": 15,
-  "ga": 18,
-  "gd": -3,
+  "lost": 7,
+  "gf": 16,
+  "ga": 20,
+  "gd": -4,
   "points": 14
  },
  {
@@ -209,19 +209,6 @@
  },
  {
   "position": 17,
-  "team": "Parma",
-  "fotmob_team_id": "10167",
-  "played": 12,
-  "won": 2,
-  "drawn": 2,
-  "lost": 8,
-  "gf": 10,
-  "ga": 22,
-  "gd": -12,
-  "points": 8
- },
- {
-  "position": 18,
   "team": "Sassuolo",
   "fotmob_team_id": "7943",
   "played": 12,
@@ -230,6 +217,19 @@
   "lost": 8,
   "gf": 16,
   "ga": 31,
+  "gd": -15,
+  "points": 8
+ },
+ {
+  "position": 18,
+  "team": "Parma",
+  "fotmob_team_id": "10167",
+  "played": 13,
+  "won": 2,
+  "drawn": 2,
+  "lost": 9,
+  "gf": 10,
+  "ga": 25,
   "gd": -15,
   "points": 8
  },
