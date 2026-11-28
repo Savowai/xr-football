@@ -66,6 +66,19 @@
  },
  {
   "position": 6,
+  "team": "Racing Santander",
+  "fotmob_team_id": "8696",
+  "played": 14,
+  "won": 6,
+  "drawn": 2,
+  "lost": 6,
+  "gf": 23,
+  "ga": 33,
+  "gd": -10,
+  "points": 20
+ },
+ {
+  "position": 7,
   "team": "Sevilla",
   "fotmob_team_id": "8302",
   "played": 13,
@@ -76,19 +89,6 @@
   "ga": 20,
   "gd": -2,
   "points": 19
- },
- {
-  "position": 7,
-  "team": "Racing Santander",
-  "fotmob_team_id": "8696",
-  "played": 13,
-  "won": 5,
-  "drawn": 2,
-  "lost": 6,
-  "gf": 20,
-  "ga": 32,
-  "gd": -12,
-  "points": 17
  },
  {
   "position": 8,
@@ -185,13 +185,13 @@
   "position": 15,
   "team": "Levante",
   "fotmob_team_id": "8581",
-  "played": 13,
+  "played": 14,
   "won": 2,
   "drawn": 6,
-  "lost": 5,
-  "gf": 17,
-  "ga": 22,
-  "gd": -5,
+  "lost": 6,
+  "gf": 18,
+  "ga": 25,
+  "gd": -7,
   "points": 12
  },
  {

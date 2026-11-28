@@ -5,14 +5,14 @@
   "country": "England",
   "season": "2026-27",
   "teams": 20,
-  "played": 110,
+  "played": 111,
   "matches": 380,
-  "current_round": 11,
+  "current_round": 12,
   "next_round": 12,
   "total_rounds": 38,
-  "xg_coverage": 110,
+  "xg_coverage": 111,
   "leader": "Arsenal",
-  "built_at": "2026-11-27T19:42:06.590766+00:00"
+  "built_at": "2026-11-28T02:17:09.805066+00:00"
  },
  {
   "key": "laliga",
@@ -20,14 +20,14 @@
   "country": "Spain",
   "season": "2026-27",
   "teams": 20,
-  "played": 129,
+  "played": 130,
   "matches": 380,
-  "current_round": 13,
+  "current_round": 14,
   "next_round": 8,
   "total_rounds": 38,
-  "xg_coverage": 129,
+  "xg_coverage": 130,
   "leader": "Barcelona",
-  "built_at": "2026-11-27T19:42:08.935352+00:00"
+  "built_at": "2026-11-28T02:17:15.434962+00:00"
  },
  {
   "key": "seriea",
@@ -35,14 +35,14 @@
   "country": "Italy",
   "season": "2026-27",
   "teams": 20,
-  "played": 120,
+  "played": 121,
   "matches": 380,
-  "current_round": 12,
+  "current_round": 13,
   "next_round": 13,
   "total_rounds": 38,
-  "xg_coverage": 120,
+  "xg_coverage": 121,
   "leader": "Lazio",
-  "built_at": "2026-11-27T19:42:11.739776+00:00"
+  "built_at": "2026-11-28T02:17:20.753713+00:00"
  },
  {
   "key": "bundesliga",
@@ -50,14 +50,14 @@
   "country": "Germany",
   "season": "2026-27",
   "teams": 18,
-  "played": 90,
+  "played": 91,
   "matches": 306,
-  "current_round": 10,
+  "current_round": 11,
   "next_round": 11,
   "total_rounds": 34,
-  "xg_coverage": 90,
+  "xg_coverage": 91,
   "leader": "Borussia Dortmund",
-  "built_at": "2026-11-27T19:42:13.853044+00:00"
+  "built_at": "2026-11-28T02:17:25.570440+00:00"
  },
  {
   "key": "ligue1",
@@ -65,13 +65,13 @@
   "country": "France",
   "season": "2026-27",
   "teams": 18,
-  "played": 99,
+  "played": 100,
   "matches": 306,
-  "current_round": 11,
+  "current_round": 12,
   "next_round": 12,
   "total_rounds": 34,
-  "xg_coverage": 99,
+  "xg_coverage": 100,
   "leader": "Paris Saint-Germain",
-  "built_at": "2026-11-27T19:42:16.235101+00:00"
+  "built_at": "2026-11-28T02:17:29.511555+00:00"
  }
 ]

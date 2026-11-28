@@ -33,7 +33,7 @@
   "xg_diff": 6.03,
   "luck": 3.39,
   "position": 2,
-  "xposition": 4
+  "xposition": 5
  },
  {
   "team": "Manchester City",
@@ -69,7 +69,7 @@
   "xg_diff": 5.92,
   "luck": 3.08,
   "position": 4,
-  "xposition": 5
+  "xposition": 6
  },
  {
   "team": "Bournemouth",
@@ -127,21 +127,21 @@
  },
  {
   "team": "Chelsea",
-  "played": 11,
+  "played": 12,
   "won": 5,
   "drawn": 1,
-  "lost": 5,
-  "gf": 20,
-  "ga": 20,
-  "gd": 0,
+  "lost": 6,
+  "gf": 22,
+  "ga": 23,
+  "gd": -1,
   "points": 16,
-  "xg_for": 14.11,
-  "xg_against": 17.81,
-  "xpts": 13.04,
-  "xg_diff": -3.7,
-  "luck": 2.96,
+  "xg_for": 15.33,
+  "xg_against": 19.26,
+  "xpts": 14.25,
+  "xg_diff": -3.93,
+  "luck": 1.75,
   "position": 8,
-  "xposition": 15
+  "xposition": 12
  },
  {
   "team": "Everton",
@@ -159,7 +159,7 @@
   "xg_diff": -1.94,
   "luck": 1.8,
   "position": 9,
-  "xposition": 12
+  "xposition": 13
  },
  {
   "team": "Tottenham Hotspur",
@@ -173,9 +173,9 @@
   "points": 15,
   "xg_for": 14.5,
   "xg_against": 12.4,
-  "xpts": 16.64,
+  "xpts": 16.65,
   "xg_diff": 2.1,
-  "luck": -1.64,
+  "luck": -1.65,
   "position": 10,
   "xposition": 7
  },
@@ -213,7 +213,7 @@
   "xg_diff": -4.67,
   "luck": 0.75,
   "position": 12,
-  "xposition": 13
+  "xposition": 14
  },
  {
   "team": "Newcastle United",
@@ -234,6 +234,24 @@
   "xposition": 16
  },
  {
+  "team": "Nottingham Forest",
+  "played": 12,
+  "won": 3,
+  "drawn": 3,
+  "lost": 6,
+  "gf": 12,
+  "ga": 17,
+  "gd": -5,
+  "points": 12,
+  "xg_for": 18.72,
+  "xg_against": 14.85,
+  "xpts": 18.9,
+  "xg_diff": 3.87,
+  "luck": -6.9,
+  "position": 14,
+  "xposition": 4
+ },
+ {
   "team": "Coventry City",
   "played": 11,
   "won": 4,
@@ -248,7 +266,7 @@
   "xpts": 11.39,
   "xg_diff": -5.89,
   "luck": 0.61,
-  "position": 14,
+  "position": 15,
   "xposition": 18
  },
  {
@@ -266,7 +284,7 @@
   "xpts": 14.78,
   "xg_diff": -0.33,
   "luck": -3.78,
-  "position": 15,
+  "position": 16,
   "xposition": 11
  },
  {
@@ -284,26 +302,8 @@
   "xpts": 11.41,
   "xg_diff": -8.7,
   "luck": -0.41,
-  "position": 16,
-  "xposition": 17
- },
- {
-  "team": "Nottingham Forest",
-  "played": 11,
-  "won": 2,
-  "drawn": 3,
-  "lost": 6,
-  "gf": 9,
-  "ga": 15,
-  "gd": -6,
-  "points": 9,
-  "xg_for": 17.27,
-  "xg_against": 13.63,
-  "xpts": 17.37,
-  "xg_diff": 3.64,
-  "luck": -8.37,
   "position": 17,
-  "xposition": 6
+  "xposition": 17
  },
  {
   "team": "Sunderland",
@@ -339,7 +339,7 @@
   "xg_diff": -3.66,
   "luck": -5.23,
   "position": 19,
-  "xposition": 14
+  "xposition": 15
  },
  {
   "team": "Crystal Palace",

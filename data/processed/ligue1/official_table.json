@@ -16,17 +16,30 @@
   "position": 2,
   "team": "Paris FC",
   "fotmob_team_id": "6379",
-  "played": 11,
+  "played": 12,
   "won": 7,
   "drawn": 2,
-  "lost": 2,
+  "lost": 3,
   "gf": 21,
-  "ga": 10,
-  "gd": 11,
+  "ga": 11,
+  "gd": 10,
   "points": 23
  },
  {
   "position": 3,
+  "team": "Brest",
+  "fotmob_team_id": "8521",
+  "played": 12,
+  "won": 6,
+  "drawn": 3,
+  "lost": 3,
+  "gf": 20,
+  "ga": 12,
+  "gd": 8,
+  "points": 21
+ },
+ {
+  "position": 4,
   "team": "Lille",
   "fotmob_team_id": "8639",
   "played": 11,
@@ -39,7 +52,7 @@
   "points": 21
  },
  {
-  "position": 4,
+  "position": 5,
   "team": "Lyon",
   "fotmob_team_id": "9748",
   "played": 11,
@@ -52,7 +65,7 @@
   "points": 20
  },
  {
-  "position": 5,
+  "position": 6,
   "team": "Marseille",
   "fotmob_team_id": "8592",
   "played": 11,
@@ -61,19 +74,6 @@
   "lost": 5,
   "gf": 24,
   "ga": 17,
-  "gd": 7,
-  "points": 18
- },
- {
-  "position": 6,
-  "team": "Brest",
-  "fotmob_team_id": "8521",
-  "played": 11,
-  "won": 5,
-  "drawn": 3,
-  "lost": 3,
-  "gf": 19,
-  "ga": 12,
   "gd": 7,
   "points": 18
  },

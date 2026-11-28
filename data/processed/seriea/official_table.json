@@ -92,6 +92,19 @@
  },
  {
   "position": 8,
+  "team": "Bologna",
+  "fotmob_team_id": "9857",
+  "played": 13,
+  "won": 5,
+  "drawn": 4,
+  "lost": 4,
+  "gf": 17,
+  "ga": 15,
+  "gd": 2,
+  "points": 19
+ },
+ {
+  "position": 9,
   "team": "Napoli",
   "fotmob_team_id": "9875",
   "played": 12,
@@ -101,19 +114,6 @@
   "gf": 19,
   "ga": 14,
   "gd": 5,
-  "points": 18
- },
- {
-  "position": 9,
-  "team": "Bologna",
-  "fotmob_team_id": "9857",
-  "played": 12,
-  "won": 5,
-  "drawn": 3,
-  "lost": 4,
-  "gf": 17,
-  "ga": 15,
-  "gd": 2,
   "points": 18
  },
  {
@@ -235,6 +235,19 @@
  },
  {
   "position": 19,
+  "team": "Venezia",
+  "fotmob_team_id": "7881",
+  "played": 13,
+  "won": 2,
+  "drawn": 1,
+  "lost": 10,
+  "gf": 8,
+  "ga": 25,
+  "gd": -17,
+  "points": 7
+ },
+ {
+  "position": 20,
   "team": "Udinese",
   "fotmob_team_id": "8600",
   "played": 12,
@@ -244,19 +257,6 @@
   "gf": 13,
   "ga": 26,
   "gd": -13,
-  "points": 6
- },
- {
-  "position": 20,
-  "team": "Venezia",
-  "fotmob_team_id": "7881",
-  "played": 12,
-  "won": 2,
-  "drawn": 0,
-  "lost": 10,
-  "gf": 8,
-  "ga": 25,
-  "gd": -17,
   "points": 6
  }
 ]

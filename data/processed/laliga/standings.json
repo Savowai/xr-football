@@ -90,6 +90,24 @@
   "xposition": 8
  },
  {
+  "team": "Racing Santander",
+  "played": 14,
+  "won": 6,
+  "drawn": 2,
+  "lost": 6,
+  "gf": 23,
+  "ga": 33,
+  "gd": -10,
+  "points": 20,
+  "xg_for": 21.9,
+  "xg_against": 30.78,
+  "xpts": 16.4,
+  "xg_diff": -8.88,
+  "luck": 3.6,
+  "position": 6,
+  "xposition": 11
+ },
+ {
   "team": "Sevilla",
   "played": 13,
   "won": 5,
@@ -104,26 +122,8 @@
   "xpts": 18.39,
   "xg_diff": -0.26,
   "luck": 0.61,
-  "position": 6,
-  "xposition": 6
- },
- {
-  "team": "Racing Santander",
-  "played": 13,
-  "won": 5,
-  "drawn": 2,
-  "lost": 6,
-  "gf": 20,
-  "ga": 32,
-  "gd": -12,
-  "points": 17,
-  "xg_for": 20.11,
-  "xg_against": 29.4,
-  "xpts": 14.77,
-  "xg_diff": -9.29,
-  "luck": 2.23,
   "position": 7,
-  "xposition": 16
+  "xposition": 6
  },
  {
   "team": "Athletic Club",
@@ -155,9 +155,9 @@
   "points": 16,
   "xg_for": 17.3,
   "xg_against": 16.4,
-  "xpts": 18.37,
+  "xpts": 18.38,
   "xg_diff": 0.9,
-  "luck": -2.37,
+  "luck": -2.38,
   "position": 9,
   "xposition": 7
  },
@@ -195,7 +195,7 @@
   "xg_diff": -4.15,
   "luck": -0.24,
   "position": 11,
-  "xposition": 13
+  "xposition": 14
  },
  {
   "team": "Deportivo A Coru\u00f1a",
@@ -213,7 +213,7 @@
   "xg_diff": -2.13,
   "luck": -1.1,
   "position": 12,
-  "xposition": 12
+  "xposition": 13
  },
  {
   "team": "Osasuna",
@@ -227,9 +227,9 @@
   "points": 15,
   "xg_for": 17.2,
   "xg_against": 19.3,
-  "xpts": 16.8,
+  "xpts": 16.81,
   "xg_diff": -2.1,
-  "luck": -1.8,
+  "luck": -1.81,
   "position": 13,
   "xposition": 9
  },
@@ -249,25 +249,25 @@
   "xg_diff": -2.33,
   "luck": -3.37,
   "position": 14,
-  "xposition": 11
+  "xposition": 12
  },
  {
   "team": "Levante",
-  "played": 13,
+  "played": 14,
   "won": 2,
   "drawn": 6,
-  "lost": 5,
-  "gf": 17,
-  "ga": 22,
-  "gd": -5,
+  "lost": 6,
+  "gf": 18,
+  "ga": 25,
+  "gd": -7,
   "points": 12,
-  "xg_for": 15.64,
-  "xg_against": 24.12,
-  "xpts": 13.99,
-  "xg_diff": -8.48,
-  "luck": -1.99,
+  "xg_for": 17.02,
+  "xg_against": 25.91,
+  "xpts": 15.11,
+  "xg_diff": -8.89,
+  "luck": -3.11,
   "position": 15,
-  "xposition": 17
+  "xposition": 16
  },
  {
   "team": "Rayo Vallecano",
@@ -285,7 +285,7 @@
   "xg_diff": -3.31,
   "luck": -2.99,
   "position": 16,
-  "xposition": 15
+  "xposition": 17
  },
  {
   "team": "Valencia",
@@ -339,7 +339,7 @@
   "xg_diff": -6.78,
   "luck": -4.19,
   "position": 19,
-  "xposition": 14
+  "xposition": 15
  },
  {
   "team": "M\u00e1laga",

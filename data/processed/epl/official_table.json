@@ -94,13 +94,13 @@
   "position": 8,
   "team": "Chelsea",
   "fotmob_team_id": "8455",
-  "played": 11,
+  "played": 12,
   "won": 5,
   "drawn": 1,
-  "lost": 5,
-  "gf": 20,
-  "ga": 20,
-  "gd": 0,
+  "lost": 6,
+  "gf": 22,
+  "ga": 23,
+  "gd": -1,
   "points": 16
  },
  {
@@ -170,6 +170,19 @@
  },
  {
   "position": 14,
+  "team": "Nottingham Forest",
+  "fotmob_team_id": "10203",
+  "played": 12,
+  "won": 3,
+  "drawn": 3,
+  "lost": 6,
+  "gf": 12,
+  "ga": 17,
+  "gd": -5,
+  "points": 12
+ },
+ {
+  "position": 15,
   "team": "Coventry City",
   "fotmob_team_id": "8669",
   "played": 11,
@@ -182,7 +195,7 @@
   "points": 12
  },
  {
-  "position": 15,
+  "position": 16,
   "team": "Fulham",
   "fotmob_team_id": "9879",
   "played": 11,
@@ -195,7 +208,7 @@
   "points": 11
  },
  {
-  "position": 16,
+  "position": 17,
   "team": "Ipswich Town",
   "fotmob_team_id": "9902",
   "played": 11,
@@ -206,19 +219,6 @@
   "ga": 22,
   "gd": -7,
   "points": 11
- },
- {
-  "position": 17,
-  "team": "Nottingham Forest",
-  "fotmob_team_id": "10203",
-  "played": 11,
-  "won": 2,
-  "drawn": 3,
-  "lost": 6,
-  "gf": 9,
-  "ga": 15,
-  "gd": -6,
-  "points": 9
  },
  {
   "position": 18,
